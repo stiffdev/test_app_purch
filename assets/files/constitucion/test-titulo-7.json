@@ -1,0 +1,1050 @@
+[
+    {
+      "Title": "Se reconoce en la actividad económica:",
+      "Answer 1": "La mediación pública.",
+      "Answer 2": "La iniciativa pública.",
+      "Answer 3": "La intervención pública.",
+      "Answer 4": "La gestión pública.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las cuentas del Estado y del Sector público:",
+      "Answer 1": "Se rendirán a las Cortes Generales y serán censuradas por el Tribunal de Cuentas.",
+      "Answer 2": "Se rendirán a las Cortes Generales, que las censurará.",
+      "Answer 3": "Se rendirán al Tribunal de Cuentas, que las censurará.",
+      "Answer 4": "Todas las otras respuestas son falsas.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Título Séptimo de la Constitución finaliza en el artículo:",
+      "Answer 1": "134.",
+      "Answer 2": "135.",
+      "Answer 3": "136.",
+      "Answer 4": "133.",
+      "Answer": 3
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones no es verdadera. Los poderes públicos:",
+      "Answer 1": "Establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.",
+      "Answer 2": "Promoverán eficazmente las diversas formas de participación en la empresa.",
+      "Answer 3": "Fomentarán las sociedades cooperativas.",
+      "Answer 4": "Establecerán los mecanismos que faciliten el acceso de los trabajadores a la propiedad en general.",
+      "Answer": 4
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones no es correcta. El Tribunal de Cuentas:",
+      "Answer 1": "Es el supremo órgano fiscalizador de la gestión económica del Estado.",
+      "Answer 2": "Es el supremo órgano fiscalizador de la gestión económica del sector público.",
+      "Answer 3": "Es el supremo órgano fiscalizador de las cuentas del sector público.",
+      "Answer 4": "Es el supremo órgano contable de las cuentas del Estado.",
+      "Answer": 4
+    },
+    {
+      "Title": "Por Ley se regularán el Patrimonio del Estado y el Patrimonio Nacional, y, en concreto:",
+      "Answer 1": "Su administración, gestión, ampliación, defensa y conservación.",
+      "Answer 2": "Su administración, defensa y conservación.",
+      "Answer 3": "Su adquisición, defensa y conservación.",
+      "Answer 4": "Su conservación, defensa y ampliación.",
+      "Answer": 2
+    },
+    {
+      "Title": "Todo beneficio fiscal que afecte a los tributos del Estado:",
+      "Answer 1": "Deberá establecerse en virtud de Ley.",
+      "Answer 2": "Podrá ser revocado en virtud de Ley.",
+      "Answer 3": "Será intransferible a las Comunidades Autónomas.",
+      "Answer 4": "No está permitido.",
+      "Answer": 1
+    },
+    {
+      "Title": "La Ley de Presupuestos:",
+      "Answer 1": "No puede modificar tributos.",
+      "Answer 2": "Puede crear tributos.",
+      "Answer 3": "Podrá modificar tributos cuando una ley tributaria adjetiva así lo provea.",
+      "Answer 4": "No podrá crear tributos.",
+      "Answer": 4
+    },
+    {
+      "Title": "La riqueza del país:",
+      "Answer 1": "Está subordinada al interés general si es de titularidad pública, teniendo una marcada función social si es de titularidad privada.",
+      "Answer 2": "Deberá ser aumentada por los poderes públicos.",
+      "Answer 3": "Está subordinada al interés general en sus distintas formas y cualquiera que sea su titularidad.",
+      "Answer 4": "Está subordinada al interés general en cuanto sea de titularidad pública.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Presupuestos Generales del Estado:",
+      "Answer 1": "Son elaborados y aprobados por las Cortes Generales.",
+      "Answer 2": "Son elaborados y aprobados por el Gobierno.",
+      "Answer 3": "Son elaborados por las Cortes Generales y aprobados y ejecutados por el Gobierno.",
+      "Answer 4": "Son elaborados por el Gobierno y aprobados por las Cortes Generales.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos:",
+      "Answer 1": "En particular del sector económico de la siderometalurgia.",
+      "Answer 2": "En particular del sector económico de los astilleros y la construcción.",
+      "Answer 3": "Sin primar a ninguno en especial.",
+      "Answer 4": "El objeto de favorecer el desarrollo de determinados sectores es equiparar el nivel de vida de todos los españoles.",
+      "Answer": 4
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones es incorrecta:",
+      "Answer 1": "Los interesados podrán participar en la actividad de los organismos públicos cuando la función de dichos organismos afecte directamente a la capacidad económica de los afectados.",
+      "Answer 2": "Los interesados podrán participar en la actividad de los organismos públicos cuando la función de dichos organismos afecte directamente al bienestar general.",
+      "Answer 3": "Los interesados podrán participar en la actividad de los organismos públicos cuando la función de dichos organismos afecte directamente a la calidad de vida.",
+      "Answer 4": "Los interesados podrán participar en la Seguridad Social.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Comunidades Autónomas y las Corporaciones Locales:",
+      "Answer 1": "Podrán establecer los mismos tributos que el Estado.",
+      "Answer 2": "Podrán establecer y exigir tributos de acuerdo con la Constitución y las Leyes.",
+      "Answer 3": "No podrán establecer tributo alguno.",
+      "Answer 4": "Podrán establecer y exigir los tributos que determinan la Constitución y las leyes.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad, y estarán sometidos a las mismas incompatibilidades que:",
+      "Answer 1": "Los miembros del Gobierno.",
+      "Answer 2": "Los Diputados y Senadores.",
+      "Answer 3": "Los miembros del Consejo General del Poder Judicial.",
+      "Answer 4": "Los Jueces.",
+      "Answer": 4
+    },
+    {
+      "Title": "La potestad para establecer los tributos:",
+      "Answer 1": "Corresponde originariamente, y según el tipo de tributo, tanto a los Municipios como al Estado.",
+      "Answer 2": "Corresponde originariamente a las Comunidades Autónomas.",
+      "Answer 3": "Corresponde originariamente al Estado.",
+      "Answer 4": "Corresponde originariamente a los Municipios.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los créditos para satisfacer el pago de intereses y capital de la deuda pública del Estado:",
+      "Answer 1": "Se entenderán siempre incluidos en el estado de gastos del Presupuesto.",
+      "Answer 2": "Se entenderán incluidos en tal estado de gastos en los casos previstos en la Ley.",
+      "Answer 3": "La enmienda o modificación sobre tales créditos se ajustará a las condiciones de la Ley de Presupuestos Generales del Estado correspondiente.",
+      "Answer 4": "Podrán ser objeto de enmienda o modificación por razón de interés general.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Estado, mediante Ley, podrá planificar la actividad económica general:",
+      "Answer 1": "Para equilibrar y armonizar el desarrollo nacional y sectorial.",
+      "Answer 2": "Para lograr la más justa distribución de la renta y la riqueza.",
+      "Answer 3": "Para atender a las necesidades de cada sector.",
+      "Answer 4": "Para estimular el crecimiento de la calidad de vida.",
+      "Answer": 2
+    },
+    {
+      "Title": "La composición, organización y funciones del Tribunal de Cuentas vendrá determinada mediante una:",
+      "Answer 1": "Ley orgánica.",
+      "Answer 2": "Ley ordinaria.",
+      "Answer 3": "Decreto legislativo.",
+      "Answer 4": "Ley de bases.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Gobierno:",
+      "Answer 1": "Debe autorizar a las Cortes para contraer crédito.",
+      "Answer 2": "Habrá de estar autorizado por las Cortes para emitir deuda pública.",
+      "Answer 3": "Debe ser autorizado por ley para emitir deuda pública.",
+      "Answer 4": "Puede emitir deuda conforme a las necesidades presupuestarias vigentes.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Título Séptimo de la Constitución comienza en el artículo:",
+      "Answer 1": "130.",
+      "Answer 2": "129.",
+      "Answer 3": "128.",
+      "Answer 4": "127.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las administraciones públicas:",
+      "Answer 1": "Podrán efectuar inversiones financieras para atender a las necesidades colectivas.",
+      "Answer 2": "Podrán realizar gastos con el fin de estimular el crecimiento de la renta.",
+      "Answer 3": "Todas las otras respuestas son falsas.",
+      "Answer 4": "Podrán contraer obligaciones financieras en beneficio del interés general.",
+      "Answer": 3
+    },
+    {
+      "Title": "Con el fin de equiparar el nivel de vida de todos los españoles se dispensará un tratamiento especial:",
+      "Answer 1": "A las zonas fronterizas.",
+      "Answer 2": "A las zonas de montaña.",
+      "Answer 3": "A las zonas menos desarrolladas.",
+      "Answer 4": "A las zonas costeras cuya actividad sea eminentemente pesquera.",
+      "Answer": 2
+    },
+    {
+      "Title": "El régimen jurídico de los bienes de dominio público y de los comunales se inspirará, entre otros, en el principio de:",
+      "Answer 1": "Prescribilidad.",
+      "Answer 2": "Alienabilidad.",
+      "Answer 3": "Embargabilidad.",
+      "Answer 4": "Desafectación.",
+      "Answer": 4
+    },
+    {
+      "Title": "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios:",
+      "Answer 1": "No será tramitada.",
+      "Answer 2": "Requerirá para su tramitación la conformidad del Gobierno.",
+      "Answer 3": "Requerirá para su tramitación la conformidad de las Cortes Generales.",
+      "Answer 4": "Requerirá para su tramitación informe favorable del Tribunal de Cuentas.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Título Séptimo de la Constitución está estructurado en:",
+      "Answer 1": "Secciones.",
+      "Answer 2": "Apartados.",
+      "Answer 3": "Artículos.",
+      "Answer 4": "Capítulos.",
+      "Answer": 3
+    },
+    {
+      "Title": "El establecimiento de tributos se efectuará:",
+      "Answer 1": "Por ley de bases.",
+      "Answer 2": "Por decreto ley.",
+      "Answer 3": "Por ley ordinaria.",
+      "Answer 4": "Por ley orgánica.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Tribunal de Cuentas dependerá, y ejercerá sus funciones, en el examen y comprobación de la Cuenta General del Estado, por delegación de:",
+      "Answer 1": "El Ministerio de Economía y Hacienda.",
+      "Answer 2": "Las Cortes Generales.",
+      "Answer 3": "El Congreso de los Diputados.",
+      "Answer 4": "El Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Uno de los siguientes bienes no es de dominio público estatal según la Constitución:",
+      "Answer 1": "La plataforma continental.",
+      "Answer 2": "Los recursos naturales de la zona económica.",
+      "Answer 3": "La zona marítimo terrestre.",
+      "Answer 4": "El mar meridional.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Gobierno elaborará los proyectos de planificación:",
+      "Answer 1": "Al margen de la opinión de las organizaciones sindicales.",
+      "Answer 2": "De acuerdo con los informes vinculantes emitidos por las asociaciones empresariales.",
+      "Answer 3": "De acuerdo con las previsiones que le sean suministradas por las Comunidades Autónomas.",
+      "Answer 4": "De acuerdo con el asesoramiento y colaboración del Tribunal de Cuentas.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado:",
+      "Answer 1": "Todas las otras respuestas son falsas.",
+      "Answer 2": "Al menos un mes antes de la expiración de los del año anterior.",
+      "Answer 3": "Al menos tres meses antes de la expiración de los del año anterior.",
+      "Answer 4": "Nunca antes del treinta y uno de julio del año en curso.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué Título de la Constitución Española se denomina \"Economía y Hacienda\"?       ",
+      "Answer 1": "El Título VII.",
+      "Answer 2": "El Título VI.",
+      "Answer 3": "El Título V.",
+      "Answer 4": "El Título IX.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Título VII de la Constitución Española comprende los artículos:       ",
+      "Answer 1": "127 a 139.",
+      "Answer 2": "128 a 139.",
+      "Answer 3": "128 a 136.",
+      "Answer 4": "127 a 138.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución, toda la riqueza del país:       ",
+      "Answer 1": "Está subordinada al interés particular.",
+      "Answer 2": "La respuesta marcada \"*\", siempre que esta sea de titularidad pública.",
+      "Answer 3": "* Está subordinada al interés general.",
+      "Answer 4": "Está subordinada al interés del Estado.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución y en relación con la iniciativa pública en la actividad económica:       ",
+      "Answer 1": "Se permite.",
+      "Answer 2": "Se reconoce.",
+      "Answer 3": "Se prohíbe.",
+      "Answer 4": "Se fomenta.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué reconoce el artículo 128.2 de la Constitución Española?       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "La iniciativa privada en la actividad económica",
+      "Answer 3": "La iniciativa concertada en la actividad económica",
+      "Answer 4": "La iniciativa pública en la actividad económica",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Se podrá reservar al sector público recursos o servicios esenciales?       ",
+      "Answer 1": "En ningún caso.",
+      "Answer 2": "Si, mediante expropiaciones.",
+      "Answer 3": "Si, mediante ley.",
+      "Answer 4": "Si, en casos de información sobre la seguridad nacional.",
+      "Answer": 3
+    },
+    {
+      "Title": "Se puede reservar al sector público recursos o servicios esenciales:       ",
+      "Answer 1": "Especialmente en caso de oligopolio.",
+      "Answer 2": "Especialmente en caso de monopolio.",
+      "Answer 3": "Especialmente en caso de servicios de información.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 128 de la Constitución, ¿se puede acordar la intervención de empresas?       ",
+      "Answer 1": "Si, cuando lo exija la Unión Europea.",
+      "Answer 2": "Está prohibido por la Constitución.",
+      "Answer 3": "Si, cuando lo exija el interés general.",
+      "Answer 4": "Está prohibido por Ley.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta?       ",
+      "Answer 1": "Mediante ley se podrá reservar al sector público recursos o servicios esenciales, especialmente en casos de monopolio.",
+      "Answer 2": "Mediante ley se podrá acordar la intervención de empresas cuando así lo exija el interés general.",
+      "Answer 3": "La ley establecerá las formas de participación de los interesados en la Seguridad Social.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 129 de la Constitución, la ley establecerá las formas de participación de los interesados en la:       ",
+      "Answer 1": "Seguridad Social.",
+      "Answer 2": "Hacienda Pública.",
+      "Answer 3": "Elaboración de las leyes.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el Título VII de la Constitución, la ley establecerá las formas de participación de los interesados en la actividad de los organismos públicos:       ",
+      "Answer 1": "Cuya función afecte directa o indirectamente al bienestar nacional.",
+      "Answer 2": "Que afecten a los ciudadanos.",
+      "Answer 3": "Cuya función afecte directamente a la calidad de la vida o al bienestar general.",
+      "Answer 4": "Mediante una ley orgánica.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta?       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "El Estado promoverá y protegerá las diversas formas de participación en la empresa.",
+      "Answer 3": "El Gobierno promoverá eficaz y dignamente las diversas formas de participación de los trabajadores en la empresa.",
+      "Answer 4": "Los poderes públicos promoverán eficazmente las diversas formas de participación en la empresa.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 129 de la Constitución y en relación con las sociedades cooperativas:       ",
+      "Answer 1": "Los poderes públicos no podrán intervenir en las sociedades cooperativas, pero mantendrán una legislación adecuada.",
+      "Answer 2": "Los poderes públicos fomentarán las sociedades cooperativas, mediante una legislación adecuada.",
+      "Answer 3": "El Estado subvencionará las sociedades cooperativas, para fomentar el acceso de los trabajadores a la propiedad de los medios de producción.",
+      "Answer 4": "Se prohibirán las sociedades cooperativas en el marco de una política de estabilidad económica.",
+      "Answer": 2
+    },
+    {
+      "Title": "En relación con el acceso de los trabajadores a la propiedad de los medios de producción:       ",
+      "Answer 1": "El Gobierno facilitará, mediante medidas económicas, el acceso de los trabajadores a los mismos.",
+      "Answer 2": "Los poderes públicos no intervendrán en la propiedad de los medios de producción.",
+      "Answer 3": "Los poderes públicos establecerán los medios que faciliten su acceso.",
+      "Answer 4": "Se regulará mediante una ley orgánica.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿A quién corresponderá promover eficazmente las diversas formas de participación en la empresa y fomentar las sociedades cooperativas?       ",
+      "Answer 1": "A las asociaciones empresariales.",
+      "Answer 2": "Al Gobierno.",
+      "Answer 3": "A los poderes públicos.",
+      "Answer 4": "A las asociaciones sindicales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 130 de las Constitución, los poderes públicos en relación con los sectores económicos:       ",
+      "Answer 1": "Atenderán a su unión y colaboración.",
+      "Answer 2": "Atenderán a su gestión y ampliación.",
+      "Answer 3": "Atenderán a su modernización y desarrollo.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿A cuál de los siguientes sectores económicos atenderán, en particular, los poderes públicos a tenor del artículo 130 de la Constitución?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "A la agricultura y a la ganadería.",
+      "Answer 3": "A la pesca.",
+      "Answer 4": "A la artesanía.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos:       ",
+      "Answer 1": "Y en particular de la ganadería, de la pesca y de la ciencia.",
+      "Answer 2": "A fin de equiparar el nivel de vida de todos los españoles.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": "A fin de promover el desarrollo cultural, científico y técnico.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 130 de la Constitución, donde se hace referencia a que los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos y, en particular:       ",
+      "Answer 1": "De la agricultura, de la ganadería, de la pesca y de la industria.",
+      "Answer 2": "De la agricultura, de la ganadería, de la pesca y de la artesanía.",
+      "Answer 3": "De la agricultura, de la ganadería, de la pesca y de la las energías renovables.",
+      "Answer 4": "De la agricultura, de la ganadería, de la pesca, de la industria y de las energías renovables.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 130.2 de la Constitución Española, para equiparar el nivel de vida de todos los españoles, se dispensará un tratamiento especial a:       ",
+      "Answer 1": "Las zonas insulares.",
+      "Answer 2": "Las zonas naturales.",
+      "Answer 3": "Las zonas de montaña.",
+      "Answer 4": "Las zonas agrícolas",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 130.2 de la Constitución, con el fin de equiparar el nivel de vida de todos los españoles se dispensará un tratamiento especial a:       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Las zonas rurales.",
+      "Answer 3": "Las islas.",
+      "Answer 4": "Las zonas de montaña.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién podrá planificar la actividad económica general para atender a las necesidades colectivas según el artículo 131.1 de la Constitución Española?       ",
+      "Answer 1": "Las Comunidades Autónomas, mediante ley.",
+      "Answer 2": "El Gobierno, mediante ley orgánica.",
+      "Answer 3": "El Estado, mediante ley",
+      "Answer 4": "Las Cortes Generales y las Asambleas Legislativas de las Comunidades Autónomas, mediante sus respectivas leyes.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 131.1 de la Constitución, el Estado podrá:       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Planificar la actividad económica general para atender a las necesidades colectivas, mediante ley.",
+      "Answer 3": "Equilibrar y armonizar el desarrollo regional y sectorial, mediante ley.",
+      "Answer 4": "Estimular el crecimiento de la renta y de la riqueza y su más justa distribución, mediante ley.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 131.1 de la Constitución, el Estado podrá, mediante ley:       ",
+      "Answer 1": "Equilibrar y moderar el desarrollo industrial y sectorial.",
+      "Answer 2": "Equilibrar y armonizar el desarrollo regional y sectorial.",
+      "Answer 3": "Regular y moderar el desarrollo regional y sectorial.",
+      "Answer 4": "Armonizar y regular el desarrollo industrial y local.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿A quién corresponderá elaborar los proyectos de planificación según el artículo 131.2 de la Constitución?       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "A las Cortes Generales.",
+      "Answer 3": "A las Comunidades Autónomas.",
+      "Answer 4": "Al Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 131.2 de la Constitución, los proyectos de planificación se elaborarán:       ",
+      "Answer 1": "De acuerdo con las previsiones que sean suministradas por todas las Administraciones Públicas.",
+      "Answer 2": "De acuerdo con las previsiones que sean suministradas por las Comunidades Autónomas.",
+      "Answer 3": "De acuerdo con las previsiones que sean suministradas por las Cortes Generales.",
+      "Answer 4": "De acuerdo con las previsiones que sean suministradas por el Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 131.2 de la Constitución, los proyectos de planificación se elaborarán con el asesoramiento y colaboración de:       ",
+      "Answer 1": "Organizaciones profesionales y empresariales.",
+      "Answer 2": "Los sindicatos.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": "Organizaciones económicas.",
+      "Answer": 3
+    },
+    {
+      "Title": "A tenor del artículo 131.2 de la Constitución, para elaborar los proyectos de planificación se constituirá:       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "Una Asamblea, cuya composición y funciones se desarrollarán mediante Real Decreto.",
+      "Answer 3": "Un Consejo, cuya composición y funciones se desarrollarán por ley orgánica.",
+      "Answer 4": "Un Consejo, cuya composición y funciones se desarrollarán por ley.",
+      "Answer": 4
+    },
+    {
+      "Title": "El artículo 132 de la Constitución indica que la ley regulará el:       ",
+      "Answer 1": "Régimen jurídico de los bienes de dominio público y de los comunales.",
+      "Answer 2": "Régimen económico de los bienes de dominio público y de los generales.",
+      "Answer 3": "Régimen singular de los bienes de las administraciones públicas y de los particulares.",
+      "Answer 4": "Régimen administrativo de los bienes públicos y generales.",
+      "Answer": 1
+    },
+    {
+      "Title": "La ley que regule el régimen jurídico de los bienes de dominio público y de los comunales se inspirará en los principios de:       ",
+      "Answer 1": "Incuestionabilidad, imponibilidad, imprescriptibilidad e inembargabilidad, así como su singularidad.",
+      "Answer 2": "Inalienabilidad, imprescriptibilidad e inmunidad, así como su singularidad.",
+      "Answer 3": "Inalienabilidad, imprescriptibilidad e inembargabilidad, así como su desafectación.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 132.2 de la Constitución Española, son bienes de dominio público estatal los que determine la ley y, en todo caso:       ",
+      "Answer 1": "La zona marítimo-costera",
+      "Answer 2": "Las playas",
+      "Answer 3": "La plataforma meridional.",
+      "Answer 4": "Todas son correctas",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 132.2 de la Constitución Española, son bienes de dominio público estatal los que determine la ley y, en todo caso:       ",
+      "Answer 1": "La zona marítimo-terrestre, las playas, el mar meridional y los recursos naturales de la zona económica y la plataforma marítima.",
+      "Answer 2": "La zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales de la zona económica y la plataforma continental.",
+      "Answer 3": "La zona marítimo-costera, las playas y montañas, el mar meridional y los recursos naturales de la zona económica y la plataforma insular.",
+      "Answer 4": "La zona marítimo-costera, las playas, el mar territorial y los recursos naturales de las zonas de montaña y la plataforma interinsular.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponderá la potestad originaria para establecer los tributos, según el texto del artículo 133.1 de la Constitución:       ",
+      "Answer 1": "Exclusivamente al Estado, mediante ley.",
+      "Answer 2": "Al Estado y a las Comunidades Autónomas, mediante ley.",
+      "Answer 3": "Exclusivamente al Congreso de los Diputados, mediante ley.",
+      "Answer 4": "Al Ministerio de Economía y Hacienda, mediante ley.",
+      "Answer": 1
+    },
+    {
+      "Title": "Podrán establecer y exigir tributos, de acuerdo con la Constitución y las leyes:       ",
+      "Answer 1": "Las Comunidades Autónomas y las Corporaciones locales.",
+      "Answer 2": "Exclusivamente el Estado, mediante ley.",
+      "Answer 3": "Exclusivamente las Comunidades Autónomas, mediante ley.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 133.3 de la Constitución, todo beneficio fiscal que afecte a los tributos del Estado deberá establecerse en virtud de:       ",
+      "Answer 1": "Real Decreto.",
+      "Answer 2": "Ley.",
+      "Answer 3": "Ley Orgánica.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Podrán las administraciones públicas contraer obligaciones financieras y realizar gastos, a tenor del artículo 133.4 de la Constitución?       ",
+      "Answer 1": "No, en ningún caso.",
+      "Answer 2": "Si, previa autorización del Gobierno.",
+      "Answer 3": "Sí, solo con las leyes.",
+      "Answer 4": "Únicamente las Comunidades Autónomas, de acuerdo con sus respectivos Estatutos de Autonomía.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta?       ",
+      "Answer 1": "Las Comunidades Autónomas y las Corporaciones locales podrán establecer y exigir tributos, de acuerdo con la Constitución y las leyes.",
+      "Answer 2": "La potestad originaria para establecer tributos corresponde exclusivamente al Estado, mediante ley.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": "Todo beneficio fiscal que afecte a los tributos del Estado deberá establecerse en virtud de ley.",
+      "Answer": 3
+    },
+    {
+      "Title": "Señale la afirmación correcta:       ",
+      "Answer 1": "La potestad originaria para establecer los tributos corresponde exclusivamente al Estado, mediante ley",
+      "Answer 2": "Todo beneficio fiscal que afecte a los tributos del Estado deberá establecerse en virtud de ley",
+      "Answer 3": "Las Comunidades Autónomas y las Corporaciones Locales podrán establecer y exigir tributos, de acuerdo con la ley",
+      "Answer 4": "Todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 134.1 de la Constitución, corresponde la elaboración de los Presupuestos Generales del Estado:       ",
+      "Answer 1": "* Al Gobierno.",
+      "Answer 2": "A las Cortes Generales.",
+      "Answer 3": "La respuesta marcada \"*\", de acuerdo con las Comunidades Autónomas.",
+      "Answer 4": "Al Ministerio de Economía y Hacienda.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 134.1 de la Constitución y en relación con los Presupuestos Generales del Estado, a las Cortes Generales les corresponde:       ",
+      "Answer 1": "Su examen.",
+      "Answer 2": "Todas son correctas.",
+      "Answer 3": "Su enmienda.",
+      "Answer 4": "Su aprobación.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Presupuestos Generales del Estado tendrán carácter:       ",
+      "Answer 1": "Bianual.",
+      "Answer 2": "Semestral.",
+      "Answer 3": "Anual.",
+      "Answer 4": "Cuatrienal, correspondiéndose con el final de cada legislatura.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Presupuestos Generales del Estado incluirán:       ",
+      "Answer 1": "Los gastos e ingresos más representativos del sector público estatal.",
+      "Answer 2": "La totalidad de los gastos e ingresos del sector público estatal y regional.",
+      "Answer 3": "La totalidad de los gastos e ingresos del sector público estatal.",
+      "Answer 4": "Un resumen de los gastos e ingresos del sector públicos estatal y regional.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué se deberá consignar en los Presupuestos Generales del Estado según el artículo 134.2 de la Constitución Española?       ",
+      "Answer 1": "El importe de los beneficios fiscales que afecten a los tributos de las Comunidades Autónomas.",
+      "Answer 2": "El importe de los beneficios fiscales que afecten a los tributos del Estado.",
+      "Answer 3": "El importe de los beneficios fiscales que afecten a los tributos de las entidades locales.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Presupuestos Generales del Estado se presentarán:       ",
+      "Answer 1": "Por el Gobierno ante las Cortes Generales.",
+      "Answer 2": "Por el Gobierno ante el Congreso de los Diputados.",
+      "Answer 3": "Por las Cortes Generales ante el Gobierno.",
+      "Answer 4": "Por las Comunidades Autónomas ante el Gobierno y las Cortes Generales.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién deberá presentar los Presupuestos Generales del Estado ante la Cámara(s) correspondiente(s)?       ",
+      "Answer 1": "El Presidente del Gobierno.",
+      "Answer 2": "El Gobierno.",
+      "Answer 3": "El Rey.",
+      "Answer 4": "El Ministro de Economía.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Presupuestos Generales del Estado se deberán presentar:       ",
+      "Answer 1": "Antes del 31 de diciembre de cada año natural.",
+      "Answer 2": "Al menos dos meses antes de la expiración de los del año anterior.",
+      "Answer 3": "Al menos tres meses antes de la expiración de los del año anterior.",
+      "Answer 4": "Al menos un mes antes de la expiración de los del año anterior.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones esa incorrecta en relación con los Presupuestos Generales del Estado?       ",
+      "Answer 1": "Se presentan ante las Cortes Generales.",
+      "Answer 2": "Los elaborará el Gobierno",
+      "Answer 3": "Los aprobarán las Cortes Generales",
+      "Answer 4": "Se presentan al menos tres meses antes de la expiración de los del año anterior.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de los siguientes se corresponde con el artículo 134.4 de la Constitución Española?       ",
+      "Answer 1": "Si la Ley de Presupuestos Generales no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+      "Answer 2": "Si la Ley de Presupuestos Generales no se aprobara antes de tres meses antes de la expiración de los del año anterior, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+      "Answer 3": "Si la Ley Orgánica de Presupuestos Generales no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+      "Answer 4": "Si la Ley de Presupuestos Generales no se aprobara antes del primer mes del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+      "Answer": 1
+    },
+    {
+      "Title": "Una vez aprobados los Presupuestos Generales del Estado:       ",
+      "Answer 1": "No se podrán presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.",
+      "Answer 2": "Las Cortes Generales podrán presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.",
+      "Answer 3": "El Gobierno podrá presentar proyectos de ley que impliquen aumento del gasto público, siempre que no exista disminución de los ingresos, correspondientes al mismo ejercicio presupuestario.",
+      "Answer 4": "El Gobierno podrá presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las proposiciones o enmiendas que supongan aumento de los créditos o disminución de los ingresos presupuestarios:       ",
+      "Answer 1": "Requerirá la conformidad del Gobierno para su tramitación.",
+      "Answer 2": "Únicamente podrán ser presentadas por el Gobierno.",
+      "Answer 3": "Requerirá la conformidad del Congreso de los Diputados para su tramitación.",
+      "Answer 4": "No podrán ser presentadas hasta la finalización del ejercicio presupuestario correspondiente.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones relacionadas con los Presupuestos Generales del Estado es correcta?       ",
+      "Answer 1": "Únicamente la Ley de Presupuestos puede crear tributos.",
+      "Answer 2": "La Ley de Presupuestos puede crear tributos.",
+      "Answer 3": "La Ley de Presupuestos no puede crear tributos.",
+      "Answer 4": "Ningunas de las respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones relacionadas con los Presupuestos Generales del Estado es correcta?       ",
+      "Answer 1": "La Ley de Presupuestos no puede modificar tributos.",
+      "Answer 2": "La Ley de Presupuestos puede modificar tributos cuanto una ley tributaria sustantiva así lo prevea.",
+      "Answer 3": "Únicamente la Ley de Presupuestos puede modificar tributos.",
+      "Answer 4": "La Ley de Presupuestos puede modificar tributos cuanto una ley tributaria general y modificativa así lo prevea.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones relacionadas con los Presupuestos Generales del Estado es incorrecta?       ",
+      "Answer 1": "Se presentan al menos tres meses antes de la expiración de los del año anterior.",
+      "Answer 2": "Corresponde al Gobierno su elaboración.",
+      "Answer 3": "Se presentan ante el Congreso de los Diputados.",
+      "Answer 4": "Corresponde al Congreso su examen, enmienda y aprobación.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones relacionadas con los Presupuestos Generales del Estado es incorrecta?       ",
+      "Answer 1": "Pueden crear tributos.",
+      "Answer 2": "Tendrán carácter anual.",
+      "Answer 3": "Incluirán la totalidad de los gastos e ingresos del sector público estatal.",
+      "Answer 4": "En ellos se consignará el importe de los beneficios fiscales que afecten a los tributos del Estado.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones relacionadas con los Presupuestos Generales del Estado es incorrecta?       ",
+      "Answer 1": "Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior, hasta la aprobación de los nuevos.",
+      "Answer 2": "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios requerirá la conformidad del Gobierno para su tramitación.",
+      "Answer 3": "La Ley de Presupuestos puede modificar tributos cuando una ley tributaria sustantiva así lo prevea.",
+      "Answer 4": "Una vez aprobados el Gobierno no podrá presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.",
+      "Answer": 4
+    },
+    {
+      "Title": "El artículo 135.1 de la Constitución señala que todas las Administraciones Públicas adecuarán:       ",
+      "Answer 1": "Sus gastos al principio de racionalidad económica.",
+      "Answer 2": "Sus previsiones al principio de equilibrio económico.",
+      "Answer 3": "Sus actuaciones al principio de estabilidad presupuestaria.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución, el Estado y las Comunidades Autónomas no podrán incurrir en déficit estructural que supere los márgenes establecidos, en su caso, por:       ",
+      "Answer 1": "Las Cortes Generales para ejercicio presupuestario.",
+      "Answer 2": "La Unión Europea para sus Estados Miembros.",
+      "Answer 3": "El Fondo Monetario Internacional para los Estados adheridos.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "El déficit estructural máximo permitido al Estado y a las Comunidades Autónomas se fijará por:       ",
+      "Answer 1": "Una ley orgánica.",
+      "Answer 2": "Una ley.",
+      "Answer 3": "Un Real Decreto.",
+      "Answer 4": "Una Directiva europea.",
+      "Answer": 1
+    },
+    {
+      "Title": "A tenor del artículo 135.2 de la Constitución, el déficit estructural máximo permitido al Estado y a las Comunidades Autónomas se fijará en relación:       ",
+      "Answer 1": "Con las perspectivas de la previsión económica general.",
+      "Answer 2": "Con su producto interior bruto.",
+      "Answer 3": "Con las previsiones de crecimiento global.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 135.2 de la Constitución:       ",
+      "Answer 1": "Las Entidades Locales estarán exentas de presentar equilibrio presupuestario.",
+      "Answer 2": "Las Entidades Locales deberán presentar podrán incurrir en un déficit estructural si es inferior al 3% de su producto interior bruto.",
+      "Answer 3": "Las Entidades Locales deberán presentar equilibrio presupuestario.",
+      "Answer 4": "Una ley orgánica fijará los casos en que las Entidades Locales estarán exentas de presentar equilibrio presupuestario.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Podrán el Estado y las Comunidades Autónomas emitir deuda pública o contraer crédito, según el artículo 135.3 de la Constitución?       ",
+      "Answer 1": "Sí, pero habrán de estar autorizados por ley.",
+      "Answer 2": "Sí, pero habrán de estar autorizados por la Unión Europea.",
+      "Answer 3": "Únicamente el Estado y habrá de estar autorizado por una ley orgánica.",
+      "Answer 4": "Únicamente el Estado, pero habrá de estar autorizado por el Congreso de los Diputados.",
+      "Answer": 1
+    },
+    {
+      "Title": "En el Título VII de la Constitución se recoge que los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán:       ",
+      "Answer 1": "Siempre incluidos en el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta.",
+      "Answer 2": "Siempre incluidos en sus propios gastos de presupuestos y su reclamación gozará de prioridad absoluta.",
+      "Answer 3": "Siempre incluidos en los del Estado y su pago no seguirá el orden general de pago.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones:       ",
+      "Answer 1": "No podrán ser objeto de enmienda o modificación, mientras no se ajusten a las condiciones de la ley de emisión.",
+      "Answer 2": "No podrán ser objeto de enmienda o modificación, mientras se ajusten a las condiciones de la ley de emisión.",
+      "Answer 3": "Podrán ser objeto de enmienda o modificación, mientras se ajusten a las condiciones de la ley de emisión.",
+      "Answer 4": "Podrán ser objeto de enmienda o modificación, mientras no se ajusten a las condiciones de la ley de emisión.",
+      "Answer": 2
+    },
+    {
+      "Title": "La Constitución Española señala que el volumen de deuda pública del conjunto de las Administraciones Públicas en relación con el producto interior bruto del Estado no podrá superar el valor de referencia establecido en:       ",
+      "Answer 1": "El Tratado de Funcionamiento de la Unión Europea.",
+      "Answer 2": "La Ley de Presupuestos Generales del Estado.",
+      "Answer 3": "La Ley General de Tributos.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los principios desarrollados en el artículo 135 de la Constitución se desarrollarán:       ",
+      "Answer 1": "Por Decreto Legislativo.",
+      "Answer 2": "Por una ley.",
+      "Answer 3": "Por Real Decreto.",
+      "Answer 4": "Por una ley orgánica.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Qué deberá regular la ley orgánica que desarrolle los principios a que se refiere el artículo 135 de la Constitución Española?       ",
+      "Answer 1": "La distribución de los límites de déficit y de deuda entre las distintas Administraciones Públicas, los supuestos excepcionales de superación de los mismos y la forma y plazo de corrección de las desviaciones que sobre uno y otro pudieran producirse.",
+      "Answer 2": "Todas las respuestas son correctas.",
+      "Answer 3": "La metodología y el procedimiento para el cálculo del déficit estructural.",
+      "Answer 4": "La responsabilidad de cada Administración Pública en caso de incumplimiento de los objetivos de estabilidad presupuestaria.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 135.6 de la Constitución, las Comunidades Autónomas, de acuerdo con sus respectivos Estatutos y dentro de los límites a que se refiere el artículo 135 de la Constitución, adoptarán las disposiciones que procedan para:       ",
+      "Answer 1": "La aplicación efectiva del principio de estabilidad en sus normas y decisiones presupuestarias.",
+      "Answer 2": "La gestión eficiente de sus recursos, conforme al déficit estructural aprobado anualmente.",
+      "Answer 3": "No incurrir en déficit estructural que supere los márgenes establecidos por el Estado para las Comunidades Autónomas.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál es el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado?       ",
+      "Answer 1": "El Tribunal de Cuentas.",
+      "Answer 2": "El Congreso de los Diputados.",
+      "Answer 3": "El Tribunal Económico-Administrativo.",
+      "Answer 4": "El Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "El supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado lo será también de:       ",
+      "Answer 1": "Las del sector público.",
+      "Answer 2": "Las del sector privado.",
+      "Answer 3": "Las del sector concertado.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Tribunal de Cuentas dependerá directamente:       ",
+      "Answer 1": "Del Congreso de los Diputados.",
+      "Answer 2": "Del Gobierno.",
+      "Answer 3": "Del Tribunal Constitucional.",
+      "Answer 4": "De las Cortes Generales.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Tribunal de Cuentas ejercerá sus funciones por delegación:       ",
+      "Answer 1": "Del Congreso de los Diputados en el examen y comprobación de la Cuenta General del Estado.",
+      "Answer 2": "Del Ministerio de Hacienda en el examen y actualización de la Cuenta General de las Administraciones Públicas.",
+      "Answer 3": "Del Gobierno en el examen y comprobación de la Cuenta General del Estado.",
+      "Answer 4": "De las Cortes Generales en el examen y comprobación de la Cuenta General del Estado.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Ante quién se rendirán las cuentas del Estado y del sector público estatal?       ",
+      "Answer 1": "Ante el Tribunal de Cuentas y serán censuradas por éste.",
+      "Answer 2": "Ante el Tribunal de Cuentas y serán aprobadas por éste.",
+      "Answer 3": "Ante la Cámara de Cuenta y serán censuradas por ésta.",
+      "Answer 4": "Ninguna es correcta",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta?       ",
+      "Answer 1": "El Tribunal de Cuentas dependerá directamente de las Cortes Generales.",
+      "Answer 2": "Una ley regulará la composición, organización y funciones del Tribunal de Cuentas",
+      "Answer 3": "El Tribunal de Cuentas remitirá al Congreso un informe anual",
+      "Answer 4": "Todas son correctas",
+      "Answer": 1
+    },
+    {
+      "Title": "El Tribunal de Cuentas, sin perjuicio de su propia jurisdicción, remitirá a las Cortes Generales un informe:       ",
+      "Answer 1": "Trimestral.",
+      "Answer 2": "Anual.",
+      "Answer 3": "Semestral.",
+      "Answer 4": "Cuatrimestral.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 136.3 de la Constitución Española, los miembros del Tribunal de Cuentas:       ",
+      "Answer 1": "Gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los Jueces.",
+      "Answer 2": "Gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los Diputados y Senadores.",
+      "Answer 3": "Gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los vocales del Consejo General del Poder Judicial.",
+      "Answer 4": "Ninguna es correcta",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 136.4 de la Constitución Española:       ",
+      "Answer 1": "Una ley orgánica regulará la composición, organización y funciones del Tribunal de Cuentas",
+      "Answer 2": "Una ley regulará la composición, organización y funciones del Tribunal de Cuentas",
+      "Answer 3": "Una ley orgánica regulará la composición, organización e incompatibilidades de los miembros del Tribunal de Cuentas",
+      "Answer 4": "El Reglamento de Régimen Interior regulará la composición, organización y funciones del Tribunal de Cuentas",
+      "Answer": 1
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "se reconoce la iniciativa privada en la actividad económica",
+      "Answer 2": "mediante ley se podrá reservar al sector público recursos o servicios esenciales, excepto en caso de monopolio",
+      "Answer 3": "mediante ley se podrá acordar la intervención de empresas cuando así lo exigiere el interés general",
+      "Answer 4": "todas son correctas",
+      "Answer": 3
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "la ley establecerá las formas de participación de los interesados en la Seguridad Social y en la actividad de los organismos públicos cuya función afecte directamente a la calidad de la vida o al bienestar general",
+      "Answer 2": "los poderes públicos promoverán eficazmente las diversas formas de participación en la empresa y fomentarán, mediante una legislación adecuada, las sociedades cooperativas",
+      "Answer 3": "los poderes públicos establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "La ley regulará el régimen jurídico de los bienes de dominio público y de los comunales, inspirándose en los principios de:",
+      "Answer 1": "inalienabilidad, imprescriptibilidad e inembargabilidad, así como su desafectación",
+      "Answer 2": "alienabilidad, imprescriptibilidad e inembargabilidad, así como su afectación",
+      "Answer 3": "alienabilidad, prescriptibilidad e inembargabilidad, así como su desafectación",
+      "Answer 4": "inalienabilidad, prescriptibilidad e inembargabilidad, así como su afectación",
+      "Answer": 1
+    },
+    {
+      "Title": "Son bienes de dominio público estatal los que determine la ley:",
+      "Answer 1": "exceptuando la zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales de la zona económica y la plataforma continental",
+      "Answer 2": "con excepción de la zona marítimo-terrestre, las playas y el mar territorial, pero incluyendo los recursos naturales de la zona económica y la plataforma continental",
+      "Answer 3": "incluyendo la zona marítimo-terrestre, las playas y el mar territorial, pero no los recursos naturales de la zona económica y la plataforma continental",
+      "Answer 4": "y, en todo caso, la zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales de la zona económica y la plataforma continental",
+      "Answer": 4
+    },
+    {
+      "Title": "La potestad originaria para establecer los tributos corresponde exclusivamente:",
+      "Answer 1": "al Estado y a las Comunidades Autónomas",
+      "Answer 2": "a las Comunidades Autónomas y a las Corporaciones locales",
+      "Answer 3": "al Estado",
+      "Answer 4": "a las Comunidades Autónomas",
+      "Answer": 3
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "las Comunidades Autónomas y las Corporaciones locales podrán establecer y exigir tributos de acuerdo con la Constitución y las leyes",
+      "Answer 2": "todo beneficio fiscal que afecte a los tributos del Estado deberá establecerse reglamentariamente",
+      "Answer 3": "las administraciones públicas podrán contraer obligaciones financieras y realizar gastos por sí mismas sin necesidad de ninguna ley que las ampare",
+      "Answer 4": "todas son correctas",
+      "Answer": 1
+    },
+    {
+      "Title": "La elaboración de los Presupuestos Generales del Estado corresponde a:",
+      "Answer 1": "las Cortes Generales",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "el Congreso",
+      "Answer 4": "el Rey",
+      "Answer": 2
+    },
+    {
+      "Title": "El examen, enmienda y aprobación de los Presupuestos Generales del Estado corresponde a:",
+      "Answer 1": "las Cortes Generales",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "el Congreso de los Diputados",
+      "Answer 4": "el Rey",
+      "Answer": 1
+    },
+    {
+      "Title": "Los Presupuestos Generales del Estado tendrán carácter:",
+      "Answer 1": "trimestral",
+      "Answer 2": "semestral",
+      "Answer 3": "anual",
+      "Answer 4": "bienal",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Presupuestos Generales del Estado:",
+      "Answer 1": "incluirán la totalidad de los gastos del sector público estatal",
+      "Answer 2": "incluirán la totalidad de los gastos e ingresos del sector público y privado estatal",
+      "Answer 3": "incluirán la totalidad de los gastos del sector público y privado estatal",
+      "Answer 4": "incluirán la totalidad de los gastos e ingresos del sector público estatal",
+      "Answer": 4
+    },
+    {
+      "Title": "En los Presupuestos Generales del Estado se consignará el importe de los beneficios fiscales que afecten a los tributos de:",
+      "Answer 1": "el Estado",
+      "Answer 2": "las Comunidades Autónomas",
+      "Answer 3": "las Comunidades Autónomas y las Corporaciones locales",
+      "Answer 4": "las Corporaciones locales",
+      "Answer": 1
+    },
+    {
+      "Title": "El Gobierno deberá presentar ante:",
+      "Answer 1": "el Congreso de los Diputados los Presupuestos Generales del Estado al menos dos meses antes de la expiración de los del año anterior",
+      "Answer 2": "las Cortes Generales los Presupuestos Generales del Estado al menos dos meses antes de la expiración de los del año anterior",
+      "Answer 3": "el Congreso de los Diputados los Presupuestos Generales del Estado al menos tres meses antes de la expiración de los del año anterior",
+      "Answer 4": "las Cortes Generales los Presupuestos Generales del Estado al menos tres meses antes de la expiración de los del año anterior",
+      "Answer": 3
+    },
+    {
+      "Title": "Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente:",
+      "Answer 1": "se podrán prorrogar los Presupuestos del ejercicio anterior por mayoría absoluta",
+      "Answer 2": "se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos",
+      "Answer 3": "deberá constituirse la Diputación Permanente para aprobar los nuevos Presupuestos en un tiempo máximo de 48 horas",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "Aprobados los Presupuestos Generales del Estado:",
+      "Answer 1": "el Gobierno podrá presentar proposiciones de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario",
+      "Answer 2": "el Gobierno no podrá presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario",
+      "Answer 3": "el Gobierno podrá presentar proyectos de ley que impliquen disminución del gasto público o aumento de los ingresos correspondientes al mismo ejercicio presupuestario",
+      "Answer 4": "el Gobierno podrá presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario",
+      "Answer": 4
+    },
+    {
+      "Title": "Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios requerirá para su tramitación la conformidad de:",
+      "Answer 1": "el Rey",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "las Cortes Generales",
+      "Answer 4": "el Congreso de los Diputados",
+      "Answer": 2
+    },
+    {
+      "Title": "La Ley de Presupuestos:",
+      "Answer 1": "no puede crear tributos. Podrá modificarlos cuando una ley tributaria sustantiva así lo prevea",
+      "Answer 2": "puede crear tributos. Podrá modificarlos cuando su articulado así lo prevea",
+      "Answer 3": "no puede crear tributos. Podrá modificarlos cuando su articulado así lo prevea",
+      "Answer 4": "puede crear tributos. Podrá modificarlos cuando una ley tributaria sustantiva así lo prevea",
+      "Answer": 1
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria",
+      "Answer 2": "el Estado y las Comunidades Autónomas podrán incurrir en un déficit estructural que supere los márgenes establecidos, en su caso, por la Unión Europea para sus Estados Miembros",
+      "Answer 3": "una ley orgánica fijará el déficit estructural mínimo permitido al Estado y a las Comunidades Autónomas, en relación con su producto interior bruto",
+      "Answer 4": "las Entidades Locales no necesitan presentar equilibrio presupuestario",
+      "Answer": 1
+    },
+    {
+      "Title": "Tendrá que estar autorizado por ley para emitir deuda pública o contraer crédito:",
+      "Answer 1": "el Estado",
+      "Answer 2": "las Comunidades Autónomas",
+      "Answer 3": "el Estado y las Comunidades Autónomas",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 3
+    },
+    {
+      "Title": "Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán siempre incluidos en:",
+      "Answer 1": "el estado de gastos de sus presupuestos y su pago será voluntario",
+      "Answer 2": "el estado de ingresos de sus presupuestos y su pago gozará de prioridad absoluta",
+      "Answer 3": "el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta",
+      "Answer 4": "el estado de ingresos de sus presupuestos y su pago será voluntario",
+      "Answer": 3
+    },
+    {
+      "Title": "Los límites de déficit estructural y de volumen de deuda pública sólo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado y perjudiquen considerablemente la situación financiera o la sostenibilidad económica o social del Estado, apreciadas por:",
+      "Answer 1": "la mayoría simple de los miembros del Congreso de los Diputados",
+      "Answer 2": "la mayoría absoluta de los miembros del Gobierno",
+      "Answer 3": "la mayoría absoluta de los miembros del Congreso de los Diputados",
+      "Answer 4": "la mayoría simple de los miembros del Gobierno",
+      "Answer": 3
+    },
+    {
+      "Title": "Es el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado, así como del sector público: (titulo VII)",
+      "Answer 1": "el Fiscal general del Estado",
+      "Answer 2": "el Consejo de Estado",
+      "Answer 3": "el Tribunal de Cuentas",
+      "Answer 4": "el Ministerio Fiscal",
+      "Answer": 3
+    },
+    {
+      "Title": "El Tribunal de Cuentas:",
+      "Answer 1": "dependerá directamente de las Cortes Generales y ejercerá sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado",
+      "Answer 2": "dependerá directamente del Congreso de los Diputados y ejercerá sus funciones por delegación de él en el examen y comprobación de la Cuenta General del Estado",
+      "Answer 3": "es indepediente y ejercerá sus funciones asignadas el examen y comprobación de la Cuenta General del Estado",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 1
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "el Tribunal de Cuentas remitirá a las Cortes Generales un informe anual en el que comunicará las infracciones o responsabilidades en que, a su juicio, se hubiere incurrido",
+      "Answer 2": "los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los Jueces",
+      "Answer 3": "una ley orgánica regulará la composición, organización y funciones del Tribunal de Cuentas",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Las cuentas del Estado y del sector público estatal se rendirán a:",
+      "Answer 1": "el Ministerio Fiscal y serán censuradas por éste",
+      "Answer 2": "el Tribunal de Cuentas y serán censuradas por el Ministerio Fiscal",
+      "Answer 3": "el Ministerio Fiscal y serán censuradas por el Tribunal de Cuentas",
+      "Answer 4": "el Tribunal de Cuentas y serán censuradas por éste",
+      "Answer": 4
+    },
+    {
+      "Title": "El Título VII de la Constitución Española comprende los artículos:",
+      "Answer 1": "108 a 120",
+      "Answer 2": "128 a 136",
+      "Answer 3": "116 a 127",
+      "Answer 4": "130 a 145",
+      "Answer": 2
+    }
+  ]

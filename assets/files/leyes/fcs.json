@@ -1,0 +1,794 @@
+[
+    {
+      "Title": "Los cuerpos de Policía Local pueden actuar fuera del municipio:",
+      "Answer 1": "Sí, en situaciones de emergencia y previo requerimiento de las autoridades competentes.",
+      "Answer 2": "Sí, en situaciones de emergencia y previa autorización de la Junta Local de Seguridad.",
+      "Answer 3": "No, siempre deberán actuar dentro de su ámbito territorial respectivo.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El cuerpo Nacional de Policía o Policía Nacional es:",
+      "Answer 1": "Un instituto armado de naturaleza civil, que depende del Ministerio del lnterior.",
+      "Answer 2": "Un componente de las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "Answer 3": "ambas, además de formar parte de las Fuerzas y Cuerpos de Seguridad",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Respecto a las incompatibilidades de los miembros de las FCS, es correcto que:",
+      "Answer 1": "La pertenencia a las Fuerzas y Cuerpos de Seguridad es causa de incompatibilidad para el desempeño de cualquier otra actividad pública, salvo aquellas actividades privadas no exceptuadas de la legislación sobre incompatibilidades.",
+      "Answer 2": "La pertenencia a las Fuerzas y Cuerpos de Seguridad es causa de compatibilidad para el desempeño de cualquier otra actividad pública o privada, salvo aquellas actividades exceptuadas de la legislación sobre incompatibilidades.",
+      "Answer 3": "La pertenencia a las Fuerzas y Cuerpos de Seguridad es causa de incompatibilidad para el desempeño de cualquier otra actividad pública o privada, salvo aquellas actividades exceptuadas de la legislación sobre incompatibilidades.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 2 de la Ley Orgánica 2/1986, son fuerzas y cuerpos de Seguridad:",
+      "Answer 1": "Las fuerzas y cuerpos de seguridad dependientes del Gobierno de la nación.",
+      "Answer 2": "Los cuerpos de Policía dependientes de las Corporaciones Locales.",
+      "Answer 3": "Ambas son correctas.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En el tratamiento de detenidos, las Fuerzas y Cuerpos de Seguridad, especialmente:",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Deberán identificarse debidamente.",
+      "Answer 3": "Velarán por la vida e integridad física de las personas a quienes detuvieren.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "No es un principio básico de actuación de los miembros de las Fuerzas y Cuerpos de Seguridad:",
+      "Answer 1": "Actuar, en el cumplimiento de sus funciones, con absoluta y neutralidad política y parcialidad, en consecuencia, sin discriminación alguna por razón de raza, religión u opinión.",
+      "Answer 2": "Adecuación al ordenamiento jurídico.",
+      "Answer 3": "Actuar con integridad y dignidad.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En su actuación ante la comunidad, los miembros de las Fuerzas y Cuerpos de Seguridad deberán actuar bajo los principios de:",
+      "Answer 1": "Congruencia, coordinación y proporcionalidad.",
+      "Answer 2": "Congruencia, oportunidad y proporcionalidad.",
+      "Answer 3": "Coordinación, oportunidad y congruencia.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿cuáles son los órganos de coordinación y colaboración que se regulan en la Ley Orgánica 2/ 1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad?",
+      "Answer 1": "El Consejo de Política de Seguridad y la Unidad de Coordinación.",
+      "Answer 2": "La Junta de Seguridad y el Consejo de Policía.",
+      "Answer 3": "El Consejo de Política de Seguridad, la Junta Local de Seguridad y la Junta de Seguridad.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Tal y como establece el artículo 12 de la Ley Orgánica 2/186, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, en su artículo 12, no será ejercida por el Cuerpo Nacional de Policía una de las siguientes funciones:",
+      "Answer 1": "La custodia de vías de comunicación terrestre, costas, fronteras, puertos, aeropuertos y centros e instalaciones que por su interés lo requieran.",
+      "Answer 2": "El control de entidades y servicios privados de seguridad, vigilancia e investigación, de su personal, medios y actuaciones.",
+      "Answer 3": "Las previstas en la legislación sobre extranjería, refugio y asilo, extradición, expulsión, emigración e inmigración.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El trato de los miembros de las Fuerzas y Cuerpos de Seguridad con los ciudadanos debe ser:",
+      "Answer 1": "Esmerado.",
+      "Answer 2": "Displicente.",
+      "Answer 3": "Conminatorio.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Señale cuál de las siguientes funciones no es competencia propia de la Policía Local, según el artículo 53 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
+      "Answer 1": "Participar en la funciones de la Policía Judicial, en la forma establecida en el artículo 29.2 de la Ley.",
+      "Answer 2": "Mantener y restablecer, en su caso, el orden y Seguridad Ciudadana.",
+      "Answer 3": "Cooperar en la resolución de los conflictos privados cuando sean requeridos para ello.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Las policías de las comunidades autónomas y las policías de las corporaciones locales, ¿pueden ejercer funciones de Policía Judicial?",
+      "Answer 1": "No, ya que únicamente pueden ser ejercidas por las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "Answer 2": "Sí, además con carácter independiente y de ámbito nacional.",
+      "Answer 3": "Sí, con carácter de colaboradores con las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Para evitar un daño grave, inmediato e irreparable, ¿qué debe hacer un miembro de las Fuerzas y cuerpos de Seguridad?",
+      "Answer 1": "Debe actuar utilizando todos lo medios a su alcance y hacerlo con la decisión necesaria y sin demora.",
+      "Answer 2": "Debe actuar con la decisión necesaria y sin demora, rigiéndose al hacerlo por los principios de congruencia, oportunidad y flexibilidad en la utilización de los medios a su alcance.",
+      "Answer 3": "Debe actuar con la decisión necesaria y sin demora, rigiéndose al hacerlo por los principios de congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Atendiendo a lo establecido en el artículo 3 de la Ley 2/86 de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, éstos ajustarán su actuación a:",
+      "Answer 1": "Principio de cooperación recíproca.",
+      "Answer 2": "Principio de coordinación recíproca.",
+      "Answer 3": "Principio de colaboración.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Las funciones de los Cuerpos de Policía Local están contempladas en el:",
+      "Answer 1": "Artículo 53 de la Ley Orgánica 2/86 de 13 de marzo.",
+      "Answer 2": "Artículo 43 de la Ley Orgánica 2/86 de 13 de marzo.",
+      "Answer 3": "Artículo 23 de la Ley Orgánica 2/86 de 13 de marzo.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Puede un policía local actuar como tal fuera del término municipal respectivo:",
+      "Answer 1": "Cuando ejerza funciones de protección de autoridades de su Corporación Local.",
+      "Answer 2": "Sólo en caso de emergencias.",
+      "Answer 3": "En ningún caso.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué casos la Guardia Civil tendrá la consideración de fuerza armada?",
+      "Answer 1": "En el cumplimiento de misiones de carácter militar que se le encomienden, de acuerdo con el ordenamiento jurídico.",
+      "Answer 2": "Siempre, puesto que depende tanto del Ministerio del lnterior como del Ministerio de Defensa",
+      "Answer 3": "En el cumplimiento de misiones de carácter militar que le encomiende el jefe del Estado",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En el ejercicio de sus funciones, los miembros de los cuerpos de policía de las comunidades autónomas deberán vestir de:",
+      "Answer 1": "Uniforme, salvo en los casos excepcionales que autoricen las Juntas de Seguridad.",
+      "Answer 2": "Uniforme, siempre.",
+      "Answer 3": "Uniforme o de paisano, salvo casos excepcionales que autorice el presidente de la comunidad autónoma.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué actuaciones practicadas por parte de los cuerpos de Policía Local en el ejercicio de sus funciones, deberán ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado competentes?",
+      "Answer 1": "La instrucción de atestados por accidente de circulación dentro del casco urbano.",
+      "Answer 2": "Ambas",
+      "Answer 3": "La realización de diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecidos en las Juntas de Seguridad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿De quién dependen Ias Fuerzas y Cuerpos de Seguridad para realizar la misión que se les encomienda en el artículo 104 de la Constitución?",
+      "Answer 1": "Del Gobierno.",
+      "Answer 2": "Del ministro del lnterior",
+      "Answer 3": "Del Ministerio del lnterior.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De las siguientes respuestas, señale la que no es correcta cuando nos referimos a los miembros de las Fuerzas y Cuerpos de Seguridad:",
+      "Answer 1": "Los miembros de las Fuerzas y Cuerpos de Seguridad podrán ejercer su derecho a la huelga o acciones sustitutivas del mismo siempre que se encuentren fuera de servicio.",
+      "Answer 2": "Reglamentariamente se determinará su régimen de horario de servicio, que se adaptará a las peculiares características de la función policial.",
+      "Answer 3": "Tendrán derecho a una remuneración justa, que contemple su nivel de formación, movilidad por razones de servicio, dedicación y riesgo que comporta su misión, así como a la especificidad de los horarios de trabajo.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Dónde podrá constituirse una Junta de Seguridad?",
+      "Answer 1": "En las Comunidades Autónomas que dispongan de Cuerpos de Policía propios",
+      "Answer 2": "En todas las Comunidades Autónomas pluriprovinciales",
+      "Answer 3": "En todas las Comunidades Autónomas del Estado español.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Los miembros del Cuerpo de Policía Nacional, ¿tienen derecho a sindicarse?",
+      "Answer 1": "Sí, pero sólo podrán afiliarse a organizaciones sindicales formadas exclusivamente por miembros del propio Cuerpo.",
+      "Answer 2": "No, ya que lo prohíbe la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad",
+      "Answer 3": "Sí, pueden afiliarse libremente y participar activamente en cualquier organización sindical.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Como establece el artículo 2 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, son Fuerzas y Cuerpos de Seguridad:",
+      "Answer 1": "Ninguna es correcta.",
+      "Answer 2": "Las Fuerzas y Cuerpos de Seguridad del Estado, los Cuerpos de Policía dependientes de las Comunidades Autónomas y los Cuerpos de Policía dependientes de las Entidades Locales.",
+      "Answer 3": "Las Fuerzas y Cuerpos de Seguridad del Estado, los Cuerpos de Policía dependientes de las Comunidades.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De qué principio básico de actuación de los miembros y de las Fuerzas y Cuerpos de Seguridad forma parte el actuar con integridad y dignidad.",
+      "Answer 1": "Relaciones con la comunidad.",
+      "Answer 2": "Adecuación al ordenamiento jurídico.",
+      "Answer 3": "Dedicación profesional.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En cuántos capítulos se divide el Título II de la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad?",
+      "Answer 1": "En 3 capítulos",
+      "Answer 2": "En 4 capítulos",
+      "Answer 3": "En 5 capítulos",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 6.1 de la Ley Orgánica 2/86, ¿quiénes promoverán las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de las Fuerzas y Cuerpos de Seguridad?",
+      "Answer 1": "Los poderes públicos.",
+      "Answer 2": "Todas aquellas entidades públicas o privadas que se mencionan en la ley.",
+      "Answer 3": "Los centros de formación habilitados a tal efecto.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La representación de los miembros de la Policía Nacional en el Consejo de la Policía se estructurará por:",
+      "Answer 1": "Escalas o categorías, dependiendo de los funcionarios que haya en cada una de ellas.",
+      "Answer 2": "Categorías, con un representante cada 6.000 funcionarios o fracción de cada una de las siete categorías.",
+      "Answer 3": "Escalas, con un representante cada 6.000 funcionarios o fracción de cada una de las cuatro escalas.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién ostenta el mando directo de las Fuerzas y cuerpos de seguridad del Estado en la provincia?",
+      "Answer 1": "El subdelegado del Gobierno.",
+      "Answer 2": "El alcalde de la capital de la provincia respectiva y por delegación del propio ministro del lnterior.",
+      "Answer 3": "EI ministro del lnterior.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según establece el artículo 53 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, los Cuerpos de Policía Local deberán ejercer las siguientes funciones:",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Policía Administrativa, en lo relativo a las Ordenanzas, Bandos y demás disposiciones municipales dentro del ámbito de su competencia.",
+      "Answer 3": "Instruir atestados por accidentes de circulación dentro del casco urbano y vías interurbanas.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 11 de la LO 2/86, ¿Qué funciones de investigación y de coordinación de datos, de los siguientes, establece concretamente que, en cualquier caso, podrán ser ejercidos en todo el territorio nacional, por la Policía Nacional?:",
+      "Answer 1": "Las referidas a la investigación de los delitos para descubrir y detener a los presuntos culpables, asegurar los instrumentos, efectos y pruebas del delito, poniéndolos a disposición judicial",
+      "Answer 2": "Las referidas al mantenimiento y restablecimiento, en su caso, del orden y la seguridad ciudadana, así como velar y proteger la seguridad de las altas personalidades",
+      "Answer 3": "Las referidas al auxilio y protección de las personas y aseguramiento de la conservación y custodia de los bienes que se encuentren en situación de peligro por cualquier causa",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué apartado de la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad, se dedica a la Guardia Civil?",
+      "Answer 1": "El Capítulo III del Título II.",
+      "Answer 2": "El Título V.",
+      "Answer 3": "El Capítulo III del Título IV.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué casos es obligatorio que el Consejo de Policía emita informes sobre expedientes disciplinarios?",
+      "Answer 1": "Cuando se trate de expedientes disciplinarios instruidos por faltas muy graves contra miembros de la Policía Nacional.",
+      "Answer 2": "Además de lo especificado en la opción b), en todos los que se instruyan a los representantes de los sindicatos.",
+      "Answer 3": "Cuando se trate de expedientes disciplinarios instruidos por faltas graves contra miembros de la Policía Nacional.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "En el ejercicio de sus funciones, ¿qué carácter tendrán a todos los efectos legales los miembros de las Fuerzas y Cuerpos de Seguridad?",
+      "Answer 1": "El carácter de Agentes de Seguridad Pública.",
+      "Answer 2": "El carácter de Agentes de la Autoridad.",
+      "Answer 3": "El carácter de Autoridad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Un policía que se vea en la necesidad de utilizar su arma, debe hacerlo de conformidad a los principios de:",
+      "Answer 1": "Racionalidad, responsabilidad y oportunidad.",
+      "Answer 2": "Congruencia, responsabilidad y oportunidad.",
+      "Answer 3": "Congruencia, oportunidad y proporcionalidad.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál NO es un principio básico de actuación de los miembros de las Fuerzas y Cuerpos de seguridad?",
+      "Answer 1": "Incompatibilidad.",
+      "Answer 2": "Secreto profesional.",
+      "Answer 3": "Responsabilidad.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La coordinación de las Fuerzas y Cuerpos de Seguridad se llevará a cabo, según la Ley Orgánica 2/86:",
+      "Answer 1": "A través de los respectivos Delegados y Subdelegados del Gobierno",
+      "Answer 2": "A través de los órganos que establece la propia Ley de Fuerzas y Cuerpos de Seguridad",
+      "Answer 3": "A través del Consejo de la Policía, como máximo órgano de representación y cooperación",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuántos títulos y cuántos artículos conforman la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad?",
+      "Answer 1": "6 títulos con 62 artículos.",
+      "Answer 2": "5 títulos con 54 artículos.",
+      "Answer 3": "7 títulos con 73 artículos.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién preside las Juntas Locales de Seguridad?",
+      "Answer 1": "El Alcalde.",
+      "Answer 2": "El Ministro del Interior.",
+      "Answer 3": "El Director General de la Policía.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿De quién depende la Policía Nacional?",
+      "Answer 1": "Del Ministro de Defensa.",
+      "Answer 2": "Del Ministro del Interior",
+      "Answer 3": "Ambas respuestas son correctas.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿El Principio Básico de Actuación referido a las “Relaciones con la Comunidad”, no se refiere:",
+      "Answer 1": "Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral.",
+      "Answer 2": "A velar por el cumplimiento de los plazos de la detención y requisitos de ésta",
+      "Answer 3": "En el ejercicio de sus funciones deberán actuar con la decisión necesaria, y sin demora cuando de ello dependa evitar un daño grave, inmediato e irreparable; rigiéndose al hacerlo por los principios de congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el art. 53.3 de la Ley Orgánica 2/86, en las ciudades con Estatuto de Autonomía podrán asignar parte de sus funcionarios, que tendrán carácter de agentes de la autoridad, subordinados a los miembros de los respectivos Cuerpos de Policía Local, ¿Quién los asigna y para qué funciones?",
+      "Answer 1": "Las Asambleas, para ordenar, señalizar y dirigir el tráfico en el casco urbano.",
+      "Answer 2": "El Pleno de la Corporación o sus respectivas Asambleas para funciones de Policía administrativa en lo relativo a Ordenanzas y Bando.",
+      "Answer 3": "Ambas son correctas",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "No es un principio básico de actuación de los miembros de los Cuerpos de Policía Local:",
+      "Answer 1": "En el ejercicio de sus funciones deberán actuar con la decisión necesaria, y con demora cuando de ello dependa evitar un daño grave.",
+      "Answer 2": "Ambas son Principios Básicos de Actuación.",
+      "Answer 3": "Colaborar con la Administración de Justicia y auxiliarla.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Con arreglo al Art. 53.1 de la Ley Orgánica de Fuerzas y cuerpos de seguridad, se establece que los Cuerpos de Policía Local no deberán ejercer las siguientes funciones:",
+      "Answer 1": "Proteger a las Autoridades de las Corporaciones locales y vigilancia o custodia de sus edificios e instalaciones.",
+      "Answer 2": "Instruir atestados de accidentes de circulación, en cualquier caso.",
+      "Answer 3": "Ordenar, señalizar y dirigir el tráfico en el casco urbano, de acuerdo con lo establecido en las normas de circulación.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué tipo de establecimiento cumplirán los miembros de las Fuerzas y Cuerpos de Seguridad la prisión preventiva y las penas privativas de libertad?",
+      "Answer 1": "En establecimientos penitenciarios específicos para miembros de las Fuerzas y Cuerpos de Seguridad.",
+      "Answer 2": "En establecimientos penitenciarios ordinarios, con separación del resto de detenidos o presos.",
+      "Answer 3": "En establecimientos penitenciarios ordinarios, junto al resto de detenidos o presos, siendo obligatorio mantener el anonimato del preso en cuanto a su carácter de miembro de las Fuerzas y Cuerpos de Seguridad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuáles son los órganos de colaboración a nivel municipal, entre las fuerzas y cuerpos de seguridad del estado y las policías locales, establecidos en la Ley de Fuerzas y Cuerpos de Seguridad?",
+      "Answer 1": "Las Comisiones de Seguridad.",
+      "Answer 2": "Las Juntas Locales de Seguridad.",
+      "Answer 3": "Las Juntas  de Seguridad",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El mantenimiento de la seguridad pública le corresponde a:",
+      "Answer 1": "Al Gobierno de la Nación y al Gobierno de las Comunidades Autónomas.",
+      "Answer 2": "Al Gobierno de la Nación y a las Comunidades Autónomas.",
+      "Answer 3": "Al Gobierno de la Nación.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros de las Fuerzas y Cuerpos de Seguridad, tendrán la consideración de Autoridad.",
+      "Answer 1": "En el ejercicio de sus funciones.",
+      "Answer 2": "En todo momento.",
+      "Answer 3": "En su protección penal, cuando se cometa sobre ellos delito de atentado empleando armas de fuego, explosivos o medios de análoga peligrosidad.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Señale la respuesta correcta: La Ley Orgánica 2/86 de 13 de marzo de Fuerzas y Cuerpos de Seguridad en su Artículo 51 señala que “los municipios podrán crear cuerpos de policía propios”:",
+      "Answer 1": "De acuerdo con lo previsto en la ley reguladora de bases de régimen local, y la ley se Seguridad Ciudadana.",
+      "Answer 2": "De acuerdo con lo previsto en la legislación autonómica, la presente Ley y la ley de Seguridad Ciudadana.",
+      "Answer 3": "De acuerdo con lo previsto en la presente Ley, en la Ley de Bases de Régimen Local y en la legislación autonómica.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "La Ley Orgánica de Fuerzas y Cuerpos de Seguridad 2/1986, de 13 de marzo, establece textualmente en su artículo 1.3. que",
+      "Answer 1": "Las Corporaciones Locales participarán en el mantenimiento de la seguridad pública en los términos establecidos en la Ley Reguladora de las Bases de Régimen Local y en el marco de esta Ley.",
+      "Answer 2": "Las Corporaciones Locales participarán en el mantenimiento de la seguridad pública en el marco de la Ley Reguladora de las Bases de Régimen Local.",
+      "Answer 3": "Las Corporaciones Locales participarán en el mantenimiento de la seguridad pública en los términos establecidos en la Ley Reguladora de las Bases de Régimen Local.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Respecto al tratamiento de los detenidos, es un principio básico:",
+      "Answer 1": "El trato correcto y esmerado, procurando auxiliarles y protegerles.",
+      "Answer 2": "Velar por su vida e integridad física, respetando su honor y dignidad.",
+      "Answer 3": "Facilitarles información cumplida y tan amplia como les sea posible sobre las causas y la finalidad de su actuación.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 6.5 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad el régimen de horario de servicio se determinará…",
+      "Answer 1": "Reglamentariamente.",
+      "Answer 2": "Estatutariamente.",
+      "Answer 3": "Orgánicamente.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la L.O. 2/86, la protección o escolta del Presidente de la Ciudad corresponde a:",
+      "Answer 1": "La Policía Local o Cuerpo Nacional de Policía, indistintamente.",
+      "Answer 2": "Los Alcaldes no pueden llevar escolta, sólo los miembros del Gobierno Central.",
+      "Answer 3": "La Policía Local.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Por cuánto tiempo y a quién corresponde designar los miembros del Comité de Expertos, integrado en el Consejo de Política de Seguridad, por parte de las Comunidades Autónomas?:",
+      "Answer 1": "Anualmente a los miembros del Consejo que representen a las CCAA",
+      "Answer 2": "Cada cuatro años a los respectivos Presidentes de las distintas CCAA",
+      "Answer 3": "Cada cuatro años a los Consejeros de Interior o Gobernación de las CCAA",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la L.O. 2/86, los puestos de servicio en las respectivas categorías se proveerán conforme:",
+      "Answer 1": "A los principios de lealtad, mérito y capacidad.",
+      "Answer 2": "A los principios de mérito, capacidad y antigüedad.",
+      "Answer 3": "A los principios de objetividad, mérito y capacidad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué modelo de organización policial pretende configurar la LO 2/86, según establece expresamente en su Preámbulo?:",
+      "Answer 1": "Un modelo basado en criterios de profesionalidad y eficacia atribuyendo una especial importancia a la erradicación del terrorismo y a la lucha contra la delincuencia internacional",
+      "Answer 2": "Un modelo basado en criterios de profesionalidad y eficacia atribuyendo una especial importancia a la integración de la mujer y al respeto de los derechos humanos",
+      "Answer 3": "Un modelo basado en criterios de profesionalidad y eficacia atribuyendo una especial importancia a la formación permanente de los funcionarios y a su promoción profesional",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Fuerzas y Cuerpos de Seguridad deben utilizar las armas:",
+      "Answer 1": "Sólo cuando se encuentren de servicio.",
+      "Answer 2": "Cuando sean autorizados por sus superiores, por ser necesario, al existir un grave riesgo de orden público.",
+      "Answer 3": "En situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o de terceras personas o grave riesgo para la seguridad ciudadana.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Que actuaciones realizadas por los cuerpos de Policía Local deben ser comunicadas a Fuerzas y Cuerpos de Seguridad del Estado competentes:",
+      "Answer 1": "La instrucción de atestados por accidentes de circulación dentro del casco urbano.",
+      "Answer 2": "La colaboración con las Fuerzas y Cuerpos de Seguridad del Estado en la protección de manifestaciones..",
+      "Answer 3": "La protección a autoridades de las corporaciones locales.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién ejerce el mantenimiento de la Seguridad pública?",
+      "Answer 1": "Estado.",
+      "Answer 2": "Gobierno.",
+      "Answer 3": "Administraciones públicas.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "La Ley Orgánica de Fuerzas y Cuerpos de Seguridad establece que para el cumplimiento de la función de Policía judicial, tendrán carácter colaborador de las Fuerzas y Cuerpos de Seguridad del Estado:",
+      "Answer 1": "Las Policías locales.",
+      "Answer 2": "Las Policías Locales y las Policías de las Comunidades Autónomas.",
+      "Answer 3": "Las Policías Locales, las Policías de las Comunidades Autónomas y los empleados de empresas de seguridad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La Policía Local se encuentra regulada en la Ley Orgánica 2/1986, de 13 de marzo, en su Título:",
+      "Answer 1": "III.",
+      "Answer 2": "IV",
+      "Answer 3": "V",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, el mantenimiento de la seguridad pública:",
+      "Answer 1": "Es competencia exclusiva del Estado.",
+      "Answer 2": "Ambas son correctas.",
+      "Answer 3": "Se ejercerá por las distintas Administraciones Públicas a través de las Fuerzas y Cuerpos de Seguridad",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el art. 2 de la Ley Orgánica 2/1986, son fuerzas y cuerpos de Seguridad:",
+      "Answer 1": "Ambas son correctas.",
+      "Answer 2": "Los cuerpos de Policía dependientes de las Corporaciones Locales.",
+      "Answer 3": "Las fuerzas y cuerpos dependientes del Gobierno de la nación.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En los municipios que carezcan de Policía Local, las funciones de custodia y vigilancia de bienes, servicios e instalaciones, se desarrollarán por:",
+      "Answer 1": "El Ejército.",
+      "Answer 2": "guardas, vigilantes, agentes, alguaciles o análogos",
+      "Answer 3": "Las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros de las Fuerzas y Cuerpos de Seguridad deben:",
+      "Answer 1": "Todas las respuestas anteriores son correctas.",
+      "Answer 2": "Abstenerse de todo acto de corrupción y sujetarse en su actuación profesional a los principios de jerarquía y subordinación.",
+      "Answer 3": "Ejercer su función con absoluto respeto a la Constitución y al resto del ordenamiento jurídico.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Ley Orgánica 2/1986, de 13 de marzo, todo Agente de la Autoridad deberá actuar, en el ejercicio de sus funciones, con la decisión necesaria, y sin demora cuando de ello dependa evitar un daño grave, inmediato e irreparable; rigiéndose al hacerlo por los principios de congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance, Pero, ¿dentro de qué principio básico de actuación encontramos dicha afirmación?",
+      "Answer 1": "Adecuación al Ordenamiento Jurídico.",
+      "Answer 2": "Relaciones con la Comunidad.",
+      "Answer 3": "Dedicación profesional.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Fuerzas y Cuerpos de Seguridad, bajo la dependencia del Gobierno, tendrán como misión:",
+      "Answer 1": "Proteger el libre ejercicio de los derechos y libertades.",
+      "Answer 2": "Garantizar la seguridad ciudadana.",
+      "Answer 3": "Ambas son correctas.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El ejercicio del derecho de huelga de los miembros de las Fuerzas y Cuerpos de Seguridad:",
+      "Answer 1": "Está regulado por la Ley del Derecho a Huelga de los Trabajadores Públicos.",
+      "Answer 2": "Sólo se realizará bajo autorización del Jefe de la Policía y siempre y cuando los servicios mínimos estén cubiertos.",
+      "Answer 3": "Está prohibido.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Cuerpo de la Policía Local, en el ejercicio de sus funciones, deberán vestir el uniforme reglamentario:",
+      "Answer 1": "Salvo en casos excepcionales que autorice la Subdelegación de Gobierno de la provincia.",
+      "Answer 2": "Salvo en casos excepcionales que autorice el Alcalde de la Corporación en su condición de Jefe Superior de la Policía Local.",
+      "Answer 3": "Siempre, sin excepción alguna.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La formación de los miembros de las Fuerzas y Cuerpos de Seguridad tendrá carácter:",
+      "Answer 1": "Personal y permanente.",
+      "Answer 2": "Anterior a adquirir su condición de tales.",
+      "Answer 3": "Profesional y permanente.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De conformidad con lo dispuesto en el Capítulo III del Titulo I de la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad, que afirmación de las siguientes se recoge en al artículo 6:",
+      "Answer 1": "Los Poderes Públicos promoverán las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de las Fuerzas y Cuerpos de Seguridad, de acuerdo con los principios de objetividad, igualdad de oportunidades, mérito y capacidad profesional.",
+      "Answer 2": "Los puestos de servicio en las respectivas categorías y empleos se proveerán conforme a los principios de mérito, publicidad, capacidad y antigüedad, a tenor de lo dispuesto en la correspondiente reglamentación.",
+      "Answer 3": "La pertenencia a las Fuerzas y Cuerpos de Seguridad es causa de incompatibilidad para el desempeño de cualquier otra actividad profesional pública (o privada), salvo que que se traten solamente de actividades privadas que estén exceptuadas de la legislación sobre incompatibilidades laboral.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Juntas Locales de Seguridad constituyen órganos de cooperación operativa e informativa creados por el artículo 54.1 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad. Su desarrollo reglamentario se lleva a cabo por el Real Decreto 1087/2010, de 3 de septiembre, en cuyo artículo 5 relativo a la composición de estos órganos se establece que en ellos se integrarán como Vocales de la Administración Local:",
+      "Answer 1": "Dos representantes a designar por el Alcalde.",
+      "Answer 2": "Tres representantes a designar por el Alcalde.",
+      "Answer 3": "Ninguna de las anteriores es correcta.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los principios de congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance, son principios de actuación policial en relación con:",
+      "Answer 1": "El secreto profesional.",
+      "Answer 2": "La responsabilidad.",
+      "Answer 3": "La comunidad.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según dispone el artículo 6.1 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, los Poderes Públicos promoverán las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de las FFCC de Seguridad, de acuerdo con los principios de:",
+      "Answer 1": "Igualdad de oportunidades, capacidad, antigüedad, objetividad y mérito.",
+      "Answer 2": "Objetividad, igualdad de oportunidades, mérito y capacidad.",
+      "Answer 3": "Objetividad, Igualdad de oportunidades, mérito y antigüedad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los principios básicos de actuación como código deontológico de las FFCCS se ha establecido siguiendo las líneas marcadas por:",
+      "Answer 1": "La Asamblea General de las Naciones Unidas y el Parlamento Europeo.",
+      "Answer 2": "El Consejo de Europa y la Asamblea General de las Naciones Unidas.",
+      "Answer 3": "El Tribunal Europeo de los Derechos Humanos.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La Presidencia de la Junta Local de Seguridad corresponde:",
+      "Answer 1": "El Alcalde, salvo cuando la presidencia sea compartida con el Delegado o Subdelegado del Gobierno si concurren en las sesiones de la Junta.",
+      "Answer 2": "El Delegado del Gobierno en cualquier caso.",
+      "Answer 3": "Al Alcalde en cualquier caso.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Los miembros de las Fuerzas y Cuerpos de Seguridad deberán jurar o prometer:",
+      "Answer 1": "Acatamiento a la Constitución como norma fundamental del Estado.",
+      "Answer 2": "Fidelidad al Rey.",
+      "Answer 3": "Acatamiento al Rey y a la Constitución.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La Policía Local se encuentra regulada en la Ley Orgánica 2/ 1986, de 13 de marzo, en su Título:",
+      "Answer 1": "IV.",
+      "Answer 2": "VI",
+      "Answer 3": "V",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Entre los principios básicos de actuación de los miembros de las Fuerzas y Cuerpos de Seguridad, establecidos en el artículo 5 de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad ¿Qué conducta de las que a continuación se señalan corresponde al principio básico de adecuación al ordenamiento jurídico?.",
+      "Answer 1": "Actuar con integridad y dignidad e impedir, en el ejercicio de sus funciones, cualquier practica abusiva y discriminatoria que entrañe violencia física o moral.",
+      "Answer 2": "Velar por la vida o integridad física de las personas que se encuentren bajo su custodia y respetar el honor y dignidad de las personas.",
+      "Answer 3": "Ninguna es correcta.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros de las Fuerzas y Cuerpos de Seguridad ajustarán su actuación al principio de cooperación recíproca y su coordinación se efectuará a través de los órganos que a tal efecto establece ésta Ley, para ello se establecen instrumentos de coordinación que en el ámbito nacional será:",
+      "Answer 1": "Juntas Locales de Seguridad.",
+      "Answer 2": "Consejo de Política de Seguridad.",
+      "Answer 3": "Consejo Estatal de Seguridad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Cuerpos de Policía Local son:",
+      "Answer 1": "Institutos armados de naturaleza civil.",
+      "Answer 2": "Grupos de funcionarios investidos de autoridad de carácter civil.",
+      "Answer 3": "Órganos jerarquizados a los que, excepcionalmente, se les confiere potestad coercitiva.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según establece la Ley Orgánica 2/1986, de 13 de marzo, ¿cuáles son los principios a los que se debe someter un miembro de las Fuerzas y Cuerpos de Seguridad en la utilización de los medios a su alcance, cuando actúe para evitar un daño grave, inmediato y reparable?",
+      "Answer 1": "Firmeza y resolución.",
+      "Answer 2": "Imparcialidad, legalidad y equidad.",
+      "Answer 3": "Ninguna es correcta.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la LO 2/86, ¿Quién pueden crear Cuerpos de Policía propios?",
+      "Answer 1": "Los Municipios.",
+      "Answer 2": "Las Entidades Locales.",
+      "Answer 3": "Los pueblos.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De conformidad con el artículo 54 de la Ley Orgánica 2/86, de 13 de Marzo, de Fuerzas y Cuerpos de Seguridad del Estado, la Junta Local de Seguridad, será el órgano competente para:",
+      "Answer 1": "Establecer las formas y procedimientos de coordinación entre los miembros de las Fuerzas y Cuerpos de Seguridad en su ámbito territorial.",
+      "Answer 2": "Establecer las formas y procedimientos de cooperación entre los miembros de las Fuerzas y Cuerpos de Seguridad en su ámbito territorial.",
+      "Answer 3": "Establecer las formas y procedimientos de colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad en su ámbito territorial.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la LO 2/86, la formación de sus miembros se ajustará, entre otros, a los siguientes criterios:",
+      "Answer 1": "Profesional y permanente.",
+      "Answer 2": "Permanente y personal.",
+      "Answer 3": "Profesional y personal.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Ley Orgánica 2/86 de 13 de marzo de Fuerzas y Cuerpos de Seguridad, ¿qué órgano será el competente para establecer las formas y procedimientos de la colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad en su ámbito territorial?",
+      "Answer 1": "Juntas de Coordinación de Seguridad.",
+      "Answer 2": "Juntas Locales de Seguridad.",
+      "Answer 3": "Juntas Provinciales de Seguridad.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué artículo de la LO 2/1986 de las FCS, viene regulado que en los municipios donde no exista policía municipal, los cometidos de ésta serán ejercidos por el personal que desempeñe funciones de custodia y vigilancia de bienes, servicios e instalaciones?",
+      "Answer 1": "52.3.",
+      "Answer 2": "51.2.",
+      "Answer 3": "53.1.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "En cuanto a la incompatibilidad de las Fuerzas y Cuerpos de Seguridad podemos decir que:",
+      "Answer 1": "No está sujeto a compatibilidad ni con un segundo puesto de trabajo en el ámbito público ni en el ámbito privado.",
+      "Answer 2": "Está sujeto a incompatibilidad con un segundo puesto en el ámbito privado, pero es compatible con un segundo puesto en el ámbito público.",
+      "Answer 3": "Está sujeto a incompatibilidad con un segundo puesto en el ámbito público, pero es compatible con un segundo puesto en el ámbito privado.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 5.1b de la LO 2/1986, las Fuerzas y Cuerpos de Seguridad deben actuar con absoluta neutralidad política e imparcialidad:",
+      "Answer 1": "Se hallaren o no de servicio.",
+      "Answer 2": "En el cumplimiento de sus funciones.",
+      "Answer 3": "En todo momento.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La iniciación de procedimiento penal contra miembros de las Fuerzas y Cuerpos de Seguridad:",
+      "Answer 1": "No impedirá la incoación y tramitación de expedientes gubernativos o disciplinarios por los mismos hechos.",
+      "Answer 2": "No impedirá la incoación y tramitación de expedientes disciplinarios por los mismos hechos.",
+      "Answer 3": "Impedirá la incoación y tramitación de expedientes gubernativos o disciplinarios por los mismos hechos.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En el aspecto estatutario, la Ley Orgánica de Cuerpos y Fuerzas de Seguridad pretende configurar una organización policial basada en criterios de:",
+      "Answer 1": "Profesionalidad",
+      "Answer 2": "Profesionalidad y eficacia.",
+      "Answer 3": "Profesionalidad y eficiencia.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros de las Fuerzas y Cuerpos de Seguridad deberán utilizar las armas:",
+      "Answer 1": "Solamente cuando exista un riesgo racionalmente grave para su vida, su integridad física o la de terceras personas, o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana.",
+      "Answer 2": "Solamente si existe un riesgo racionalmente grave para la vida de terceros o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana.",
+      "Answer 3": "Solamente si existe un riesgo racionalmente grave para su integridad física o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Coordinar la formación profesional de las Policías Locales, mediante la creación de Escuelas de Formación de Mandos y de Formación Básica, es una competencia atribuida a:",
+      "Answer 1": "El Ministerio del Interior.",
+      "Answer 2": "El Ministerio de Administraciones Públicas.",
+      "Answer 3": "Las Comunidades Autónomas.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿De cuántas disposiciones finales consta la Ley Orgánica de Fuerzas y Cuerpos de Seguridad?",
+      "Answer 1": 6,
+      "Answer 2": 2,
+      "Answer 3": 4,
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En su actuación profesional, los miembros de las Fuerzas y Cuerpos de Seguridad, deben ajustarse a los principios de:",
+      "Answer 1": "Coordinación y colaboración.",
+      "Answer 2": "Subordinación y jerarquía.",
+      "Answer 3": "Jerarquía y coordinación.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Si un Policía causa un daño a un vehículo de un particular ajeno a la actuación que le ha llevado a usar el arma reglamentaria contra un peligroso y agresivo delincuente:",
+      "Answer 1": "Al realizar sus funciones, dentro de los límites legales, el particular debe soportar dicho daño, sin poder reclamar.",
+      "Answer 2": "Deberá indemnizarle personalmente.",
+      "Answer 3": "La Administración responderá de la lesión patrimonial producida.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "La seguridad pública es competencia exclusiva de:",
+      "Answer 1": "Ambas son correctas.",
+      "Answer 2": "Las Comunidades Autónomas y Corporaciones locales.",
+      "Answer 3": "El Estado.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De acuerdo con los principios básicos de actuación establecidos en la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, los miembros de las Fuerzas y Cuerpos de Seguridad, en el cumplimiento de sus funciones, deberán actuar:",
+      "Answer 1": "Con dignidad y sentido de discernimiento.",
+      "Answer 2": "Con total determinación y sometimiento al principio de jerarquía.",
+      "Answer 3": "Con absoluta neutralidad política e imparcialidad.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Cuando los miembros de las Fuerzas y Cuerpos de Seguridad observen la comisión de algún delito deberán actuar:",
+      "Answer 1": "Cuando las circunstancias así lo aconseje.",
+      "Answer 2": "Cuando sean requeridos para ello por los particulares.",
+      "Answer 3": "En todo momento.",
+      "Answer 4": " ",
+      "Answer": 3
+    }
+  ]

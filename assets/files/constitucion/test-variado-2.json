@@ -1,0 +1,266 @@
+[
+    {
+      "Title": "En la primera votación, para ser nombrado Presidente del Gobierno deberá ser otorgada por la Cámara correspondiente la confianza:",
+      "Answer 1": "a)  Por mayoría absoluta.",
+      "Answer 2": "b)  Por mayoría simple.",
+      "Answer 3": "c)  Por mayoría de dos tercios.",
+      "Answer 4": "d)  Por mayoría de tres quintos.",
+      "Answer": 1
+    },
+    {
+      "Title": "Si la acusación contra el Presidente o contra los demás miembros del Gobierno fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones:",
+      "Answer 1": "a)  Deberá ser aprobada por mayoría absoluta del Congreso, al margen del número de sus miembros que lo haya propuesto.",
+      "Answer 2": "b)  Sólo podrá ser planteada por la tercera parte de los miembros del Congreso.",
+      "Answer 3": "c)  Deberá ser aprobada por mayoría absoluta del Congreso, tras propuesta realizada por la parte de sus miembros que corresponde.",
+      "Answer 4": "d)  Sólo podrá ser planteada por la cuarta parte de los miembros del Congreso y del Senado.",
+      "Answer": 3
+    },
+    {
+      "Title": "La renovación parcial de miembros del Tribunal Constitucional se realiza cada:",
+      "Answer 1": "a)  Nueve años.",
+      "Answer 2": "b)  Seis años.",
+      "Answer 3": "c)  Tres años.",
+      "Answer 4": "d)  Cinco años.",
+      "Answer": 3
+    },
+    {
+      "Title": "La renovación por terceras partes cada tres años corresponde a los miembros:",
+      "Answer 1": "a)  Del Tribunal Constitucional.",
+      "Answer 2": "b)  Del Tribunal de Cuentas.",
+      "Answer 3": "c)  Del Consejo de Estado.",
+      "Answer 4": "d)  Del Consejo General del Poder Judicial.",
+      "Answer": 1
+    },
+    {
+      "Title": "Hablando de elección de Diputados del Congreso, a cada provincia española, corresponde elegir inicialmente:",
+      "Answer 1": "a)  Dos Diputados.",
+      "Answer 2": "b)  Cuatro Diputados.",
+      "Answer 3": "c)  Cuatro Diputados, excepto las islas mayores a las que corresponde tres.",
+      "Answer 4": "d)  Se asigna una representación mínima inicial a cada circunscripción, y se distribuyen los demás en proporción a la población.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En el Título de la Constitución se recogen los principios generales de la misma?",
+      "Answer 1": "a)  Título VIII.",
+      "Answer 2": "b)  Título preliminar.",
+      "Answer 3": "c)  Título I.",
+      "Answer 4": "d)  Título II.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Rey de España puede ser condenado por los Tribunales:",
+      "Answer 1": "a)  Previa denuncia del Consejo General del Poder Judicial.",
+      "Answer 2": "b)  Siempre que dichos actos sean contrarios a la Ley.",
+      "Answer 3": "c)  Siempre que los actos que realice sean llevados a cabo por el desempeño de las funciones que le son atribuidas por la Constitución.",
+      "Answer 4": "d)  Nunca, pues su persona es inviolable.",
+      "Answer": 4
+    },
+    {
+      "Title": "La Constitución Española garantiza:",
+      "Answer 1": "a)  La irretroactividad de las normas favorables no restrictivas de derechos individuales.",
+      "Answer 2": "b)  La irretroactividad de las disposiciones sancionadoras que limiten derechos individuales.",
+      "Answer 3": "c)  La irretroactividad de las disposiciones sancionadoras no favorables.",
+      "Answer 4": "d)  La irretroactividad de todas las normas jurídicas.",
+      "Answer": 3
+    },
+    {
+      "Title": "La disolución de las Cortes, cuando se va a proceder a la reforma de la Constitución, se luce en caso de:",
+      "Answer 1": "a)  Reforma por el procedimiento excepcional.",
+      "Answer 2": "b)  Cualquier tipo de reforma.",
+      "Answer 3": "c)  Reforma por el procedimiento ordinario.",
+      "Answer 4": "d)  Que así lo estime oportuno el Rey.",
+      "Answer": 1
+    },
+    {
+      "Title": " El control de la actividad económica y presupuestaria de las comunidades Autónomas será ostentado por:",
+      "Answer 1": "a)  El Tribunal de Cuentas.",
+      "Answer 2": "b)  El Gobierno central, previo dictamen del Consejo de Estado.",
+      "Answer 3": "c)  La Jurisdicción Contencioso Administrativa.",
+      "Answer 4": "d)  Al Consejo de Estado.",
+      "Answer": 1
+    },
+    {
+      "Title": " El recurso de amparo es resuelto por el/la:",
+      "Answer 1": "a)  Tribunal Supremo en pleno.",
+      "Answer 2": "b)  Sala Primera y Segunda de este Tribunal Constitucional.",
+      "Answer 3": "c)  Pleno del Tribunal Constitucional.",
+      "Answer 4": "d)  Sala Primera del Tribunal Constitucional, exclusivamente.",
+      "Answer": 2
+    },
+    {
+      "Title": " El Tribunal Supremo, con jurisdicción en toda España:",
+      "Answer 1": "a)  Sólo es el órgano jurisdiccional superior en los órdenes civil y penal.",
+      "Answer 2": "b)  No es el órgano judicial superior en materia contencioso administrativa, rango que corresponde a la Audiencia Nacional.",
+      "Answer 3": "c)  Es el órgano judicial superior en todos los órdenes.",
+      "Answer 4": "d)  No es el órgano judicial superior en el orden de las garantías constitucionales.",
+      "Answer": 4
+    },
+    {
+      "Title": " ¿Cuál es el máximo de candidatos que se pueden presentar por las asociaciones profesionales de jueces y magistrados?",
+      "Answer 1": "a)  El número de puestos a cubrir.",
+      "Answer 2": "b)  El triple del número de puestos a cubrir.",
+      "Answer 3": "c)  No existe número máximo.",
+      "Answer 4": "d)  El doble del número de puestos a cubrir.",
+      "Answer": 2
+    },
+    {
+      "Title": " ¿Cuál de las siguientes no es una jurisdicción especial?:",
+      "Answer 1": "a)  Constitucional",
+      "Answer 2": "b)  Penal",
+      "Answer 3": "c)  Militar",
+      "Answer 4": "d)  Tribunales consuetudinarios",
+      "Answer": 2
+    },
+    {
+      "Title": " El órgano legislativo de la Comunidad Autónoma es:",
+      "Answer 1": "a)  El Consejo legislativo",
+      "Answer 2": "b)  El Congreso autonómico",
+      "Answer 3": "c)  La Asamblea",
+      "Answer 4": "d)  El Senado",
+      "Answer": 3
+    },
+    {
+      "Title": " Las sentencias dictadas por el Tribunal Constitucional:",
+      "Answer 1": "a)  Tienen valor de cosa juzgada a partir del día siguiente a su publicación.",
+      "Answer 2": "b)  Tienen valor de cosa juzgada a partir del día siguiente al de su notificación.",
+      "Answer 3": "c)  No tienen valor de cosa juzgada.",
+      "Answer 4": "d) Tienen valor de cosa juzgada a partir del día siguiente al que se dicten.",
+      "Answer": 1
+    },
+    {
+      "Title": " Uno de los siguientes colectivos no podrá proporcionar miembros al Tribunal Constitucional:",
+      "Answer 1": "a)  Funcionarios Públicos.",
+      "Answer 2": "b)  Profesores de Universidad.",
+      "Answer 3": "c)  Abogados.",
+      "Answer 4": "d)  Jueces.",
+      "Answer": 4
+    },
+    {
+      "Title": " El Consejo General del Poder Judicial:",
+      "Answer 1": "a)  Propondrá a dos miembros del Tribunal Constitucional",
+      "Answer 2": "b)  Nombrará a un miembro del Tribunal Constitucional.",
+      "Answer 3": "c)  No propondrá miembro alguno del Tribunal Constitucional.",
+      "Answer 4": "d)  Nombrará a dos miembros del Tribunal Constitucional.",
+      "Answer": 1
+    },
+    {
+      "Title": " La base de la organización y funcionamiento del Poder Judicial español es el principio de:",
+      "Answer 1": "a)  Dependencia jerárquica y coordinación de funciones.",
+      "Answer 2": "b)  Coordinación jurisdiccional.",
+      "Answer 3": "c)  Unidad jurisdiccional.",
+      "Answer 4": "d)  Pluralidad jurisdiccional.",
+      "Answer": 3
+    },
+    {
+      "Title": " La organización territorial del Estado se regula en nuestra Constitución en su Título:",
+      "Answer 1": "a)  Noveno.",
+      "Answer 2": "b)  Sexto.",
+      "Answer 3": "c)  Séptimo.",
+      "Answer 4": "d)  Octavo.",
+      "Answer": 4
+    },
+    {
+      "Title": " La libertad ideológica, religiosa y de culto:",
+      "Answer 1": "a)  está garantizada sin ningún tipo de limitación.",
+      "Answer 2": "b)  está garantizada a las confesiones que tengan carácter estatal.",
+      "Answer 3": "c)  está garantizada sin más limitación, en sus manifestaciones, que las necesarias para el mantenimiento del orden público.",
+      "Answer 4": "d)  está garantizada excepto cuando estén declarados los estados de sitio y excepción.",
+      "Answer": 3
+    },
+    {
+      "Title": " El plazo mínimo de detención preventiva será:",
+      "Answer 1": "a)  de 72 horas.",
+      "Answer 2": "b)  de 48 horas.",
+      "Answer 3": "c)  el necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos.",
+      "Answer 4": "d)  de 24 horas.",
+      "Answer": 1
+    },
+    {
+      "Title": " El domicilio es inviolable:",
+      "Answer 1": "a)  excepto cuando la entrada se produzca con la presencia del titular.",
+      "Answer 2": "b)  excepto cuando exista resolución del ministerio fiscal.",
+      "Answer 3": "c)  excepto en caso de flagrante delito.",
+      "Answer 4": "d)  excepto en el caso de sospecha fundada de la policía.",
+      "Answer": 3
+    },
+    {
+      "Title": " El derecho de expresar y difundir libremente las ideas y opiniones tiene su límite en:",
+      "Answer 1": "a)  la corona.",
+      "Answer 2": "b)  los poderes públicos del estado.",
+      "Answer 3": "c)  los derechos reconocidos en el título i.",
+      "Answer 4": "d)  el poder judicial.",
+      "Answer": 3
+    },
+    {
+      "Title": " El derecho de reunión y manifestación:",
+      "Answer 1": "a)  necesita autorización previa de la autoridad.",
+      "Answer 2": "b)  no necesita autoriz previa las reuniones que se ejercitan en lugares de tránsito público.",
+      "Answer 3": "c)  siempre debe comunicarse previamente a la autoridad.",
+      "Answer 4": "d)  en las reuniones en recintos cerrados no puede haber delegados gubernativos.",
+      "Answer": 4
+    },
+    {
+      "Title": " Indique la respuesta incorrecta:",
+      "Answer 1": "a)  todos tienen derecho al juez ordinario predeterminado por la ley.",
+      "Answer 2": "b)  todos tienen derecho a no declarar contra sí mismos.",
+      "Answer 3": "c)  todos tienen derecho a que se limite el derecho de presunción de inocencia.",
+      "Answer 4": "d)  todos tienen derecho a no confesarse culpable.",
+      "Answer": 3
+    },
+    {
+      "Title": " Las penas privativas de libertad y los medios de seguridad estarán orientadas:",
+      "Answer 1": "a)  hacia la reeducación y reinserción social.",
+      "Answer 2": "b)  a la proporcionalidad de la mismas.",
+      "Answer 3": "c)  a la prevención general de las mismas.",
+      "Answer 4": "d)  a la restauración de la paz social.",
+      "Answer": 1
+    },
+    {
+      "Title": " Es obligatoria y gratuita:",
+      "Answer 1": "a)  la enseñanza pública en su grado medio.",
+      "Answer 2": "b)  la enseñanza básica.",
+      "Answer 3": "c)  las enseñanza universitaria.",
+      "Answer 4": "d)  la enseñanza secundaria.",
+      "Answer": 4
+    },
+    {
+      "Title": " Indique la afirmción incorrecta:",
+      "Answer 1": "a)  nadie podrá ser obligado a afiliarse a un sindicato.",
+      "Answer 2": "b)  todos tienen derecho a sindicarse libremente sin ningún tipo de limitación.",
+      "Answer 3": "c)  la libertad sindical comprende el derecho a fundar sindicatos.",
+      "Answer 4": "d)  la libertad sindical comprende el derecho a fundar organizaciones sindicales internacionales.",
+      "Answer": 2
+    },
+    {
+      "Title": " La ley no regulará:",
+      "Answer 1": "a)  las formas de matrimonio.",
+      "Answer 2": "b)  la desigualdad jurídica de los cónyuges.",
+      "Answer 3": "c)  la edad para contraer matrimonio.",
+      "Answer 4": "d)  las causas de separación y divorcio.",
+      "Answer": 2
+    },
+    {
+      "Title": " La ley que regule el ejercicio del derecho de huelga establecerá:",
+      "Answer 1": "a)  las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+      "Answer 2": "b)  la exclusión de este derecho a los funcionarios.",
+      "Answer 3": "c)  la exclusión de este derecho a las fuerzas y cuerpos de seguridad del estado.",
+      "Answer 4": "d)  la exclusión de este derecho cuando se declare el estado de alarma.",
+      "Answer": 1
+    },
+    {
+      "Title": " Las personas pueden ser privadas de sus bienes:",
+      "Answer 1": "a)  en ningún caso.",
+      "Answer 2": "b)  solamente por acuerdo de las cortes generales.",
+      "Answer 3": "c)  por real decreto del consejo de ministros.",
+      "Answer 4": "d)  por causa justificada de utilidad pública.",
+      "Answer": 4
+    },
+    {
+      "Title": " La regulación de la adopción de las medidas de conflicto colectivo incluirá garantías precisas:",
+      "Answer 1": "a)  para el diálogo sindical.",
+      "Answer 2": "b)  para asegurar la igualdad de las partes.",
+      "Answer 3": "c)  para asegurar el funcionamiento de los servicios esenciales de la comunidad.",
+      "Answer 4": "d)  para el ejercicio de los derechos en la empresa.",
+      "Answer": 3
+    }
+  ]

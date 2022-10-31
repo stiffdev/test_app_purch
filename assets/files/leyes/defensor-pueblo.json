@@ -1,0 +1,890 @@
+[
+    {
+      "Title": "El defensor del pueblo, ¿puede ser detenido?",
+      "Answer 1": "No, salvo que haya sido expedientado",
+      "Answer 2": "No, goza de inviolabilidad",
+      "Answer 3": "Si, en un solo caso",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El defensor del pueblo únicamente es responsable de su gestión ante:",
+      "Answer 1": "Las cortes generales",
+      "Answer 2": "El presidente del tribunal constitucional",
+      "Answer 3": "El gobierno en pleno",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué tipo de Disposición Legislativa regulará la institución del Defensor del Pueblo?:",
+      "Answer 1": "un Reglamento",
+      "Answer 2": "una Ley Orgánica",
+      "Answer 3": "una Ley Ordinaria",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El defensor del pueblo:",
+      "Answer 1": "Es la persona designada por las cortes para defender los intereses del estado",
+      "Answer 2": "La persona designada por las cortes para la defensa de los derechos comprendidos en el Titulo I de la constitución",
+      "Answer 3": "El representante de los ciudadanos ante el tribunal constitucional",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Una vez que el Defensor del Pueblo supervise la actividad de la Administración, ¿a qué órgano deberá de dar cuenta?:",
+      "Answer 1": "al Tribunal Constitucional",
+      "Answer 2": "al Poder Judicial",
+      "Answer 3": "al Poder Legislativo",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde declarar la vacante de Defensor del Pueblo cuando cese por actuar con notoria negligencia:",
+      "Answer 1": "A los Presidentes del Congreso y del Senado conjuntamente.",
+      "Answer 2": "A ambas Cámaras por mayoría de 3/5.",
+      "Answer 3": "A ambas Cámaras por mayoría de 2/3.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La duración del mandato del defensor del pueblo será de:",
+      "Answer 1": "6 años",
+      "Answer 2": "5 años",
+      "Answer 3": "4 años",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El defensor del pueblo:",
+      "Answer 1": "No recibe instrucciones de ninguna autoridad",
+      "Answer 2": "No esta sometido a mandato imperativo alguno",
+      "Answer 3": "Todas las respuestas anteriores son correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Proponer a los Plenos de ambas Cámaras el candidato a Defensor del Pueblo corresponde a",
+      "Answer 1": "La Comisión Mixta Congreso-Senado por mayoría 3/5.",
+      "Answer 2": "La Comisión Mixta Congreso-Senado por mayoría absoluta.",
+      "Answer 3": "La Comisión Mixta Congreso-Senado por mayoría simple.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Vacante el cargo se iniciará el procedimiento para el nombramiento de nuevo Defensor del Pueblo en el plazo:",
+      "Answer 1": "No superior a un mes.",
+      "Answer 2": "De 3 meses.",
+      "Answer 3": "De un mes",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo, respecto a la Administración Pública, podrá:",
+      "Answer 1": "Sugerir la modificación de los criterios utilizados para la producción de aquellos.",
+      "Answer 2": "Sugerir la modificación de los actos y resoluciones de la misma.",
+      "Answer 3": "Sugerir la modificación de las bases y fundamentos de los actos y resoluciones de la misma.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El candidato a Defensor del Pueblo será propuesto por:",
+      "Answer 1": "Las Cortes Generales.",
+      "Answer 2": "La Comisión Mixta Congreso - Senado.",
+      "Answer 3": "El Presidente del Congreso.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Podrá el Defensor del Pueblo proponer a las Cortes Generales modificaciones de la L. O. 3/1981?",
+      "Answer 1": "Si, a los dos años de la entrada en vigor de la presente Ley.",
+      "Answer 2": "Si, a los cinco años de la entrada en vigor de la presente Ley.",
+      "Answer 3": "No, pues no le corresponde la iniciativa legislativa.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del Pueblo deberá cesar, en toda situación de incompatibilidad que pudiere afectarle:",
+      "Answer 1": "Dentro de los quince días siguientes a su nombramiento y antes de tomar posesión.",
+      "Answer 2": "Dentro de los diez días siguientes a su nombramiento y antes de tomar posesión.",
+      "Answer 3": "Después de su nombramiento y con al menos veinte días de antelación a la toma de posesión.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del Pueblo será elegido por las Cortes Generales para un periodo de cinco años, y se dirigirá a las mismas a través de:",
+      "Answer 1": "La Diputación Permanente.",
+      "Answer 2": "Los Presidentes del Congreso y del Senado, respectivamente.",
+      "Answer 3": "La Comisión Mixta Congreso-Senado.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "De acuerdo con la L.O. 3/1981, el Defensor del Pueblo, su adjunto, o la persona en quien el delegue, podrán personarse en cualquier centro de la Administración pública, dependientes de la misma o afectos a un servicio público, para comprobar cuantos datos fueren menester, hacer las entrevistas personales pertinente o proceder al estudio de los expedientes y documentación necesaria:",
+      "Answer 1": "En la fase de comprobación e investigación de una queja o en expediente iniciado de oficio o por denuncia.",
+      "Answer 2": "En la fase de investigación de una queja o en expediente iniciado por denuncia.",
+      "Answer 3": "En la fase de comprobación e investigación de una queja o en expediente iniciado de oficio.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "La Comisión Mixta Congreso – Senado respecto a los Adjuntos del Defensor del Pueblo:",
+      "Answer 1": "Propone a los plenos de las Cámaras su nombramiento.",
+      "Answer 2": "Otorga su conformidad previa al nombramiento.",
+      "Answer 3": "Informa a los plenos de las Cámaras antes de su nombramiento.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "De acuerdo la L.O. 3/1981: En todos los casos, las autoridades y los funcionarios vendrán obligados a responder por escrito al Defensor del Pueblo en termino no superior al de:",
+      "Answer 1": "Un mes.",
+      "Answer 2": "3 meses.",
+      "Answer 3": "30 días.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Admitida la queja, el Defensor del Pueblo promoverá la oportuna investigación sumaria e informal para el esclarecimiento de los supuestos de la misma. En todo caso dará cuenta del contenido sustancial de la solicitud al organismo o a la dependencia administrativa procedente con el fin de que por su jefe se remita informe escrito, en el plazo máximo de:",
+      "Answer 1": "Quince días.",
+      "Answer 2": "Diez días.",
+      "Answer 3": "Veinte días.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El cese de un Adjunto al Defensor del Pueblo exigirá una propuesta razonada del Defensor del Pueblo, que habrá de ser aprobada por la Comisión mixta Congreso-Senado, de acuerdo con el mismo procedimiento y mayoría requerida para otorgar la conformidad previa para su nombramiento, y con audiencia del interesado, cuando el cese se produzca por:",
+      "Answer 1": "Haber sido condenado, mediante sentencia firme, por delito doloso.",
+      "Answer 2": "Incapacidad sobrevenida.",
+      "Answer 3": "Notoria negligencia en el cumplimiento de las obligaciones y deberes del cargo.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Propuesto el candidato a Defensor del Pueblo por la Comisión Mixta Congreso-Senado, se convocará, al Pleno del Congreso para que proceda a su elección, en término:",
+      "Answer 1": "Máximo de veinte días",
+      "Answer 2": "No inferior a diez días.",
+      "Answer 3": "De un mes.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Al Defensor del Pueblo se le podrán denegar documentos que considere necesarios para el desarrollo de su función, clasificados con el carácter de secretos de acuerdo con la Ley.",
+      "Answer 1": "Sí, previo acuerdo denegatorio del Consejo de Secretos Oficiales.",
+      "Answer 2": "Sí, previo acuerdo denegatorio del Consejo de Ministros.",
+      "Answer 3": "No, siempre que pudieran afectar de forma decisiva a la buena marcha de su investigación.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del Pueblo tiene competencia en el ámbito de la Administración Militar:",
+      "Answer 1": "No, ya que entrañaría una interferencia en el Mando de la Defensa Nacional.",
+      "Answer 2": "Sí, velando por el respeto de los derechos proclamados en el Título primero de la Constitución.",
+      "Answer 3": "Sí, velando por el respeto de los derechos proclamados en la Constitución y en la legislación militar.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "En cualquier caso, el Fiscal General del Estado informará al Defensor del Pueblo del trámite en que se hallen las actuaciones iniciadas a su instancia.",
+      "Answer 1": "Anualmente.",
+      "Answer 2": "Mensualmente.",
+      "Answer 3": "Periódicamente.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Admitida la queja, el Defensor del Pueblo promoverá la oportuna investigación:",
+      "Answer 1": "Sumaria e informal.",
+      "Answer 2": "Sumaria y preferente.",
+      "Answer 3": "Preferente y urgente.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De acuerdo con la L.O. 3/1981, de 6 de abril, el Defensor del Pueblo rechazará:",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Las quejas anónimas.",
+      "Answer 3": "Las quejas en las que advierta mala fe.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "No puede presentar una queja ante el Defensor del Pueblo:",
+      "Answer 1": "La autoridad administrativa en asuntos de su competencia.",
+      "Answer 2": "Un menor.",
+      "Answer 3": "Un incapacitado legalmente.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La autoridad o funcionario que obstaculizare la investigación del Defensor del Pueblo, Tribunal de Cuentas u órganos equivalentes de las Comunidades Autónomas, negándose o dilatando indebidamente el envío de los informes que éstos solicitaren o dificultando su acceso a los expedientes necesarios para tal investigación serán castigados con las mismas penas del delito de:",
+      "Answer 1": "Desobediencia y además con suspensión de empleo o cargo público de 6 meses a 2 años",
+      "Answer 2": "Obstrucción a la justicia y además con suspensión de empleo o cargo público de 6 meses a 2 años.",
+      "Answer 3": "Denegación de auxilio y además con inhabilitación especial de 1 a 2 años.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Será designado Defensor del Pueblo quien obtuviese una votación favorable de las 3/5 partes de los miembros del Congreso y posteriormente fuese ratificado por esta misma mayoría del Senado en un plazo:",
+      "Answer 1": "Máximo de diez días.",
+      "Answer 2": "Máximo de veinte días.",
+      "Answer 3": "Máximo de treinta días.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del Pueblo, es según la CE:",
+      "Answer 1": "El Alto Comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el Título Primero de la CE.",
+      "Answer 2": "El encargado de oponerse, en los juicios al Ministerio Fiscal",
+      "Answer 3": "El único competente para ejercer la acción popular prevista en el art. 125 de la CE.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Cuando el Defensor del Pueblo de la Unión Europea haya comprobado un caso de mala administración, lo pondrá en conocimiento de la institución interesada, que dispondrá, para exponer su posición al Defensor del Pueblo, de un plazo de:",
+      "Answer 1": "Un mes.",
+      "Answer 2": "Tres meses.",
+      "Answer 3": "Seis meses.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "No corresponde declarar la vacante de Defensor del Pueblo al Presidente del Congreso por:",
+      "Answer 1": "Expiración del plazo del mandato.",
+      "Answer 2": "Incapacidad sobrevenida.",
+      "Answer 3": "Muerte.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde declarar la vacante de Defensor del Pueblo a ambas Cámaras con mayoría 3/5 por:",
+      "Answer 1": "Muerte.",
+      "Answer 2": "Renuncia.",
+      "Answer 3": "Incapacidad sobrevenida.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "La coordinación de las relaciones del departamento del Interior con el Defensor del Pueblo y el Comité europeo para la prevención de la tortura y de las penas o tratos inhumanos y degradantes corresponde a:",
+      "Answer 1": "Dirección General de Relaciones Informativas y Sociales.",
+      "Answer 2": "La Secretaría General Técnica.",
+      "Answer 3": "Subdirección General de Estudios y Relaciones Institucionales.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde declarar la vacante de Defensor del Pueblo en el supuesto de renuncia a:",
+      "Answer 1": "El Presidente del Congreso.",
+      "Answer 2": "Los Presidentes del Congreso y del Senado conjuntamente.",
+      "Answer 3": "La Comisión Mixta Congreso-Senado por mayoría simple.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo, cuando entienda que un documento declarado secreto y no remitido por la Administración pudiera afectar de forma decisiva a la buena marcha de su investigación, el Defensor del Pueblo lo pondrá en conocimiento de:",
+      "Answer 1": "La Comisión Mixta Congreso-Senado.",
+      "Answer 2": "La autoridad judicial correspondiente.",
+      "Answer 3": "El Consejo de Ministros.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo está auxiliado por un Adjunto Primero y un Adjunto Segundo, que le sustituirán por ese orden en los supuestos de imposibilidad temporal y cese y que, serán nombrados por:",
+      "Answer 1": "El propio Defensor del Pueblo, previa conformidad de las Cámaras.",
+      "Answer 2": "El propio Defensor del Pueblo, oída la Comisión Mixta Congreso/ Senado.",
+      "Answer 3": "Las Cortes Generales, previa conformidad del Defensor del Pueblo.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo:",
+      "Answer 1": "Es designado por el Rey, dando cuenta de su actividad a las Cortes Generales.",
+      "Answer 2": "Es designado por el Congreso de los Diputados, dando cuenta de su actividad al Rey.",
+      "Answer 3": "Es designado por las Cortes Generales, a las que dará cuenta.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Ante quién debe rendir cuenta el Defensor del Pueblo?",
+      "Answer 1": "Ante el Gobierno y la Administración.",
+      "Answer 2": "Ante las Cortes Generales.",
+      "Answer 3": "Ante los Tribunales y el Congreso de los Diputados.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿De quién recibe órdenes el Defensor del Pueblo?",
+      "Answer 1": "De las Cortes Generales.",
+      "Answer 2": "Del Gobierno.",
+      "Answer 3": "No está sometido a mandato imperativo.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El órgano jurisdiccional competente para exigir responsabilidad penal al Defensor del Pueblo es el/la:",
+      "Answer 1": "El Defensor del Pueblo está exento de Responsabilidad Penal",
+      "Answer 2": "Tribunal Constitucional",
+      "Answer 3": "Sala II del Tribunal Supremo",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál es el origen de la figura del Defensor del Pueblo?",
+      "Answer 1": "El Ombudsman.",
+      "Answer 2": "Los Tribunales de Honor.",
+      "Answer 3": "Los tribunales consuetudinarios.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos adjuntos asisten al Defensor del Pueblo?",
+      "Answer 1": "Dos.",
+      "Answer 2": "Tres",
+      "Answer 3": "Cuatro",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo actúa como alto comisionado:",
+      "Answer 1": "De las Cortes Generales.",
+      "Answer 2": "Del pueblo.",
+      "Answer 3": "Del Congreso de los Diputados.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Las quejas que reciba el Defensor del Pueblo en cuanto al funcionamiento de la Administración de Justicia deben dirigirlas al:",
+      "Answer 1": "Ministerio Fiscal.",
+      "Answer 2": "Ministerio de Justicia.",
+      "Answer 3": "Tribunal Constitucional.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Por qué tipo de mayoría se adoptan las decisiones en la Comisión Mixta Congreso- Senado para las relaciones con el Defensor del Pueblo?",
+      "Answer 1": "Por mayoría de 3/5.",
+      "Answer 2": "Por mayoría absoluta.",
+      "Answer 3": "Por mayoría simple.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En el ejercicio de sus funciones, el Defensor del Pueblo:",
+      "Answer 1": "Podrá supervisar la actividad de la Administración.",
+      "Answer 2": "Está obligado a supervisar la actividad de los ciudadanos",
+      "Answer 3": "En el ejercicio de sus funciones podrá realizar averiguaciones sin contar, cuando sea pertinente, con autorización judicial.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo tomará posesión de su cargo ante las Mesas de ambas Cámaras reunidas conjuntamente:",
+      "Answer 1": "prestando promesa de fiel desempeño de su función",
+      "Answer 2": "prestando juramento de fiel desempeño de su función",
+      "Answer 3": "prestando juramento o promesa de fiel desempeño de su función",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién designa al Defensor del Pueblo?",
+      "Answer 1": "las Cortes Generales",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "el Congreso de los Diputados",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Vacante el cargo de Defensor del Pueblo se iniciará el procedimiento para el nombramiento de nuevo Defensor del Pueblo en plazo_________",
+      "Answer 1": "no superior a un mes",
+      "Answer 2": "no superior a veinte días",
+      "Answer 3": "no superior a quince días",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo cesará por alguna de las siguientes causas",
+      "Answer 1": "Ambas son correctas",
+      "Answer 2": "Por muerte o por incapacidad sobrevenida",
+      "Answer 3": "Por expiración del plazo de su nombramiento",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo será elegido por las Cortes Generales para un periodo de",
+      "Answer 1": "6 años",
+      "Answer 2": "5 años",
+      "Answer 3": "4 años",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del pueblo de dirigirá a las Cortes Generales a través de",
+      "Answer 1": "Ninguna es correcta",
+      "Answer 2": "Los Presidentes del Congreso y del senado, respectivamente",
+      "Answer 3": "Comisión Mixta Congreso-Senado",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La vacante en el cargo se declarará por el Presidente del Congreso en los casos de muerte, renuncia y expiración del plazo del mandato. En los demás casos se decidirá, por ___________ de los componentes de cada Cámara, mediante debate y previa audiencia del interesado",
+      "Answer 1": "mayoría de las tres quintas partes",
+      "Answer 2": "mayoría absoluta",
+      "Answer 3": "mayoría simple",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos capítulos tiene el Título I de la LO 3/81 del Defensor del Pueblo?",
+      "Answer 1": 4,
+      "Answer 2": 2,
+      "Answer 3": 3,
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En los casos de muerte, cese o incapacidad temporal o definitiva del Defensor del Pueblo y en tanto no procedan las Cortes Generales a una nueva designación desempeñarán sus funciones:",
+      "Answer 1": "Ninguna es correcta",
+      "Answer 2": "conjuntamente, los Adjuntos al Defensor del Pueblo.",
+      "Answer 3": "interinamente, en su propio orden, los Adjuntos al Defensor del Pueblo.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién acreditará  el nombramiento del Defensor del Pueblo que se publicará en el «Boletín Oficial del Estado»?",
+      "Answer 1": "El Gobierno",
+      "Answer 2": "Las Cortes Generales",
+      "Answer 3": "Los Presidentes del Congreso y del Senado",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Defensor del pueblo ejercerá las funciones que le encomienda",
+      "Answer 1": "la presente Ley",
+      "Answer 2": "ambas son correctas",
+      "Answer 3": "la Constitución",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La vacante en el cargo se declarará por ____________ en los casos de muerte, renuncia y expiración del plazo del mandato",
+      "Answer 1": "las Cortes Generales",
+      "Answer 2": "el Presidente del Congreso y el Senado en sesión conjunta",
+      "Answer 3": "el Presidente del Congreso",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Defensor del Pueblo (señala la incorrecta)",
+      "Answer 1": "no estará sujeto a mandato imperativo alguno",
+      "Answer 2": "No hay ninguna incorrecta",
+      "Answer 3": "No recibirá instrucciones de ninguna Autoridad",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién nombre a los adjuntos?",
+      "Answer 1": "el Defensor del Pueblo",
+      "Answer 2": "el Presidentes del Congreso",
+      "Answer 3": "las Cortes Generales",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo es ________________ designado por éstas para la defensa de los derechos comprendidos en el Título I de la Constitución",
+      "Answer 1": "el alto comisionado de las Cortes Generales",
+      "Answer 2": "el alto comisionado del Gobierno",
+      "Answer 3": "el alto comisionado del Congreso de los Diputados",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cómo se llama el Título I de la LO 3/81 del Defensor del Pueblo?",
+      "Answer 1": "Preliminar",
+      "Answer 2": "Nombramiento, cese y condiciones",
+      "Answer 3": "Disposiciones Generales",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los acuerdos de la Comisión Mixta Congreso-Senado se adoptarán por",
+      "Answer 1": "mayoría simple",
+      "Answer 2": "mayoría ambosluta",
+      "Answer 3": "mayoría de 3/5",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo no podrá ser detenido ni retenido sino en caso de flagrante delito, correspondiendo la decisión sobre su inculpación, prisión, procesamiento y juicio exclusivamente a ________",
+      "Answer 1": "Tribunal Constitucional",
+      "Answer 2": "Ministerio Fiscal",
+      "Answer 3": "la Sala de lo Penal del Tribunal Supremo",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Defensor del Pueblo es el alto comisionado de las Cortes Generales designado por éstas para la defensa de",
+      "Answer 1": "los derechos comprendidos en el Título I de la Constitución",
+      "Answer 2": "los derechos comprendidos en el Título I, Capítulo I de la Constitución",
+      "Answer 3": "Ninguna es correcta",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo estará auxiliado por:",
+      "Answer 1": "Adjunto Primero, un Adjunto Segundo y un Adjunto Tercero",
+      "Answer 2": "un Adjunto Primero y un Adjunto Segundo",
+      "Answer 3": "un Adjunto",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién Podrá dirigirse al Defensor del Pueblo?",
+      "Answer 1": "toda persona natural  que invoque un interés legítimo",
+      "Answer 2": "toda persona jurídica que invoque un interés legítimo",
+      "Answer 3": "toda persona natural o jurídica que invoque un interés legítimo",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Todas las actuaciones del Defensor del Pueblo son gratuitas para el interesado y",
+      "Answer 1": "será preceptiva la asistencia de Letrado ni de Procurador. De toda queja se acusará recibo.",
+      "Answer 2": "no será preceptiva la asistencia de Letrado ni de Procurador. De toda queja se acusará recibo.",
+      "Answer 3": "será preceptiva la asistencia de Letrado pero no de Procurador. De toda queja se acusará recibo.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La declaración de los estados de excepción o de sitio",
+      "Answer 1": "interrumpirán la actividad del Defensor del Pueblo, ni el derecho de los ciudadanos de acceder al mismo, sin perjuicio de lo dispuesto en el artículo cincuenta y seis de la Constitución",
+      "Answer 2": "interrumpirán la actividad del Defensor del Pueblo, ni el derecho de los ciudadanos de acceder al mismo, sin perjuicio de lo dispuesto en el artículo cincuenta y cinco de la Constitución",
+      "Answer 3": "no interrumpirán la actividad del Defensor del Pueblo, ni el derecho de los ciudadanos de acceder al mismo, sin perjuicio de lo dispuesto en el artículo cincuenta y cinco de la Constitución",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Todos los poderes públicos están obligados a auxiliar, con carácter _______________, al Defensor del Pueblo en sus investigaciones e inspecciones",
+      "Answer 1": "preferente",
+      "Answer 2": "preferente y urgente",
+      "Answer 3": "preferente y prioritario",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del Pueblo rechazará en todo caso:",
+      "Answer 1": "las quejas anónimas",
+      "Answer 2": "ambas son correctas",
+      "Answer 3": "las que advierta mala fe, carencia de fundamento, inexistencia de pretensión",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Las atribuciones del Defensor del Pueblo se extienden:",
+      "Answer 1": "a la actividad de los ministros",
+      "Answer 2": "a la actividad de los funcionarios y cualquier persona que actúe al servicio de las Administraciones públicas",
+      "Answer 3": "ambas son correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Admitida la queja, el Defensor del Pueblo promoverá la oportuna investigación sumaria e informal para el esclarecimiento de los supuestos de la misma. En todo caso dará cuenta del contenido sustancial de la solicitud al Organismo o a la Dependencia administrativa procedente con el fin de que por su Jefe en el plazo máximo de ______________, se remita informe escrito. Tal plazo será ampliable cuando concurran circunstancias que lo aconsejen a juicio del Defensor del Pueblo",
+      "Answer 1": "quince días",
+      "Answer 2": "veinte días",
+      "Answer 3": "un mes",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo podrá solicitar a _______________________ todos los documentos que considere necesarios para el desarrollo de su función, incluidos aquéllos clasificados con el carácter de secretos de acuerdo con la ley. En este último supuesto la no remisión de dichos documentos deberá ser acordada por el Consejo de Ministros y se acompañará una certificación acreditativa del acuerdo denegatorio",
+      "Answer 1": "los poderes públicos",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "las Cortes",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En cualquier caso, el Fiscal General del Estado informará ________________ al Defensor del Pueblo, o cuando éste lo solicite, del trámite en que se hallen las actuaciones iniciadas a su instancia",
+      "Answer 1": "anualmente",
+      "Answer 2": "mensualmente",
+      "Answer 3": "periódicamente",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Defensor del Pueblo podrá iniciar y proseguir ____________________, cualquier investigación conducente al esclarecimiento de los actos y resoluciones de la Administración pública y sus agentes, en relación con los ciudadanos, a la luz de lo dispuesto en el artículo ciento tres, uno, de la Constitución, y el respeto debido a los Derechos proclamados en su Título primero",
+      "Answer 1": "de oficio o a petición de parte",
+      "Answer 2": "a petición de parte",
+      "Answer 3": "de oficio",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La actividad del Defensor del Pueblo se verá interrumpida en los casos en que",
+      "Answer 1": "las Cortes Generales no se encuentren reunidas",
+      "Answer 2": "las Cortes Generales hubieren sido disueltas o hubiere expirado su mandato",
+      "Answer 3": "ninguna es correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Cuando el Defensor del Pueblo, en razón del ejercicio de las funciones propias de su cargo, tenga conocimiento de una conducta o hechos presumiblemente delictivos lo pondrá de inmediato en conocimiento del _____________",
+      "Answer 1": "Ambas son correctas",
+      "Answer 2": "Juzgado competente",
+      "Answer 3": "Fiscal General del Estado",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Cuando la queja a investigar afectare a la conducta de las personas al servicio de la Administración, en relación con la función que desempeñan, el Defensor del Pueblo dará cuenta de la misma al afectado y a su inmediato superior u Organismo de quien aquél dependiera. El afectado responderá por escrito, y con la aportación de cuantos documentos y testimonios considere oportunos, en el plazo que se le haya fijado, que en ningún caso será inferior a _______________________, pudiendo ser prorrogado, a instancia de parte, por la mitad del concedido",
+      "Answer 1": "quince días",
+      "Answer 2": "diez días",
+      "Answer 3": "un mes",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién No podrá presentar quejas ante el Defensor del Pueblo’",
+      "Answer 1": "ninguna es correcta",
+      "Answer 2": "cualquier ciudadano",
+      "Answer 3": "ninguna autoridad administrativa en asuntos de su competencia",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cómo se llama el Título 2 de la LO 3/81?",
+      "Answer 1": "Del procedimiento",
+      "Answer 2": "De las resoluciones",
+      "Answer 3": "Nombramiento, cese y condiciones",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Toda queja se presentará firmada por el interesado, con indicación de su nombre, apellidos y domicilio, en escrito razonado en papel común y en el plazo máximo ________________, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma",
+      "Answer 1": "de un año",
+      "Answer 2": "de seis meses",
+      "Answer 3": "de dos años",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo, con ocasión de sus investigaciones, podrá formular a las autoridades y funcionarios de las Administraciones Públicas_________________ de sus deberes legales y sugerencias para la adopción de nuevas medidas",
+      "Answer 1": "ambas son correctas",
+      "Answer 2": "advertencias",
+      "Answer 3": "recomendaciones y recordatorios",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Si las actuaciones se hubiesen realizado con ocasión de servicios prestados por particulares en virtud de acto administrativo habilitante, el Defensor del Pueblo podrá instar de las autoridades administrativas competentes el ejercicio de sus potestades: (señala la incorrecta)",
+      "Answer 1": "de sanción",
+      "Answer 2": "de inspección",
+      "Answer 3": "de investigación",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Un resumen del informe será expuesto ___________________ por el Defensor del Pueblo ante los Plenos de ambas Cámaras, pudiendo intervenir los grupos parlamentarios a efectos de fijar su postura",
+      "Answer 1": "oralmente",
+      "Answer 2": "verbalmente",
+      "Answer 3": "por escrito",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos capítulos tiene el Título 3 de la Ley del Defensor del Pueblo?",
+      "Answer 1": 3,
+      "Answer 2": 1,
+      "Answer 3": "Ninguno",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cómo se llama el Título 3 de la Ley del Defensor del Pueblo?",
+      "Answer 1": "Medios personales y materiales",
+      "Answer 2": "De las resoluciones",
+      "Answer 3": "Del procedimiento",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del Pueblo en su informe anual dará cuenta",
+      "Answer 1": "del número y tipo de quejas presentadas; de aquellas que hubiesen sido rechazadas y sus causas",
+      "Answer 2": "de las quejas que fueron objeto de investigación y el resultado de las mismas, con especificación de las sugerencias o recomendaciones admitidas por las Administraciones Públicas",
+      "Answer 3": "ambas son correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Defensor del Pueblo dará cuenta ____________ a las Cortes Generales de la gestión realizada en un informe que presentará ante las mismas cuando se hallen reunidas en periodo ordinario de sesiones",
+      "Answer 1": "mensualmente",
+      "Answer 2": "anualmente",
+      "Answer 3": "periódicamente",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿El Defensor del Pueblo es competente para modificar o anular los actos y resoluciones de la Administración Pública?",
+      "Answer 1": "Ambas son correctas",
+      "Answer 2": "Pero, podrá, sin embargo, sugerir la modificación de los criterios utilizados para la producción de aquéllos",
+      "Answer 3": "No.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo está legitimado para interponer los recursos de inconstitucionalidad y de amparo, de acuerdo con lo dispuesto en (señala la incorrecta)",
+      "Answer 1": "en la Constitución",
+      "Answer 2": "en la presente Ley",
+      "Answer 3": "en la Ley Orgánica del Tribunal Constitucional",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "como consecuencia de sus investigaciones llegase al convencimiento de que el cumplimiento riguroso de la norma puede provocar situaciones injustas o perjudiciales para los administrados, podrá sugerir ____________________ la modificación de la misma",
+      "Answer 1": "ambas son correctas",
+      "Answer 2": "a la Administración",
+      "Answer 3": "al órgano legislativo competente",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo comunicará el resultado positivo o negativo de sus investigaciones a _______________ acerca de la cual se haya suscitado",
+      "Answer 1": "la autoridad judicial",
+      "Answer 2": "al funcionario o dependencia administrativa",
+      "Answer 3": "Ninguna es correcta",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "respecto a podrá las advertencias, recomendaciones, recordatorios formuladas a las autoridades y funcionarios de las Administraciones Públicas  por el Defensor del Pueblo. las autoridades y los funcionarios vendrán obligados a responder por escrito en término______________",
+      "Answer 1": "no superior al diez días",
+      "Answer 2": "no superior al de quince días",
+      "Answer 3": "no superior al de un mes",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Disposición transitoria de la LO 3/81, a los _________________ de entrada en vigor de la presente Ley, el Defensor del Pueblo podrá proponer a las Cortes Generales y en informe razonado aquellas modificaciones que entienda que deben realizarse a la misma",
+      "Answer 1": "cinco años",
+      "Answer 2": "tres años",
+      "Answer 3": "diez años",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Disposición final de la presente Ley, es el órgano de cooperación técnica y jurídica en el ejercicio de las funciones propias del Mecanismo Nacional de Prevención, que será presidido por el Adjunto en el que el Defensor del Pueblo delegue las funciones previstas en esta disposición:",
+      "Answer 1": "Consejo Nacional",
+      "Answer 2": "Consejo Asesor",
+      "Answer 3": "Consejo de Estado",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La dotación económica necesaria para el funcionamiento de la institución constituirá una partida dentro de los Presupuestos",
+      "Answer 1": "Generales del Estado",
+      "Answer 2": "De las Cortes Generales",
+      "Answer 3": "Ambas son correctas",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo podrá designar el Defensor del Pueblo a los asesores necesarios para el ejercicio de sus funciones, de acuerdo con el Reglamento y dentro de los límites presupuestarios?",
+      "Answer 1": "libremente",
+      "Answer 2": "libremente, dando cuenta al Gobierno",
+      "Answer 3": "libremente, dando cuenta a las Cortes Generales",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Disposición final única, El Defensor del Pueblo ejercerá las funciones del Mecanismo Nacional de Prevención de la Tortura de conformidad con",
+      "Answer 1": "ambas son correctas",
+      "Answer 2": "la Constitución y la presente Ley",
+      "Answer 3": "el Protocolo facultativo de la Convención contra la tortura u otros tratos o penas crueles, inhumanos o degradantes",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Las personas que se encuentren al servicio del Defensor del Pueblo, y mientras permanezcan en el mismo, se considerarán como",
+      "Answer 1": "persona al servicio de las Cortes",
+      "Answer 2": "auxiliares",
+      "Answer 3": "adjuntos",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuándo cesaran los adjuntos y asesores del Defensor del Pueblo?",
+      "Answer 1": "automáticamente en el momento de la toma de posesión de un nuevo Defensor del Pueblo destinado por las Cortes",
+      "Answer 2": "por inhabilitación del Defensor del Pueblo.",
+      "Answer 3": "ambas son correctas.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cómo se llama el Título 4 de la LO 3/81?",
+      "Answer 1": "Ninguna es correcta",
+      "Answer 2": "Medios personales y materiales",
+      "Answer 3": "De las resoluciones",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuántos capítulos tiene el Título 4 de la LO 3/81?",
+      "Answer 1": "Ninguno",
+      "Answer 2": 1,
+      "Answer 3": 2,
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Defensor del Pueblo es ________________ designado por éstas para la defensa de los derechos comprendidos en el Título I de la Constitución",
+      "Answer 1": "el alto comisionado de las Cortes Generales",
+      "Answer 2": "el alto comisionado del Gobierno",
+      "Answer 3": "el alto comisionado del Congreso de los Diputados",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Vacante el cargo de Defensor del Pueblo se iniciará el procedimiento para el nombramiento de nuevo Defensor del Pueblo en plazo_________",
+      "Answer 1": "no superior a quince días",
+      "Answer 2": "no superior a veinte días",
+      "Answer 3": "no superior a un mes",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Defensor del Pueblo deberá cesar, dentro de los _____________ a su nombramiento y antes de tomar posesión, en toda situación de incompatibilidad que pudiera afectarle, entendiéndose en caso contrario que no acepta el nombramiento",
+      "Answer 1": "diez días siguientes",
+      "Answer 2": "veinte días siguientes",
+      "Answer 3": "quince días siguientes",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Defensor del Pueblo cesará por alguna de las siguientes causas",
+      "Answer 1": "Por expiración del plazo de su nombramiento",
+      "Answer 2": "Por muerte o por incapacidad sobrevenida",
+      "Answer 3": "Ambas son correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántos capítulos tiene el Título I de la LO 3/81 del Defensor del Pueblo?",
+      "Answer 1": 2,
+      "Answer 2": 4,
+      "Answer 3": 3,
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "El Defensor del Pueblo será elegido por las Cortes Generales para un periodo de",
+      "Answer 1": "4 años",
+      "Answer 2": "5 años",
+      "Answer 3": "6 años",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se llama el Título I de la LO 3/81 del Defensor del Pueblo?",
+      "Answer 1": "Preliminar",
+      "Answer 2": "Nombramiento, cese y condiciones",
+      "Answer 3": "Disposiciones Generales",
+      "Answer 4": " ",
+      "Answer": 2
+    }
+  ]

@@ -1,0 +1,242 @@
+[
+    {
+      "Title": "¿Cuál es el número mínimo de Senadores necesario para constituir Grupo Parlamentario en el Senado?",
+      "Answer 1": "a)  10 Senadores.",
+      "Answer 2": "b)  18 Senadores.",
+      "Answer 3": "c)  20 Senadores.",
+      "Answer 4": "d)  15 Senadores.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los actos del Rey serán refrendados por:",
+      "Answer 1": "a)  El Congreso.",
+      "Answer 2": "b)  Las Cortes Generales.",
+      "Answer 3": "c)  El Consejo General del Poder Judicial.",
+      "Answer 4": "d)  El Presidente del Gobierno y, en su caso, por los Ministros competentes.",
+      "Answer": 4
+    },
+    {
+      "Title": "El derecho a entrar y salir de España:",
+      "Answer 1": "a)  Puede ser limitado a los españoles por motivos ideológicos.",
+      "Answer 2": "b)  Puede ser limitado a los españoles por motivos políticos.",
+      "Answer 3": "c)  No podrá ser limitado por motivos políticos e ideológicos.",
+      "Answer 4": "d)  Puede ser limitado a los españoles por motivos económicos y culturales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuera reconocida por las Cortes Generales:",
+      "Answer 1": "a)  Será destituido automáticamente del título de Rey.",
+      "Answer 2": "b)  Entrará a ejercer Inmediatamente la regencia el Príncipe heredero de la Corona si fuere mayor de edad.",
+      "Answer 3": "c)  Entrará a ejercer inmediatamente la regencia la reina consorte.",
+      "Answer 4": "d)  Ejercerá la regencia provisionalmente, el Presidente del Gobierno de la Nación.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué artículo de la Constitución española establece la igualdad de todos los españoles ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, etc. ?",
+      "Answer 1": "a)  Artículo 12.",
+      "Answer 2": "b)  Artículo 10.",
+      "Answer 3": "c)  Artículo 14.",
+      "Answer 4": "d)  Artículo 30.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los restantes miembros del Gobierno, distintos a su Presidente:",
+      "Answer 1": "a)  Serán nombrados y separados por el Rey a propuesta del Presidente del Gobierno.",
+      "Answer 2": "b)  Serán nombrados y separados por el Rey con el refrendo del Presidente del Congreso.",
+      "Answer 3": "c)  Serán nombrados y separados por el Presidente del Gobierno con el refrendo del Rey.",
+      "Answer 4": "d)  Todas las otras respuestas son falsas.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién representa al Gobierno?:",
+      "Answer 1": "a)  El Ministro portavoz del Gobierno",
+      "Answer 2": "b)  El Ministro de la Presidencia",
+      "Answer 3": "c)  El Presidente",
+      "Answer 4": "d)  Los Ministros",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué mayoría es necesario alcanzar para entender otorgada la confianza en un proceso de cuestión de confianza?:",
+      "Answer 1": "a)  Mayoría de 2/3",
+      "Answer 2": "b)  Mayoría absoluta",
+      "Answer 3": "c)  Mayoría simple",
+      "Answer 4": "d)  Mayoría de 1/3",
+      "Answer": 3
+    },
+    {
+      "Title": "En la aprobación por el Consejo de Ministros de los Reglamentos de desarrollo de las Leyes, debe recaer previo dictamen del/de la:",
+      "Answer 1": "a)  Comisión Delegada del Gobierno competente por razón de la materia.",
+      "Answer 2": "b)  Ministros competente por razón de la materia.",
+      "Answer 3": "c)  Consejo de Estado.",
+      "Answer 4": "d)  Ministros de Administraciones Públicas.",
+      "Answer": 3
+    },
+    {
+      "Title": " ¿Cuál de las siguientes funciones no está asignada al Consejo de Ministros?:",
+      "Answer 1": "a)  Aprobar los decretos leyes",
+      "Answer 2": "b)  Aprobar el proyecto de ley de presupuestos generales del Estado",
+      "Answer 3": "c)  Declarar el estado de sitio",
+      "Answer 4": "d)  Remitir al Congreso o, en su caso, al Senado proyectos de Ley",
+      "Answer": 3
+    },
+    {
+      "Title": " Son derechos fuertes:",
+      "Answer 1": "a)  El derecho a la libre elección de profesión y oficio, el derecho a la libertad sindical, derecho a la huelga.",
+      "Answer 2": "b)  Pueden destacarse el principio de igualdad, el derecho a la negociación colectiva, derecho a la vida ya la integridad física.",
+      "Answer 3": "c)  Todas las otras respuestas son verdaderas.",
+      "Answer 4": "d)  Aquellos que por su importancia social y política se dotan de las mayores garantías.",
+      "Answer": 4
+    },
+    {
+      "Title": " ¿Cuál de las siguientes no es una característica de nuestra Constitución?",
+      "Answer 1": "a)  Es flexible.",
+      "Answer 2": "b)  Es corta.",
+      "Answer 3": "c)  Ninguna de las otras respuestas es característica del Texto Constitucional.",
+      "Answer 4": "d)  Es más ideológica que pragmática.",
+      "Answer": 3
+    },
+    {
+      "Title": " Una de las siguientes afirmaciones no es cierta:",
+      "Answer 1": "a)  Es preciso ser mayor de edad para ejercer la regencia.",
+      "Answer 2": "b)  Es preciso ser español para ejercer la regencia.",
+      "Answer 3": "c)  La regencia se ejercerá en nombre del propio Regente, al estar inhabilitado el titular de la Corona.",
+      "Answer 4": "d)  La regencia se ejercerá por mandato constitucional.",
+      "Answer": 3
+    },
+    {
+      "Title": " A la reforma de la Constitución dedica ésta su título:",
+      "Answer 1": "a)  Octavo.",
+      "Answer 2": "b)  Ninguno.",
+      "Answer 3": "c)  Noveno.",
+      "Answer 4": "d)  Décimo.",
+      "Answer": 4
+    },
+    {
+      "Title": " La propuesta al Rey para que este nombre al Presidente del Tribunal Constitucional partirá:",
+      "Answer 1": "a)  Del Tribunal Constitucional en Pleno.",
+      "Answer 2": "b)  De las dos terceras partes de los miembros del Tribunal Constitucional.",
+      "Answer 3": "c)  Del Congreso de los Diputados.",
+      "Answer 4": "d)  Del Consejo General del Poder Judicial.",
+      "Answer": 1
+    },
+    {
+      "Title": " ¿Por qué tipo de sufragio se elige a los Diputados autonómicos?",
+      "Answer 1": "a)  Por sufragio universal igual, libre, directo y secreto, en la forma establecida por el derecho",
+      "Answer 2": "b)  Por sufragio universal igual, libre, directo y secreto, en la forma establecida por la Constitución",
+      "Answer 3": "c)  Por sufragio universal igual, libre, directo y secreto, en la forma establecida por el Gobierno",
+      "Answer 4": "d)  Por sufragio universal igual, libre, directo y secreto, en la forma establecida por la ley",
+      "Answer": 4
+    },
+    {
+      "Title": " El plazo de ampliación inicial de competencias era de:",
+      "Answer 1": "a)  Cinco años",
+      "Answer 2": "b)  Tres años",
+      "Answer 3": "c)  Cuatro años",
+      "Answer 4": "d)  Dos años",
+      "Answer": 1
+    },
+    {
+      "Title": " Se reconoce autonomía en la Constitución española a:",
+      "Answer 1": "a)  A las nacionalidades y comunidades autónomas",
+      "Answer 2": "b)  A las regiones y a las nacionalidades",
+      "Answer 3": "c)  A las regiones",
+      "Answer 4": "d)  A las comunidades autónomas y a las regiones",
+      "Answer": 2
+    },
+    {
+      "Title": " ¿Cómo se denomina generalmente, al órgano de gobierno de la Comunidad Autónoma?",
+      "Answer 1": "a)  Consejo.",
+      "Answer 2": "b)  Consejo de Gobierno.",
+      "Answer 3": "c)  Consejo ejecutivo.",
+      "Answer 4": "d)  Consejo colegiado.",
+      "Answer": 2
+    },
+    {
+      "Title": " ¿Qué artículo del Título I recoge el principio de igualdad jurídica de los españoles ante la ley?",
+      "Answer 1": "a)  El artículo 12.",
+      "Answer 2": "b)  El artículo 16.",
+      "Answer 3": "c)  El artículo 14.",
+      "Answer 4": "d)  El artículo 11.",
+      "Answer": 3
+    },
+    {
+      "Title": " El Tribunal de Cuentas dependerá, y ejercerá sus funciones, en el examen y comprobación de la Cuenta General del Estado, por delegación de:",
+      "Answer 1": "a)  El Gobierno.",
+      "Answer 2": "b)  El Ministerio de Economía y Hacienda.",
+      "Answer 3": "c)  El Congreso de los Diputados.",
+      "Answer 4": "d)  Las Cortes Generales.",
+      "Answer": 4
+    },
+    {
+      "Title": " Uno de los siguientes derechos no está garantizado por el art. 18 de nuestra Constitución:",
+      "Answer 1": "a)  El Derecho a la intimidad familiar.",
+      "Answer 2": "b)  El Derecho a la imagen pública.",
+      "Answer 3": "c)  El Derecho al honor.",
+      "Answer 4": "d)  El Derecho a la intimidad personal.",
+      "Answer": 2
+    },
+    {
+      "Title": " ¿Cuál de los siguientes derechos no se engloba en el derecho a la tutela judicial efectiva?",
+      "Answer 1": "a)  La libertad de acceso a jueces y tribunales.",
+      "Answer 2": "b)  El derecho al cumplimiento de las resoluciones judiciales.",
+      "Answer 3": "c)  El derecho al juez subsidiario.",
+      "Answer 4": "d)  El derecho a obtener una decisión por parte de los jueces y tribunales.",
+      "Answer": 3
+    },
+    {
+      "Title": " ¿Qué españoles pueden ejercer el derecho de petición solo de manera individual?",
+      "Answer 1": "a)  Los jueces y magistrados.",
+      "Answer 2": "b)  Los miembros de las Fuerzas Armadas y los miembros del Poder Judicial.",
+      "Answer 3": "c)  Los miembros de los institutos armados con disciplina militar y los pertenecientes a las Fuerzas Armadas.",
+      "Answer 4": "d)  Los miembros de las Fuerzas Armadas.",
+      "Answer": 3
+    },
+    {
+      "Title": " El primero y el último, respectivamente, de los artículos que integran el Título primero, son:",
+      "Answer 1": "a)  14 y 50.",
+      "Answer 2": "b)  14 y 55.",
+      "Answer 3": "c)  10 y 55.",
+      "Answer 4": "d)  10 y 50.",
+      "Answer": 3
+    },
+    {
+      "Title": " No corresponde la iniciativa legislativa:",
+      "Answer 1": "a)  Al Congreso.",
+      "Answer 2": "b)  Al Senado.",
+      "Answer 3": "c)  Al Gobierno.",
+      "Answer 4": "d)  A las Cortes Generales.",
+      "Answer": 4
+    },
+    {
+      "Title": " Una de las siguientes afirmaciones no es cierta:",
+      "Answer 1": "a)  La aprobación de proyectos o proposiciones de Leyes indelegable.",
+      "Answer 2": "b)  En caso de delegación el Pleno podrá recabar el debate de cualquier texto.",
+      "Answer 3": "c)  En caso de delegación el Pleno podrá recabar el debate y la votación de cualquier texto, en cualquier momento.",
+      "Answer 4": "d)  En caso de delegación el Pleno también podrá recabar la votación de cualquier texto.",
+      "Answer": 1
+    },
+    {
+      "Title": " ¿Qué meses abarca el segundo periodo de sesiones del Senado?",
+      "Answer 1": "a)  De enero a mayo.",
+      "Answer 2": "b)  De enero a julio.",
+      "Answer 3": "c)  De septiembre a diciembre.",
+      "Answer 4": "d)  De febrero a junio.",
+      "Answer": 4
+    },
+    {
+      "Title": " Las sesiones plenarias de las Cámaras:",
+      "Answer 1": "a)  Serán a puerta cerrada, salvo acuerdo en contra de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.",
+      "Answer 2": "b)  Serán públicas, pero acudiendo al hemiciclo sólo personal directamente invitado al efecto.",
+      "Answer 3": "c)  Serán públicas, salvo acuerdo en contra de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.",
+      "Answer 4": "d)  Serán a puerta cerrada, sin perjuicio de que pueda ser autorizada la presencia de los medios de comunicación, en la forma vista en las opciones a) y b).",
+      "Answer": 3
+    },
+    {
+      "Title": " En los casos en los acuerdos de las Cortes Generales hayan de adoptarse por mayoría de cada una de las Cámaras:",
+      "Answer 1": "a)  El procedimiento comenzará por el Congreso sólo en el supuesto regulado en el art. 94.1. de la Constitución.",
+      "Answer 2": "b)  El procedimiento comenzará siempre por el Congreso.",
+      "Answer 3": "c)  El procedimiento siempre comenzará por el Senado.",
+      "Answer 4": "d)  El procedimiento comenzará por el Senado en el caso previsto en los artículos 94.1 y 145.2 de la Constitución.",
+      "Answer": 1
+    }
+  ]

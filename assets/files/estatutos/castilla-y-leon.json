@@ -1,0 +1,355 @@
+[
+    {
+      "Title": "¿Quién promoverá la igualdad efectiva de las mujeres y de los hombres en el acceso a los mandatos representativos autonómicos?:",
+      "Answer 1": "Las Cortes de Castilla y León",
+      "Answer 2": "Los poderes públicos",
+      "Answer 3": "El Estado y la Junta de Castilla y León.",
+      "Answer 4": "La Ley",
+      "Answer": 4
+    },
+    {
+      "Title": "¿A quién le corresponde caso de procesamiento de un procurador por un delito cometido fuera de la comunidad?",
+      "Answer 1": "Sala de lo penal Tribunal Supremo",
+      "Answer 2": "Sala de lo penal Tribunal Superior de Justicia",
+      "Answer 3": "Ministerio de Justicia",
+      "Answer 4": "Tribunal Superior de Justicia en Pleno",
+      "Answer": 1
+    },
+    {
+      "Title": "Con arreglo al art. 13.10 de nuestro actual estatuto de autonomía, ¿quién tiene derecho a la cultura y el patrimonio?:",
+      "Answer 1": "Todos los castellanos y leoneses",
+      "Answer 2": "Exclusivamente españoles",
+      "Answer 3": "Quien tenga vecindad en Castilla y León",
+      "Answer 4": "Todos los españoles",
+      "Answer": 1
+    },
+    {
+      "Title": "Instituciones de autogobierno de la comunidad, ¿en qué título del estatuto se encuentran regulados?:",
+      "Answer 1": "Se encuentran regulados en el Título I del Estatuto",
+      "Answer 2": "Título II del Estatuto",
+      "Answer 3": "La denominación correcta es Instituciones de Gobierno de la Comunidad",
+      "Answer 4": "Dicha denominación no existe en el Estatuto",
+      "Answer": 2
+    },
+    {
+      "Title": "¿A efectos de la elección de procuradores, cual es la circunscripción electoral?",
+      "Answer 1": "La Provincia",
+      "Answer 2": "El Municipio",
+      "Answer 3": "Partido Judicial",
+      "Answer 4": "La Comunidad Autónoma",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién determinara las causas de inelegibilidad e incompatibilidad de los procuradores?:",
+      "Answer 1": "Ley de Incompatibilidades",
+      "Answer 2": "Legislación electoral",
+      "Answer 3": "Cortes de Castilla y León",
+      "Answer 4": "Los poderes públicos",
+      "Answer": 2
+    },
+    {
+      "Title": "El voto o moción de investidura que se produce en las cortes de CyL para la elección del presidente de la comunidad, exige en su primera votación:",
+      "Answer 1": "Mayoría simple",
+      "Answer 2": "Mayoría absoluta",
+      "Answer 3": "Mayoría de 2/3",
+      "Answer 4": "Mayoría de 3/5",
+      "Answer": 2
+    },
+    {
+      "Title": "Aprobar decretos en Castilla y León es competencia de:",
+      "Answer 1": "Todas son falsas",
+      "Answer 2": "Consejeros",
+      "Answer 3": "Cortes de Castilla y León",
+      "Answer 4": "Junta de Castilla y León",
+      "Answer": 4
+    },
+    {
+      "Title": "Desde la promulgación los Decretos-leyes deberán ser convalidados o derogados en un plazo de:",
+      "Answer 1": "10 días.",
+      "Answer 2": "40 días.",
+      "Answer 3": "20 días.",
+      "Answer 4": "30 días.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los ciudadanos de Castilla y León tienen derecho a promover la convocatoria de consultas populares, relativas a decisiones políticas que sean competencia de la comunidad, en las condiciones y con los requisitos que señalen las leyes, respetando.",
+      "Answer 1": "Art. 148.1.32a de la Constitución",
+      "Answer 2": "Art. 149.1.32a de la Constitución",
+      "Answer 3": "Art. 148.2.32 de la Constitución",
+      "Answer 4": "Art. 11 del Estatuto",
+      "Answer": 2
+    },
+    {
+      "Title": "Dictar decretos legislativos en la forma establecida por el estatuto de autonomía de Castilla y León corresponde según el mismo:",
+      "Answer 1": "Cortes Castilla y León",
+      "Answer 2": "Presidente de Cortes",
+      "Answer 3": "Consejeros respectivos",
+      "Answer 4": "Junta Castilla y León",
+      "Answer": 4
+    },
+   
+    {
+      "Title": "En el ámbito autonómico de Castilla y León, la regulación esencial de los derechos reconocidos en el Titulo I, Capítulo II debe realizarse mediante:",
+      "Answer 1": "Orden de la Administración de Castilla y León",
+      "Answer 2": "Disposiciones Administrativas de Castilla y León",
+      "Answer 3": "Ley de Cortes de Castilla y León",
+      "Answer 4": "Decreto de la Junta",
+      "Answer": 3
+    },
+    {
+      "Title": "El derecho de los ciudadanos a una renta garantizada de ciudadanía que recoge el estatuto de autonomía de Castilla y León afecta a ciudadanos que se encuentren en situación de….",
+      "Answer 1": "Exclusión por raza",
+      "Answer 2": "Exclusión social",
+      "Answer 3": "Exclusión por raza, condición o edad",
+      "Answer 4": "Exclusión por edad",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cual es el órgano institucional que representa al Pueblo de Castilla y León, según su Estatuto de Autonomía?",
+      "Answer 1": "La Junta de Castilla y León",
+      "Answer 2": "Las Cortes de Castilla y León",
+      "Answer 3": "Las Cortes Generales",
+      "Answer 4": "El Consejo de Gobierno de Castilla y León",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cual es la Circunscripción Electoral a efectos de elección de los procuradores de las Cortes de Castilla y León?",
+      "Answer 1": "La Comarca",
+      "Answer 2": "La Comunidad Autónoma",
+      "Answer 3": "La Provincia",
+      "Answer 4": "El Municipio",
+      "Answer": 3
+    },
+    {
+      "Title": "La Convocatoria de Elecciones de Procuradores de las Cortes de Castilla y León se realizará por:",
+      "Answer 1": "El Presidente de las Cortes de Castilla y León",
+      "Answer 2": "El Presidente de la Junta",
+      "Answer 3": "El Presidente de Castilla y León",
+      "Answer 4": "La Junta de Castilla y León",
+      "Answer": 2
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "El blasón de Castilla y León es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro.El segundo y tercer cuarteles: en campo de gules, un castillo de oro almenado de tres almenas, mamposteado de sable y clarado de azur.",
+      "Answer 2": "El blasón de Castilla y León es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro.El segundo y tercer cuarteles: en campo de gules, un castillo de oro almenado de dos almenas, mamposteado de sable y clarado de azur.",
+      "Answer 3": "El blasón de Castilla y León es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de gules, un castillo de oro almenado de tres almenas, mamposteado de sable y clarado de azur. El segundo y tercer cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro.",
+      "Answer 4": "El blasón de Castilla y León es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de gules, un castillo de oro almenado de dos almenas, mamposteado de sable y clarado de azur. El segundo y tercer cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los derechos y deberes de los ciudadanos de Castilla y León son:",
+      "Answer 1": "Los establecidos en la Constitución Española, en los Tratados Internacionales sobre Derechos Humanos ratificados por España, en el ordenamiento de la Unión Europea, así como los establecidos en el ámbito de la Comunidad Autónoma por el presente Estatuto de Autonomía.",
+      "Answer 2": "Los establecidos en la Constitución Española, así como los establecidos en el ámbito de la Comunidad Autónoma por el presente Estatuto de Autonomía.",
+      "Answer 3": "Los establecidos en la Constitución Española.",
+      "Answer 4": "Los establecidos en la Constitución Española, así como los establecidos en Título I del presente Estatuto de Autonomía.",
+      "Answer": 1
+    },
+    {
+      "Title": "La Junta de Castilla y León es:(art 28)",
+      "Answer 1": "La institución de gobierno y administración de la Comunidad de Castilla y León y ejerce la función reglamentaria y la potestad ejecutiva de acuerdo con el presente Estatuto y el resto del ordenamiento jurídico.",
+      "Answer 2": "La institución de gobierno y administración de la Comunidad de Castilla y León.",
+      "Answer 3": "El órgano de gobierno y administración de la Comunidad de Castilla y León.",
+      "Answer 4": "El órgano de gobierno de la Comunidad de Castilla y León.",
+      "Answer": 2
+    },
+    {
+      "Title": "La Junta de Castilla y León está compuesta:",
+      "Answer 1": "Por el Presidente, los Vicepresidentes, y los Consejeros.",
+      "Answer 2": "Por el Presidente y los procuradores.",
+      "Answer 3": "Por el Presidente y los Vicepresidentes.",
+      "Answer 4": "Por el Presidente, los Vicepresidentes, en su caso, y los Consejeros.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Capítulo III del Título I del Estatuto de Autonomía de C y L trata de:",
+      "Answer 1": "La Potestad Sancionadora",
+      "Answer 2": "La Organización Territorial",
+      "Answer 3": "Ninguna de las respuestas anteriores es correcta",
+      "Answer 4": "La Organización Judicial",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Por quién se realizará la convocatoria de elecciones de los miembros de las Cortes de C y L?",
+      "Answer 1": "Por el Presidente del Senado",
+      "Answer 2": "Por el presidente de las Cortes Generales",
+      "Answer 3": "Por el presidente de la Junta de Castilla y León",
+      "Answer 4": "Por el presidente de las Cortes de C y L",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Las Cortes de C y L celebraran sus periodos ordinarios de sesiones:",
+      "Answer 1": "Entre Septiembre y Diciembre el primero, y entre Febrero y Junio el segundo",
+      "Answer 2": "Entre Septiembre y Noviembre, el primero, y entre Diciembre y Julio, el segundo",
+      "Answer 3": "Entre Octubre y Diciembre, el primero, y entre enero y junio el segundo",
+      "Answer 4": "Ninguna es cierta",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el Estatuto de Autonomía, ¿quién determina la ubicación de los organismos o servicios de la Administración de la Comunidad?",
+      "Answer 1": "El Presidente de C y L",
+      "Answer 2": "Las Cortes de C y L",
+      "Answer 3": "La Junta de C y L",
+      "Answer 4": "Ninguno de los anteriores",
+      "Answer": 3
+    },
+    {
+      "Title": "La Comunidad Autónoma de C y L podrá establecer acuerdos de cooperación con otras comunidades autónomas:",
+      "Answer 1": "Previa autorización de las Cortes de Castilla y león",
+      "Answer 2": "Previa autorización del Presidente de las Cortes de C y L",
+      "Answer 3": "Previa autorización del Presidente de la Junta",
+      "Answer 4": "Previa autorización de las Cortes Generales",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 30 del Estatuto de Autonomía, ¿a quién corresponde suscitar, en su caso, conflictos de competencia con el Estado u otra Comunidad Autónoma?",
+      "Answer 1": "Al Presidente de la Junta de C y L",
+      "Answer 2": "Al Presidente del Consejo Consultivo",
+      "Answer 3": "A la Junta de C y L",
+      "Answer 4": "Al Presidente de las Cortes de C y L",
+      "Answer": 3
+    },
+    {
+      "Title": "El control de la acción de gobierno de la junta de Castilla y León, lo ejerce según el estatuto de autonomía:",
+      "Answer 1": "Las Cortes de Castilla y León",
+      "Answer 2": "El Presidente de la Comunidad",
+      "Answer 3": "Tribunal Superior de Justicia",
+      "Answer 4": "Todas son falsas",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién elige al presidente de las Cortes de Castilla y León:",
+      "Answer 1": "La Junta de Castilla y León.",
+      "Answer 2": "El Rey",
+      "Answer 3": "Las Cortes de Castilla y León",
+      "Answer 4": "El Presidente de la Junta de Castilla y León, de entre los miembros que las componen",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién convoca las sesiones extraordinarias de las Cortes de C y L?",
+      "Answer 1": "2/5 de los Procuradores",
+      "Answer 2": "El Presidente de la Junta de C y L",
+      "Answer 3": "El Presidente de las Cortes de C y L",
+      "Answer 4": "La Diputación Permanente",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes atribuciones no es propia de la Junta de C y L?",
+      "Answer 1": "Interponer recursos de inconstitucionalidad.",
+      "Answer 2": "Suscitar conflictos de competencia con el Estado u otra Comunidad Autónoma.",
+      "Answer 3": "Ejercer el gobierno y administración de la Comunidad.",
+      "Answer 4": "Plantear ante las Cortes de C y L La cuestión de confianza",
+      "Answer": 4
+    },
+    {
+      "Title": "La delegación de las Cortes a la Junta para la elaboración de textos articulados, ¿ha de efectuarse a través de?",
+      "Answer 1": "Una Ley de bases",
+      "Answer 2": "Un Real Decreto",
+      "Answer 3": "Un Decreto-Ley",
+      "Answer 4": "Una Orden",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién elige al presidente de la Junta de Castilla y León?",
+      "Answer 1": "No hay ninguna correcta",
+      "Answer 2": "El Pueblo Castellano-Leonés, por sufragio universal, libre igual y directo",
+      "Answer 3": "Las Cortes de Castilla y León",
+      "Answer 4": "La propia Junta de entre sus miembros",
+      "Answer": 3
+    },
+    {
+      "Title": "La convocatoria de elecciones a cortes de Castilla y León, habrá de efectuarse por:",
+      "Answer 1": "Presidente de la Junta de Castilla y León.",
+      "Answer 2": "Junta de Castilla y León.",
+      "Answer 3": "Cortes de Castilla y León.",
+      "Answer 4": "Presidente de las Cortes de Castilla y León.",
+      "Answer": 1
+    },
+    {
+      "Title": "La bandera de C y L ondeará en todos los Centros y Actos oficiales de la Comunidad Autonoma",
+      "Answer 1": "A la izquierda o derecha de la bandera española, según se trate de actos propios de la Comunidad Autonoma o del estado, respectivamente",
+      "Answer 2": "A la izquierda de la bandera española",
+      "Answer 3": "A la derecha de la bandera española",
+      "Answer 4": "A la derecha de la bandera de la Comunidad Europea",
+      "Answer": 3
+    },
+    {
+      "Title": "Es un derecho social, dentro de los derechos de los castellano leoneses reconocidos en el estatuto de autonomía de Castilla y León:",
+      "Answer 1": "Derecho a la educación",
+      "Answer 2": "Derecho de asociación",
+      "Answer 3": "Derecho de sindicación",
+      "Answer 4": "Todas las respuestas son correctas",
+      "Answer": 1
+    },
+    {
+      "Title": "Es correcta, sobre el pendón de Castilla y León, una de estas afirmaciones:",
+      "Answer 1": "Todas las respuestas anteriores son correctas",
+      "Answer 2": "Está constituido por un escudo cuartelado y contracuartelado de leones y almenas de castillo",
+      "Answer 3": "Es una institución básica de la comunidad de Castilla y León",
+      "Answer 4": "Se trata de un símbolo de la Comunidad de Castilla y León",
+      "Answer": 4
+    },
+    {
+      "Title": "Dentro del derecho a una buena administración que recoge el estatuto de autonomía de Castilla y León, la ley garantizará los siguientes derechos en las relaciones ciudadano-administración:",
+      "Answer 1": "Formular quejas sobre el funcionamiento de los servicios públicos",
+      "Answer 2": "Recibir información suficiente sobre servicios a los que pueden acceder y condiciones de acceso a los mismos",
+      "Answer 3": "Todas las respuestas anteriores son correctas",
+      "Answer 4": "Acceso a los archivos y registros administrativos",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién fomentará el uso correcto del castellano?",
+      "Answer 1": "Los Poderes Públicos",
+      "Answer 2": "El Pueblo Castellano-Leones",
+      "Answer 3": "La Junta de Castilla y León",
+      "Answer 4": "Las Cortes de Castilla y León",
+      "Answer": 3
+    },
+    {
+      "Title": "¿A quién le corresponde promover la integración social, económica, laboral y cultural de los inmigrantes en la sociedad de Castilla y León?",
+      "Answer 1": "A las Cortes de Castilla y León",
+      "Answer 2": "A las Cortes y Junta de Castilla y León.",
+      "Answer 3": "A las poderes fácticos de la Comunidad",
+      "Answer 4": "A los poderes públicos de la Comunidad",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién tiene derecho a dirigir peticiones a las instituciones y a las administraciones públicas?",
+      "Answer 1": "Sólo los españoles",
+      "Answer 2": "Todos los empadronados en Castilla y León.",
+      "Answer 3": "Todas las personas",
+      "Answer 4": "Sólo los Castellano-Leones",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de los que a continuación se menciona no es un derecho social, con arreglo al Art. 13 del estatuto?",
+      "Answer 1": "Derechos Laborales",
+      "Answer 2": "Derecho Tributario",
+      "Answer 3": "Derecho a la Educación",
+      "Answer 4": "Derecho a la Salud",
+      "Answer": 2
+    },
+    {
+      "Title": "Con arreglo al art. 15 del estatuto, ¿cuál de los que a continuación se enumeran no es un deber?",
+      "Answer 1": "Defender en caso de catástrofe a la Comunidad incluso con las arma",
+      "Answer 2": "Colaborar en las situaciones de catástrofes y emergencia",
+      "Answer 3": "Hacer un uso responsable y solidario de los bienes y servicios públicos",
+      "Answer 4": "Respetar, cuidar y proteger el patrimonio cultural",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién propone al presidente del tribunal superior de justicia de Castilla y León?",
+      "Answer 1": "El Presidente de la Junta de Castilla y León, y lo nombra el Rey",
+      "Answer 2": "Ninguna es correcta.",
+      "Answer 3": "Las Cortes de Castilla y León con acuerdo del Ministerio de Justicia",
+      "Answer 4": "La Junta de Castilla y León, de acuerdo con las Cortes de Castilla y León.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el preámbulo del estatuto de autonomía de Castilla y León, el reino de León se constituyó hace…",
+      "Answer 1": "Mil seiscientos años",
+      "Answer 2": "Novecientos años",
+      "Answer 3": "Mil años",
+      "Answer 4": "Mil cien años",
+      "Answer": 4
+    }
+  ]

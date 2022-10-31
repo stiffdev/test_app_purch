@@ -1,0 +1,762 @@
+[
+    {
+      "Title": "Las sentencias dictadas por el Tribunal Constitucional:",
+      "Answer 1": "Nunca tienen efectos plenos frente a todos.",
+      "Answer 2": "Tienen plenos efectos frente a todos aquellas que no se limiten a la estimación subjetiva de un derecho.",
+      "Answer 3": "Tienen plenos efectos frente a todos las que declaren la inconstitucionalidad de una norma que no tenga fuerza de Ley.",
+      "Answer 4": "Tienen plenos efectos frente a todos.",
+      "Answer": 2
+    },
+    {
+      "Title": "La declaración de inconstitucionalidad de una norma jurídica con rango de Ley, interpretada por la jurisprudencia:",
+      "Answer 1": "No afectará a norma alguna, al no producir la declaración de inconstitucionalidad efectos retroactivos.",
+      "Answer 2": "Afectará a todo el ordenamiento jurídico.",
+      "Answer 3": "Afectará a la norma concreta, sin que pierdan el valor de cosa juzgada la sentencia o sentencias recaídas.",
+      "Answer 4": "Afectará a la norma concreta, perdiendo el valor de cosa juzgada la sentencia o sentencias recaídas en aplicación de tal norma.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional se renovarán:",
+      "Answer 1": "Por terceras partes cada tres años.",
+      "Answer 2": "Íntegramente cada nueve años.",
+      "Answer 3": "Por cuartas partes cada dos años.",
+      "Answer 4": "Por mitades cada tres años.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las sentencias del Tribunal Constitucional:",
+      "Answer 1": "Se publicarán en la Colección de Jurisprudencia del Tribunal Constitucional.",
+      "Answer 2": "Se publicarán en el Boletín Oficial del Estado.",
+      "Answer 3": "Se publicarán en la Colección Legislativa.",
+      "Answer 4": "Se publicarán en el Boletín de Información del Ministerio de Justicia.",
+      "Answer": 2
+    },
+    {
+      "Title": "El nombramiento del Presidente del Tribunal Constitucional se efectuará:",
+      "Answer 1": "A propuesta del Congreso de los Diputados.",
+      "Answer 2": "A propuesta del pleno del Tribunal Supremo.",
+      "Answer 3": "A propuesta del pleno del Consejo General del Poder Judicial.",
+      "Answer 4": "A propuesta del pleno del Tribunal Constitucional.",
+      "Answer": 4
+    },
+    {
+      "Title": "Para que la cuestión de inconstitucionalidad pueda ser interpuesta, será preciso:",
+      "Answer 1": "Que la norma, a criterio del órgano judicial, sea o no aplicable al caso, vulnere la Constitución.",
+      "Answer 2": "Que la norma tenga rango de Ley Orgánica.",
+      "Answer 3": "Que de la validez de tal norma dependa el fallo.",
+      "Answer 4": "Todas las otras respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional serán designados por un periodo de:",
+      "Answer 1": "Seis años.",
+      "Answer 2": "Dos años.",
+      "Answer 3": "Nueve años.",
+      "Answer 4": "Tres años.",
+      "Answer": 3
+    },
+    {
+      "Title": "Uno de los siguientes colectivos no podrá proporcionar miembros al Tribunal Constitucional:",
+      "Answer 1": "Abogados.",
+      "Answer 2": "Profesores de Universidad.",
+      "Answer 3": "Jueces.",
+      "Answer 4": "Funcionarios Públicos.",
+      "Answer": 3
+    },
+    {
+      "Title": "Uno de los siguientes cargos o condiciones es compatible de la de miembro del Tribunal Constitucional:",
+      "Answer 1": "Con cualquier actividad profesional o mercantil.",
+      "Answer 2": "Con los cargos políticos o administrativos.",
+      "Answer 3": "Con todo mandato representativo.",
+      "Answer 4": "Con la condición Magistrado o Fiscal en excedencia.",
+      "Answer": 4
+    },
+    {
+      "Title": "La Constitución dispuso que, fuera de los casos de recurso de amparo y cuestión de inconstitucionalidad:",
+      "Answer 1": "Las personas y órganos legitimados serán los mismos que lo están para interponer recurso de amparo.",
+      "Answer 2": "Será una ley orgánica la que determine las personas y órganos legitimados.",
+      "Answer 3": "Las personas y órganos legitimados serán los mismos que lo están para interponer recurso de inconstitucionalidad.",
+      "Answer 4": "Todas las otras respuestas son falsas.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Tribunal Constitucional tiene jurisdicción:",
+      "Answer 1": "Sobre todo el territorio del Estado.",
+      "Answer 2": "Sobre todo el territorio peninsular.",
+      "Answer 3": "Sobre todo el territorio del Estado y, en cuestiones de Derecho Internacional, sobre toda Europa.",
+      "Answer 4": "Sobre todo el territorio del Estado excepto Ceuta y Melilla.",
+      "Answer": 1
+    },
+    {
+      "Title": "El funcionamiento del Tribunal Constitucional, y demás cuestiones vinculadas al mismo, están reguladas a través:",
+      "Answer 1": "De una ley orgánica.",
+      "Answer 2": "De una ley de bases.",
+      "Answer 3": "De una ley ordinaria.",
+      "Answer 4": "Consta tal normativa en la propia Constitución.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Título Noveno de la Constitución:",
+      "Answer 1": "Cuenta con Secciones.",
+      "Answer 2": "Cuenta con Artículos.",
+      "Answer 3": "Cuenta con Capítulos y Artículos.",
+      "Answer 4": "Cuenta con Capítulos.",
+      "Answer": 2
+    },
+    {
+      "Title": "No está/n legitimado/s para interponer recurso de inconstitucionalidad:",
+      "Answer 1": "Los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+      "Answer 2": "El Ministerio Fiscal.",
+      "Answer 3": "El Presidente del Gobierno.",
+      "Answer 4": "Cincuenta Senadores.",
+      "Answer": 2
+    },
+    {
+      "Title": "No está/n legitimado/s para interponer recurso de amparo:",
+      "Answer 1": "Toda persona jurídica que invoque interés legítimo.",
+      "Answer 2": "El Defensor del Pueblo.",
+      "Answer 3": "El Ministerio Fiscal.",
+      "Answer 4": "Las Asambleas legislativas de las Comunidades Autónomas.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Tribunal Constitucional se compone de:",
+      "Answer 1": "Veinte miembros.",
+      "Answer 2": "Doce miembros.",
+      "Answer 3": "Trece miembros.",
+      "Answer 4": "Veintiún miembros.",
+      "Answer": 2
+    },
+    {
+      "Title": "La interposición o planteamiento de la cuestión de inconstitucionalidad:",
+      "Answer 1": "Nunca producirá efectos suspensivos sobre la norma afectada.",
+      "Answer 2": "Sólo producirá efectos suspensivos cuando libremente lo acuerde el Tribunal Constitucional al admitir la cuestión a trámite.",
+      "Answer 3": "Siempre producirá tal efecto suspensorio.",
+      "Answer 4": "Sólo producirá efectos suspensivos cuando la norma cuestionada afecte a los derechos fundamentales y libertades públicas.",
+      "Answer": 1
+    },
+    {
+      "Title": "La cuestión de inconstitucionalidad ante el Tribunal Constitucional podrá ser planteada:",
+      "Answer 1": "Por la persona física o jurídica que invoque un interés legítimo.",
+      "Answer 2": "Por el Defensor del Pueblo.",
+      "Answer 3": "Por un órgano judicial.",
+      "Answer 4": "Por el Ministerio Fiscal.",
+      "Answer": 3
+    },
+    {
+      "Title": "De una de las siguientes cuestiones no es competente para conocer el Tribunal Constitucional:",
+      "Answer 1": "Del recurso de amparo por violación de los derechos y libertades no referidos en el art. 53.2 de la Constitución.",
+      "Answer 2": "Del recurso de inconstitucionalidad contra leyes.",
+      "Answer 3": "De los conflictos de competencia entre las Comunidades Autónomas.",
+      "Answer 4": "De los conflictos de competencia entre el Estado y las Comunidades Autónomas",
+      "Answer": 1
+    },
+    {
+      "Title": "Señale la afirmación incierta. Los miembros del Tribunal Constitucional serán propuestos:",
+      "Answer 1": "Cuatro por el Congreso de los Diputados por mayoría de tres quintos de sus miembros.",
+      "Answer 2": "Dos a propuesta del Gobierno de la Nación.",
+      "Answer 3": "Dos a propuesta del Consejo General del Poder Judicial.",
+      "Answer 4": "Dos por el Senado, por mayoría de tres quintos de sus miembros.",
+      "Answer": 4
+    },
+    {
+      "Title": "En cualquier caso, los miembros del Tribunal Constitucional se verán afectados por el mismo régimen de incompatibilidades que:",
+      "Answer 1": "Los miembros del poder judicial.",
+      "Answer 2": "Los miembros del poder ejecutivo.",
+      "Answer 3": "Los funcionarios de la Administración de Justicia.",
+      "Answer 4": "Los Diputados y los Senadores.",
+      "Answer": 1
+    },
+    {
+      "Title": "La determinación de quién nombra al Presidente del Tribunal Constitucional se efectúa en el Título Noveno, artículo:",
+      "Answer 1": "160.",
+      "Answer 2": "162.",
+      "Answer 3": "159.",
+      "Answer 4": "161.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Presidente del Tribunal Constitucional será nombrado por un periodo de:",
+      "Answer 1": "Dos años.",
+      "Answer 2": "Seis años.",
+      "Answer 3": "Tres años.",
+      "Answer 4": "Nueve años.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional son nombrados por:",
+      "Answer 1": "El Congreso.",
+      "Answer 2": "El Gobierno de la Nación.",
+      "Answer 3": "El Senado.",
+      "Answer 4": "El Rey.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los votos particulares que pueda haber en las sentencias dictadas por el Tribunal Constitucional:",
+      "Answer 1": "Se publicarán con las sentencias.",
+      "Answer 2": "No deberán ser publicados junto a la sentencia.",
+      "Answer 3": "No caben votos particulares en las sentencias dictadas por el Tribunal Constitucional.",
+      "Answer 4": "Podrán ser publicados cuando así lo inste el Magistrado autor del voto.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas:",
+      "Answer 1": "Son impugnables ante el Tribunal Constitucional por el Gobierno.",
+      "Answer 2": "No son impugnables ante el Tribunal Constitucional.",
+      "Answer 3": "Son impugnables por el Gobierno ante la Jurisdicción Ordinaria.",
+      "Answer 4": "Son impugnables ante el Tribunal Constitucional por las distintas instituciones y organismos autonómicos afectados.",
+      "Answer": 1
+    },
+    {
+      "Title": "Contra las sentencias dictadas por el Tribunal Constitucional:",
+      "Answer 1": "Cabe recurso de aclaración.",
+      "Answer 2": "Cabe recurso de revisión.",
+      "Answer 3": "Cabe recurso de casación.",
+      "Answer 4": "No cabe recurso alguno.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional, en el desempeño de su mandato:",
+      "Answer 1": "Serán independientes e inamovibles.",
+      "Answer 2": "Serán inamovibles e irresponsables.",
+      "Answer 3": "Serán irresponsables e independientes.",
+      "Answer 4": "Serán independientes y responsables.",
+      "Answer": 1
+    },
+    {
+      "Title": "La impugnación de las disposiciones y resoluciones adoptadas por las Comunidades Autónomas:",
+      "Answer 1": "No producirá efecto suspensivo de la misma.",
+      "Answer 2": "Producirá siempre la suspensión de la disposición o resolución recurrida.",
+      "Answer 3": "Producirá tal suspensión cuando el objeto de la norma recurrida sea la asunción de competencias por parte de la entidad autónoma.",
+      "Answer 4": "Se producirá tal suspensión, debiendo ratificarla o levantarla, en algunos casos, el Tribunal en un plazo no superior a seis meses.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Título Noveno de la Constitución finaliza en el artículo:",
+      "Answer 1": "161.",
+      "Answer 2": "163.",
+      "Answer 3": "165.",
+      "Answer 4": "162.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Presidente del Tribunal Constitucional será nombrado:",
+      "Answer 1": "Por las Cortes Generales, de entre los miembros del Consejo General del Poder Judicial.",
+      "Answer 2": "Por el Rey, de entre los miembros del Consejo General del Poder Judicial.",
+      "Answer 3": "Por el Rey, de entre los miembros del Tribunal.",
+      "Answer 4": "Por el Congreso de los Diputados, entre los miembros del propio Tribunal Constitucional.",
+      "Answer": 3
+    },
+    {
+      "Title": "No está/n legitimado/s para interponer recurso de inconstitucionalidad:",
+      "Answer 1": "Los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+      "Answer 2": "El Ministerio Fiscal.",
+      "Answer 3": "El Presidente del Gobierno.",
+      "Answer 4": "Cincuenta Senadores.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional deberán ser juristas de reconocida competencia con:",
+      "Answer 1": "Más de veinte años de ejercicio profesional.",
+      "Answer 2": "Más de cinco años de ejercicio profesional.",
+      "Answer 3": "Más de quince años de ejercicio profesional.",
+      "Answer 4": "Más de diez años de ejercicio profesional.",
+      "Answer": 3
+    },
+    {
+      "Title": "No está/n legitimado/s para interponer recurso de amparo:",
+      "Answer 1": "Toda persona jurídica que invoque interés legítimo.",
+      "Answer 2": "El Defensor del Pueblo.",
+      "Answer 3": "El Ministerio Fiscal.",
+      "Answer 4": "Las Asambleas legislativas de las Comunidades Autónomas.",
+      "Answer": 4
+    },
+    {
+      "Title": "La impugnación de las disposiciones y resoluciones adoptadas por las Comunidades Autónomas:",
+      "Answer 1": "No producirá efecto suspensivo de la misma.",
+      "Answer 2": "Producirá siempre la suspensión de la disposición o resolución recurrida.",
+      "Answer 3": "Producirá tal suspensión cuando el objeto de la norma recurrida sea la asunción de competencias por parte de la entidad autónoma.",
+      "Answer 4": "Se producirá tal suspensión, debiendo ratificarla o levantarla, en algunos casos, el Tribunal en un plazo no superior a seis meses.",
+      "Answer": 2
+    },
+    {
+      "Title": "La interposición o planteamiento de la cuestión de inconstitucionalidad:",
+      "Answer 1": "Nunca producirá efectos suspensivos sobre la norma afectada.",
+      "Answer 2": "Sólo producirá efectos suspensivos cuando libremente lo acuerde el Tribunal Constitucional al admitir la cuestión a trámite.",
+      "Answer 3": "Siempre producirá tal efecto suspensorio.",
+      "Answer 4": "Sólo producirá efectos suspensivos cuando la norma cuestionada afecte a los derechos fundamentales y libertades públicas.",
+      "Answer": 1
+    },
+    {
+      "Title": "La cuestión de inconstitucionalidad ante el Tribunal Constitucional podrá ser planteada:",
+      "Answer 1": "Por la persona física o jurídica que invoque un interés legítimo.",
+      "Answer 2": "Por el Defensor del Pueblo.",
+      "Answer 3": "Por un órgano judicial.",
+      "Answer 4": "Por el Ministerio Fiscal.",
+      "Answer": 3
+    },
+    {
+      "Title": "La legitimación para acudir al Tribunal Constitucional se regula en el artículo del Título Noveno número:",
+      "Answer 1": "164.",
+      "Answer 2": "163.",
+      "Answer 3": "161.",
+      "Answer 4": "162.",
+      "Answer": 4
+    },
+    {
+      "Title": "La Constitución dispuso que, fuera de los casos de recurso de amparo y cuestión de inconstitucionalidad:",
+      "Answer 1": "Las personas y órganos legitimados serán los mismos que lo están para interponer recurso de amparo.",
+      "Answer 2": "Será una ley orgánica la que determine las personas y órganos legitimados.",
+      "Answer 3": "Las personas y órganos legitimados serán los mismos que lo están para interponer recurso de inconstitucionalidad.",
+      "Answer 4": "Todas las otras respuestas son falsas.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Título Noveno de la Constitución comienza en el artículo:",
+      "Answer 1": "160.",
+      "Answer 2": "161.",
+      "Answer 3": "159.",
+      "Answer 4": "162.",
+      "Answer": 3
+    },
+    {
+      "Title": "De una de las siguientes cuestiones no es competente para conocer el Tribunal Constitucional:",
+      "Answer 1": "Del recurso de amparo por violación de los derechos y libertades no referidos en el art. 53.2 de la Constitución.",
+      "Answer 2": "Del recurso de inconstitucionalidad contra leyes.",
+      "Answer 3": "De los conflictos de competencia entre las Comunidades Autónomas.",
+      "Answer 4": "De los conflictos de competencia entre el Estado y las Comunidades Autónomas",
+      "Answer": 1
+    },
+    {
+      "Title": "El Tribunal Constitucional se compone de:",
+      "Answer 1": "Veinte miembros.",
+      "Answer 2": "Doce miembros.",
+      "Answer 3": "Trece miembros.",
+      "Answer 4": "Veintiún miembros.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional se renovarán:",
+      "Answer 1": "Por terceras partes cada tres años.",
+      "Answer 2": "Íntegramente cada nueve años.",
+      "Answer 3": "Por cuartas partes cada dos años.",
+      "Answer 4": "Por mitades cada tres años.",
+      "Answer": 1
+    },
+    {
+      "Title": "El nombramiento del Presidente del Tribunal Constitucional se efectuará:",
+      "Answer 1": "A propuesta del Congreso de los Diputados.",
+      "Answer 2": "A propuesta del pleno del Tribunal Supremo.",
+      "Answer 3": "A propuesta del pleno del Consejo General del Poder Judicial.",
+      "Answer 4": "A propuesta del pleno del Tribunal Constitucional.",
+      "Answer": 4
+    },
+    {
+      "Title": "Uno de los siguientes colectivos no podrá proporcionar miembros al Tribunal Constitucional:",
+      "Answer 1": "Abogados.",
+      "Answer 2": "Profesores de Universidad.",
+      "Answer 3": "Jueces.",
+      "Answer 4": "Funcionarios Públicos.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En qué Título de la Constitución Española se recoge el Tribunal Constitucional?       ",
+      "Answer 1": "Título IX.",
+      "Answer 2": "Título X.",
+      "Answer 3": "Título VII.",
+      "Answer 4": "En la Constitución Española no se dedica ningún Título al Tribunal Constitucional.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿De cuántos miembros se compone el Tribunal Constitucional?       ",
+      "Answer 1": "Veinte más su Presidente.",
+      "Answer 2": "Veinte incluido su Presidente.",
+      "Answer 3": "Doce",
+      "Answer 4": "Diez.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién nombra a los miembros del Tribunal Constitucional?       ",
+      "Answer 1": "El Congreso, el Senado, el Gobierno y el Consejo General del Poder Judicial.",
+      "Answer 2": "El Congreso, el Senado y el Gobierno.",
+      "Answer 3": "El Rey.",
+      "Answer 4": "El Presidente del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional serán propuestos:       ",
+      "Answer 1": "Cuatro a propuesta del Congreso, cuatro a propuesta del Senado y cuatro a propuesta del Gobierno.",
+      "Answer 2": "Cuatro a propuesta del Congreso, cuatro a propuesta del Senado, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.",
+      "Answer 3": "Seis a propuesta del Congreso y seis a propuesta del Senado.",
+      "Answer 4": "Cuatro a propuesta del Congreso, cuatro a propuesta del Senado, dos a propuesta del Gobierno y dos a propuesta del Presidente del Tribunal Constitucional.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué mayoría será necesario en las propuestas de los miembros del Tribunal Constitucional que corresponden al Congreso y al Senado?       ",
+      "Answer 1": "Los que corresponden al Congreso por mayoría de dos tercios de sus miembros y los correspondiente al Senado por mayoría de tres quintos de sus miembros.",
+      "Answer 2": "Los que corresponden al Congreso por mayoría de dos tercios de sus miembros e idéntica mayoría para los que corresponden al Senado.",
+      "Answer 3": "Los que corresponden al Congreso por mayoría de los miembros presentes en la votación e idéntica mayoría para los que corresponden al Senado.",
+      "Answer 4": "Los que corresponden al Congreso por mayoría de tres quintos de sus miembros e idéntica mayoría para los que corresponden al Senado.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuántos miembros del Tribunal Constitucional son propuestos por las Cámaras?       ",
+      "Answer 1": "Cuatro.",
+      "Answer 2": "Dos.",
+      "Answer 3": "Ocho.",
+      "Answer 4": "Cinco.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántos miembros del Tribunal Constitucional son propuestos por el Gobierno?       ",
+      "Answer 1": "Cuatro.",
+      "Answer 2": "Dos.",
+      "Answer 3": "Seis.",
+      "Answer 4": "Tres.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuántos miembros del Tribunal Constitucional son propuestos por el Tribunal Supremo?       ",
+      "Answer 1": "Cuatro.",
+      "Answer 2": "Dos.",
+      "Answer 3": "Ninguno.",
+      "Answer 4": "Seis.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántos miembros del Tribunal Constitucional son propuestos por el Consejo General del Poder Judicial?       ",
+      "Answer 1": "Cuatros.",
+      "Answer 2": "Dos.",
+      "Answer 3": "Seis.",
+      "Answer 4": "Todos.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Entre quienes serán nombrados los miembros del Tribunal Constitucional?       ",
+      "Answer 1": "Entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.",
+      "Answer 2": "Entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y abogados, con más de quince años de ejercicio profesional.",
+      "Answer 3": "Entre Magistrado, Fiscales y funcionarios públicos, con más de quince años de ejercicio profesional.",
+      "Answer 4": "Entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y abogados, todos ellos juristas de reconocida competencia con más de diez años de ejercicio profesional.",
+      "Answer": 1
+    },
+    {
+      "Title": "Para ser miembro del Tribunal Constitucional es necesario, entre otros requisitos, ser jurista de reconocida competencia con:       ",
+      "Answer 1": "Más de cinco años de ejercicio profesional.",
+      "Answer 2": "Más de diez años de ejercicio profesional.",
+      "Answer 3": "Más de quince años de ejercicio profesional.",
+      "Answer 4": "Más de veinte años de ejercicio profesional.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Por qué período serán designados los miembros del Tribunal Constitucional?       ",
+      "Answer 1": "Cinco años.",
+      "Answer 2": "Ochos años y se renovarán por cuartas partes cada dos.",
+      "Answer 3": "Seis años y se renovarán por mitades cada tres.",
+      "Answer 4": "Nueve años y se renovarán por terceras partes cada tres.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Con qué es incompatible la condición de miembro del Tribunal Constitucional?       ",
+      "Answer 1": "Con todo mandato representativo.",
+      "Answer 2": "Todas son correctas.",
+      "Answer 3": "Con los cargos políticos o administrativos.",
+      "Answer 4": "Con el desempeño de funciones directivas en un partido político o en un sindicato y con el empleo al servicio de los mismos.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Con qué es compatible la condición de miembro del Tribunal Constitucional?       ",
+      "Answer 1": "Con actividades profesionales o mercantiles.",
+      "Answer 2": "Con el ejercicio de las carreras judicial y fiscal.",
+      "Answer 3": "Todas son falsas.",
+      "Answer 4": "Con cargos políticos o administrativos.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución, los miembros del Tribunal Constitucional tendrán las incompatibilidades propias de:       ",
+      "Answer 1": "Los altos cargos de la Administración General del Estado.",
+      "Answer 2": "Los miembros del Gobierno.",
+      "Answer 3": "Los miembros del poder judicial.",
+      "Answer 4": "El Presidente del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional serán:       ",
+      "Answer 1": "Independientes, inamovibles e inviolables en el ejercicio de su mandato.",
+      "Answer 2": "Independientes en el ejercicio de su mandato y movibles con los mismos requisitos que para su nombramiento.",
+      "Answer 3": "Independientes e inamovibles en el ejercicio de su mandato.",
+      "Answer 4": "Independientes, inamovibles, inviolables y no están sujetos a responsabilidad.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Presidente del Tribunal Constitucional:       ",
+      "Answer 1": "Será nombrado entre sus miembros por el Rey.",
+      "Answer 2": "Será nombrado entre Magistrados y Fiscales con más de diez años de ejercicio de su profesión.",
+      "Answer 3": "Será nombrado por el Presidente del Consejo General del Poder Judicial.",
+      "Answer 4": "Lo será también del Tribunal Supremo.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Presidente del Tribunal Constitucional:       ",
+      "Answer 1": "Se nombrará por un período de cuatro años, a propuesta de las Cortes Generales.",
+      "Answer 2": "Se nombrará por un período de tres años, a propuesta del Tribunal en Pleno.",
+      "Answer 3": "Se nombrará por un período de nueve años, a propuesta del Tribunal en Pleno.",
+      "Answer 4": "Se nombrará por un período de cinco años, a propuesta del Tribunal en Pleno.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es la jurisdicción del Tribunal Constitucional?       ",
+      "Answer 1": "Todo el territorio peninsular.",
+      "Answer 2": "Todo el territorio español.",
+      "Answer 3": "Como órgano constitucional no tendrá jurisdicción.",
+      "Answer 4": "Ninguna es correcta.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Tribunal Constitucional es competente para conocer:       ",
+      "Answer 1": "Del recurso de amparo por violación de los derechos y libertades del Título I de la Constitución.",
+      "Answer 2": "Del recurso de amparo contra leyes y disposiciones normativas con fuerza de ley.",
+      "Answer 3": "Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+      "Answer 4": "De los recursos de amparo y de inconstitucionalidad contra la violación de los derechos y libertades del Título I de la Constitución.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución Española, la declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia:       ",
+      "Answer 1": "Afectará a ésta y a las relacionadas y la sentencia o sentencias recaídas perderán el valor de cosa juzgada.",
+      "Answer 2": "Afectará a ésta y la sentencia o sentencias recaídas perderán el valor de cosa juzgada.",
+      "Answer 3": "No afectará a ésta ni a las sentencias recaídas.",
+      "Answer 4": "Afectará a ésta, si bien la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Tribunal Constitucional es competente para conocer del recurso de amparo por violación de los derechos y libertades referidos en el artículo:       ",
+      "Answer 1": "54.2 de la Constitución, en los casos y formas que la ley establezca.",
+      "Answer 2": "52.2 de la Constitución, en los casos y formas que detalladamente se recoge en la propia Constitución.",
+      "Answer 3": "53.2 de la Constitución, en los casos y formas que la ley establezca.",
+      "Answer 4": "55.3 de la Constitución, en los casos y formas que detalladamente se recoge en la propia Constitución.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Tribunal Constitucional es competente para conocer:       ",
+      "Answer 1": "De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí.",
+      "Answer 2": "Únicamente los conflictos de competencia en los que esté implicado el Estado.",
+      "Answer 3": "Únicamente los conflictos de competencia entre Comunidades Autónomas.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el Artículo 161.1.d) de la Constitución Española el Tribunal Constitucional es competente para conocer de:       ",
+      "Answer 1": "Las demás materias que le atribuyan la Constitución o las leyes orgánicas u ordinarias.",
+      "Answer 2": "Las demás materias que le atribuyan la Constitución o las leyes orgánicas.",
+      "Answer 3": "Las demás materias que le atribuyan la Constitución o las leyes ordinarias.",
+      "Answer 4": "Las demás materias que le atribuyan expresamente la Constitución.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 161.2 de la Constitución Española, ¿quién podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "La Asamblea Legislativa de la correspondiente Comunidad Autónoma.",
+      "Answer 3": "El Tribunal Superior de Justicia de la Comunidad Autónoma.",
+      "Answer 4": "El Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "La impugnación de las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas, ante el Tribunal Constitucional, por parte del Gobierno:       ",
+      "Answer 1": "No producirá, en ningún caso, la suspensión de la disposición o resolución recurrida.",
+      "Answer 2": "Producirá la suspensión de la disposición o resolución recurrida.",
+      "Answer 3": "Producirá la suspensión de la disposición o resolución recurrida si se encuentra debidamente motivada por el Gobierno.",
+      "Answer 4": "No producirá la suspensión de la disposición o resolución recurrida si se trata de materias de competencia autonómica.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿De qué plazo dispone el Tribunal Constitucional para ratificar o levantar una disposición o resolución adoptada por los órganos de las Comunidades Autónomas e impugnada por el Gobierno?       ",
+      "Answer 1": "Un plazo no superior a 30 días.",
+      "Answer 2": "Un plazo no superior a tres meses.",
+      "Answer 3": "Un plazo no superior a cinco meses.",
+      "Answer 4": "Un plazo no superior a un año.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 162 de la Constitución, no estará legitimado para interponer el recurso de inconstitucionalidad:       ",
+      "Answer 1": "La asamblea legislativa de una comunidad autónoma",
+      "Answer 2": "50 senadores",
+      "Answer 3": "El Presidente del Gobierno",
+      "Answer 4": "Toda persona natural o jurídica que invoque un interés legítimo",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de los siguientes estará legitimado para interponer el recurso de inconstitucionalidad?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "El Presidente del Gobierno.",
+      "Answer 3": "Los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+      "Answer 4": "En su caso, las Asambleas de las Comunidades Autónomas.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de los siguientes no estará legitimado para interponer el recurso de inconstitucionalidad?       ",
+      "Answer 1": "50 Diputados.",
+      "Answer 2": "El Defensor del Pueblo.",
+      "Answer 3": "El Ministerio Fiscal.",
+      "Answer 4": "50 Senadores.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de los siguientes estará legitimado para interponer el recurso de amparo?       ",
+      "Answer 1": "El Presidente del Gobierno.",
+      "Answer 2": "El Ministerio Fiscal.",
+      "Answer 3": "50 Diputados o 50 Senadores.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de los siguientes no está legitimado para interponer el recurso de amparo?       ",
+      "Answer 1": "El Ministerio Fiscal.",
+      "Answer 2": "El Presidente del Gobierno.",
+      "Answer 3": "El Defensor del Pueblo.",
+      "Answer 4": "Toda persona natural o jurídica que invoque un interés legítimo",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta en relación con el Tribunal Constitucional y recogido en el artículo 163 de la Constitución?       ",
+      "Answer 1": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.",
+      "Answer 2": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en todo caso serán suspensivos.",
+      "Answer 3": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable o no al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ciertos casos serán suspensivos.",
+      "Answer 4": "Cuando un órgano judicial o legislativo considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución o a la ley, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las sentencias del Tribunal Constitucional:       ",
+      "Answer 1": "Se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere.",
+      "Answer 2": "Se publicarán en el boletín oficial del Estado y en el boletín oficial del Tribunal Constitucional con los votos particulares, si los hubiere.",
+      "Answer 3": "Se publicarán en el boletín oficial del Estado con los votos particulares, si los Magistrados que los hayan realizado así lo solicitan.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Constitución Española, las sentencias del Tribunal Constitucional tienen el valor de cosa juzgada a partir:       ",
+      "Answer 1": "Del mismo día de su publicación en el BOE",
+      "Answer 2": "Del día siguiente a su publicación en el BOE",
+      "Answer 3": " De los quince días siguientes a su publicación en el BOE",
+      "Answer 4": "De la fecha que se indique en cada sentencia.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué recurso cabe contra las sentencias del Tribunal Constitucional?       ",
+      "Answer 1": "Recurso de súplica.",
+      "Answer 2": "Recurso de alzada.",
+      "Answer 3": "Ninguno.",
+      "Answer 4": "Recurso de casación.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con las sentencias del Tribunal Constitucional, ¿cuál de las siguientes afirmaciones no es correcta?       ",
+      "Answer 1": "Las que declaren la inconstitucionalidad de una norma con fuerza de ley tienen plenos efectos frente a todos.",
+      "Answer 2": "Las que declaren la inconstitucionalidad de una ley tienen plenos efectos frente a todos",
+      "Answer 3": "Las que se limiten a la estimación subjetiva de un derecho tienen plenos efectos frente a todos",
+      "Answer 4": "No cabe recurso alguno contra ellas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 164.2 de la Constitución y en relación con las sentencias del Tribunal Constitucional:       ",
+      "Answer 1": "Subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad, en todo caso.",
+      "Answer 2": "No subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad, salvo que en el fallo se disponga otra cosa.",
+      "Answer 3": "Subsistirá la vigencia de la ley en la parte afectada por la inconstitucionalidad, salvo que en el fallo se disponga otra cosa.",
+      "Answer 4": "Subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad, salvo que en el fallo se disponga otra cosa.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cómo se regulará el funcionamiento del Tribunal Constitucional según el artículo 165 de la Constitución Española?       ",
+      "Answer 1": "Mediante una ley orgánica.",
+      "Answer 2": "Mediante una ley ordinaria.",
+      "Answer 3": "Mediante su Reglamento de Régimen Interior.",
+      "Answer 4": "Mediante Decreto-Ley.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta en relación con el Tribunal Constitucional?       ",
+      "Answer 1": " Una ley ordinaria regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.",
+      "Answer 2": " Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.",
+      "Answer 3": "La ley regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.",
+      "Answer 4": "El Tribunal en Pleno regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se regulará el funcionamiento del Tribunal Constitucional según el artículo 165 de la Constitución Española?       ",
+      "Answer 1": "Mediante su Reglamento de Régimen Interior.",
+      "Answer 2": "Mediante una ley ordinaria.",
+      "Answer 3": "Mediante una ley orgánica.",
+      "Answer 4": "Mediante Decreto-Ley.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta en relación con el Tribunal Constitucional?       ",
+      "Answer 1": "La ley regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones",
+      "Answer 2": " Una ley ordinaria regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones",
+      "Answer 3": " Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones",
+      "Answer 4": "El Tribunal en Pleno regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con:",
+      "Answer 1": "más de 5 años de ejercicio profesional",
+      "Answer 2": "más de 10 años de ejercicio profesional",
+      "Answer 3": "más de 15 años de ejercicio profesional",
+      "Answer 4": "más de 20 años de ejercicio profesional",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Tribunal Constitucional serán designados por un período de:",
+      "Answer 1": "9 años y se renovarán por terceras partes cada 3",
+      "Answer 2": "6 años y se renovarán por terceras partes cada 3",
+      "Answer 3": "5 años y se renovarán por terceras partes cada 2",
+      "Answer 4": "4 años y se renovarán por terceras partes cada 2",
+      "Answer": 1
+    },
+    {
+      "Title": "La condición de miembro del Tribunal Constitucional es incompatible:",
+      "Answer 1": "con todo mandato representativo",
+      "Answer 2": "con los cargos políticos o administrativos",
+      "Answer 3": "con cualquier actividad profesional o mercantil",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Señala la incorrecta:",
+      "Answer 1": "los miembros del Tribunal Constitucional tendrán las incompatibilidades propias de los miembros del poder judicial",
+      "Answer 2": "los miembros del Tribunal Constitucional serán dependientes e inamovibles en el ejercicio de su mandato",
+      "Answer 3": "el Tribunal Constitucional tiene jurisdicción en todo el territorio español",
+      "Answer 4": "todas son correctas",
+      "Answer": 2
+    },
+    {
+      "Title": "El Tribunal Constitucional es competente para conocer:",
+      "Answer 1": "del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley",
+      "Answer 2": "del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53, 2",
+      "Answer 3": "de los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas:",
+      "Answer 1": "el Gobierno",
+      "Answer 2": "el Congreso",
+      "Answer 3": "el Senado",
+      "Answer 4": "el Ministerio Fiscal",
+      "Answer": 1
+    },
+    {
+      "Title": "La impugnación ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas producirá la suspensión de la disposición o resolución recurrida:",
+      "Answer 1": "sin necesidad de que sea ratificada por el Tribunal",
+      "Answer 2": "pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a 1 mes",
+      "Answer 3": "pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a 2 meses",
+      "Answer 4": "pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a 5 meses",
+      "Answer": 4
+    },
+    {
+      "Title": "Están legitimados para interponer el recurso de inconstitucionalidad (señala la incorrecta):",
+      "Answer 1": "el Presidente del Gobierno",
+      "Answer 2": "el Ministerio Fiscal",
+      "Answer 3": "50 Senadores",
+      "Answer 4": "los órganos colegiados ejecutivos de las Comunidades Autónomas",
+      "Answer": 2
+    }
+  ]

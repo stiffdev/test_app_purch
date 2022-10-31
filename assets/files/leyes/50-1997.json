@@ -1,0 +1,1498 @@
+[
+    {
+      "Title": "¿Quién dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo?       ",
+      "Answer 1": "El Presidente del Gobierno.",
+      "Answer 2": "El Consejo de Ministros.",
+      "Answer 3": "El Ministro de la Presidencia.",
+      "Answer 4": "La Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer": 1
+    },
+    {
+      "Title": "Corresponde representar al Gobierno:       ",
+      "Answer 1": "Al Ministro de Presidencia.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Al miembro del Gobierno que decida el Presidente.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde establecer el programa político del Gobierno:       ",
+      "Answer 1": "A las Cortes Generales.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde proponer al Rey la disolución del Congreso, del Senado o de las Cortes Generales:       ",
+      "Answer 1": "Al Consejo de Ministros.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "Al Presidente del Congreso.",
+      "Answer 4": "Al Letrado Mayor de las Cortes Generales.",
+      "Answer": 2
+    },
+    {
+      "Title": "Al Presidente del Gobierno le corresponde plantear ante el Congreso de los Diputados la cuestión de confianza:       ",
+      "Answer 1": "Sin ningún requisito anterior.",
+      "Answer 2": "Previa autorización del Consejo de Ministros.",
+      "Answer 3": "Previa deliberación del Consejo de Estado.",
+      "Answer 4": "Previa deliberación del Consejo de Ministros.",
+      "Answer": 4
+    },
+    {
+      "Title": "Corresponde proponer al Rey la convocatoria de un referéndum consultivo:       ",
+      "Answer 1": "Al Consejo de Ministros, previa autorización del Congreso de los Diputados.",
+      "Answer 2": "Al Presidente del Gobierno, previa autorización del Consejo de Ministros.",
+      "Answer 3": "Al Presidente del Gobierno, previa autorización del Congreso de los Diputados.",
+      "Answer 4": "Al Consejo de Ministros, previa autorización de las Cortes Generales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde dirigir la política de defensa y ejercer respecto de las Fuerzas Armadas las funciones previstas en la legislación reguladora de la defensa nacional y de la organización militar:       ",
+      "Answer 1": "Al Consejo de Ministros.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "A las Cortes Generales.",
+      "Answer 4": "Al Rey.",
+      "Answer": 2
+    },
+    {
+      "Title": "Como norma general, corresponde convocar, presidir y fijar el orden del día de las reuniones del Consejo de Ministros:       ",
+      "Answer 1": "Al Consejo de Ministros.",
+      "Answer 2": "Al Rey.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Al Consejo de Estado.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde interponer el recurso de inconstitucionalidad:       ",
+      "Answer 1": "Al Rey.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "A cualquiera de los miembros del Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales, así como las Secretarías de Estado:       ",
+      "Answer 1": "Al Presidente del Gobierno.",
+      "Answer 2": "Al Rey.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "Al Congreso de los Diputados.",
+      "Answer": 1
+    },
+    {
+      "Title": "Corresponde proponer al Rey el nombramiento y separación de los Vicepresidentes y de los Ministros:       ",
+      "Answer 1": "Al Presidente del Congreso.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios:       ",
+      "Answer 1": "Al Ministro de Presidencia.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "A la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer 4": "Al Presidente del Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "Corresponde desarrollar la acción del Gobierno en el ámbito de su Departamento:       ",
+      "Answer 1": "A los Vicepresidentes.",
+      "Answer 2": "A los Ministros.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "A los Subsecretarios de Estado.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde aprobar los proyectos de ley y su remisión al Congreso de los Diputados o, en su caso, al Senado:       ",
+      "Answer 1": "A los Ministros.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "Al Consejo de Estado.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde aprobar el Proyecto de Ley de Presupuestos Generales del Estado:       ",
+      "Answer 1": "Al Ministro de Presidencia.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "A la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde aprobar los Reales Decretos-leyes y los Reales Decretos Legislativos:       ",
+      "Answer 1": "Al Consejo de Estado.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "A los Ministros.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde acordar la negociación y firma de Tratados internacionales, así como su aplicación provisional:       ",
+      "Answer 1": "Al Consejo de Ministros.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "A las Cortes Generales.",
+      "Answer 4": "Al Congreso de los Diputados.",
+      "Answer": 1
+    },
+    {
+      "Title": "Corresponde remitir los Tratados internacionales a las Cortes Generales en los términos previstos en los artículos 94 y 96.2 de la Constitución:       ",
+      "Answer 1": "Al Presidente del Gobierno.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "Al Presidente del Congreso.",
+      "Answer 4": "Al Rey.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde declarar los estados de alarma y de excepción:       ",
+      "Answer 1": "Al Presidente del Gobierno.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "A las Cortes Generales.",
+      "Answer 4": "Al Congreso de los Diputados.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde proponer al Congreso de los Diputados la declaración del estado de sitio:       ",
+      "Answer 1": "Al Senado.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "Al Rey.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde disponer la emisión de Deuda Pública o contraer crédito, cuando haya sido autorizado por una Ley:       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "A cada uno de los Ministros.",
+      "Answer 3": "Únicamente al Presidente del Gobierno.",
+      "Answer 4": "Al Consejo de Ministros.",
+      "Answer": 4
+    },
+    {
+      "Title": "Corresponde aprobar los reglamentos para el desarrollo y la ejecución de las leyes:       ",
+      "Answer 1": "Al Rey.",
+      "Answer 2": "Al Presidente del Gobierno, previo dictamen del Consejo de Ministros.",
+      "Answer 3": "Al Consejo de Ministros, previo dictamen del Consejo de Estado.",
+      "Answer 4": "A las Cortes Generales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales:       ",
+      "Answer 1": "Al Consejo de Ministros.",
+      "Answer 2": "Al Presidente del Gobierno.",
+      "Answer 3": "Al Congreso de los Diputados.",
+      "Answer 4": "A los Ministros.",
+      "Answer": 1
+    },
+    {
+      "Title": "Corresponde adoptar programas, planes y directrices vinculantes para todos los órganos de la Administración General del Estado:       ",
+      "Answer 1": "Al Presidente del Gobierno.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "Al Ministro de Presidencia.",
+      "Answer 4": "Al Ministro de Administraciones Públicas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde examinar las cuestiones de carácter general que tengan relación con varios de los Departamentos Ministeriales que integren la Comisión:       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "A la Comisión General de Secretarios, Subsecretarios y Directores Generales.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "A las Comisiones Delegadas del Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "Corresponde resolver los asuntos que, afectando a más de un Ministerio, no requieran ser elevados al Consejo de Ministros:       ",
+      "Answer 1": "Al Consejo de Estado.",
+      "Answer 2": "A las Comisiones Delegadas del Gobierno.",
+      "Answer 3": "A la Comisión General de Secretarios y Subsecretarios de Estado.",
+      "Answer 4": "A la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer": 2
+    },
+    {
+      "Title": "Serán directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica de un Departamento o de la Presidencia del Gobierno:       ",
+      "Answer 1": "Los Ministros.",
+      "Answer 2": "Los Subsecretarios de Estado.",
+      "Answer 3": "Los Secretarios de Estado.",
+      "Answer 4": "El Secretariado del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Ley 50/1997 del Gobierno, sus competencias serán las que se determinan en la Ley de Organización y Funcionamiento de la Administración General del Estado:       ",
+      "Answer 1": "Consejo de Ministros.",
+      "Answer 2": "Subsecretarios de Estado.",
+      "Answer 3": "Presidente del Gobierno.",
+      "Answer 4": "Secretarios de Estado.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿A quién corresponde el examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Ministros, excepto los nombramientos, ceses, ascensos a cualquiera de los empleos de la categoría de oficiales generales y aquéllos que, excepcionalmente y por razones de urgencia, deban ser sometidos directamente al Consejo de Ministros?       ",
+      "Answer 1": "A la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer 2": "A las Comisiones Delegadas del Gobierno.",
+      "Answer 3": "Al Consejo de Estado.",
+      "Answer 4": "Al Ministro de la Presidencia.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿A quién corresponde el análisis o discusión de aquellos asuntos que, sin ser competencia del Consejo de Ministros o sus Comisiones Delegadas, afecten a varios Ministerios y sean sometidos a la Comisión por su presidente?       ",
+      "Answer 1": "A las Comisiones Delegadas del Gobierno.",
+      "Answer 2": "Al Consejo de Estado.",
+      "Answer 3": "A la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer 4": "A la Comisión de Estudios Gubernamentales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde la asistencia al Ministro-Secretario del Consejo de Ministros:       ",
+      "Answer 1": "Al Ministro de Presidencia.",
+      "Answer 2": "Al Secretariado del Gobierno.",
+      "Answer 3": "Al Presidente de la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer 4": "Al Subsecretario de Estado de Presidencia.",
+      "Answer": 2
+    },
+    {
+      "Title": "La remisión de las convocatorias a los diferentes miembros del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios, corresponde:       ",
+      "Answer 1": "Al Ministro de Presidencia.",
+      "Answer 2": "Al Secretariado del Gobierno.",
+      "Answer 3": "Al Subsecretario de Estado de Presidencia.",
+      "Answer 4": "A sus respectivos Presidentes.",
+      "Answer": 2
+    },
+    {
+      "Title": "La función de colaboración con las Secretarías Técnicas de las Comisiones Delegadas del Gobierno corresponde:       ",
+      "Answer 1": "Al Secretariado del Gobierno.",
+      "Answer 2": "Al Ministro de Presidencia.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "Al Presidente del Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "El archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios corresponde:       ",
+      "Answer 1": "Al Secretariado del Gobierno.",
+      "Answer 2": "Al Secretario de cada uno de estos órganos.",
+      "Answer 3": "Al Consejo de Ministros.",
+      "Answer 4": "Al Ministro de Presidencia.",
+      "Answer": 1
+    },
+    {
+      "Title": "Velar por el cumplimiento de los principios de buena regulación aplicables a las iniciativas normativas y contribuir a la mejora de la calidad técnica de las disposiciones aprobadas por el Gobierno es una función:       ",
+      "Answer 1": "Del Presidente del Gobierno.",
+      "Answer 2": "Del Secretariado del Gobierno.",
+      "Answer 3": "Del Consejo de Ministros.",
+      "Answer 4": "De las Comisiones Delegadas del Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el \"Boletín Oficial del Estado\" es una función:       ",
+      "Answer 1": "Del Presidente del Gobierno.",
+      "Answer 2": "Del Ministro de Presidencia.",
+      "Answer 3": "Del Secretariado del Gobierno.",
+      "Answer 4": "Del Consejo de Ministros.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los trámites relativos a la sanción y promulgación real de las leyes aprobadas por las Cortes Generales y la expedición de los Reales Decretos es una función:       ",
+      "Answer 1": "Del Presidente del Gobierno.",
+      "Answer 2": "Del Rey.",
+      "Answer 3": "Del Secretariado del Gobierno.",
+      "Answer 4": "Del Presidente del Congreso.",
+      "Answer": 3
+    },
+    {
+      "Title": "La tramitación de los actos y disposiciones del Rey, cuyo refrendo corresponde al Presidente del Gobierno es una función:       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "Del Ministro de Presidencia.",
+      "Answer 3": "Del Secretario de Estado de Presidencia.",
+      "Answer 4": "Del Secretariado del Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "La tramitación de los actos y disposiciones que el ordenamiento jurídico atribuye a la competencia del Presidente del Gobierno es una función:       ",
+      "Answer 1": "Del Secretariado del Gobierno.",
+      "Answer 2": "Del Ministerio de la Presidencia.",
+      "Answer 3": "Del Vicepresidente Primero del Gobierno.",
+      "Answer 4": "Del Portavoz del Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién propondrá al Ministro de la Presidencia la aprobación de las instrucciones que han de seguirse para la tramitación de asuntos ante los órganos colegiados del Gobierno?       ",
+      "Answer 1": "El Secretario de Estado de la Presidencia.",
+      "Answer 2": "El Secretariado del Gobierno.",
+      "Answer 3": "El Presidente del Gobierno.",
+      "Answer 4": "La Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de los siguientes es/son órgano(s) de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado?       ",
+      "Answer 1": "Las Comisiones Delegadas del Gobierno.",
+      "Answer 2": "El Secretariado del Gobierno.",
+      "Answer 3": "Los Gabinetes.",
+      "Answer 4": "Los Secretarios de Estado.",
+      "Answer": 3
+    },
+    {
+      "Title": "Prestar su apoyo a los miembros del Gobierno y Secretarios de Estado en el desarrollo de su labor política, en el cumplimiento de las tareas de carácter parlamentario y en sus relaciones con las instituciones y la organización administrativa es función:       ",
+      "Answer 1": "De los Secretarios de Estado.",
+      "Answer 2": "Del Secretariado del Gobierno.",
+      "Answer 3": "De los Gabinetes.",
+      "Answer 4": "Del Ministro de la Presidencia.",
+      "Answer": 3
+    },
+    {
+      "Title": "Convocar y presidir las reuniones del Consejo de Ministros es función:       ",
+      "Answer 1": "Del Ministro de Presidencia.",
+      "Answer 2": "Del Presidente del Gobierno.",
+      "Answer 3": "Del Secretariado del Gobierno.",
+      "Answer 4": "Del Rey, en todo caso.",
+      "Answer": 2
+    },
+    {
+      "Title": "Actuar como Secretario de las reuniones del Consejo de Ministros es función:       ",
+      "Answer 1": "Del Secretariado del Gobierno.",
+      "Answer 2": "Del Ministro de la Presidencia.",
+      "Answer 3": "Del Presidente del Gobierno.",
+      "Answer 4": "Del Ministro de Administraciones Públicas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Fijar el orden del día de las reuniones del Consejo de Ministros es función:       ",
+      "Answer 1": "Del Ministro de Presidencia.",
+      "Answer 2": "Del Presidente del Gobierno.",
+      "Answer 3": "Del Secretariado del Gobierno.",
+      "Answer 4": "Del Consejo en Pleno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde proponer la delegación de las funciones administrativas del Consejo de Ministros en las Comisiones Delegadas del Gobierno:       ",
+      "Answer 1": "Al Presidente de la respectiva Comisión.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "El conocimiento de un asunto cuya decisión corresponda a las Comisiones Delegadas del Gobierno, podrán ser avocadas para sí por:       ",
+      "Answer 1": "El Consejo de Ministros, a propuesta del Presidente del Gobierno.",
+      "Answer 2": "El Presidente del Gobierno, a propuesta del Consejo de Ministros.",
+      "Answer 3": "El Presidente de la respectiva Comisión, a propuesta del Presidente del Gobierno.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "Corresponde aprobar anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente:       ",
+      "Answer 1": "Al Gobierno.",
+      "Answer 2": "Al Congreso de los Diputados.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Coordinar el Plan Anual Normativo, que se recoge en la Ley del Gobierno es función:       ",
+      "Answer 1": "De las Comisiones Delegadas del Gobierno.",
+      "Answer 2": "Del Presidente del Gobierno.",
+      "Answer 3": "Del Secretariado del Gobierno.",
+      "Answer 4": "Del Ministerio de la Presidencia.",
+      "Answer": 4
+    },
+    {
+      "Title": "Aprobar los modelos que contengan la información a remitir sobre cada iniciativa normativa para su inclusión en el Plan Anual Normativo que se recoge en la Ley del Gobierno es función:       ",
+      "Answer 1": "Del Ministerio de la Presidencia.",
+      "Answer 2": "Del Presidente del Gobierno.",
+      "Answer 3": "Del Consejo de Ministros.",
+      "Answer 4": "Del Secretariado del Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Ley 50/1997 del Gobierno, los anteproyectos de ley, los proyectos de real decreto legislativo y los proyectos de disposiciones reglamentarias deberán ser informado por:       ",
+      "Answer 1": "El Secretario de Estado del Ministerio o Ministerios proponentes.",
+      "Answer 2": "La Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer 3": "La Secretaría General Técnica del Ministerio o Ministerios proponentes.",
+      "Answer 4": "El Secretariado del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 27.1 de la Ley del Gobierno, acordar la tramitación urgente del procedimiento de elaboración y aprobación de anteproyectos de ley, reales decretos legislativos y de reales decretos es función:       ",
+      "Answer 1": "Del Presidente del Gobierno.",
+      "Answer 2": "Del Consejo de Ministros.",
+      "Answer 3": "De la Secretaría General Técnica del Ministerio o Ministerios proponentes.",
+      "Answer 4": "De la Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer": 2
+    },
+    {
+      "Title": "Aprobar, antes del 30 de abril de cada año, un informe anual en el que se refleje el grado de cumplimiento del Plan Anual Normativo del año anterior es función:       ",
+      "Answer 1": "Del Presidente del Gobierno.",
+      "Answer 2": "Del Secretariado del Gobierno.",
+      "Answer 3": "Del Ministro de la Presidencia.",
+      "Answer 4": "Del Consejo de Ministros.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los Reales Decretos-leyes son aprobados:       ",
+      "Answer 1": "Por el Consejo de Ministros.",
+      "Answer 2": "Por el Consejo de Ministros, previa autorización del Congreso de los Diputados.",
+      "Answer 3": "Por el Consejo de Ministros, previa autorización de la Cortes Generales.",
+      "Answer 4": "Por el Rey, previa deliberación del Consejo de Ministros y consulta al Congreso de los Diputados.",
+      "Answer": 1
+    },
+    {
+      "Title": "Al Consejo de Ministros le corresponde, según la Ley 50/1997:       ",
+      "Answer 1": "Resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios.",
+      "Answer 2": "Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales.",
+      "Answer 3": "Crear, modificar y suprimir, por Real Decreto los Departamentos Ministeriales, así como las Secretarías de Estado.",
+      "Answer 4": "Proponer al Rey la convocatoria de un referéndum consultivo, previa autorización del Congreso de los Diputados.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones no le corresponde al Consejo de Ministros, según el artículo 5 de la Ley 50/1997?       ",
+      "Answer 1": "Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales.",
+      "Answer 2": "Aprobar los Reales Decretos-leyes y los Reales Decretos Legislativos.",
+      "Answer 3": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+      "Answer 4": "Resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según la Ley 50/1997, de 27 de noviembre, del Gobierno, corresponde al Presidente del Gobierno:       ",
+      "Answer 1": "Disponer la emisión de Deuda Pública o contraer crédito, cuando haya sido autorizado por una Ley.",
+      "Answer 2": "Proponer al Rey la convocatoria de un referéndum consultivo, previa autorización del Congreso de los Diputados.",
+      "Answer 3": "Proponer al Congreso de los Diputados la declaración del estado de sitio.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Ley 50/1997 del Gobierno, velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el \"Boletín Oficial del Estado\", le corresponde:       ",
+      "Answer 1": "Al Consejo de Ministros.",
+      "Answer 2": "Al Ministro de la Presidencia.",
+      "Answer 3": "Al Secretariado del Gobierno.",
+      "Answer 4": "Al Presidente del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 5 de la Ley 50/1995, al Consejo de Ministros le corresponde:       ",
+      "Answer 1": "Dirigir la política de defensa.",
+      "Answer 2": "Representar al Gobierno.",
+      "Answer 3": "Declarar los estados de alarma y excepción.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según establece el artículo 26 de la Ley 50/1997, la Memoria del Análisis de Impacto Normativo, en el procedimiento de elaboración de normas con rango de Ley y reglamentos, incluirá:       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "El impacto por razón de género.",
+      "Answer 3": "El impacto sobre los derechos de la infancia.",
+      "Answer 4": "El análisis sobre la adecuación de la norma aprobada al orden legalmente establecido en base a criterios nacionales e internacionales.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 26.6 de la Ley 50/1997 del Gobierno, en el procedimiento de elaboración de reglamentos, el trámite de audiencia a los ciudadanos será no inferior a:       ",
+      "Answer 1": "Veinte días naturales.",
+      "Answer 2": "Quince días hábiles.",
+      "Answer 3": "Quince días naturales.",
+      "Answer 4": "Veinte días hábiles.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se denomina del Título VI de la Ley 50/1997 del Gobierno?       ",
+      "Answer 1": "De la iniciativa legislativa.",
+      "Answer 2": "Del control del Gobierno.",
+      "Answer 3": "De las disposiciones normativas del Gobierno.",
+      "Answer 4": "No existe Título VI en dicha Ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "En relación con la Comisión General de Secretarios de Estado y Subsecretarios:       ",
+      "Answer 1": "Está integrada por los titulares de las Secretarias de Estado, y de los órganos que tengan rango de Subsecretario.",
+      "Answer 2": "Su presidencia corresponde al Director de Gabinete del Presidente del Gobierno.",
+      "Answer 3": "No puede adoptar decisiones por Delegación del Gobierno.",
+      "Answer 4": "Es un órgano de Gobierno cuyo objeto es resolver los asuntos que, afectando a más de un Ministerio, no requieren ser elevados al Consejo de Ministros.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones no le corresponde al Presidente del Gobierno?       ",
+      "Answer 1": "Fijar el orden del día de las reuniones del Consejo de Ministros.",
+      "Answer 2": "Representar al Gobierno.",
+      "Answer 3": "Refrendar todos los actos del Rey.",
+      "Answer 4": "Dirigir la política de defensa.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones les corresponden a los Ministros?       ",
+      "Answer 1": "Fijar el orden del día de las reuniones del Consejo de Ministros.",
+      "Answer 2": "Interponer el recurso de inconstitucionalidad.",
+      "Answer 3": "Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
+      "Answer 4": "Crear, modificar y suprimir, por Real Decreto, los Departamentos ministeriales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Ley 50/1997, el Gobierno se compone:       ",
+      "Answer 1": "Del Presidente del Gobierno, del Vicepresidente o Vicepresidentes, en su caso y los Ministros, salvo aquellos que no tengan cartera ministerial.",
+      "Answer 2": "Del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros.",
+      "Answer 3": "El Presidente del Gobierno, los Ministros y los Secretarios de Estado.",
+      "Answer 4": "Del Presidente, del Vicepresidente o Vicepresidentes, en su caso, de los Ministros y de los Secretarios de Estado.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 4 de la Ley 50/1997 del Gobierno, los Ministros sin cartera:       ",
+      "Answer 1": "Se les atribuirá la responsabilidad de determinadas funciones gubernamentales.",
+      "Answer 2": "Asumirán el cargo de Vicepresidente.",
+      "Answer 3": "No son miembros del Gobierno.",
+      "Answer 4": "Dependen orgánicamente de la Presidencia del Gobierno y funcionalmente del Ministerio al que figuren adscritos.",
+      "Answer": 1
+    },
+    {
+      "Title": "El ejercicio de la potestad reglamentaria corresponde:       ",
+      "Answer 1": "Al Rey, de acuerdo con la Constitución y las leyes.",
+      "Answer 2": "A las Cortes Generales, de acuerdo con la Constitución y las leyes.",
+      "Answer 3": "Al Presidente del Gobierno, de acuerdo con la Constitución y las leyes.",
+      "Answer 4": "Al Gobierno, de acuerdo con la Constitución y las leyes.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Presidente del Gobierno en funciones no podrá ejercer una de las siguientes facultades:       ",
+      "Answer 1": "Interponer recurso de inconstitucionalidad.",
+      "Answer 2": "Resolver conflictos de atribuciones entre los diferentes ministerios.",
+      "Answer 3": "Convocar, presidir y fijar el orden del día de las reuniones del Consejo de Ministros.",
+      "Answer 4": "Proponer al Rey la convocatoria de referéndum consultivo.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de los siguientes no es un órgano de colaboración y apoyo al Gobierno?       ",
+      "Answer 1": "La Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer 2": "Los Gabinetes.",
+      "Answer 3": "Los Secretarios de Estado.",
+      "Answer 4": "Los Secretarios Generales Técnicos.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones no le corresponde al Consejo de Ministros, según el artículo 5 de la Ley 50/1997?       ",
+      "Answer 1": "Aprobar los Reales Decretos-leyes.",
+      "Answer 2": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+      "Answer 3": "Aprobar los Reales Decretos Legislativos.",
+      "Answer 4": "Declarar el estado de sitio.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 18 de la Ley 50/1997 del Gobierno, en las reuniones del Consejo de Ministros actuará como Secretario:       ",
+      "Answer 1": "El Secretariado de Gobierno.",
+      "Answer 2": "El Ministro de Administraciones Públicas.",
+      "Answer 3": "El Ministro de la Presidencia.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Ley 50/1997 del Gobierno, las disposiciones de entrada en vigor de las leyes o reglamentos, cuya aprobación o propuesta corresponda al Gobierno o a sus miembros, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional como consecuencia del ejercicio de ésta, preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación. Lo previsto anteriormente:       ",
+      "Answer 1": "No será de aplicación cuando el cumplimiento del plazo de transposición de directivas europeas así lo aconsejen.",
+      "Answer 2": "No será de aplicación a los reales decretos-leyes.",
+      "Answer 3": "Todas las respuestas son correctas.",
+      "Answer 4": "No será de aplicación cuando razones justificadas así lo aconsejen.",
+      "Answer": 3
+    },
+    {
+      "Title": "De acuerdo con el artículo 16 de la Ley 50/1997, de 27 de noviembre, del Gobierno, los Directores de los Gabinetes del Presidente, de los Vicepresidentes y de los Ministros serán nombrados por:       ",
+      "Answer 1": "Por Real Decreto aprobado en Consejo de Ministros.",
+      "Answer 2": "El Presidente del Gobierno.",
+      "Answer 3": "Por Orden Ministerial.",
+      "Answer 4": "El Rey, a propuesta del Presidente del Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones no le corresponde al Consejo de Ministros, según el artículo 5 de la Ley 50/1997?       ",
+      "Answer 1": "Establecer el programa político del Gobierno y determinar las directrices de la política interior y exterior y velar por su cumplimiento.",
+      "Answer 2": "Acordar la negociación y firma de Tratados internacionales, así como su aplicación provisional.",
+      "Answer 3": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+      "Answer 4": "Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las disposiciones y actos cuya adopción venga atribuida al Presidente del Gobierno adoptarán la forma de:       ",
+      "Answer 1": "Órdenes de la Presidencia del Gobierno.",
+      "Answer 2": "Reales Decretos del Presidente del Gobierno.",
+      "Answer 3": "Reales Decretos Legislativos.",
+      "Answer 4": "Reales Decretos Reglamentarios.",
+      "Answer": 2
+    },
+    {
+      "Title": "No se encuentran entre los órganos de colaboración y apoyo del Gobierno, teniendo en cuenta la Ley 50/1997 del Gobierno.       ",
+      "Answer 1": "Los Vicepresidentes.",
+      "Answer 2": "La Comisión General de Secretarios de Estado y Subsecretarios.",
+      "Answer 3": "Los Secretarios de Estado.",
+      "Answer 4": "El Secretariado de Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Ley 50/1997 del Gobierno, los miembros del mismo se reúnen:       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "En Consejo de Ministros y en Comisiones Delegadas de Gobierno.",
+      "Answer 3": "En Consejo de Ministros y en Consejo de Estado.",
+      "Answer 4": "Siempre en Consejo de Ministros.",
+      "Answer": 2
+    },
+    {
+      "Title": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada:       ",
+      "Answer 1": "Por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno.",
+      "Answer 2": "Por el Presidente del Gobierno mediante Real Decreto, a propuesta del Consejo de Ministros.",
+      "Answer 3": "Por el Presidente del Gobierno por Real Decreto.",
+      "Answer 4": "Por el Consejo de Ministros mediante Real Decreto.",
+      "Answer": 1
+    },
+    {
+      "Title": "Acordar la negociación y firma de Tratados internacionales, así como su aplicación provisiona corresponde:       ",
+      "Answer 1": "Al Consejo de Ministros.",
+      "Answer 2": "Al Congreso de los Diputados.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Al Rey.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Ley 50/1997, de 27 de noviembre, del Gobierno, las reuniones del Consejo de Ministros:       ",
+      "Answer 1": "Ninguna de las respuestas es correcta.",
+      "Answer 2": "Únicamente tendrán carácter deliberante.",
+      "Answer 3": "Podrán tener carácter decisorio o deliberante.",
+      "Answer 4": "Únicamente tendrán carácter decisorio.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Ley 50/1997, de 27 de noviembre, del Gobierno, a las reuniones del Consejo de Ministros:       ",
+      "Answer 1": "No podrán asistir los Secretarios de Estado, en ningún caso.",
+      "Answer 2": "Podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello.",
+      "Answer 3": "Deberán asistir los Secretarios de Estado, en los casos de ausencia del Ministro correspondiente.",
+      "Answer 4": "Únicamente podrán asistir, además de los miembros del Gobierno, los Secretarios de Estado cuando sean convocados.",
+      "Answer": 2
+    },
+    {
+      "Title": "En aplicación de la Ley 50/1997, de 27 de noviembre, ¿Cuál de las siguientes competencias corresponde al Consejo de Ministros?       ",
+      "Answer 1": "Disponer la emisión de Deuda Pública o contraer crédito, cuando haya sido autorizado por una Ley.",
+      "Answer 2": "Crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales y las Secretarias de Estado.",
+      "Answer 3": "Resolver los conflictos de atribuciones que surjan entre los distintos Ministerios.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Ley 50/1997 del Gobierno, aprobar los reglamentos para el desarrollo y la ejecución de las leyes, previo dictamen del Consejo de Estado, así como las demás disposiciones reglamentarias que procedan, es una función:       ",
+      "Answer 1": "Del Presidente del Gobierno.",
+      "Answer 2": "Del Ministro de Presidencia.",
+      "Answer 3": "Del Consejo de Ministros.",
+      "Answer 4": "Del Secretariado del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 3 de la Ley 50/1997 del Gobierno, el Vicepresidente que asuma la titularidad de un Departamento Ministerial:       ",
+      "Answer 1": "No podrá ostentar la condición de Ministro.",
+      "Answer 2": "Ostentará, además, la condición de Ministro.",
+      "Answer 3": "Podrá, excepcionalmente, asumir la condición de Ministro de Presidencia.",
+      "Answer 4": "Podrá, excepcionalmente, asumir la condición de Ministro de Administraciones Públicas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Dirigir la política de defensa y ejercer respecto de las Fuerzas Armadas las funciones previstas en la legislación reguladora de la defensa nacional y de la organización militar, le corresponde:       ",
+      "Answer 1": "Al Ministro de Defensa.",
+      "Answer 2": "Al Consejo de Ministros.",
+      "Answer 3": "Al Presidente del Gobierno.",
+      "Answer 4": "Al Rey.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones no podrá ejercer el Gobierno en funciones?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+      "Answer 3": "Presentar proyectos de ley al Congreso de los Diputados.",
+      "Answer 4": "Presentar proyectos de ley, en su caso, al Senado.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 20 de la Ley 50/1997 del Gobierno, en ningún caso son delegables por el Gobierno las competencias:       ",
+      "Answer 1": "Administrativas del Consejo de Ministros en las Comisiones Delegadas de Gobierno.",
+      "Answer 2": "Las competencias de los Ministros en los Secretarios de Estado.",
+      "Answer 3": "Atribuidas directamente por la Constitución.",
+      "Answer 4": "Del Presidente del Gobierno en otros miembros del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 26.5 de la Ley 50/1997 del Gobierno, los anteproyectos de ley, los proyectos de real decreto legislativo y los proyectos de disposiciones reglamentarias:       ",
+      "Answer 1": "Necesitan de informe preceptivo del Consejo de Estado.",
+      "Answer 2": "No deben de ser informados por la Secretaría General Técnica del Ministerio o Ministerios proponente, salvo en el caso de las leyes orgánicas.",
+      "Answer 3": "Deber ser informados por la Secretaría General Técnica del Ministerio o Ministerios proponentes, en todo caso.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Ley 50/1997 del Gobierno, entre las funciones del Secretariado del Gobierno no se encuentra:       ",
+      "Answer 1": "Velar por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el \"Boletín Oficial del Estado\".",
+      "Answer 2": "Asistir a los Ministerios en el control de su eficacia.",
+      "Answer 3": "La colaboración con las Secretarías Técnicas de las Comisiones Delegadas del Gobierno.",
+      "Answer 4": "La asistencia al Ministro-Secretario del Consejo de Ministros.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 12.3 de la Ley 50/1997, la separación de los Vicepresidentes del Gobierno:       ",
+      "Answer 1": "Llevará aparejada la extinción de dichos órganos, en todo caso.",
+      "Answer 2": "Se formalizará mediante Real Decreto del Consejo de Ministros.",
+      "Answer 3": "Se producirá en los términos previstos en la Constitución.",
+      "Answer 4": "Llevará aparejada la extinción de dichos órganos, salvo en el caso en que simultáneamente se designe otro vicepresidente en sustitución del separado.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Gobierno en funciones no podrá ejercer las siguientes facultades:       ",
+      "Answer 1": "* Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+      "Answer 2": "* Presentar proyectos de ley al Congreso de los Diputados o, en su caso, al Senado.",
+      "Answer 3": "Las dos respuestas marcadas (*) son correctas.",
+      "Answer 4": "Las dos respuestas marcadas (*) son incorrectas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Ley 50/1997, de 27 de noviembre del Gobierno:       ",
+      "Answer 1": "Los conflictos de atribuciones entre Ministerios se resuelven por Acuerdo de Consejo de Ministros.",
+      "Answer 2": "Los Secretarios de Estado son miembros del Gobierno.",
+      "Answer 3": "La Comisión General de Secretarios de Estado y Subsecretarios estará integrada por los titulares de las Secretarías de Estado y por los Subsecretarios de los distintos Departamentos Ministeriales.",
+      "Answer 4": "Los Vicepresidentes, cuando existan, no pueden ostentar simultáneamente la condición de Ministros.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Real Decreto de creación de una Comisión Delegada deberá especificar, en todo caso:",
+      "Answer 1": "el miembro del Gobierno que asume la presidencia de la Comisión",
+      "Answer 2": "las funciones que se atribuyen a la Comisión",
+      "Answer 3": "el régimen interno de funcionamiento",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Las deliberaciones de las Comisiones Delegadas del Gobierno serán:",
+      "Answer 1": "serán públicas",
+      "Answer 2": "serán secretas",
+      "Answer 3": "serán públicas salvo que acuerden lo contrario la mayoría de sus miembros",
+      "Answer 4": "serán secretas salvo que establezca lo contrario el Presidente del Gobierno",
+      "Answer": 2
+    },
+    {
+      "Title": "Son órganos superiores de la Administración General del Estado, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica de un Departamento o de la Presidencia del Gobierno:",
+      "Answer 1": "los Ministros",
+      "Answer 2": "los Secretarios de Estado",
+      "Answer 3": "los Subsecretarios",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Secretarios de Estado actúan:",
+      "Answer 1": "en todo caso bajo la dirección del Presidente del Gobierno",
+      "Answer 2": "en todo caso bajo la dirección del titular del Departamento al que pertenezcan",
+      "Answer 3": "cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Presidente",
+      "Answer 4": "cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del titular del Departamento al que pertenezcan",
+      "Answer": 3
+    },
+    {
+      "Title": "Las competencias de los Secretarios de Estado son las que se determinan en:",
+      "Answer 1": "la presente Ley",
+      "Answer 2": "su reglamento interno",
+      "Answer 3": "la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Publicas",
+      "Answer 4": "la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "Answer": 4
+    },
+    {
+      "Title": "La Comisión General de Secretarios de Estado y Subsecretarios estará integrada por:",
+      "Answer 1": "los titulares de las Secretarías de Estado",
+      "Answer 2": "los Subsecretarios de los distintos Departamentos Ministeriales",
+      "Answer 3": "los Ministros",
+      "Answer 4": "a y b son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde a:",
+      "Answer 1": "un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia",
+      "Answer 2": "el Presidente del Gobierno",
+      "Answer 3": "el Subsecretario Mayor",
+      "Answer 4": "el Director del Secretariado del Gobierno",
+      "Answer": 1
+    },
+    {
+      "Title": "La Secretaría de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por:",
+      "Answer 1": "el Subsecretario de la Presidencia",
+      "Answer 2": "el Vicepresidente del Gobierno",
+      "Answer 3": "el Ministro de la Presidencia",
+      "Answer 4": "el Ministro que corresponda según el orden de precedencia de los Departamentos ministeriales",
+      "Answer": 1
+    },
+    {
+      "Title": "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios:",
+      "Answer 1": "serán públicas",
+      "Answer 2": "serán reservadas",
+      "Answer 3": "serán públicas salvo que acuerden lo contrario la mayoría de sus miembros",
+      "Answer 4": "serán secretas salvo que establezca lo contrario la Presidencia",
+      "Answer": 2
+    },
+    {
+      "Title": "La Comisión General de Secretarios de Estado y Subsecretarios:",
+      "Answer 1": "podrá adoptar decisiones o acuerdos por delegación del Gobierno",
+      "Answer 2": "podrá adoptar decisiones o acuerdos por delegación del Gobierno en caso de urgencia",
+      "Answer 3": "podrá adoptar decisiones o acuerdos por delegación del Gobierno en caso de fuerza mayor",
+      "Answer 4": "en ningún caso podrá adoptar decisiones o acuerdos por delegación del Gobierno",
+      "Answer": 4
+    },
+    {
+      "Title": "Corresponde a la Comisión General de Secretarios de Estado y Subsecretarios el examen de todos los asuntos que vayan a someterse a aprobación del Consejo de Ministros:",
+      "Answer 1": "incluso los nombramientos, ceses, ascensos a cualquiera de los empleos de la categoría de oficiales generales",
+      "Answer 2": "excepto los nombramientos, ceses, ascensos a cualquiera de los empleos de la categoría de oficiales generales",
+      "Answer 3": "incluso aquéllos que, excepcionalmente y por razones de urgencia, deban ser sometidos directamente al Consejo de Ministros",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde a la Comisión General de Secretarios de Estado y Subsecretarios el análisis o discusión de aquellos asuntos que:",
+      "Answer 1": "sin ser competencia del Consejo de Ministros o sus Comisiones Delegadas, afecten a varios Ministerios y sean sometidos a la Comisión por su presidente",
+      "Answer 2": "siendo competencia del Consejo de Ministros o sus Comisiones Delegadas, afecten a varios Ministerios y sean sometidos a la Comisión por su presidente",
+      "Answer 3": "sin ser competencia del Consejo de Ministros o sus Comisiones Delegadas, afecten a varios Ministerios y sean sometidos a la Comisión por su secretario",
+      "Answer 4": "siendo competencia del Consejo de Ministros o sus Comisiones Delegadas, afecten a varios Ministerios y sean sometidos a la Comisión por su secretario",
+      "Answer": 1
+    },
+    {
+      "Title": "El Secretariado del Gobierno será órgano de apoyo de:",
+      "Answer 1": "el Consejo de Ministros",
+      "Answer 2": "las Comisiones Delegadas del Gobierno",
+      "Answer 3": "la Comisión General de Secretarios de Estado y Subsecretarios",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El Secretariado del Gobierno ejercerá las siguientes funciones:",
+      "Answer 1": "colaborará con las Secretarías Técnicas de las Comisiones Delegadas del Gobierno",
+      "Answer 2": "velará por el cumplimiento de los principios de buena regulación aplicables a las iniciativas normativas",
+      "Answer 3": "velará por la correcta y fiel publicación de las disposiciones y normas emanadas del Gobierno que deban insertarse en el \"Boletín Oficial del Estado\"",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El Secretariado del Gobierno, como órgano de asistencia al Ministro de la Presidencia, ejercerá las siguientes funciones (señala la incorrecta):",
+      "Answer 1": "los trámites relativos a la sanción y promulgación real de las leyes aprobadas por las Cortes Generales y la expedición de los Reales Decretos",
+      "Answer 2": "la tramitación de los actos y disposiciones del Rey cuyo refrendo corresponde al Presidente del Gobierno",
+      "Answer 3": "la tramitación de los actos y disposiciones que el ordenamiento jurídico atribuye a la competencia del Presidente del Gobierno",
+      "Answer 4": "resolver los asuntos que, afectando a más de un Ministerio, no requieran ser elevados al Consejo de Ministros",
+      "Answer": 4
+    },
+    {
+      "Title": "Son órganos de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado:",
+      "Answer 1": "los Gabinetes",
+      "Answer 2": "las Comisiones Delegadas del Gobierno",
+      "Answer 3": "los distintos Departamentos Ministeriales",
+      "Answer 4": "los Subsecretarios",
+      "Answer": 1
+    },
+    {
+      "Title": "Los miembros de los Gabinetes realizan tareas de confianza y asesoramiento especial:",
+      "Answer 1": "pudiendo adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado, sin posibilidad de asistir o pertenecer a órganos colegiados que adopten decisiones administrativas",
+      "Answer 2": "pudiendo adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado, sin perjuicio de su asistencia o pertenencia a órganos colegiados que adopten decisiones administrativas",
+      "Answer 3": "sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado, sin posibilidad de asistir o pertenecer a órganos colegiados que adopten decisiones administrativas",
+      "Answer 4": "sin que en ningún caso puedan adoptar actos o resoluciones que correspondan legalmente a los órganos de la Administración General del Estado, sin perjuicio de su asistencia o pertenencia a órganos colegiados que adopten decisiones administrativas",
+      "Answer": 4
+    },
+    {
+      "Title": "Los Gabinetes prestan su apoyo a los miembros del Gobierno y Secretarios de Estado:",
+      "Answer 1": "en el desarrollo de su labor política",
+      "Answer 2": "en el cumplimiento de las tareas de carácter parlamentario",
+      "Answer 3": "en sus relaciones con las instituciones y la organización administrativa",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Señala la correcta sobre los Gabinetes:",
+      "Answer 1": "el Gabinete de la Presidencia del Gobierno se regulará por lo dispuesto en esta Ley",
+      "Answer 2": "los Directores de Gabinete tendrán el nivel orgánico que determine el Consejo de Ministros",
+      "Answer 3": "los miembros del Gabinete, exceptos los Directores, tendrán la situación y grado administrativo que les corresponda en virtud de la legislación correspondiente",
+      "Answer 4": "las retribuciones de los miembros de los Gabinetes se determinan por el Ministerio de Economía",
+      "Answer": 3
+    },
+    {
+      "Title": "Dirige la Administración civil y militar y la defensa del Estado:",
+      "Answer 1": "el Gobierno",
+      "Answer 2": "las Cortes Generales",
+      "Answer 3": "el Consejo de Estado",
+      "Answer 4": "las Fuerzas Armadas",
+      "Answer": 1
+    },
+    {
+      "Title": "El gobierno ejerce la función:",
+      "Answer 1": "legislativa",
+      "Answer 2": "ejecutiva",
+      "Answer 3": "judicial",
+      "Answer 4": "todas son correctas",
+      "Answer": 2
+    },
+    {
+      "Title": "El Gobierno se compone en todo caso de (señala la incorrecta):",
+      "Answer 1": "el Presidente",
+      "Answer 2": "el Vicepresidente o Vicepresidentes, en su caso",
+      "Answer 3": "los Ministros",
+      "Answer 4": "los Subsecretarios",
+      "Answer": 4
+    },
+    {
+      "Title": "Los miembros del Gobierno se reúnen en:",
+      "Answer 1": "Consejo de Ministros",
+      "Answer 2": "Pleno",
+      "Answer 3": "Junta General",
+      "Answer 4": "a y b son correctas",
+      "Answer": 1
+    },
+    {
+      "Title": "Los miembros del Gobierno se reúnen en:",
+      "Answer 1": "Departamentos Ministeriales",
+      "Answer 2": "Comisiones Delegadas del Gobierno",
+      "Answer 3": "Diputación Permanente",
+      "Answer 4": "la Comisión General de Secretarios de Estado y Subsecretarios",
+      "Answer": 2
+    },
+    {
+      "Title": "Dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de los Ministros en su gestión:",
+      "Answer 1": "el Presidente",
+      "Answer 2": "el Jefe de Estado",
+      "Answer 3": "el Vicepresidente",
+      "Answer 4": "el Secretario de Estado",
+      "Answer": 1
+    },
+    {
+      "Title": "Proponer al Rey la disolución del Congreso, del Senado o de las Cortes Generales, corresponde a:",
+      "Answer 1": "el Gobierno, previa deliberación del Presidente del Gobierno",
+      "Answer 2": "el Presidente del Gobierno, previa deliberación del Gobierno",
+      "Answer 3": "el Gobierno, previa deliberación del Presidente del Consejo de Ministros",
+      "Answer 4": "el Presidente del Gobierno, previa deliberación del Consejo de Ministros",
+      "Answer": 4
+    },
+    {
+      "Title": "Plantear la cuestión de confianza corresponde a:",
+      "Answer 1": "el Consejo de Ministros ante el Gobierno, previa deliberación del Presidente del Gobierno",
+      "Answer 2": "el Presidente del Gobierno ante las Cortes Generales, previa autorización del Consejo de Ministros",
+      "Answer 3": "el Presidente del Gobierno ante el Congreso de los Diputados, previa deliberación del Consejo de Ministros",
+      "Answer 4": "el Gobierno ante el Congreso de los Diputados, previa deliberación del Presidente del Gobierno",
+      "Answer": 3
+    },
+    {
+      "Title": "La convocatoria de un referéndum consultivo corresponde a:",
+      "Answer 1": "el Rey previa deliberación del Consejo de Ministros",
+      "Answer 2": "el Presidente del Gobierno previa autorización del Congreso de los Diputados",
+      "Answer 3": "el Presidente del Gobierno previa deliberación del Consejo de Ministros",
+      "Answer 4": "el Rey previa autorización del Congreso de los Diputados",
+      "Answer": 4
+    },
+    {
+      "Title": "Refrendar, en su caso, los actos del Rey corresponde a:",
+      "Answer 1": "los Ministros, como titulares de sus Departamentos",
+      "Answer 2": "el Presidente del Gobierno",
+      "Answer 3": "a y b son correctas",
+      "Answer 4": "el Consejo de Ministros",
+      "Answer": 3
+    },
+    {
+      "Title": "Aprobar los Reales Decretos-leyes y los Reales Decretos Legislativos corresponde a:",
+      "Answer 1": "el Rey",
+      "Answer 2": "el Consejo de Ministros",
+      "Answer 3": "el Presidente del Gobierno",
+      "Answer 4": "los Ministros, como titulares de sus Departamentos",
+      "Answer": 2
+    },
+    {
+      "Title": "Puede interponer un recurso de inconstitucionalidad:",
+      "Answer 1": "el Rey",
+      "Answer 2": "el Presidente del Gobierno",
+      "Answer 3": "los Ministros, como titulares de sus Departamentos",
+      "Answer 4": "el Consejo de Ministros",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde declarar los estados de alarma y de excepción y proponer al Congreso de los Diputados la declaración del estado de sitio a:",
+      "Answer 1": "los Ministros, como titulares de sus Departamentos",
+      "Answer 2": "el Presidente del Gobierno",
+      "Answer 3": "el Consejo de Ministros",
+      "Answer 4": "el Rey",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde al Consejo de Ministros:",
+      "Answer 1": "proponer al Rey el nombramiento y separación de los Vicepresidentes y de los Ministros",
+      "Answer 2": "resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios",
+      "Answer 3": "aprobar el Proyecto de Ley de Presupuestos Generales del Estado",
+      "Answer 4": "crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales",
+      "Answer": 3
+    },
+    {
+      "Title": "En caso de que existan Ministros sin cartera, por Real Decreto se determinará:",
+      "Answer 1": "el ámbito de sus competencias",
+      "Answer 2": "la estructura administrativa",
+      "Answer 3": "los medios materiales y personales que queden adscritos al mismo",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Las deliberaciones del Consejo de Ministros:",
+      "Answer 1": "serán públicas",
+      "Answer 2": "serán secretas",
+      "Answer 3": "serán públicas salvo que acuerden lo contrario la mayoría de los Ministros",
+      "Answer 4": "serán secretas salvo que establezca lo contrario el Presidente del Gobierno",
+      "Answer": 2
+    },
+    {
+      "Title": "Es correcto respecto al Vicepresidente del Gobierno:",
+      "Answer 1": "puede haber más de uno",
+      "Answer 2": "no puede ser Ministro",
+      "Answer 3": "le corresponde el ejercicio de las funciones que le encomiende el Consejo de Ministros",
+      "Answer 4": "todas son correctas",
+      "Answer": 1
+    },
+    {
+      "Title": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por:",
+      "Answer 1": "el Consejo de Ministros mediante Ley, a propuesta del Presidente del Gobierno",
+      "Answer 2": "el Presidente del Gobierno mediante Real Decreto, a propuesta del Rey",
+      "Answer 3": "el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno",
+      "Answer 4": "el Presidente del Gobierno mediante Real Decreto, previa deliberación del Consejo de Ministros",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde aprobar los proyectos de ley y su remisión al Congreso de los Diputados a:",
+      "Answer 1": "el Presidente del Gobierno",
+      "Answer 2": "el Rey",
+      "Answer 3": "los Ministros, como titulares de sus Departamentos",
+      "Answer 4": "el Consejo de Ministros",
+      "Answer": 4
+    },
+    {
+      "Title": "El nombramiento y cese del Presidente del Gobierno se producirá en los términos previstos en:",
+      "Answer 1": "en la presente ley",
+      "Answer 2": "en la Constitución",
+      "Answer 3": "reglamentariamente",
+      "Answer 4": "todas son correctas",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Vicepresidentes y Ministros serán nombrados y separados:",
+      "Answer 1": "por el Presidente del Gobierno, a propuesta del Rey",
+      "Answer 2": "por el Rey, a propuesta del Presidente del Gobierno",
+      "Answer 3": "por el Rey, a propuesta del Consejo de Ministros",
+      "Answer 4": "por el Presidente del Gobierno a propuesta del Consejo de Ministros",
+      "Answer": 2
+    },
+    {
+      "Title": "La separación de los Vicepresidentes del Gobierno:",
+      "Answer 1": "en ningún caso llevará aparejada la extinción de dichos órganos",
+      "Answer 2": "en cualquier caso llevará aparejada la extinción de dichos órganos",
+      "Answer 3": "llevará aparejada la extinción de dichos órganos cuando simultáneamente se designe otro vicepresidente en sustitución del separado",
+      "Answer 4": "llevará aparejada la extinción de dichos órganos, salvo el caso en que simultáneamente se designe otro vicepresidente en sustitución del separado",
+      "Answer": 4
+    },
+    {
+      "Title": "Se regulará el estatuto que fuera aplicable a los Presidentes del Gobierno tras su cese:",
+      "Answer 1": "por Real Decreto",
+      "Answer 2": "reglamentariamente",
+      "Answer 3": "mediante ley",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 1
+    },
+    {
+      "Title": "En los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas por los Vicepresidentes, de acuerdo con:",
+      "Answer 1": "el correspondiente orden de prelación",
+      "Answer 2": "el correspondiente orden de prelación, y, en defecto de ellos, por los Secretarios, según el orden de precedencia de los Departamentos",
+      "Answer 3": "el correspondiente orden de prelación, y, en defecto de ellos, por los Subsecretarios, según el orden de precedencia de los Departamentos",
+      "Answer 4": "el correspondiente orden de prelación, y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos",
+      "Answer": 4
+    },
+    {
+      "Title": "La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, será determinada por:",
+      "Answer 1": "Real Decreto del Consejo de Ministros, pudiendo recaer en un miembro ajeno al Gobierno",
+      "Answer 2": "Real Decreto del Presidente del Gobierno, debiendo recaer en otro miembro del Gobierno",
+      "Answer 3": "Real Decreto del Consejo de Ministros, debiendo recaer en otro miembro del Gobierno",
+      "Answer 4": "Real Decreto del Presidente del Gobierno, pudiendo recaer en un miembro ajeno al Gobierno",
+      "Answer": 2
+    },
+    {
+      "Title": "La interrupción transitoria de la asistencia a la reunión de un órgano colegiado:",
+      "Answer 1": "se entenderá como ausencia. Las funciones que pudieran corresponder al miembro del gobierno durante esa situación no podrán ser ejercidas por ninguna otra persona",
+      "Answer 2": "se entenderá como ausencia. Las funciones que pudieran corresponder al miembro del gobierno durante esa situación serán ejercidas por la siguiente autoridad en rango presente",
+      "Answer 3": "no se entenderá como ausencia. Las funciones que pudieran corresponder al miembro del gobierno durante esa situación no podrán ser ejercidas por ninguna otra persona",
+      "Answer 4": "no se entenderá como ausencia. Las funciones que pudieran corresponder al miembro del gobierno durante esa situación serán ejercidas por la siguiente autoridad en rango presente",
+      "Answer": 4
+    },
+    {
+      "Title": "Los Secretarios de Estado son nombrados y separados por:",
+      "Answer 1": "Real Decreto del Consejo de Ministros, aprobado a propuesta del Presidente del Gobierno",
+      "Answer 2": "Real Decreto del Presidente del Gobierno, aprobado a propuesta del Consejo de Ministros",
+      "Answer 3": "Real Decreto del Consejo de Ministros, aprobado a propuesta del Presidente del Gobierno o del miembro del Gobierno a cuyo Departamento pertenezcan",
+      "Answer 4": "Real Decreto del Presidente del Gobierno, aprobado a propuesta del Consejo de Ministros o del miembro del Gobierno a cuyo Departamento pertenezcan",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Gobierno no podrán ejercer:",
+      "Answer 1": "otras funciones representativas que las propias del mandato parlamentario",
+      "Answer 2": "cualquier otra función pública que no derive de su cargo",
+      "Answer 3": "actividad profesional o mercantil alguna",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "La suplencia de los Secretarios de Estado del mismo Departamento se determinará según el orden de precedencia que se derive de:",
+      "Answer 1": "su reglamento interno",
+      "Answer 2": "el Real Decreto de estructura orgánica del Ministerio",
+      "Answer 3": "las actas fundacionales",
+      "Answer 4": "los acuerdos de Estado",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Secretarios de Estado dependientes directamente de la Presidencia del Gobierno:",
+      "Answer 1": "no podrán ser suplidos",
+      "Answer 2": "serán suplidos por el Ministro correspondiente",
+      "Answer 3": "serán suplidos por los Directores de los Gabinetes de Presidencia",
+      "Answer 4": "serán suplidos por quien designe el Presidente",
+      "Answer": 4
+    },
+    {
+      "Title": "Serán nombrados por Real Decreto aprobado en Consejo de Ministros (señala la incorrecta):",
+      "Answer 1": "los Directores de los Gabinetes del Presidente",
+      "Answer 2": "los Directores de los Gabinetes de los Vicepresidentes",
+      "Answer 3": "los Directores de Gabinete de los Secretarios de Estado",
+      "Answer 4": "los Directores de los Ministros",
+      "Answer": 3
+    },
+    {
+      "Title": "El régimen de incompatibilidades previsto para los altos cargos de la Administración General del Estado:",
+      "Answer 1": "únicamente será de aplicación a los miembros del Gobierno",
+      "Answer 2": "únicamente será de aplicación a los Secretarios de Estado",
+      "Answer 3": "será de aplicación a los miembros del Gobierno y a los Secretarios de Estado",
+      "Answer 4": "no será de aplicación a los miembros del Gobierno ni a los Secretarios de Estado",
+      "Answer": 3
+    },
+    {
+      "Title": "El personal no funcionario que se incorpore a los Gabinetes del Presidente, de los Vicepresidentes y de los Ministros y de los Secretarios de Estado:",
+      "Answer 1": "no tendrá derecho a la reserva del puesto y antigüedad",
+      "Answer 2": "tendrá derecho a la reserva del puesto y antigüedad, conforme a lo dispuesto en la presente ley",
+      "Answer 3": "tendrá derecho a la reserva del puesto y antigüedad, conforme a lo dispuesto en su legislación específica",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 3
+    },
+    {
+      "Title": "Los funcionarios que se incorporen a los Gabinetes del Presidente, de los Vicepresidentes y de los Ministros y de los Secretarios de Estado pasarán a la situación de:",
+      "Answer 1": "servicios en otra Administración,  aunque opten por permanecer en la situación de servicio activo en su Administración de origen",
+      "Answer 2": "servicios especiales, aunque opten por permanecer en la situación de servicio activo en su Administración de origen",
+      "Answer 3": "servicios en otra Administración, salvo que opten por permanecer en la situación de servicio activo en su Administración de origen",
+      "Answer 4": "servicios especiales, salvo que opten por permanecer en la situación de servicio activo en su Administración de origen",
+      "Answer": 4
+    },
+    {
+      "Title": "Convoca y preside las reuniones del Consejo de Ministros:",
+      "Answer 1": "el Vicepresidente",
+      "Answer 2": "el Presidente del Gobierno",
+      "Answer 3": "el Ministro de la Presidencia",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "En las reuniones del Consejo de Ministros actúa como Secretario:",
+      "Answer 1": "el Vicepresidente",
+      "Answer 2": "el Presidente del Gobierno",
+      "Answer 3": "el Ministro de la Presidencia",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 3
+    },
+    {
+      "Title": "Las reuniones del Consejo de Ministros:",
+      "Answer 1": "tendrán carácter decisorio",
+      "Answer 2": "tendrán carácter deliberante",
+      "Answer 3": "podrán tener carácter decisorio o deliberante",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 3
+    },
+    {
+      "Title": "El orden del día de las reuniones del Consejo de Ministros se fijará por:",
+      "Answer 1": "el Secretario de Estado",
+      "Answer 2": "el Vicepresidente",
+      "Answer 3": "el Presidente del Gobierno",
+      "Answer 4": "el Ministro de la Presidencia",
+      "Answer": 3
+    },
+    {
+      "Title": "De las sesiones del Consejo de Ministros se levantará acta en la que figurarán (señala la incorrecta):",
+      "Answer 1": "las circunstancias relativas al tiempo y lugar de su celebración",
+      "Answer 2": "la relación de asistentes",
+      "Answer 3": "los acuerdos adoptados junto con el sentido del voto de cada miembro",
+      "Answer 4": "los informes presentados",
+      "Answer": 3
+    },
+    {
+      "Title": "El Presidente del Gobierno puede delegar el ejercicio de competencias propias:",
+      "Answer 1": "en favor del Vicepresidente o Vicepresidentes y de los Ministros",
+      "Answer 2": "en favor de los Delegados del Gobierno en las Comunidades Autónomas",
+      "Answer 3": "en favor de los Secretarios de Estado",
+      "Answer 4": "a y b son correctas",
+      "Answer": 1
+    },
+    {
+      "Title": "Los Ministros pueden delegar el ejercicio de competencias propias en favor de:",
+      "Answer 1": "los Secretarios de Estado y de los Subsecretarios dependientes de ellos",
+      "Answer 2": "los Delegados del Gobierno en las Comunidades Autónomas",
+      "Answer 3": "los demás órganos directivos del Ministerio",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Son delegables a propuesta del Presidente del Gobierno las funciones administrativas del Consejo de Ministros en:",
+      "Answer 1": "los Vicepresidentes",
+      "Answer 2": "los Secretarios de Estado",
+      "Answer 3": "los Subsecretarios",
+      "Answer 4": "las Comisiones Delegadas del Gobierno",
+      "Answer": 4
+    },
+    {
+      "Title": "No son en ningún caso delegables las siguientes competencias (señala la incorrecta):",
+      "Answer 1": "las atribuidas directamente por la Constitución",
+      "Answer 2": "las relativas al nombramiento y separación de los altos cargos atribuidas al Consejo de Ministros",
+      "Answer 3": "todas las atribuidas a los órganos colegiados del Gobierno",
+      "Answer 4": "las atribuidas por una ley que prohíba expresamente la delegación",
+      "Answer": 3
+    },
+    {
+      "Title": "El conocimiento de un asunto cuya decisión corresponda a las Comisiones Delegadas del Gobierno podrá avocarlo para sí:",
+      "Answer 1": "el Consejo de Ministros a propuesta del Presidente del Gobierno",
+      "Answer 2": "la Comisión General de Secretarios de Estado y Subsecretarios a propuesta del Consejo de Ministros",
+      "Answer 3": "el Presidente del Gobierno a propuesta del Consejo de Ministros",
+      "Answer 4": "el Consejo de Ministros a propuesta de la Comisión General de Secretarios de Estado",
+      "Answer": 1
+    },
+    {
+      "Title": "Contra el acuerdo de avocación:",
+      "Answer 1": "cabe recurso contencioso administrativo",
+      "Answer 2": "se podrá imponer recurso potestativo de reposición cuando ponga fin a la vía administrativa",
+      "Answer 3": "cabe recurso de alzada pero no podrá impugnarse en el que, en su caso, se interponga contra la decisión adoptada",
+      "Answer 4": "no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la decisión adoptada",
+      "Answer": 4
+    },
+    {
+      "Title": "El Gobierno cesa (señala la incorrecta):",
+      "Answer 1": "tras la celebración de elecciones generales",
+      "Answer 2": "en los casos de pérdida de confianza parlamentaria previstos en la Constitución",
+      "Answer 3": "cuando sea declarado el estado de sitio",
+      "Answer 4": "por dimisión o fallecimiento de su Presidente",
+      "Answer": 3
+    },
+    {
+      "Title": "El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno:",
+      "Answer 1": "con las limitaciones establecidas en esta Ley",
+      "Answer 2": "con las limitaciones establecidas en la Constitución",
+      "Answer 3": "con las limitaciones establecidas por la Diputación Permanente",
+      "Answer 4": "sin ninguna limitación",
+      "Answer": 1
+    },
+    {
+      "Title": "El Gobierno en funciones facilitará el normal desarrollo del proceso de formación del nuevo Gobierno y el traspaso de poderes al mismo y limitará su gestión al despacho ordinario de los asuntos públicos:",
+      "Answer 1": "absteniéndose de adoptar cualesquiera otras medidas",
+      "Answer 2": "absteniéndose de adoptar, salvo casos de urgencia debidamente acreditados, cualesquiera otras medidas",
+      "Answer 3": "absteniéndose de adoptar, salvo por razones de interés general cuya acreditación expresa así lo justifique, cualesquiera otras medidas",
+      "Answer 4": "absteniéndose de adoptar, salvo casos de urgencia debidamente acreditados o por razones de interés general cuya acreditación expresa así lo justifique, cualesquiera otras medidas",
+      "Answer": 4
+    },
+    {
+      "Title": "El Presidente del Gobierno en funciones no podrá ejercer las siguientes facultades (señala la incorrecta):",
+      "Answer 1": "proponer al Rey la disolución de alguna de las Cámaras, o de las Cortes Generales",
+      "Answer 2": "resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios",
+      "Answer 3": "plantear la cuestión de confianza",
+      "Answer 4": "proponer al Rey la convocatoria de un referéndum consultivo",
+      "Answer": 2
+    },
+    {
+      "Title": "El Gobierno en funciones no podrá ejercer las siguientes facultades (señala la incorrecta):",
+      "Answer 1": "aprobar el Proyecto de Ley de Presupuestos Generales del Estado",
+      "Answer 2": "presentar proyectos de ley al Congreso de los Diputados",
+      "Answer 3": "presentar proyectos de ley al Senado",
+      "Answer 4": "dirige la política interior y exterior",
+      "Answer": 4
+    },
+    {
+      "Title": "Durante todo el tiempo que el Gobierno esté en funciones como consecuencia de la celebración de elecciones generales:",
+      "Answer 1": "las delegaciones legislativas otorgadas por las Cortes Generales quedarán en suspenso",
+      "Answer 2": "las Cortes Generales no podrán otorgar delegaciones legislativas",
+      "Answer 3": "las delegaciones legislativas otorgadas por las Cortes Generales serán plenamente efectivas",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 1
+    },
+    {
+      "Title": "Sin perjuicio de lo establecido en el artículo 2.1 del Código Civil, las disposiciones de entrada en vigor de las leyes o reglamentos, cuya aprobación o propuesta corresponda al Gobierno o a sus miembros, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional como consecuencia del ejercicio de ésta, preverán el comienzo de su vigencia:",
+      "Answer 1": "el 1 de enero o el 1 de junio siguientes a su aprobación",
+      "Answer 2": "el 2 de enero o el 1 de julio siguientes a su aprobación",
+      "Answer 3": "el 1 de mayo o el 1 de septiembre siguientes a su aprobación",
+      "Answer 4": "el 2 de mayo o el 1 de septiembre siguientes a su aprobación",
+      "Answer": 2
+    },
+    {
+      "Title": "Las decisiones del Gobierno de la Nación y de sus miembros revisten las formas de Reales Decretos Legislativos y Reales Decretos-leyes:",
+      "Answer 1": "las decisiones que aprueban, respectivamente, las normas previstas en los artículos 82 y 86 de la Constitución",
+      "Answer 2": "las disposiciones y actos cuya adopción venga atribuida al Presidente",
+      "Answer 3": "las decisiones que aprueben normas reglamentarias de la competencia del Consejo de Ministros",
+      "Answer 4": "las disposiciones y resoluciones de las Comisiones Delegadas del Gobierno",
+      "Answer": 1
+    },
+    {
+      "Title": "Los reglamentos se ordenarán según la siguiente jerarquía:",
+      "Answer 1": "1.º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o acordado en el Consejo de Ministros y 2.º Disposiciones aprobadas por Orden Ministerial",
+      "Answer 2": "1.º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno, 2.º Disposiciones aprobadas por Real Decreto acordado en el Consejo de Ministros y 3.º Disposiciones aprobadas por Orden Ministerial",
+      "Answer 3": "1.º Disposiciones aprobadas por Orden Ministerial y 2.º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno o acordado en el Consejo de Ministros",
+      "Answer 4": "1.º Disposiciones aprobadas por Real Decreto del Presidente del Gobierno, 2.º Disposiciones aprobadas por Orden Ministerial y 3.º Disposiciones aprobadas por Real Decreto acordado en el Consejo de Ministros",
+      "Answer": 1
+    },
+    {
+      "Title": "Las disposiciones y resoluciones de los Ministros revestirán la forma de:",
+      "Answer 1": "Reales Decretos acordados en Consejo de Ministros",
+      "Answer 2": "Acuerdos del Consejo de Ministros",
+      "Answer 3": "Acuerdos adoptados en Comisiones Delegadas del Gobierno",
+      "Answer 4": "Órdenes Ministeriales",
+      "Answer": 4
+    },
+    {
+      "Title": "Un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente será aprobado por:",
+      "Answer 1": "el Consejo de Ministros anualmente",
+      "Answer 2": "el Consejo de Ministros cada dos años",
+      "Answer 3": "el Gobierno cada dos años",
+      "Answer 4": "el Gobierno anualmente",
+      "Answer": 4
+    },
+    {
+      "Title": "Las decisiones del Gobierno de la Nación y de sus miembros revisten las formas de Reales Decretos acordados en Consejo de Ministros:",
+      "Answer 1": "las disposiciones y actos cuya adopción venga atribuida al Presidente",
+      "Answer 2": "las decisiones que aprueben normas reglamentarias de la competencia del Consejo de Ministros",
+      "Answer 3": "las decisiones que aprueben normas con rango de ley de la competencia del Consejo de Ministros",
+      "Answer 4": "las disposiciones y resoluciones de las Comisiones Delegadas del Gobierno",
+      "Answer": 2
+    },
+    {
+      "Title": "Con el objeto de asegurar la congruencia de todas las iniciativas que se tramiten y de evitar sucesivas modificaciones del régimen legal aplicable a un determinado sector o área de actividad en un corto espacio de tiempo el Plan Anual Normativo estará coordinado por:",
+      "Answer 1": "el Consejo de Ministros",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "el Presidente del Gobierno",
+      "Answer 4": "el Ministerio de la Presidencia",
+      "Answer": 4
+    },
+    {
+      "Title": "Su redacción estará precedida de cuantos estudios y consultas se estimen convenientes para garantizar el acierto y la legalidad de la norma:",
+      "Answer 1": "los anteproyectos de ley",
+      "Answer 2": "los proyectos de real decreto legislativo",
+      "Answer 3": "normas reglamentarias",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El Ministro de la Presidencia elevará el Plan Anual Normativo al Consejo de Ministros para su aprobación:",
+      "Answer 1": "antes del 30 de abril",
+      "Answer 2": "antes del 30 de junio",
+      "Answer 3": "antes del 31 de diciembre",
+      "Answer 4": "antes del 30 de enero",
+      "Answer": 1
+    },
+    {
+      "Title": "Respecto al procedimiento de elaboración de normas con rango de Ley y reglamentos se sustanciará una consulta pública, a través del portal web del departamento competente, con carácter previo a la elaboración del texto, en la que se recabará opinión de los sujetos potencialmente afectados por la futura norma y de las organizaciones más representativas acerca de (señala la incorrecta):",
+      "Answer 1": "los problemas que se pretenden solucionar con la nueva norma",
+      "Answer 2": "el coste de su realización",
+      "Answer 3": "los objetivos de la norma",
+      "Answer 4": "las posibles soluciones alternativas regulatorias y no regulatorias",
+      "Answer": 2
+    },
+    {
+      "Title": "Podrá prescindirse del trámite de consulta pública previsto en el caso de la elaboración de normas presupuestarias u organizativas de la Administración General del Estado o de las organizaciones dependientes o vinculadas a éstas, cuando (señala la incorrecta):",
+      "Answer 1": "concurran razones graves de interés público que lo justifiquen",
+      "Answer 2": "la propuesta normativa imponga obligaciones relevantes a los destinatarios",
+      "Answer 3": "la propuesta normativa regule aspectos parciales de una materia",
+      "Answer 4": "se trate de tramitación urgente de iniciativas normativas",
+      "Answer": 2
+    },
+    {
+      "Title": "La consulta pública deberá realizarse de tal forma que todos los potenciales destinatarios de la norma tengan la posibilidad de emitir su opinión, para lo cual deberá proporcionarse un tiempo suficiente, que en ningún caso será inferior a:",
+      "Answer 1": "10 días naturales",
+      "Answer 2": "15 días hábiles",
+      "Answer 3": "10 días hábiles",
+      "Answer 4": "15 días naturales",
+      "Answer": 4
+    },
+    {
+      "Title": "Respecto al procedimiento de elaboración de normas con rango de Ley y reglamentos, salvo que normativamente se establezca otra cosa, los informes preceptivos se emitirán en un plazo de:",
+      "Answer 1": "10 días, o de 2 meses cuando el informe se solicite a otra Administración o a un órgano u Organismo dotado de espacial independencia o autonomía",
+      "Answer 2": "15 días, o de 1 mes cuando el informe se solicite a otra Administración o a un órgano u Organismo dotado de espacial independencia o autonomía",
+      "Answer 3": "10 días, o de 1 mes cuando el informe se solicite a otra Administración o a un órgano u Organismo dotado de espacial independencia o autonomía",
+      "Answer 4": "15 días, o de 2 meses cuando el informe se solicite a otra Administración o a un órgano u Organismo dotado de espacial independencia o autonomía",
+      "Answer": 3
+    },
+    {
+      "Title": "En todo caso, deberán ser informados por la Secretaría General Técnica del Ministerio o Ministerios proponentes:",
+      "Answer 1": "los anteproyectos de ley",
+      "Answer 2": "los proyectos de real decreto legislativo",
+      "Answer 3": "los proyectos de disposiciones reglamentarias",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Respecto al procedimiento de elaboración de normas con rango de Ley y reglamentos cuando la norma pudiera afectar a la distribución de las competencias entre el Estado y las Comunidades Autónomas será necesario informe previo de:",
+      "Answer 1": "el Ministerio de Hacienda y Administraciones Públicas",
+      "Answer 2": "la Secretaría General Técnica del Ministerio",
+      "Answer 3": "el centro directivo competente",
+      "Answer 4": "la Comisión General de Secretarios de Estado y Subsecretarios",
+      "Answer": 1
+    },
+    {
+      "Title": "Cuando fuere necesario para que la norma entre en vigor en el plazo exigido para la transposición de directivas comunitarias o el establecido en otras leyes o normas de Derecho de la Unión Europea podrá acordar la tramitación urgente del procedimiento de elaboración y aprobación de anteproyectos de ley, reales decretos legislativos y de reales decretos:",
+      "Answer 1": "el Consejo de Ministros, a propuesta del titular del departamento al que corresponda la iniciativa normativa",
+      "Answer 2": "el Consejo de Estado, a propuesta del titular del departamento al que corresponda la iniciativa normativa",
+      "Answer 3": "el Consejo de Ministros, a propuesta del Consejo de Estado",
+      "Answer 4": "el titular del departamento al que corresponda la iniciativa normativa, a propuesta del Consejo de Estado",
+      "Answer": 1
+    },
+    {
+      "Title": "Cuando la norma afecte a los derechos e intereses legítimos de las personas, el centro directivo competente publicará el texto en el portal web correspondiente, con el objeto de dar audiencia a los ciudadanos afectados. El plazo mínimo de esta audiencia e información públicas será de:",
+      "Answer 1": "10 días hábiles, y podrá ser reducido hasta un mínimo de 7 días hábiles cuando razones debidamente motivadas así lo justifiquen",
+      "Answer 2": "15 días hábiles, y podrá ser reducido hasta un mínimo de 5 días hábiles cuando razones debidamente motivadas así lo justifiquen",
+      "Answer 3": "10 días hábiles, y podrá ser reducido hasta un mínimo de 5 días hábiles cuando razones debidamente motivadas así lo justifiquen",
+      "Answer 4": "15 días hábiles, y podrá ser reducido hasta un mínimo de 7 días hábiles cuando razones debidamente motivadas así lo justifiquen",
+      "Answer": 4
+    },
+    {
+      "Title": "Respecto a las iniciativas normativas en el ámbito de la Administración General del Estado, la falta de emisión de un dictamen o informe preceptivo en plazo:",
+      "Answer 1": "impedirá la continuación del procedimiento, sin perjuicio de su eventual incorporación y consideración cuando se reciba",
+      "Answer 2": "no impedirá la continuación del procedimiento, sin posibilidad de su eventual incorporación y consideración cuando se reciba",
+      "Answer 3": "impedirá la continuación del procedimiento, sin posibilidad de su eventual incorporación y consideración cuando se reciba",
+      "Answer 4": "no impedirá la continuación del procedimiento, sin perjuicio de su eventual incorporación y consideración cuando se reciba",
+      "Answer": 4
+    },
+    {
+      "Title": "El Consejo de Ministros, a propuesta del Ministerio de la Presidencia, aprobará un informe anual en el que se refleje el grado de cumplimiento del Plan Anual Normativo del año anterior:",
+      "Answer 1": "antes del 31 de diciembre de cada año",
+      "Answer 2": "antes del 30 de abril de cada año",
+      "Answer 3": "antes del 31 de mayo de cada año",
+      "Answer 4": "antes del 30 de junio de cada año",
+      "Answer": 2
+    },
+    {
+      "Title": "En el informe anual la evaluación se realizará en los términos y plazos previstos en la Memoria del Análisis de Impacto Normativo y deberá comprender, en todo caso:",
+      "Answer 1": "la eficacia de la norma, entendiendo por tal la medida en que ha conseguido los fines pretendidos con su aprobación",
+      "Answer 2": "la eficiencia de la norma, identificando las cargas administrativas que podrían no haber sido necesarias",
+      "Answer 3": "la sostenibilidad de la disposición",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El Gobierno está sujeto en toda su actuación:",
+      "Answer 1": "únicamente a la Constitución",
+      "Answer 2": "únicamente a la Constitución y a la presente ley",
+      "Answer 3": "únicamente a la presente ley",
+      "Answer 4": "a la Constitución y al resto del ordenamiento jurídico",
+      "Answer": 4
+    },
+    {
+      "Title": "Todos los actos y omisiones del Gobierno están sometidos al control político de:",
+      "Answer 1": "el Congreso",
+      "Answer 2": "el Senado",
+      "Answer 3": "las Cortes Generales",
+      "Answer 4": "los Tribunales",
+      "Answer": 3
+    },
+    {
+      "Title": "Los actos, la inactividad y las actuaciones materiales que constituyan una vía de hecho del Gobierno y de los órganos y autoridades regulados en la presente Ley son impugnables ante:",
+      "Answer 1": "la jurisdicción contencioso-administrativa",
+      "Answer 2": "la jurisdicción civil",
+      "Answer 3": "la jurisdicción social",
+      "Answer 4": "la jurisdicción penal",
+      "Answer": 1
+    },
+    {
+      "Title": "La actuación del Gobierno:",
+      "Answer 1": "es impugnable ante el Tribunal Constitucional en los términos establecidos en la presente ley",
+      "Answer 2": "es impugnable ante el Tribunal Constitucional en los términos establecidos en la Constitución",
+      "Answer 3": "es impugnable ante el Tribunal Constitucional en los términos de la Ley Orgánica reguladora del mismo",
+      "Answer 4": "no es impugnable ante el Tribunal Constitucional",
+      "Answer": 3
+    }
+  ]

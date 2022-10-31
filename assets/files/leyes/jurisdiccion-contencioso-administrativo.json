@@ -1,0 +1,426 @@
+[
+    {
+      "Title": "El plazo para interponer el recurso contencioso-administrativo contra actos presuntos",
+      "Answer 1": "Será de dos meses contados desde el día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto",
+      "Answer 2": "Será de dos meses contados desde el día en que, de acuerdo con su normativa específica, se produzca el acto presunto",
+      "Answer 3": "Será de seis meses contados desde el día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto",
+      "Answer 4": "Será de seis meses contados desde el día en que, de acuerdo con su normativa específica, se produzca el acto presunto",
+      "Answer": 3
+    },
+    {
+      "Title": "El recurso contencioso-administrativo se inicia necesariamente por demanda",
+      "Answer 1": "Cuando haya terceros interesados",
+      "Answer 2": "Cuando se tenga por objeto una reclamación de responsabilidad patrimonial",
+      "Answer 3": "En ningún caso, ya que el recurso contencioso-administrativo se inicia con el escrito de interposición del recurso",
+      "Answer 4": "Cuando se trata del recurso de lesividad",
+      "Answer": 4
+    },
+    {
+      "Title": "En el recurso contencioso-administrativo no es un plazo de 20 días",
+      "Answer 1": "El del recurrente para formalizar la demanda",
+      "Answer 2": "El de los demandados para contestar a la demanda",
+      "Answer 3": "El que cuentan los posibles interesados para personarse como demandados",
+      "Answer 4": "El que cuenta la Administración para remitir el expediente administrativo",
+      "Answer": 3
+    },
+    {
+      "Title": "Señale qué actuación de las referidas a continuación no es objeto de control por la jurisdicción contencioso-administrativo",
+      "Answer 1": "Un recurso contencioso-disciplinario militar",
+      "Answer 2": "Un acto del Congreso en materia de personal",
+      "Answer 3": "Un reglamento",
+      "Answer 4": "Un contrato administrativo",
+      "Answer": 1
+    },
+    {
+      "Title": "Cuando un Juez o un tribunal de lo contencioso-administrativo hubiera dictado sentencia firme estimatoria por considerar ilegal el contenido de la disposición general aplicada:",
+      "Answer 1": "Deberá plantear la cuestión al Tribunal Supremo",
+      "Answer 2": "Deberá plantear la cuestión de ilegalidad ante el Tribunal competente para conocer el recurso directo contra la disposición",
+      "Answer 3": "Podrá declarar en todo caso la validez o nulidad de la disposición general",
+      "Answer 4": "Ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "La jurisdicción contencioso-administrativa no conocerá de",
+      "Answer 1": "Los actos en materia de personal sujeto a derecho público adoptados por los órganos competentes del Senado",
+      "Answer 2": "Los efectos y extinción de los contratos privados que celebre la Administración",
+      "Answer 3": "La responsabilidad patrimonial de la administración derivada de una relación sujeta al derecho privado",
+      "Answer 4": "La protección jurisdiccional de los derechos fundamentales",
+      "Answer": 2
+    },
+    {
+      "Title": "El plazo para interponer recurso contencioso-administrativo contra una resolución expresa del recurso de alzada, será de:",
+      "Answer 1": "Un mes",
+      "Answer 2": "Dos meses, a contar desde el día siguiente a la notificación de la resolución expresa",
+      "Answer 3": "Seis meses",
+      "Answer 4": "Dos meses, desde que fue dictado el acto impugnado",
+      "Answer": 2
+    },
+    {
+      "Title": "El plazo para interponer el recurso contencioso-administrativo contra una disposición de carácter general es",
+      "Answer 1": "Dos meses contados desde el día siguiente al de la publicación de la disposición impugnada",
+      "Answer 2": "Un mes desde su notificación a los interesados",
+      "Answer 3": "Tres meses desde la fecha de aprobación",
+      "Answer 4": "Seis meses si no fuera expresa, y se contará a partir del día siguiente a aquel en que se produzca la disposición presunta",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 46.1 de la Ley 29/1998, el plazo para interponer el recurso contencioso-administrativo en el supuesto de que el acto contra el que se pretenda recurrir sea presunto, es de",
+      "Answer 1": "Dos meses",
+      "Answer 2": "Cuatro meses",
+      "Answer 3": "Seis meses",
+      "Answer 4": "Ocho meses",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 43 de la Ley 29/1998, cuando la propia administración autora de algún acto pretenda demandar su anulación ante la jurisdicción Contencioso-Administrativa",
+      "Answer 1": "Deberá previamente obtener informe favorable del Gobierno u órgano de Gobierno de la Comunidad Autónoma",
+      "Answer 2": "Deberá previamente declararlo lesivo para el interés públicos",
+      "Answer 3": "Deberá obtener informe favorable del Consejo de Estado u órgano similar de las Comunidades Autónomas",
+      "Answer 4": "Deberá, previamente obtener informe favorable de la Dirección general del lo Contencioso del Estado",
+      "Answer": 2
+    },
+    {
+      "Title": "Cuando el recurso contencioso-administrativo tenga por objeto actos de las Administraciones Públicas en materia se sanciones ¿Qué Juzgado o Tribunal será competente territorialmente?",
+      "Answer 1": "Ninguna es correcta",
+      "Answer 2": "El órgano jurisdiccional en cuya circunscripción tenga su sede el órgano que hubiere dictado la disposición o el acto originario impugnado, en todo caso",
+      "Answer 3": "A elección del demandante, el Juzgado o el Tribunal en cuya circunscripción tenga aquel su domicilio o se halle la sede del órgano autor del acto originario impugnado",
+      "Answer 4": "Únicamente en el Juzgado o Tribunal del domicilio del demandante",
+      "Answer": 3
+    },
+    {
+      "Title": "Cuando una ley prevea expresamente la acción popular, quien está legitimado ante el órgano jurisdiccional contencioso-administrativo para interponer el recurso",
+      "Answer 1": "Ninguna de las respuestas no es correcta",
+      "Answer 2": "Cualquier ciudadano",
+      "Answer 3": "Únicamente y en todo caso el Ministerio Fiscal",
+      "Answer 4": "Únicamente las personas físicas o jurídicas que tengan un derecho o interés legítimo",
+      "Answer": 2
+    },
+    {
+      "Title": "Conforme al artículo 74.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa:",
+      "Answer 1": "Ninguna es correcta",
+      "Answer 2": "El recurrente podrá desistir del recurso en cualquier momento posterior a la sentencia",
+      "Answer 3": "El recurrente podrá desistir del recurso en cualquier momento anterior a la sentencia",
+      "Answer 4": "El recurrente podrá desistir del recurso en cualquier momento",
+      "Answer": 3
+    },
+    {
+      "Title": "Cuál y en qué momento del procedimiento administrativo se fija la cuantía del recurso",
+      "Answer 1": "Ninguna de las respuestas anteriores no es correcta",
+      "Answer 2": "Los demandantes en el escrito de interposición del recurso",
+      "Answer 3": "Los demandantes en el escrito de demanda y contestación",
+      "Answer 4": "El órgano jurisdiccional, una vez formulados los escritos de demanda y contestación",
+      "Answer": 4
+    },
+    {
+      "Title": "En cuál de las siguientes materias no será competente el orden jurisdiccional contencioso-administrativo:",
+      "Answer 1": "Respecto de los actos que sean reproducción de otros anteriores definitivos y firmes",
+      "Answer 2": "Contra la inactividad de la Administración y contra sus actuaciones materiales que constituyan vía de hecho",
+      "Answer 3": "La responsabilidad patrimonial de las Administraciones Públicas, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive",
+      "Answer 4": "Contra los decretos legislativos cuando excedan los límites de la delegación",
+      "Answer": 1
+    },
+    {
+      "Title": "La Ley 29/1998, de 13 de Julio reguladora de la Jurisdicción Contencioso-Administrativa, señala que cuando el recurso contencioso-administrativo se dirija contra la inactividad de la Administración Pública, conforme a lo dispuesto en el artículo 29, de la citada Ley:",
+      "Answer 1": "El demandante deberá solicitar al órgano jurisdiccional que condene a la Administración al cumplimiento de sus obligaciones",
+      "Answer 2": "El demandante solicitará la ejecución inmediata",
+      "Answer 3": "El demandante podrá solicitar la ejecución de los actos administrativos",
+      "Answer 4": "El demandante podrá pretender del órgano jurisdiccional que condene a la Administración al cumplimiento de sus obligaciones en los concretos términos en que estén establecidos",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 103.1 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, el ejercicio de las potestad de hacer ejecutar las sentencias en el orden jurisdiccional contencioso-administrativo compete:",
+      "Answer 1": "Todas las respuestas anteriores son incorrectas",
+      "Answer 2": "Al Juzgado o Tribunal que había conocido del asunto en primera o única instancia",
+      "Answer 3": "A cualquier Juzgado o Tribunal de este orden jurisdiccional",
+      "Answer 4": "Al órgano jurisdiccional que las había dictado",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de los siguientes supuestos no es susceptible de recurso contencioso-administrativo, de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, de la Jurisdicción Contencioso-Administrativa?",
+      "Answer 1": "Los actos administrativos que no pongan fin a la vía administrativa",
+      "Answer 2": "Los actos que se produzcan en aplicación de las disposiciones de carácter general",
+      "Answer 3": "Las disposiciones de carácter general",
+      "Answer 4": "La inactividad de la administración",
+      "Answer": 1
+    },
+    {
+      "Title": "Son susceptibles de recurso de casación:",
+      "Answer 1": "Las sentencias dictadas en materia electoral",
+      "Answer 2": "Las sentencias de la Audiencia Nacional y de los Tribunales Superiores de Justicia que declaren nula o conforme a derecho una disposición de carácter general",
+      "Answer 3": "Las sentencias que ser refieran a cuestiones de personal al servicio de las Administraciones Públicas",
+      "Answer 4": "Ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "La jurisdicción contencioso administrativa es una jurisdicción especial o especializada dentro del poder judicial:",
+      "Answer 1": "Es una jurisdicción especializada",
+      "Answer 2": "Es una jurisdicción especial",
+      "Answer 3": "Es una jurisdicción especial y especializada",
+      "Answer 4": "Ninguna de las respuestas no es correcta",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el Título II de la Ley 29/1998, de 13 de Julio, reguladora de la Jurisdicción Contencioso-Administrativa, señale cual de las siguientes afirmaciones es la correcta",
+      "Answer 1": "En sus actuaciones ante órganos unipersonales, las partes podrán conferir su representación a un procurador y serán asistidas, en todo caso, por abogado",
+      "Answer 2": "En sus actuaciones ante órganos unipersonales, las partes podrán conferir su representación a un abogado y ser asistidas por éste",
+      "Answer 3": "En sus actuaciones ante órganos colegiados, las parte deberán conferir su representación a un abogado y ser asistidas por un procurador",
+      "Answer 4": "En sus actuaciones ante órganos unipersonales, las parte conferirán en todo caso su representación a un procurador y serán asistidos por éste",
+      "Answer": 1
+    },
+    {
+      "Title": "La Ley 29/1998, de 13 de Julio reguladora de la Jurisdicción Contencioso-Administrativa, señala que no es admisible el recurso contencioso-administrativo",
+      "Answer 1": "Respecto de los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma",
+      "Answer 2": "En relación con las disposiciones de carácter general y con los actos expresos y presuntos de la Administración pública que pongan fin a la vía administrativa",
+      "Answer 3": "Respecto de los actos presuntos de la Administración pública que pongan fin a la vía administrativa",
+      "Answer 4": "En relación con las disposiciones de carácter general",
+      "Answer": 1
+    },
+    {
+      "Title": "De conformidad con lo dispuesto en el artículo 86 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, ¿cuál de las siguientes sentencias no es susceptible de recurso de casación?",
+      "Answer 1": "Las que se refieran a cuestiones de personal al servicio de las Administraciones Públicas, cuando afectan al nacimiento de la relación de servicio de funcionarias/os de carrera",
+      "Answer 2": "Las recaídas en el procedimiento especial para la defensa de los derechos fundamentales",
+      "Answer 3": "Las dictadas por la Audiencia Nacional que declaren nula una disposición de carácter general",
+      "Answer 4": "Las dictadas en materia electoral",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 85 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, el recurso de apelación:",
+      "Answer 1": "Se interpondrá ante la Sala correspondiente del Contencioso-Administrativo",
+      "Answer 2": "Podrá interponerse ante el Juzgado que había dictado la sentencia que se apela o la Sala competente para resolverlo",
+      "Answer 3": "Se interpondrá ante el Juzgado que había dictado la sentencia que se apela",
+      "Answer 4": "Podrá interponerse ante cualquier Juzgado de la Jurisdicción Contencioso-Administrativa",
+      "Answer": 3
+    },
+    {
+      "Title": "De conformidad con el artículo 19 de la Ley 29/1998, ¿puede cualquier ciudadano interponer recurso contencioso-administrativo?:",
+      "Answer 1": "Si, en el ejercicio de la acción popular, en los casos expresamente previstos por las leyes",
+      "Answer 2": "No, nunca",
+      "Answer 3": "Sí, siempre",
+      "Answer 4": "Únicamente si tiene la consideración de interesado",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 18 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, tienen capacidad procesal ante el orden jurisdiccional contencioso-administrativo:",
+      "Answer 1": "Las personas menores de edad, en cualquier caso, sin necesidad de asistencia de la persona que ejerza la patria potestad, tutela o curatela",
+      "Answer 2": "Las personas menores de edad para la defensa de aquellos de sus derechos e intereses legítimos, cuya actuación les esté permitida por el ordenamiento jurídico sin necesidad de asistencia de la persona que ejerza la patria potestad, tutela o curatela",
+      "Answer 3": "Las personas menores de edad, en cualquier caso, siempre con la asistencia de la persona que ejerza la patria potestad, tutela o curatela",
+      "Answer 4": "Las personas menores de edad para la defensa de aquellos de sus derechos legítimos, cuya actuación les esté permitida por el ordenamiento jurídico, siempre con la asistencia de la persona que ejerza la patria potestad, tutela o curatela",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 91 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, la preparación del recurso de casación",
+      "Answer 1": "Nunca impedirá la ejecución provisional de la sentencia recurrida",
+      "Answer 2": "No impedirá, como norma general, la ejecución provisional de la sentencia recurrida",
+      "Answer 3": "Impide en todo caso la ejecución provisional de la sentencia recurrida",
+      "Answer 4": "No impedirá la ejecución definitiva de la sentencia que se recurre",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 69 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, cuando el recurso contencioso-administrativo haya tenido por objeto disposiciones no susceptibles de impugnación, la sentencia",
+      "Answer 1": "No se pronunciará",
+      "Answer 2": "Declarará la desestimación del recurso",
+      "Answer 3": "Declarará la inadmisibilidad del recurso",
+      "Answer 4": "Podrá declarar la desestimación o la inadmisibilidad del recurso",
+      "Answer": 3
+    },
+    {
+      "Title": "El órgano jurisdiccional competente para conocer de los recursos de revisión contra sentencias firmes dictadas por los Juzgados Centrales de lo Contencioso administrativo será:",
+      "Answer 1": "Juzgados de lo Contencioso-Administrativo",
+      "Answer 2": "La Audiencia Nacional",
+      "Answer 3": "El Tribunal Superior de Justicia",
+      "Answer 4": "El Tribunal Supremo",
+      "Answer": 2
+    },
+    {
+      "Title": "De conformidad con el artículo 23 de la Ley 29/1998, ante órganos jurisdiccionales contencioso-administrativos colegiados, las partes:",
+      "Answer 1": "Deberán conferir su representación a un Procurador y ser asistidas por Abogado",
+      "Answer 2": "Podrán conferir su representación a un Procurador y serán asistidas en todo caso por Abogado",
+      "Answer 3": "Deberán conferir su representación a un Procurador y ser asistidas por Abogado, salvo los funcionarios públicos, que podrán comparecer siempre por si mismos",
+      "Answer 4": "Pueden comparecer por sí mismas",
+      "Answer": 1
+    },
+    {
+      "Title": "Recibido el expediente administrativo en el órgano judicial y comprobados, y en su caso completados, los emplazamientos, se acordará que se entregue al recurrente para que se deduzca la demanda en el plazo de",
+      "Answer 1": "Un mes",
+      "Answer 2": "Sesenta días",
+      "Answer 3": "Tres meses",
+      "Answer 4": "Veinte días",
+      "Answer": 4
+    },
+    {
+      "Title": "De conformidad con el artículo 19 de la Ley 29/1998, ¿cuál es el trámite previo que tiene que cumplir la Administración autora de un acto administrativo para impugnarlo ante el orden jurisdiccional contencioso-administrativo?",
+      "Answer 1": "Audiencia a todos los afectados por el acto administrativo",
+      "Answer 2": "Declaración de lesividad para el interés público, en los términos establecidos por la ley",
+      "Answer 3": "Necesita Acuerdo del Consejo de Gobierno",
+      "Answer 4": "La Administración autora de una acto administrativo no lo puede impugnar",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 51.5 de la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa, el auto de admisión de un recurso contencioso-administrativo:",
+      "Answer 1": "Es susceptible de recurso de amparo",
+      "Answer 2": "Sólo es susceptible de recurso de súplica",
+      "Answer 3": "Sólo es susceptible de recurso de apelación",
+      "Answer 4": "No será recurrible",
+      "Answer": 4
+    },
+    {
+      "Title": "El orden jurisdiccional contencioso-administrativo no se halla integrado por:",
+      "Answer 1": "Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+      "Answer 2": "Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia",
+      "Answer 3": "Sala de lo Contencioso-administrativo del Tribunal Supremo",
+      "Answer 4": "Salas de lo Contencioso-administrativo de las Audiencias Provinciales",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál es el plazo para interponer el recurso contencioso-administrativo contra un acto presunto que ponga fin a la vía administrativa?",
+      "Answer 1": "Treinta días",
+      "Answer 2": "Seis meses",
+      "Answer 3": "Cinco días",
+      "Answer 4": "Dos meses",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia NO conocerán de los recursos que se deduzcan en relación con:",
+      "Answer 1": "Los actos y disposiciones de los órganos de gobierno de las asambleas legislativas de las Comunidades Autónomas, y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo, en materia de personal, administración y gestión patrimonial.",
+      "Answer 2": "las impugnaciones contra actos de las Juntas Electorales de Zona y de las formuladas en materia de proclamación de candidaturas y candidatos efectuada por cualquiera de las Juntas Electorales, en los términos previstos en la legislación electoral",
+      "Answer 3": "Los actos y resoluciones dictados por los Tribunales Económico-Administrativos Regionales y Locales que pongan fin a la vía económico-administrativa",
+      "Answer 4": "Los actos de las Entidades locales y de las Administraciones de las Comunidades Autónomas, cuyo conocimiento no esté atribuido a los Juzgados de lo Contencioso-Administrativo.",
+      "Answer": 2
+    },
+    {
+      "Title": "La finalización del procedimiento contencioso-administrativo…:",
+      "Answer 1": "Puede tener lugar por otras formas distintas a la sentencia",
+      "Answer 2": "Únicamente puede acabar o por sentencia o por desistimiento de alguna de las partes",
+      "Answer 3": "No se puede producir, en ningún caso, por transacción",
+      "Answer 4": "No se puede producir por allanamiento",
+      "Answer": 1
+    },
+    {
+      "Title": "De conformidad con la Ley Reguladora de la Jurisdicción Contencioso-Administrativa, el recurso contencioso-administrativo (señale la incorrecta):",
+      "Answer 1": "Es admisible en relación con las actuaciones materiales de la Administración Pública que constituyan vía de hecho",
+      "Answer 2": "Es admisible en relación con los actos expresos de la Administración Pública que pongan fin a la vía administrativa",
+      "Answer 3": "Es admisible en relación con los actos de la Administración Pública que sean reproducción de otros anteriores definitivos y firmes",
+      "Answer 4": "Es admisible en relación con las disposiciones de carácter general de la Administración Pública",
+      "Answer": 3
+    },
+    {
+      "Title": "De conformidad con la legislación vigente, ¿cuál es el plazo para interponer el recurso contencioso-administrativo contra actos expresos?",
+      "Answer 1": "1 mes, contado desde el día de la publicación de la disposición impugnada o desde la notificación o publicación del acto impugnado",
+      "Answer 2": "3 meses, contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto impugnado",
+      "Answer 3": "2 meses, contados desde el día de la publicación de la disposición impugnada o desde la notificación o publicación del acto impugnado",
+      "Answer 4": "2 meses, contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto impugnado",
+      "Answer": 4
+    },
+    {
+      "Title": "La ley 29/1998 introdujo como novedad en relación con el objeto del recurso contencioso-administrativo",
+      "Answer 1": "El recurso contra las actuaciones materiales en vía de hecho",
+      "Answer 2": "El recurso contra la inactividad de la Administración",
+      "Answer 3": "Todas son correctas",
+      "Answer 4": "La cuestión de ilegalidad",
+      "Answer": 3
+    },
+    {
+      "Title": "Los recursos contencioso-administrativos relativos a cuestiones de personal que no se refieran al nacimiento o la extinción de la relación de servicio de los funcionarios públicos de carrera, se sustanciarán",
+      "Answer 1": "Por el procedimiento abreviado en los Juzgados de lo Contencioso-administrativo",
+      "Answer 2": "Como incidente en los juzgados de lo contencioso-administrativo",
+      "Answer 3": "Por el procedimiento abreviado en la Sala de los Contencioso-administrativo de los Tribunales Superiores de Justicia",
+      "Answer 4": "Por el procedimiento normal en la Audiencia Nacional",
+      "Answer": 1
+    },
+    {
+      "Title": "La jurisdicción contencioso-administrativa…:",
+      "Answer 1": "Es improrrogable",
+      "Answer 2": "Es intransmisible",
+      "Answer 3": "Ninguna es correcta",
+      "Answer 4": "Es inalienable",
+      "Answer": 1
+    },
+    {
+      "Title": "De conformidad con la Ley Reguladora de la Jurisdicción Contencioso-Administrativa, la interposición de un recurso de apelación:",
+      "Answer 1": "Ambas son correctas",
+      "Answer 2": "No impedirá la ejecución provisional de la sentencia recurrida.",
+      "Answer 3": "Ninguna es correcta",
+      "Answer 4": "Nunca implicará la necesidad de adoptar mediadas de caución para responder de posibles perjuicios originados por la ejecución",
+      "Answer": 2
+    },
+    {
+      "Title": "La potestad de hacer ejecutar las sentencias y demás resoluciones judiciales corresponde exclusivamente a Juzgados y Tribunales de la jurisdicción contencioso administrativa, y su ejercicio compete a:",
+      "Answer 1": "El órgano administrativo que dictó el acto o disposición objeto de recurso",
+      "Answer 2": "Todas son falsas",
+      "Answer 3": "El Juez o Tribunal del lugar donde haya de ejecutarse la sentencia",
+      "Answer 4": "El Juez o Tribunal que haya conocido del asunto en primera o única instancia",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 10.1 de la Ley 29/1998, ¿a qué órgano perteneciente al orden jurisdiccional contencioso-administrativo compete conocer de los recursos en relación con los Convenios entre Administraciones Públicas cuyas competencias se ejerzan en el ámbito territorial de la correspondiente Comunidad Autónoma?",
+      "Answer 1": "Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia",
+      "Answer 2": "Sala de lo Contencioso-Administrativo del Tribunal Supremo",
+      "Answer 3": "Juzgados de lo Contencioso-Administrativo",
+      "Answer 4": "Sala de lo Contencioso-Administrativo de la Audiencia Nacional",
+      "Answer": 1
+    },
+    {
+      "Title": "El orden jurisdiccional contencioso-administrativo conoce materias relativas a…",
+      "Answer 1": "Los recursos contenciosos disciplinarios militares",
+      "Answer 2": "Cuestiones expresamente penales que estén relacionadas con la actividad de las administraciones públicas",
+      "Answer 3": "Los conflictos de atribuciones entre órganos de una misma administración",
+      "Answer 4": "La protección de los derechos fundamentales en relación con los actos del Gobierno",
+      "Answer": 4
+    },
+    {
+      "Title": "El conocimiento de los recursos de revisión contra las resoluciones dictadas por el Tribunal de Cuentas corresponde a",
+      "Answer 1": "Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia",
+      "Answer 2": "Los Juzgados Centrales de lo Contencioso-Administrativo.",
+      "Answer 3": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo",
+      "Answer 4": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.",
+      "Answer": 3
+    },
+    {
+      "Title": "En el procedimiento contencioso-administrativo, el emplazamiento de la Administración se entenderá efectuado:",
+      "Answer 1": "Por la citación al acto de la vista",
+      "Answer 2": "Por la reclamación del expediente administrativo",
+      "Answer 3": "Por la notificación del auto de admisión del recurso contencioso-administrativo",
+      "Answer 4": "Por la notificación de la recepción del expediente administrativo",
+      "Answer": 2
+    },
+    {
+      "Title": "Indicad la respuesta correcta en relación con el procedimiento contencioso-administrativo:",
+      "Answer 1": "Con la Ley 29/1998 se produce un cambio en el sentido de permitir la iniciación del procedimiento mediante un simple escrito y, \"a posteriori\", una vez admitida la finalidad del recurso, se puede presentar el resto de la documentación que la ley exige",
+      "Answer 2": "No se ha de admitir desde un primer momento, por parte del juzgado o la sala competente, el escrito de interposición del recurso si falta alguno de los requisitos legales",
+      "Answer 3": "El término para interponer el recurso contencioso-administrativo es de tres meses",
+      "Answer 4": "No es admisible el recurso contencioso-administrativo respecto de los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haberse recurrido en tiempo y forma",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de las siguientes actividades administrativas no es impugnable en vía Jurisdiccional Contencioso-Administrativa?",
+      "Answer 1": "Disposiciones de carácter general",
+      "Answer 2": "Inactividad de la Administración",
+      "Answer 3": "Actuaciones materiales que constituyan vía de hecho",
+      "Answer 4": "Los actos que no se dicten en ejercicio de una potestad administrativa",
+      "Answer": 4
+    },
+    {
+      "Title": "Conforme a la Ley 29/1998, de 13 de Julio, reguladora de la Jurisdicción Contencioso-Administrativa, ¿cómo ha de proceder la Administración ante la reclamación del expediente administrativo por los Juzgados o Tribunales?:",
+      "Answer 1": "Enviará el expediente, original o copiado, completo, foliado y, en su caso, autentificado, acompañado de un índice, asimismo autentificado, de los documentos que contenga, y conservará siempre el original o una copia autentificada de los expedientes que envíe. Si el expediente fuera reclamado por diversos Juzgados o Tribunales, enviará copias autentificadas del original o de la copia que conserve.",
+      "Answer 2": "Enviará siempre al órgano u órganos judiciales reclamantes una copia autentificada del expediente completo, foliado y acompañado de un índice autentificado de los documentos que contenga, conservando en todo caso el original de los expedientes que envíe",
+      "Answer 3": "Enviará siempre el expediente original, acompañado de un índice de los documentos que contenga, debiendo conservar únicamente una copia simple de los expedientes que envíe, pues al finalizar el procedimiento judicial debe reclamar del órgano jurisdiccional la devolución del expediente.",
+      "Answer 4": "Enviará siempre el expediente original completo y foliado, acompañado de un índice autentificado de los documentos que contenga, y conservará únicamente una copia autentificada de los expedientes que envíe. Si el expediente fuera reclamado por diversos Juzgados o Tribunales, enviará al primero el expediente original y copias autentificadas a los siguientes",
+      "Answer": 1
+    },
+    {
+      "Title": "La Ley reguladora de la Jurisdicción Contencioso-Administrativa en su artículo 23 establece en relación a la representación y defensa en juicio de las partes que",
+      "Answer 1": "En sus actuaciones ante órganos colegiados podrán conferir su representación a un Procurador y serán asistidas, en todo caso, por Abogado",
+      "Answer 2": "En sus actuaciones ante órganos colegiados deberán conferir su representación a un Procurador y ser asistidas por Abogado.",
+      "Answer 3": "En sus actuaciones ante órganos unipersonales deberán conferir su representación a un Procurador y ser asistidas por Abogado.",
+      "Answer 4": "En sus actuaciones ante órganos unipersonales y colegiados, en todo caso, deberán conferir su representación a un Procurador y serán asistidas por Abogado.",
+      "Answer": 2
+    },
+    {
+      "Title": "En el procedimiento contencioso-administrativo abreviado, en la misma providencia en la que se ordena la admisión de la demanda y su traslado al demandado y se cita a las partes para la celebración de vista, se ordenará también a la Administración demandada que remita el expediente administrativo, ¿con cuánta antelación del término señalado para la vista?:",
+      "Answer 1": "Con al menos quince días",
+      "Answer 2": "Con al menos setenta y dos horas",
+      "Answer 3": "Con al menos diez días",
+      "Answer 4": "Con al menos una semana",
+      "Answer": 1
+    }
+  ]

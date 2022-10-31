@@ -1,0 +1,1202 @@
+[
+    {
+      "Title": "¿Qué órgano culmina la organización judicial en el territorio de una Comunidad Autónoma?:",
+      "Answer 1": "El Tribunal Superior de Justicia.",
+      "Answer 2": "Las Audiencias Territoriales.",
+      "Answer 3": "El Tribunal Supremo.",
+      "Answer 4": "Las Audiencias Provinciales.",
+      "Answer": 1
+    },
+    {
+      "Title": "Darán derecho a una indemnización a cargo del Estado:",
+      "Answer 1": "Todas las otras respuestas son ciertas.",
+      "Answer 2": "Los daños que sean consecuencia de funcionamiento anormal de la Administración de Justicia.",
+      "Answer 3": "Los daños causados por errónea apreciación de las pruebas por Juzgados y Tribunales.",
+      "Answer 4": "Los daños causados por el retraso superior a seis meses en la resolución de los pleitos a cargo de Juzgados y Tribunales.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Título Sexto de la Constitución está estructurado en:",
+      "Answer 1": "Secciones.",
+      "Answer 2": "Artículos.",
+      "Answer 3": "Capítulos.",
+      "Answer 4": "Apartados.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es el origen que la Constitución atribuye a la Justicia?",
+      "Answer 1": "Parlamentario.",
+      "Answer 2": "Legislativo.",
+      "Answer 3": "Popular.",
+      "Answer 4": "Consuetudinario.",
+      "Answer": 3
+    },
+    {
+      "Title": "Respecto al Ministerio Fiscal, señale cuál de estas funciones no le viene otorgada por la Constitución:",
+      "Answer 1": "Promover la acción de la justicia.",
+      "Answer 2": "Representar al desvalido.",
+      "Answer 3": "Defender el interés público.",
+      "Answer 4": "Velar por la independencia de los tribunales.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué ley, de las indicadas a continuación, aprueba la normativa referente a la institución del jurado?:",
+      "Answer 1": "Ley Orgánica 5/1995, de 22 de mayo.",
+      "Answer 2": "Ley Orgánica 15/1995, de 22 de mayo.",
+      "Answer 3": "Ley Orgánica 5/1994, de 22 de mayo.",
+      "Answer 4": "Ley Orgánica 25/1995, de 22 de mayo.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántas Salas jurisdiccionales tiene el Tribunal Supremo?",
+      "Answer 1": "Seis.",
+      "Answer 2": "Cinco.",
+      "Answer 3": "Cuatro.",
+      "Answer 4": "Siete.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución se trata la gratuidad de la justicia?",
+      "Answer 1": "118.",
+      "Answer 2": "120.",
+      "Answer 3": "119.",
+      "Answer 4": "121.",
+      "Answer": 3
+    },
+    {
+      "Title": "La constitución, funcionamiento y gobierno de los Juzgados y Tribunales, se determinará:",
+      "Answer 1": "Por medio de la ley del poder judicial.",
+      "Answer 2": "Por medio de la ley orgánica del poder judicial.",
+      "Answer 3": "Por medio de la ley orgánica de Juzgados y Tribunales.",
+      "Answer 4": "Por medio de la ley orgánica de la Administración de Justicia.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué tipo de Tribunales están prohibidos por la Constitución?",
+      "Answer 1": "Los Tribunales de Honor y los Tribunales consuetudinarios.",
+      "Answer 2": "Los Tribunales populares y los Tribunales consuetudinarios.",
+      "Answer 3": "Los Tribunales de excepción y los Tribunales de Honor.",
+      "Answer 4": "Los Tribunales consuetudinarios y los Tribunales de excepción.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántas personas componen el Consejo General del Poder Judicial?",
+      "Answer 1": "20.",
+      "Answer 2": "19.",
+      "Answer 3": "21.",
+      "Answer 4": "22.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién realiza el nombramiento del Presidente del Consejo General del Poder Judicial?",
+      "Answer 1": "El Presidente de las Cortes Generales.",
+      "Answer 2": "El Presidente del Gobierno.",
+      "Answer 3": "El Rey.",
+      "Answer 4": "Los miembros del Consejo General del Poder Judicial.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las sentencias:",
+      "Answer 1": "Se pronunciarán en presencia de los interesados.",
+      "Answer 2": "Serán siempre razonadas.",
+      "Answer 3": "Se pronunciarán en audiencia pública.",
+      "Answer 4": "Serán normalmente motivadas.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Ministerio Fiscal ejerce sus funciones con sujeción a los principios:",
+      "Answer 1": "De unidad de actuación e independencia jerárquica.",
+      "Answer 2": "De legalidad e imparcialidad.",
+      "Answer 3": "De unidad jurisdiccional e independencia.",
+      "Answer 4": "Todas las otras respuestas son falsas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Jueces y Magistrados, así como los Fiscales:",
+      "Answer 1": "Podrán pertenecer a partidos políticos y sindicatos específicos de su función mientras estén en activo.",
+      "Answer 2": "No podrán pertenecer a partidos políticos o sindicatos mientras estén en activo.",
+      "Answer 3": "Podrán pertenecer a partidos políticos y sindicatos en cualquier caso.",
+      "Answer 4": "Podrán pertenecer a partidos políticos pero no a sindicatos mientras estén en activo.",
+      "Answer": 2
+    },
+    {
+      "Title": "La justicia se administra por:",
+      "Answer 1": "El pueblo.",
+      "Answer 2": "El Rey.",
+      "Answer 3": "Jueces y Magistrados.",
+      "Answer 4": "Ministerio Fiscal.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué artículo de la Constitución recoge el principio de exclusividad del ejercicio de la potestad jurisdiccional?",
+      "Answer 1": "117.5.",
+      "Answer 2": "117. 3.",
+      "Answer 3": "117.4.",
+      "Answer 4": "117.2.",
+      "Answer": 2
+    },
+    {
+      "Title": "La Constitución establece el sistema de elección de ¿cuántos miembros del Consejo General del Poder Judicial?",
+      "Answer 1": "20.",
+      "Answer 2": "12.",
+      "Answer 3": "21.",
+      "Answer 4": "8.",
+      "Answer": 4
+    },
+    {
+      "Title": "La justicia será gratuita:",
+      "Answer 1": "En todo caso respecto de quienes acrediten insuficiencia de recursos para litigar.",
+      "Answer 2": "En todo caso.",
+      "Answer 3": "En determinados casos previstos por la Ley.",
+      "Answer 4": "Cuando así lo disponga la ley y respecto de quienes acrediten insuficiencia de recursos para litigar.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de los siguientes principios no es predicable de la justicia en España?",
+      "Answer 1": "Principio de Movilidad.",
+      "Answer 2": "Principio de Independencia.",
+      "Answer 3": "Principio de Exclusividad.",
+      "Answer 4": "Principio de Oralidad.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos miembros del Consejo General del Poder Judicial son elegidos por el Senado, según el artículo 122 CE?",
+      "Answer 1": "Ocho.",
+      "Answer 2": "Cuatro.",
+      "Answer 3": "Doce.",
+      "Answer 4": "Diez.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Jueces y Magistrados, salvo por alguna de las causas y con las garantías previstas por la Ley:",
+      "Answer 1": "No podrán ser separados, pero sí jubilados.",
+      "Answer 2": "No podrán ser suspendidos, aunque sí separados.",
+      "Answer 3": "No podrán ser suspendidos, aunque sí trasladados.",
+      "Answer 4": "Todas las otras respuestas son falsas.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Consejo General del Poder Judicial será presidido:",
+      "Answer 1": "Por el Presidente del Tribunal Constitucional.",
+      "Answer 2": "Por el Vocal del mismo de mayor edad.",
+      "Answer 3": "Por el Presidente del Tribunal Supremo.",
+      "Answer 4": "Por el Presidente de la Audiencia Nacional.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Consejo General del Poder Judicial contará con:",
+      "Answer 1": "Doce miembros que serán Magistrados.",
+      "Answer 2": "Cuatro miembros elegidos por el Tribunal Constitucional.",
+      "Answer 3": "Ocho miembros no jueces.",
+      "Answer 4": "Ocho miembros entre abogados y otros juristas de reconocida competencia y con más de diez años de ejercicio profesional.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién elige al Presidente del Consejo General del Poder Judicial?:",
+      "Answer 1": "El Presidente del Gobierno.",
+      "Answer 2": "El Jefe del Estado.",
+      "Answer 3": "El Consejo General del Poder Judicial.",
+      "Answer 4": "El Fiscal General del Estado.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Jueces, Magistrados y Fiscales:",
+      "Answer 1": "No podrán sindicarse ni asociarse en forma alguna.",
+      "Answer 2": "Podrán constituir asociaciones profesionales.",
+      "Answer 3": "Podrán sindicarse.",
+      "Answer 4": "Podrán constituir Colegios Profesionales.",
+      "Answer": 2
+    },
+    {
+      "Title": "El artículo en el que se habla en el Título Sexto del Tribunal Supremo es el:",
+      "Answer 1": "124.",
+      "Answer 2": "126.",
+      "Answer 3": "125.",
+      "Answer 4": "123.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuánto tiempo dura el mandato de los vocales del Consejo General del Poder Judicial?:",
+      "Answer 1": "Seis años.",
+      "Answer 2": "Cuatro años.",
+      "Answer 3": "Cinco años.",
+      "Answer 4": "Tres años.",
+      "Answer": 3
+    },
+    {
+      "Title": "La policía judicial, en su función de averiguación del delito, depende de:",
+      "Answer 1": "Jueces y Tribunales.",
+      "Answer 2": "Ministerio de Interior.",
+      "Answer 3": "Jueces, Tribunales y Ministerio Fiscal.",
+      "Answer 4": "Ministerio Fiscal.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántos vocales componen el Consejo General del Poder Judicial?",
+      "Answer 1": "Doce.",
+      "Answer 2": "Veinte.",
+      "Answer 3": "Ocho.",
+      "Answer 4": "Veintiuno.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución se recoge el principio de unidad jurisdiccional?",
+      "Answer 1": "116.2",
+      "Answer 2": "115.4",
+      "Answer 3": "119.1.",
+      "Answer 4": "117.5.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En cuál de los siguientes casos puede un Magistrado ser candidato a vocal del Consejo General del Poder Judicial?",
+      "Answer 1": "Un juez que se encuentre en servicio activo.",
+      "Answer 2": "Un juez que sea vocal saliente.",
+      "Answer 3": "Un juez que no se encuentre en activo.",
+      "Answer 4": "Un juez que preste servicios en los órganos técnicos del Consejo General del Poder Judicial.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿De quién emana la Justicia?:",
+      "Answer 1": "De la Constitución y del Derecho.",
+      "Answer 2": "De las Instituciones democráticas del Estado.",
+      "Answer 3": "De la Constitución y de la Ley.",
+      "Answer 4": "Del pueblo.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuántas Salas jurisdiccionales tiene el Tribunal Supremo?:",
+      "Answer 1": "Cuatro,",
+      "Answer 2": "Seis,",
+      "Answer 3": "Siete,",
+      "Answer 4": "Cinco,",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién representa al Consejo General del Poder Judicial?:",
+      "Answer 1": "El Vicepresidente.",
+      "Answer 2": "El Pleno.",
+      "Answer 3": "El Presidente.",
+      "Answer 4": "La Comisión Permanente.",
+      "Answer": 3
+    },
+    {
+      "Title": "Un magistrado en activo:",
+      "Answer 1": "Puede desempeñar otros cargos públicos que sean declarados compatibles.",
+      "Answer 2": "No puede desempeñar otros cargos públicos.",
+      "Answer 3": "Puede ser miembro de sindicatos profesionales específicos de su función.",
+      "Answer 4": "Puede asumir la función del Ministerio Fiscal.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuántos miembros del Consejo pueden ser nombrados de entre profesiones distintas a las de Juez y Magistrado?",
+      "Answer 1": "Seis.",
+      "Answer 2": "Ocho.",
+      "Answer 3": "Ninguno.",
+      "Answer 4": "Diez.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuántos miembros del Consejo General del Poder Judicial son elegidos por el Congreso, según el artículo 122 CE?",
+      "Answer 1": "Ocho.",
+      "Answer 2": "Doce.",
+      "Answer 3": "Seis.",
+      "Answer 4": "Cuatro.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el art. 120.1 CE, las actuaciones judiciales:",
+      "Answer 1": "Son reservadas a los interesados y afectados.",
+      "Answer 2": "Son públicas.",
+      "Answer 3": "Admiten excepciones reglamentariamente establecidas a su publicidad.",
+      "Answer 4": "Nunca pueden ser públicas, por garantía de la privacidad de las personas afectadas.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Fiscal General del Estado es:",
+      "Answer 1": "Nombrado por el Gobierno, oído el Consejo General del Poder Judicial.",
+      "Answer 2": "Nombrado por el Rey, oído el Gobierno.",
+      "Answer 3": "Nombrado por el Consejo de Estado, oído el Consejo General del Poder Judicial.",
+      "Answer 4": "Nombrado por el Rey, oído el Consejo General del Poder Judicial.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Qué contenido tiene el artículo 118 de la Constitución?:",
+      "Answer 1": "Recoge el principio de legitimidad judicial.",
+      "Answer 2": "Recoge el principio de publicidad judicial.",
+      "Answer 3": "Recoge el principio de gratuidad de la justicia.",
+      "Answer 4": "Recoge el principio de obligatoriedad en el cumplimiento de sentencias y resoluciones judiciales.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los Vocales integrantes del órgano de gobierno del poder judicial:",
+      "Answer 1": "Serán nombrados por el Congreso de los Diputados y por el Senado por un periodo de cinco años.",
+      "Answer 2": "Serán nombrados por el Presidente del Tribunal Supremo y del Consejo del Poder Judicial, por un periodo de cinco años.",
+      "Answer 3": "Serán nombrados por el Rey por un periodo de tres años.",
+      "Answer 4": "Serán nombrados por el Rey por un periodo de cinco años.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Presidente del Tribunal Supremo:",
+      "Answer 1": "Será nombrado por el Rey a propuesta del Consejo General del Poder Judicial.",
+      "Answer 2": "Será nombrado por el Consejo General del Poder Judicial a propuesta del Congreso de los Diputados.",
+      "Answer 3": "Será simultáneamente Presidente del Tribunal Constitucional.",
+      "Answer 4": "Será nombrado por el Rey a propuesta del Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién preside el Consejo General del Poder Judicial?",
+      "Answer 1": "El Magistrado designado por el Congreso de los Diputados.",
+      "Answer 2": "El Presidente del Tribunal Constitucional.",
+      "Answer 3": "El Presidente del Tribunal Supremo.",
+      "Answer 4": "El Rey",
+      "Answer": 3
+    },
+    {
+      "Title": "En materia criminal, el procedimiento será:",
+      "Answer 1": "Público.",
+      "Answer 2": "Secreto.",
+      "Answer 3": "Escrito.",
+      "Answer 4": "Ninguna de las anteriores es cierta.",
+      "Answer": 4
+    },
+    {
+      "Title": "La policía judicial depende:",
+      "Answer 1": "De Jueces y Fiscales.",
+      "Answer 2": "De los Alcaldes.",
+      "Answer 3": "Del Ministerio del Interior.",
+      "Answer 4": "De Jueces, Tribunales y Fiscales.",
+      "Answer": 4
+    },
+    {
+      "Title": "Jueces y Magistrados están sometidos:",
+      "Answer 1": "Al criterio del Tribunal Supremo en todo caso.",
+      "Answer 2": "A las peticiones realizadas por el Ministerio Fiscal.",
+      "Answer 3": "A la ley.",
+      "Answer 4": "A las instrucciones del Consejo General del Poder Judicial.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Ministerio Fiscal ejerce sus funciones:",
+      "Answer 1": "Conforme a los principios de unidad de actuación y dependencia jerárquica.",
+      "Answer 2": "Conforme a los principios de unidad de poder e independencia jerárquica.",
+      "Answer 3": "Conforme al principio de unidad jurisdiccional.",
+      "Answer 4": "Conforme a los principios de independencia y unidad jurisdiccional.",
+      "Answer": 1
+    },
+    {
+      "Title": "La justicia se administra en nombre del:",
+      "Answer 1": "Rey",
+      "Answer 2": "poder judicial",
+      "Answer 3": "Gobierno",
+      "Answer 4": "pueblo",
+      "Answer": 1
+    },
+    {
+      "Title": "Los Jueces y Magistrados integrantes del poder judicial son:",
+      "Answer 1": "independientes, imparciales, inimputables y sometidos únicamente al imperio de la ley",
+      "Answer 2": "específicos, inamovibles, irresponsables y sometidos únicamente al imperio de la ley",
+      "Answer 3": "independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+      "Answer 4": "independientes, inseparables, irresponsables y sometidos únicamente al imperio de la ley",
+      "Answer": 3
+    },
+    {
+      "Title": "Salvo por alguna de las causas y con las garantías previstas en la ley, los Jueces y Magistrados no podrán ser:",
+      "Answer 1": "separados",
+      "Answer 2": "suspendidos",
+      "Answer 3": "trasladados o jubilados",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "La base de la organización y funcionamiento de los Tribunales es el principio de:",
+      "Answer 1": "unidad jurisdiccional",
+      "Answer 2": "seguridad jurídica",
+      "Answer 3": "legalidad",
+      "Answer 4": "imparcialidad",
+      "Answer": 1
+    },
+    {
+      "Title": "Se prohíben los Tribunales:",
+      "Answer 1": "consuetudinarios",
+      "Answer 2": "civiles",
+      "Answer 3": "militares",
+      "Answer 4": "de excepción",
+      "Answer": 4
+    },
+    {
+      "Title": "La justicia será gratuita:",
+      "Answer 1": "en todos los casos",
+      "Answer 2": "respecto de quienes acrediten insuficiencia de recursos para litigar",
+      "Answer 3": "cuando así lo disponga la ley",
+      "Answer 4": "b y c son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "las actuaciones judiciales serán privadas, con las excepciones que prevean las leyes de procedimiento",
+      "Answer 2": "el procedimiento será predominantemente oral, sobre todo en materia laboral",
+      "Answer 3": "las sentencias serán siempre motivadas y se pronunciarán en audiencia pública",
+      "Answer 4": "todas son correctas",
+      "Answer": 3
+    },
+    {
+      "Title": "Darán derecho a una indemnización a cargo del Estado, conforme a la ley:",
+      "Answer 1": "los daños causados por error judicial",
+      "Answer 2": "los daños que sean consecuencia del funcionamiento anormal de la Administración de Justicia",
+      "Answer 3": "los daños que sean consecuencia del funcionamiento normal de la Administración de Justicia",
+      "Answer 4": "a y b son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El órgano de gobierno del poder judicial es:",
+      "Answer 1": "el Consejo de Estado",
+      "Answer 2": "el Consejo de Ministros",
+      "Answer 3": "el Consejo General del Poder Judicial",
+      "Answer 4": "el Ministerio Fiscal",
+      "Answer": 3
+    },
+    {
+      "Title": "El Consejo General del Poder Judicial estará integrado por:",
+      "Answer 1": "el Presidente del Tribunal Supremo, que lo presidirá, y por 12 miembros nombrados por el Rey",
+      "Answer 2": "el Presidente del Tribunal Superior de Justicia, que lo presidirá, y por 20 miembros nombrados por el Rey",
+      "Answer 3": "el Presidente del Tribunal Supremo, que lo presidirá, y por 20 miembros nombrados por el Rey",
+      "Answer 4": "el Presidente del Tribunal Superior de Justicia, que lo presidirá, y por 12 miembros nombrados por el Rey",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Consejo General del Poder Judicial lo serán por un período de:",
+      "Answer 1": "3 años",
+      "Answer 2": "4 años",
+      "Answer 3": "5 años",
+      "Answer 4": "10 años",
+      "Answer": 3
+    },
+    {
+      "Title": "Serán miembros del Consejo General del Poder Judicial:",
+      "Answer 1": "12 entre Jueces y Magistrados de todas las categorías judiciales y 8 entre abogados y otros juristas",
+      "Answer 2": "8 entre Jueces y Magistrados de todas las categorías judiciales y 12 entre abogados y otros juristas",
+      "Answer 3": "15 entre Jueces y Magistrados de todas las categorías judiciales y 5 entre abogados y otros juristas",
+      "Answer 4": "5 entre Jueces y Magistrados de todas las categorías judiciales y 15 entre abogados y otros juristas",
+      "Answer": 1
+    },
+    {
+      "Title": "Los miembros del Consejo General del Poder Judicial elegidos por el Congreso de los Diputados, y por el Senado lo serán por:",
+      "Answer 1": "mayoría simple",
+      "Answer 2": "mayoría absoluta",
+      "Answer 3": "mayoría de dos tercios de sus miembros",
+      "Answer 4": "mayoría de tres quintos de sus miembros",
+      "Answer": 4
+    },
+    {
+      "Title": "Los miembros del Consejo General del Poder Judicial elegidos entre abogados y otros juristas serán de reconocida competencia y:",
+      "Answer 1": "con más de 5 años de ejercicio en su profesión",
+      "Answer 2": "con más de 7 años de ejercicio en su profesión",
+      "Answer 3": "con más de 10 años de ejercicio en su profesión",
+      "Answer 4": "con más de 15 años de ejercicio en su profesión",
+      "Answer": 4
+    },
+    {
+      "Title": "Es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales:",
+      "Answer 1": "el Tribunal Superior de Justicia",
+      "Answer 2": "el Consejo General del Poder Judicial",
+      "Answer 3": "el Tribunal Supremo",
+      "Answer 4": "la Audiencia Nacional",
+      "Answer": 3
+    },
+    {
+      "Title": "El Presidente del Tribunal Supremo será nombrado:",
+      "Answer 1": "a propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+      "Answer 2": "entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno",
+      "Answer 3": "por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley",
+      "Answer 4": "por el Rey, a propuesta del Gobierno, oído el Ministerio Fiscal",
+      "Answer": 3
+    },
+    {
+      "Title": "Tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales y procurar ante éstos la satisfacción del interés social:",
+      "Answer 1": "el Consejo de Estado",
+      "Answer 2": "el Ministerio Fiscal",
+      "Answer 3": "el Fiscal General del Estado",
+      "Answer 4": "el Consejo General del Poder Judicial",
+      "Answer": 2
+    },
+    {
+      "Title": "El Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de:",
+      "Answer 1": "unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad y parcialidad",
+      "Answer 2": "unidad de actuación e independencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad",
+      "Answer 3": "unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad",
+      "Answer 4": "unidad de actuación e independencia jerárquica y con sujeción, en todo caso, a los de legalidad y parcialidad",
+      "Answer": 3
+    },
+    {
+      "Title": "El Fiscal General del Estado será nombrado:",
+      "Answer 1": "a propuesta del Gobierno, oído el Tribunal Supremo",
+      "Answer 2": "por un periodo de 5 años",
+      "Answer 3": "por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley",
+      "Answer 4": "por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+      "Answer": 4
+    },
+    {
+      "Title": "Los ciudadanos podrán participar en la Administración de Justicia mediante:",
+      "Answer 1": "la acción popular",
+      "Answer 2": "la institución del Jurado",
+      "Answer 3": "los Tribunales consuetudinarios y tradicionales",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "Según la Constitución el Jurado popular se limita a los procesos:",
+      "Answer 1": "laborales",
+      "Answer 2": "civiles",
+      "Answer 3": "penales",
+      "Answer 4": "civiles y penales",
+      "Answer": 3
+    },
+    {
+      "Title": "La policía judicial en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente depende de (señala la incorrecta):",
+      "Answer 1": "los Jueces",
+      "Answer 2": "los Tribunales",
+      "Answer 3": "el Consejo General del Poder Judicial",
+      "Answer 4": "el Ministerio Fiscal",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo:",
+      "Answer 1": "únicamente podrán desempeñar los cargos públicos establecidos en la Ley de incompatibilidades, y no podrán pertenecer a partidos políticos o sindicatos",
+      "Answer 2": "no podrán desempeñar otros cargos públicos, pero podrán pertenecer a partidos políticos, sindicatos o asociaciones",
+      "Answer 3": "no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos",
+      "Answer 4": "no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos, sindicatos o asociaciones",
+      "Answer": 3
+    },
+    {
+      "Title": "El Tíulo VI se llama:",
+      "Answer 1": "Del Poder Judicial",
+      "Answer 2": "De las relaciones entre el Gobierno y las Cortes Generales",
+      "Answer 3": "Economía y Hacienda",
+      "Answer 4": "De la organización territorial del Estado",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué Título de la Constitución Española se recoge el poder judicial?",
+      "Answer 1": "Título VI.",
+      "Answer 2": "Título V.",
+      "Answer 3": "Título VII.",
+      "Answer 4": "Título IX.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cómo se denomina el Título VI de la Constitución Española?",
+      "Answer 1": "De los Jueces y Magistrados.",
+      "Answer 2": "De la organización judicial del Estado.",
+      "Answer 3": "Del poder judicial.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué artículo abre el Título VI de la Constitución Española?",
+      "Answer 1": "El 115.",
+      "Answer 2": "El 116.",
+      "Answer 3": "El 117.",
+      "Answer 4": "El 118.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué artículo cierra el Titulo VI de la Constitución Española?",
+      "Answer 1": "El 128.",
+      "Answer 2": "El 127.",
+      "Answer 3": "El 131.",
+      "Answer 4": "El 137.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿De quién emana la justicia, según el artículo 117 de la Constitución Española?",
+      "Answer 1": "Del poder judicial.",
+      "Answer 2": "Del Rey.",
+      "Answer 3": "De las Cortes Generales.",
+      "Answer 4": "Del pueblo.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En nombre de quién se administra la justicia, según el artículo 117 de la Constitución Española?",
+      "Answer 1": "De las Cortes Generales.",
+      "Answer 2": "Del pueblo.",
+      "Answer 3": "Del Rey.",
+      "Answer 4": "De los Jueces y Magistrados.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución Española, los Jueces y Magistrados:",
+      "Answer 1": "Administran en su nombre la justicia.",
+      "Answer 2": "Se encuentran sometidos únicamente al imperio de la ley.",
+      "Answer 3": "Son independientes, inamovibles e irresponsables.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el texto literal del artículo 117 de la Constitución Española, la justicia emana del pueblo y se administra en nombre del Rey por:",
+      "Answer 1": "Jueces y Tribunales.",
+      "Answer 2": "Juzgados y Tribunales.",
+      "Answer 3": "Jueces y Magistrados.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Jueces y Magistrados integrantes del poder judicial son:",
+      "Answer 1": "Independientes, inamovibles, irresponsables y sometidos únicamente al imperio de la ley.",
+      "Answer 2": "Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+      "Answer 3": "Dependientes, responsables, inviolables y sometidos únicamente al imperio de la ley.",
+      "Answer 4": "Independientes, inamovibles, inviolables y sometidos únicamente al imperio de la ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "Sino por alguna de las causas y con las garantías previstas en la ley los Jueces y Magistrados no podrán ser:",
+      "Answer 1": "Separados.",
+      "Answer 2": "Suspendidos.",
+      "Answer 3": "Trasladados ni jubilados.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿A quién corresponde el ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado?",
+      "Answer 1": "Entre otros a los Juzgados y Tribunales determinados por las leyes.",
+      "Answer 2": "Exclusivamente a los Juzgados, Tribunales y al Ministerio Fiscal determinados por las leyes.",
+      "Answer 3": "Exclusivamente a los Juzgados y Tribunales determinados por las leyes.",
+      "Answer 4": "El ejercicio de la potestad jurisdiccional corresponde a las Cortes Generales, siendo competencia de los Juzgados y Tribunales juzgar y hacer ejecutar lo juzgado.",
+      "Answer": 3
+    },
+    {
+      "Title": "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y Tribunales determinados por las leyes, según las normas de:",
+      "Answer 1": "Ninguna de las otras respuestas es correcta.",
+      "Answer 2": "Competencia y procedimiento que establezca el Consejo General del Poder Judicial.",
+      "Answer 3": "Procedimiento interno de cada Juzgado y Tribunal.",
+      "Answer 4": "Competencia y procedimiento que las mismas establezcan.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los Juzgados y Tribunales no ejercerán más funciones que las señaladas en:",
+      "Answer 1": "El artículo 117.2 de la Constitución y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.",
+      "Answer 2": "El artículo 117.3 de la Constitución y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.",
+      "Answer 3": "El artículo 117.3 de la Constitución y las que expresamente les sean atribuidas por ley en garantía de los derechos recogidos expresamente en la Constitución.",
+      "Answer 4": "Su propia ley de organización y funcionamiento.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es la base de la organización y funcionamiento de los Tribunales?",
+      "Answer 1": "El principio de suficiencia procesal.",
+      "Answer 2": "El principio de eficiencia jurisdiccional.",
+      "Answer 3": "El principio de unidad jurisdiccional.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 117.5 de la Constitución, el ejercicio de la jurisdicción militar se regulará:",
+      "Answer 1": "Mediante los Reglamentos Castrenses.",
+      "Answer 2": "Mediante una ley orgánica.",
+      "Answer 3": "Mediante la ley.",
+      "Answer 4": "Mediante las normas y Reglamentos del Ministerio de Justicia.",
+      "Answer": 3
+    },
+    {
+      "Title": "La ley regulará el ejercicio de la jurisdicción militar en el ámbito:",
+      "Answer 1": "Estrictamente castrense y en los supuestos de estado de alarma, excepción o sitio, de acuerdo con los principios de la Constitución.",
+      "Answer 2": "Estrictamente castrense y en los supuestos de estados de excepción o sitio, de acuerdo con los principios de la Constitución.",
+      "Answer 3": "Estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.",
+      "Answer 4": "Estrictamente castrense y en los supuestos de estados de excepción o sitio, de acuerdo con los principios de la legislación que la desarrolle.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 117 de la Constitución Española:",
+      "Answer 1": "Se prohíben los Tribunales de excepción.",
+      "Answer 2": "Se regularán por ley los Tribunales de excepción.",
+      "Answer 3": "Se prohíben los Tribunales Militares.",
+      "Answer 4": "Se prohíben los Tribunales de excepción y los Castrenses.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las sentencias y demás resoluciones firmes de los Jueces y Tribunales:",
+      "Answer 1": "Son de obligado cumplimiento si expresamente se recoge en la resolución.",
+      "Answer 2": "Son de obligado cumplimiento.",
+      "Answer 3": "Son de obligado cumplimiento exclusivamente por los promotores de las mismas.",
+      "Answer 4": "Son de voluntario cumplimiento.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 118 de la Constitución, es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales, así como prestar la colaboración requerida por éstos:",
+      "Answer 1": "A partir de la terminación del proceso para la ejecución de lo resuelto.",
+      "Answer 2": "En el curso del proceso y en la ejecución de lo resuelto.",
+      "Answer 3": "En el curso del proceso y en la elaboración de las sentencias.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué casos será la justicia gratuita, según el artículo 119 de la Constitución?",
+      "Answer 1": "En todos los casos que se encuentren afectados derechos recogidos constitucionalmente.",
+      "Answer 2": "Cuando así lo consideren los Jueces y Magistrados integrantes del Poder Judicial.",
+      "Answer 3": "Cuando así lo disponga una ley.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En cuál de los siguientes casos será, en todo caso, la justicia gratuita?",
+      "Answer 1": "Respecto de quienes soliciten la protección de derechos especialmente protegido.",
+      "Answer 2": "Respecto de los menores por asuntos en los que se encuentren afectados.",
+      "Answer 3": "Respecto de quienes acrediten insuficiencia de recursos para litigar.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución Española se recoge la gratuidad de la justicia?",
+      "Answer 1": "En el 121.",
+      "Answer 2": "En el 120.",
+      "Answer 3": "En el 119.",
+      "Answer 4": "En el 122.",
+      "Answer": 3
+    },
+    {
+      "Title": "De acuerdo con el artículo 120 de la Constitución, las actuaciones judiciales serán:",
+      "Answer 1": "Públicas, con las excepciones que prevean las leyes de procedimiento.",
+      "Answer 2": "Públicas, sin excepciones.",
+      "Answer 3": "Secretas, con las excepciones que prevean las leyes de procedimiento.",
+      "Answer 4": "Públicas, con la excepción de las personas aforadas.",
+      "Answer": 1
+    },
+    {
+      "Title": "El artículo 120 de la Constitución indica que el procedimiento será:",
+      "Answer 1": "Predominantemente escrito, sobre todo en materia penal.",
+      "Answer 2": "Predominantemente oral, sobre todo en materia criminal.",
+      "Answer 3": "Predominantemente escrito, sobre todo en materia penal.",
+      "Answer 4": "Predominantemente secreto, sobre todo en materia criminal.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución y en relación con las sentencias:",
+      "Answer 1": "Serán predominantemente orales y se pronunciarán en audiencia pública.",
+      "Answer 2": "Serán siempre motivadas, con las excepciones que marquen las leyes de procedimiento.",
+      "Answer 3": "Serán predominantemente motivadas y se pronunciarán en audiencia secreta.",
+      "Answer 4": "Serán siempre motivadas y se pronunciarán en audiencia pública.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según indica el artículo 121 de la Constitución, los daños causados por error judicial darán derecho a una indemnización:",
+      "Answer 1": "A cargo del Poder Judicial, conforme a la Ley.",
+      "Answer 2": "* A cargo del Estado, conforme a la Ley.",
+      "Answer 3": "* Personal del Juez o Magistrado, conforme a la Ley.",
+      "Answer 4": "Las dos respuestas marcadas (*) son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Darán derecho a una indemnización, conforme a la Constitución y a la Ley:",
+      "Answer 1": "Únicamente los daños causados por error judicial.",
+      "Answer 2": "Los daños causados como consecuencia del funcionamiento normal o anormal de la Administración de Justicia.",
+      "Answer 3": "Los daños causados como consecuencia del funcionamiento anormal de la Administración de Justicia.",
+      "Answer 4": "Los daños causados como consecuencia del funcionamiento de la Administración de Justicia.",
+      "Answer": 3
+    },
+    {
+      "Title": "El artículo 122 de la Constitución indica que la ley orgánica del poder judicial determinará:",
+      "Answer 1": "El gobierno de los Juzgados y Tribunales.",
+      "Answer 2": "La constitución de los Juzgados y Tribunales.",
+      "Answer 3": "El funcionamiento de los Juzgados y Tribunales.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "El estatuto jurídico de los Jueces y Magistrados de carrera se determinará en:",
+      "Answer 1": "La ley orgánica del poder judicial.",
+      "Answer 2": "El Reglamento de incompatibilidades de los miembros del Poder Judicial.",
+      "Answer 3": "En la Ley de Incompatibilidades de los Altos Cargos de la Administración del Estado y del Poder Judicial.",
+      "Answer 4": "El Estatuto de los Jueces y Magistrados.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 122 de la Constitución, los Jueces y Magistrados de carrera:",
+      "Answer 1": "Formarán dos cuerpos únicos.",
+      "Answer 2": "Formarán un Cuerpo por cada ámbito de trabajo.",
+      "Answer 3": "Formarán un Cuerpo único.",
+      "Answer 4": "Se incluirán en el cuerpo de funcionarios de la Administración General del Estado.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes se determinará en la ley orgánica del poder judicial, según el artículo 122 de la Constitución?",
+      "Answer 1": "La sede de los Juzgados y Tribunales del Estado español.",
+      "Answer 2": "El estatuto jurídico del personal al servicio de la Administración de Justicia.",
+      "Answer 3": "Las retribuciones del cuerpo de funcionarios integrantes del poder judicial.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es el órgano de gobierno del Poder Judicial?",
+      "Answer 1": "El Tribunal Supremo.",
+      "Answer 2": "El Consejo General del Poder Judicial.",
+      "Answer 3": "El Tribunal Constitucional.",
+      "Answer 4": "El Ministerio de Justicia.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se deberá regular el órgano de gobierno del Poder Judicial?",
+      "Answer 1": "Por ley orgánica.",
+      "Answer 2": "Por ley ordinaria.",
+      "Answer 3": "Mediante su propio Reglamento.",
+      "Answer 4": "Mediante su propio Estatuto.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 122 de la Constitución, y en relación con el Consejo General del Poder Judicial, una ley orgánica establecerá:",
+      "Answer 1": "Su estatuto.",
+      "Answer 2": "El régimen de incompatibilidades de sus miembros.",
+      "Answer 3": "Las funciones de sus miembros.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "Respecto al Consejo General del Poder Judicial, la ley orgánica del Poder Judicial establecerá en particular:",
+      "Answer 1": "Materia de nombramientos, ascensos, sanciones, retribuciones y régimen disciplinario de sus miembros.",
+      "Answer 2": "Materia de nombramientos, ascensos, inspección y régimen disciplinario de sus miembros.",
+      "Answer 3": "Materia de ceses y de nombramientos, situaciones, sanciones, abstenciones y régimen disciplinario de sus miembros.",
+      "Answer 4": "Materia de ceses y de nombramientos, inspecciones, régimen retributivo, situaciones y régimen disciplinario de sus miembros.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién presidirá el Consejo General del Poder Judicial?",
+      "Answer 1": "El vocal elegido por mayoría absoluta en primera votación de entre sus veinte miembros en el Pleno.",
+      "Answer 2": "El Presidente del Tribunal Constitucional.",
+      "Answer 3": "El Presidente del Tribunal Supremo.",
+      "Answer 4": "El vocal de más edad de sus veinte miembros.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Consejo General del Poder Judicial está compuesto por:",
+      "Answer 1": "Doce miembros.",
+      "Answer 2": "Veinte miembros.",
+      "Answer 3": "Veintiún miembros.",
+      "Answer 4": "Diez miembros.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién nombrará a los miembros del Consejo General del Poder Judicial?",
+      "Answer 1": "El Congreso de los Diputados, el Senado y el Gobierno.",
+      "Answer 2": "El Congreso de los Diputados y el Senado.",
+      "Answer 3": "El Presidente del Consejo.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién nombrará a los miembros del Consejo General del Poder Judicial?",
+      "Answer 1": "El Rey.",
+      "Answer 2": "El Gobierno.",
+      "Answer 3": "El Presidente del Tribunal Supremo.",
+      "Answer 4": "El Presidente del Consejo General del Poder Judicial.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Por qué período son nombrados los miembros del Consejo General del Poder Judicial?",
+      "Answer 1": "Tres años.",
+      "Answer 2": "Cinco años.",
+      "Answer 3": "Nueve años.",
+      "Answer 4": "Cuatro años.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuántos miembros del Consejo General del Poder Judicial son nombrados entre Jueces y Magistrados de todas las categorías judiciales?",
+      "Answer 1": "Ocho.",
+      "Answer 2": "Todos.",
+      "Answer 3": "Doce.",
+      "Answer 4": "Diez.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántos miembros del Consejo General del Poder Judicial son propuestos por el Congreso de los Diputados y por el Senado?",
+      "Answer 1": "Seis a propuesta del Congreso y seis a propuesta del Senado.",
+      "Answer 2": "Cuatro a propuesta del Congreso y cuatro a propuesta del Senado.",
+      "Answer 3": "Cinco a propuesta del Congreso y cinco a propuesta del Senado.",
+      "Answer 4": "Ocho a propuesta del Congreso de los Diputados.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué mayoría será necesaria para proponer a miembros del Consejo General del Poder Judicial que corresponden al Congreso y al Senado?",
+      "Answer 1": "Mayoría de dos tercios de sus miembros en ambos casos.",
+      "Answer 2": "Mayoría de tres quintos de sus miembros en ambos casos.",
+      "Answer 3": "Mayoría absoluta en ambos casos.",
+      "Answer 4": "Mayoría simple en ambos casos.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros del Consejo General del Poder Judicial propuestos por las Cámara deberán ser propuestos entre:",
+      "Answer 1": "Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica.",
+      "Answer 2": "Abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio de su profesión.",
+      "Answer 3": "Abogados, profesores de universidad y funcionarios, todos ellos juristas de reconocida competencia y con más de quince años de ejercicio de su profesión.",
+      "Answer 4": "Abogados, profesores de universidad y funcionarios, todos ellos juristas de reconocida competencia y con más de diez años de ejercicio de su profesión.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es la jurisdicción del Tribunal Supremo?",
+      "Answer 1": "Todo el territorio peninsular y los dos archipiélagos.",
+      "Answer 2": "Todo el territorio peninsular.",
+      "Answer 3": "Toda España.",
+      "Answer 4": "Todo el territorio estatal, siempre que no cuenten con Tribunales Superiores en su ámbito territorial.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál es el órgano jurisdiccional superior en todos los órdenes?",
+      "Answer 1": "El Tribunal Constitucional.",
+      "Answer 2": "El Consejo General del Poder Judicial.",
+      "Answer 3": "El Tribunal Supremo.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Tribunal Supremo será el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en:",
+      "Answer 1": "Materias de garantías constitucionales.",
+      "Answer 2": "Materias del orden castrense.",
+      "Answer 3": "Materias de garantías constitucionales y materias de garantías castrenses.",
+      "Answer 4": "Materias sobre las particularidades de las personas aforadas.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién nombrará al Presidente del Tribunal Supremo?",
+      "Answer 1": "El Tribunal en Pleno.",
+      "Answer 2": "El Consejo General del Poder Judicial.",
+      "Answer 3": "Las Cortes Generales.",
+      "Answer 4": "El Rey.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Presidente del Tribunal Supremo será nombrado a propuesta:",
+      "Answer 1": "Del Pleno del propio Tribunal.",
+      "Answer 2": "Del Gobierno.",
+      "Answer 3": "De las Cortes Generales.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Presidente del Tribunal Supremo será nombrado a propuesta:",
+      "Answer 1": "De los miembros del Tribunal Supremo, en la forma que determine la ley.",
+      "Answer 2": "Del Consejo General del Poder Judicial, en la forma que su Reglamento establezca.",
+      "Answer 3": "Del Consejo General del Poder Judicial, en la forma que determine la ley.",
+      "Answer 4": "Del Gobierno, oído el Consejo General del Poder Judicial.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En cuál de los siguientes artículos de la Constitución Española se hace referencia al Ministerio Fiscal?",
+      "Answer 1": "En el 127.",
+      "Answer 2": "En el 124.",
+      "Answer 3": "En el 122.",
+      "Answer 4": "En el 133.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es la misión del Ministerio fiscal, sin perjuicio de las funciones encomendadas a otros órganos?",
+      "Answer 1": "Promover la acción de la justicia en defensa del interés público tutelado por la ley.",
+      "Answer 2": "Promover la acción de la justicia en defensa de la legalidad.",
+      "Answer 3": "Promover la acción de la justicia en defensa de los derechos de los ciudadanos.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "La misión que tiene encomendada el Ministerio Fiscal se podrá ejercer:",
+      "Answer 1": "De oficio o a petición de los interesados.",
+      "Answer 2": "Siempre de oficio.",
+      "Answer 3": "Siempre a petición de los interesados.",
+      "Answer 4": "De oficio, a petición de los interesados o a petición de los Juzgados y Tribunales.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes es una de las misiones del Ministerio Fiscal, sin perjuicio de las funciones encomendadas a otros órganos, según el artículo 124.1 de la Constitución?",
+      "Answer 1": "Promover la acción de la justicia en defensa de los derechos de las administraciones.",
+      "Answer 2": "Velar por la independencia del Ministerio Fiscal.",
+      "Answer 3": "Velar por la independencia de los ciudadanos.",
+      "Answer 4": "Velar por la independencia de los Tribunales.",
+      "Answer": 4
+    },
+    {
+      "Title": "Entre las misiones del Ministerio Fiscal se encuentra procurar ante los Tribunales la satisfacción:",
+      "Answer 1": "Del interés de las administraciones.",
+      "Answer 2": "Del interés particular.",
+      "Answer 3": "Del interés social.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cómo ejerce sus funciones el Ministerio Fiscal?",
+      "Answer 1": "Por medio de órganos independientes.",
+      "Answer 2": "Por medio de órganos propios.",
+      "Answer 3": "Por medio de órganos judiciales.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Ministerio Fiscal ejerce sus funciones conforme a los principios de:",
+      "Answer 1": "Unidad de actuación y dependencia jerárquica.",
+      "Answer 2": "Unidad de actuación e independencia jerárquica.",
+      "Answer 3": "Descentralización e independencia.",
+      "Answer 4": "Unidad de actuación e independencia funcional.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 124 de la Constitución, el Ministerio Fiscal ejerce sus funciones con sujeción a los principios de:",
+      "Answer 1": "Legalidad, imparcialidad e independencia jerárquica, en todo caso.",
+      "Answer 2": "Legalidad e imparcialidad, en todo caso.",
+      "Answer 3": "Legalidad y seguridad, en todo caso",
+      "Answer 4": "Legalidad y parcialidad, en todo caso.",
+      "Answer": 2
+    },
+    {
+      "Title": "El artículo 124 de la Constitución señala respecto al Ministerio Fiscal que la ley regulará:",
+      "Answer 1": "Su reglamento administrativo.",
+      "Answer 2": "Su reglamento estatutario.",
+      "Answer 3": "Su estatuto orgánico.",
+      "Answer 4": "Su estatuto departamental.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién nombrará al Fiscal General del Estado?",
+      "Answer 1": "El Rey.",
+      "Answer 2": "El Gobierno.",
+      "Answer 3": "El Consejo General del Poder Judicial.",
+      "Answer 4": "Las Cortes Generales.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Fiscal General del Estado será nombrado a propuesta:",
+      "Answer 1": "Del Gobierno, oído el Consejo General del Poder Judicial.",
+      "Answer 2": "Del Gobierno, de acuerdo con el Consejo General del Poder Judicial.",
+      "Answer 3": "Del Consejo General del Poder Judicial, a propuesta del Ministerio Fiscal.",
+      "Answer 4": "Del Ministro de Justicia, oído el Tribunal Supremo.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 125 de la Constitución, los ciudadanos:",
+      "Answer 1": "Podrán ejercer la acción judicial y participar en la Administración de Justicia mediante la institución del Jurado.",
+      "Answer 2": "Podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado.",
+      "Answer 3": "No podrán participar en la Administración de Justicia.",
+      "Answer 4": "Participarán en la Administración de Justicia mediante la institución del Jurado en todo tipo de procesos.",
+      "Answer": 2
+    },
+    {
+      "Title": "Como aparece en el artículo 125 de la Constitución, los ciudadanos participarán en la Administración de Justicia mediante:",
+      "Answer 1": "La institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine.",
+      "Answer 2": "La institución de la justicia gratuita, en la forma y con respecto a aquellos procesos civiles que la ley determine.",
+      "Answer 3": "La institución del Jurado, en la forma y con respecto a aquellos procesos penales y civiles que la ley determine.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine, así como en los:",
+      "Answer 1": "Tribunales consuetudinarios y regionales.",
+      "Answer 2": "Tribunales de Honor.",
+      "Answer 3": "Tribunales consuetudinarios y de Honor.",
+      "Answer 4": "Tribunales consuetudinarios y tradicionales.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿De quién depende la policía judicial, según el artículo 126 de la Constitución?",
+      "Answer 1": "De los Jueces, Magistrados y Secretarios Judiciales.",
+      "Answer 2": "De los Jueces, de los Tribunales y del Ministerio Fiscal.",
+      "Answer 3": "Del Ministerio de Justicia.",
+      "Answer 4": "Del Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "La policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de:",
+      "Answer 1": "Averiguación del delito.",
+      "Answer 2": "Descubrimiento del delincuente.",
+      "Answer 3": "Aseguramiento del delincuente.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál/es de los siguientes no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos mientras se hallen en activo?",
+      "Answer 1": "* Los Jueces y Magistrados.",
+      "Answer 2": "* Los Fiscales.",
+      "Answer 3": "El personal al servicio de la Administración de Justicia.",
+      "Answer 4": "Las dos respuestas marcadas (*) son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "El sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales:",
+      "Answer 1": "Se establecerá por ley.",
+      "Answer 2": "Están prohibidos constitucionalmente.",
+      "Answer 3": "Se establecerá en sus propios estatutos.",
+      "Answer 4": "Están establecidos en la propia Constitución.",
+      "Answer": 1
+    },
+    {
+      "Title": "El régimen de incompatibilidades de los miembros del poder judicial:",
+      "Answer 1": "Se regulará por la ley general de incompatibilidades de los altos cargos de la administración.",
+      "Answer 2": "Se establecerá mediante sus estatutos.",
+      "Answer 3": "Se regulará por las leyes generales de incompatibilidades de los empleados públicos.",
+      "Answer 4": "Se establecerá por ley.",
+      "Answer": 4
+    },
+    {
+      "Title": "La ley que establezca el régimen de incompatibilidades de los miembros del poder judicial:",
+      "Answer 1": "Deberá asegurar la total imparcialidad de los mismos.",
+      "Answer 2": "Deberá asegurar la total dependencia de los mismos.",
+      "Answer 3": "Deberá asegurar la total independencia de los mismos.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál es la primera autoridad judicial de la nación?",
+      "Answer 1": "El Presidente del Tribunal Supremo y del Consejo General del Poder Judicial.",
+      "Answer 2": "El Rey.",
+      "Answer 3": "El Presidente del Tribunal Constitucional.",
+      "Answer 4": "El Ministro de Justicia.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos vocales del Consejo General del Poder Judicial elegirán las Cámaras, ateniéndonos a la Ley Orgánica del Poder Judicial?",
+      "Answer 1": "Ocho.",
+      "Answer 2": "Veinte.",
+      "Answer 3": "Doce.",
+      "Answer 4": "Diez.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué libro de la Ley Orgánica del Poder Judicial se recoge el Consejo General del Poder Judicial?",
+      "Answer 1": "En el Libro VIII.",
+      "Answer 2": "En el Libro VI.",
+      "Answer 3": "En el Libro IV.",
+      "Answer 4": "En el Libro V.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Dónde tiene su sede el Consejo General del Poder Judicial?",
+      "Answer 1": "En la villa de Madrid.",
+      "Answer 2": "En cualquier lugar dentro del territorio de la Comunidad de Madrid.",
+      "Answer 3": "En Salamanca.",
+      "Answer 4": "En la ciudad de Barcelona.",
+      "Answer": 1
+    },
+    {
+      "Title": "La designación de Vocales del Consejo General del Poder Judicial:",
+      "Answer 1": "Podrá recaer en Vocales del Consejo saliente, para una única reelección.",
+      "Answer 2": "Podrá recaer en Vocales del Consejo saliente sin límite alguno",
+      "Answer 3": "No podrá recaer en Vocales del Consejo saliente.",
+      "Answer 4": "Podrá recaer en Vocales del Consejo saliente, con un máximo de dos reelecciones",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cada cuánto se renovará el Consejo General del Poder Judicial?",
+      "Answer 1": "Cada cinco años en su totalidad, contados desde la fecha de su constitución.",
+      "Answer 2": "Cada tres años en su totalidad, contados desde la fecha de su constitución.",
+      "Answer 3": "Cada cinco años en su totalidad, contados desde la fecha de elección de los vocales.",
+      "Answer 4": "Por terceras partes cada tres años.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cómo serán nombrados los Vocales del Consejo General del Poder Judicial?",
+      "Answer 1": "Mediante Decreto del Ministro de Justicia.",
+      "Answer 2": "Mediante Orden Real.",
+      "Answer 3": "Mediante Real Decreto.",
+      "Answer 4": "Mediante Orden del Presidente del Consejo.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántas salas integran el Tribunal Supremo?",
+      "Answer 1": "Tres.",
+      "Answer 2": "Cuatro.",
+      "Answer 3": "Seis.",
+      "Answer 4": "Cinco.",
+      "Answer": 4
+    }
+  ]

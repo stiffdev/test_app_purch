@@ -1,0 +1,282 @@
+[
+    {
+      "Title": "Salvaguardar el ejercicio del derecho de acceso a la información pública, ¿a quién le corresponde llevarlo a cabo?",
+      "Answer 1": "A la Subdirección General de Comunicación Electrónica y Nuevas Tecnologías",
+      "Answer 2": "Al Consejo de Transparencia y Buen Gobierno",
+      "Answer 3": "A la Comisión de Transparencia y Buen Gobierno",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Si la información solicitada pudiera afectar a derechos o intereses de terceros, debidamente identificados:",
+      "Answer 1": "El solicitante será advertido de que deberá esperar el plazo de interposición de un posible recurso contencioso-administrativo por parte de los terceros interesados",
+      "Answer 2": "Sólo se ofrecerá la información que no afecte a terceros, previa comunicación al solicitante de esta circunstancia",
+      "Answer 3": "Se les notificará la obligación que tienen de realizar las pertinentes alegaciones en el plazo de diez días",
+      "Answer 4": "Se les concederá un plazo de quince días para que puedan realizar las alegaciones que estimen oportunas",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 14.1 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública podrá ser limitado cuando acceder a la información suponga un perjuicio para…..Señale la respuesta no correcta",
+      "Answer 1": "La protección del medio ambiente.",
+      "Answer 2": "Los intereses económicos y comerciales",
+      "Answer 3": "El secreto personal",
+      "Answer 4": "La política económica y monetaria",
+      "Answer": 3
+    },
+    {
+      "Title": "El derecho de acceso a la información pública podrá ser limitado cuando acceder a la información suponga un perjuicio para:",
+      "Answer 1": "Las Universidades públicas",
+      "Answer 2": "Los partidos políticos",
+      "Answer 3": "El secreto profesional y la propiedad intelectual e industrial.",
+      "Answer 4": "La Familia Real",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cómo se llama el Título I de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "Answer 1": "Transparencia de la actividad pública.",
+      "Answer 2": "Límites al derecho de acceso",
+      "Answer 3": "Buen Gobierno",
+      "Answer 4": "Consejo de Transparencia y Buen Gobierno",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué órgano tiene por finalidad promover la transparencia de la actividad pública?",
+      "Answer 1": "El Consejo de Transparencia y Buen Gobierno",
+      "Answer 2": "La Secretaría de Estado de Administraciones Públicas",
+      "Answer 3": "La Comisión Nacional de Gasto Público y Recursos Financieros de la Administración del Estado",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno el solicitante de un acceso a información pública:",
+      "Answer 1": "No está obligado a motivar su solicitud de acceso",
+      "Answer 2": "Si no indica los motivos, su solicitud será rechazada",
+      "Answer 3": "Debe indicar los motivos de su petición en la propia solicitud",
+      "Answer 4": "Será indiferente, respecto a la resolución que finalmente se dicte, que indique los motivos o no de su petición.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Ante quién elevará el Consejo de Transparencia y Buen Gobierno la memoria sobre el desarrollo de sus actividades y sobre el grado de cumplimiento de las disposiciones establecidas en la Ley 19/2013, de 9 de diciembre?",
+      "Answer 1": "Ante las Cortes Generales",
+      "Answer 2": "Ante el Gobierno",
+      "Answer 3": "Ante el Ministerio de la Presidencia",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 35 de Ley 19/2013, ¿Por cuál de los siguientes órganos estará compuesto el Consejo de Transparencia y Buen Gobierno?",
+      "Answer 1": "La Comisión de Transparencia y Buen Gobierno además de El Presidente del Consejo de Transparencia y Buen Gobierno que lo será también de su Comisión.",
+      "Answer 2": "El Tribunal de Cuentas y la Agencia Española de Protección de Datos.",
+      "Answer 3": "La Comisión de Transparencia y Buen Gobierno",
+      "Answer 4": "El Presidente del Consejo de Transparencia y Buen Gobierno",
+      "Answer": 1
+    },
+    {
+      "Title": "De los siguientes miembros, uno de ellos no compone la Comisión de Transparencia y Buen Gobierno ¿cuál?",
+      "Answer 1": "Dos representantes de los sindicatos más representativos",
+      "Answer 2": "Un Senador",
+      "Answer 3": "Un representante de la Secretaría de Estado de Administraciones Públicas",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Estatuto del Consejo de Transparencia y Buen Gobierno será aprobado por:",
+      "Answer 1": "El Ministerio de Política Territorial y Función Pública mediante Orden ministerial",
+      "Answer 2": "El Consejo de Ministros mediante Real Decreto",
+      "Answer 3": "Las Cortes Generales mediante Real Decreto Legislativo",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se llama el Título III de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "Answer 1": "Buen gobierno",
+      "Answer 2": "Transparencia de la actividad pública",
+      "Answer 3": "Ejercicio del derecho de acceso a la información pública",
+      "Answer 4": "Consejo de Transparencia y Buen Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "La dirección de contacto que el solicitante de un acceso a información pública ha de indicar en su solicitud, será:",
+      "Answer 1": "Preferentemente, un número de teléfono de contacto.",
+      "Answer 2": "Obligatoriamente, una dirección electrónica de contacto",
+      "Answer 3": "Preferentemente, una dirección electrónica de contacto",
+      "Answer 4": "Preferentemente, una dirección postal de contacto",
+      "Answer": 3
+    },
+    {
+      "Title": "La Ley 19/2013, de 9 de diciembre tiene por objeto:",
+      "Answer 1": "Ahondar en la transparencia pública y establecer las obligaciones de buen gobierno a todos los poderes públicos",
+      "Answer 2": "Ampliar y reforzar el derecho de acceso a la información relativa a aquella actividad",
+      "Answer 3": "Ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información relativa a aquella actividad y establecer las obligaciones de buen gobierno",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿De quién dependerá el Portal de Transparencia?",
+      "Answer 1": "Del Ministerio de la Presidencia",
+      "Answer 2": "Del Ministerio de la Justicia",
+      "Answer 3": "Del Ministerio del Interior",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La Ley 19/2013, de 9 de diciembre, prevé que a los autores de infracciones muy graves no puedan ser nombrados para ocupar determinados cargos públicos durante un periodo de:",
+      "Answer 1": "Entre 3 y 6 años",
+      "Answer 2": "Entre 5 y 10 años",
+      "Answer 3": "10 años",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué alcance tiene la Ley 19/2013, de 9 de diciembre?",
+      "Answer 1": "Tiene un doble alcance: establece las obligaciones de buen gobierno que deben cumplir los responsables públicos y las consecuencias jurídicas derivadas de su incumplimiento",
+      "Answer 2": "Tiene un triple alcance: incrementa y refuerza la transparencia en la actividad pública; reconoce y garantiza el acceso a la información y establece las obligaciones de buen gobierno que deben cumplir los responsables públicos",
+      "Answer 3": "Tiene un doble alcance: incrementa y refuerza la transparencia en la actividad pública y establece las obligaciones de buen gobierno que deben cumplir los responsables públicos",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se llama el Título III de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "Answer 1": "Transparencia de la actividad pública",
+      "Answer 2": "Ejercicio del derecho de acceso a la información pública",
+      "Answer 3": "Consejo de Transparencia y Buen Gobierno",
+      "Answer 4": "Buen gobierno",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes infracciones son consideradas muy graves por la Ley 19/2013?",
+      "Answer 1": "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.",
+      "Answer 2": "No guardar el debido sigilo respecto a los asuntos que se conozcan por razón del cargo, cuando causen perjuicio a la Administración o se utilice en provecho propio",
+      "Answer 3": "El abuso de autoridad en el ejercicio del cargo",
+      "Answer 4": "La incorrección con los superiores, compañeros o subordinados",
+      "Answer": 1
+    },
+    {
+      "Title": "El Consejo de Transparencia y Buen Gobierno se regirá, además de por lo dispuesto en esta Ley, por:",
+      "Answer 1": "Ambas son correctas",
+      "Answer 2": "La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, y, en lo no previsto en ella, por el Derecho privado en sus adquisiciones patrimoniales",
+      "Answer 3": "El Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el Texto Refundido de la Ley de Contratos del Sector Público",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La Ley 19/2013, de 9 de diciembre, establece que el Consejo de Transparencia y Bueno Gobierno se compone ¿de qué órganos?",
+      "Answer 1": "De tres órganos: la Comisión, el Presidente y la Secretaría (de Transparencia y Buen Gobierno)",
+      "Answer 2": "De cuatro órganos: la Comisión, el Presidente, la Secretaría y la Mesa (de Transparencia y Buen Gobierno)",
+      "Answer 3": "De dos órganos: la Comisión y el Presidente (de Transparencia y Buen Gobierno)",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿De cuántos capítulos y artículos se compone el Título I de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno? (Sin contar el 6 bis)",
+      "Answer 1": "3 capítulos y 24 artículos",
+      "Answer 2": "4 capítulos y 23 artículos",
+      "Answer 3": "3 capítulos y 23 artículos",
+      "Answer 4": "4 capítulos y 24 artículos.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cómo se llama el Título II de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "Answer 1": "Transparencia de la actividad pública.",
+      "Answer 2": "Consejo de Transparencia y Buen Gobierno",
+      "Answer 3": "Buen gobierno",
+      "Answer 4": "Régimen general",
+      "Answer": 3
+    },
+    {
+      "Title": "Se inadmitirán a trámite, mediante resolución motivada, las solicitudes de acceso a la información pública:",
+      "Answer 1": "Relativas a datos acerca del origen racial, la salud o la vida sexual de terceras personas",
+      "Answer 2": "Relativas a creencias religiosas o ideologías políticas de terceras personas",
+      "Answer 3": "Relativas a datos que afecten a terceras personas.",
+      "Answer 4": "Que se refieran a información que esté en curso de elaboración o de publicación general",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuándo prescriben las sanciones impuestas por la comisión de infracciones leves según la Ley 19/2013?",
+      "Answer 1": "En el plazo de un año",
+      "Answer 2": "A los dieciocho meses.",
+      "Answer 3": "A los dos años",
+      "Answer 4": "A los tres años",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes son recogidas como infracciones graves en la Ley 19/2013?",
+      "Answer 1": "La incorreción con los superiores, compañeros o subordinados.",
+      "Answer 2": "El abuso de autoridad en el ejercicio del cargo",
+      "Answer 3": "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas",
+      "Answer 4": "El acoso laboral",
+      "Answer": 2
+    },
+    {
+      "Title": "La condición de miembro de la Comisión del Consejo de Transparencia y Buen Gobierno:",
+      "Answer 1": "Dará derecho a remuneración",
+      "Answer 2": "No exigirá dedicación exclusiva",
+      "Answer 3": "Exigirá dedicación exclusiva sin tener derecho a remuneración",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se denomina el Capítulo II del Título I de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "Answer 1": "Ámbito subjetivo de aplicación",
+      "Answer 2": "Límites al derecho de acceso.",
+      "Answer 3": "Derecho de acceso a la información pública",
+      "Answer 4": "Publicidad activa",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cada cuánto tiempo elevará el Consejo de Transparencia y Buen Gobierno la memoria sobre el desarrollo de sus actividades y sobre el grado de cumplimiento de las disposiciones establecidas en la Ley 19/2013, de 9 de diciembre?",
+      "Answer 1": "Cada año",
+      "Answer 2": "Cada vez que sea solicitado por el Ministerio de la Presidencia",
+      "Answer 3": "Cada año o cada vez que sea solicitado por el Ministerio de la Presidencia",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El Consejo de Transparencia y Buen Gobierno está adscrito:",
+      "Answer 1": "Al Ministerio de Justicia",
+      "Answer 2": "Al Ministerio de Política Territorial y Función Pública",
+      "Answer 3": "Al Ministerio de Interior",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién sería el órgano competente de velar por el cumplimiento de las obligaciones de publicidad?",
+      "Answer 1": "La Comisión Nacional de la Competencia",
+      "Answer 2": "El Consejo de Transparencia y Buen Gobierno",
+      "Answer 3": "El Instituto Nacional de Ciencias de la Información y Publicidad",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuándo prescriben las sanciones impuestas por la comisión de infracciones muy graves según la Ley 19/2013?",
+      "Answer 1": "A los cuatro años",
+      "Answer 2": "En plazo de un año.",
+      "Answer 3": "A los cinco años",
+      "Answer 4": "A los tres años",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cómo se llama el Capítulo III del Título I de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "Answer 1": "Derecho de acceso a la información pública",
+      "Answer 2": "Publicidad activa",
+      "Answer 3": "Protección de datos personales",
+      "Answer 4": "Portal de la Transparencia.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Pleno está integrado por",
+      "Answer 1": "8 Magistrados",
+      "Answer 2": "7 Magistrados",
+      "Answer 3": "todos los Magistrados del Tribunal",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El Tribunal Constitucional consta de",
+      "Answer 1": "tres Salas",
+      "Answer 2": "dos Salas",
+      "Answer 3": "una Sala",
+      "Answer 4": " ",
+      "Answer": 2
+    }
+  ]

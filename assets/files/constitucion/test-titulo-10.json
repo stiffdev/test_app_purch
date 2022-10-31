@@ -1,0 +1,378 @@
+[
+    {
+      "Title": "Están legitimados para interponer el recurso de amparo (señala la incorrecta):",
+      "Answer 1": "toda persona natural o jurídica que invoque un interés legítimo",
+      "Answer 2": "el Defensor del Pueblo",
+      "Answer 3": "el Presidente del Gobierno",
+      "Answer 4": "el Ministerio Fiscal",
+      "Answer": 3
+    },
+    {
+      "Title": "Respecto a las sentencias del Tribunal Constitucional:",
+      "Answer 1": "se publicarán en el Boletín Oficial del Estado con los votos particulares, si los hubiere",
+      "Answer 2": "tienen el valor de cosa juzgada a partir del día de su publicación y no cabe recurso alguno contra ellas",
+      "Answer 3": "que declaren la inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que se limiten a la estimación subjetiva de un derecho, tienen plenos efectos frente a todos",
+      "Answer 4": "salvo que en el fallo se disponga otra cosa, no subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad",
+      "Answer": 1
+    },
+    {
+      "Title": "La iniciativa de reforma constitucional corresponde a (señala la incorrecta):",
+      "Answer 1": "el Gobierno",
+      "Answer 2": "la iniciativa popular",
+      "Answer 3": "el Congreso",
+      "Answer 4": "el Senado",
+      "Answer": 2
+    },
+    {
+      "Title": "Los proyectos de reforma constitucional deberán ser aprobados por:",
+      "Answer 1": "una mayoría de dos tercios de los miembros del Congreso y tres quintos de los miembros del Senado",
+      "Answer 2": "una mayoría de tres quintos de cada una de las Cámaras",
+      "Answer 3": "una mayoría de tres quintos de los miembros del Congreso y dos tercios de los miembros del Senado",
+      "Answer 4": "una mayoría de dos tercios de cada una de las Cámaras",
+      "Answer": 2
+    },
+    {
+      "Title": "De no lograrse la aprobación del proyecto de reforma constitucional mediante votación o mediante la creación de una Comisión de composición paritaria de Diputados y Senadores:",
+      "Answer 1": "siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de dos tercios, podrá aprobar la reforma",
+      "Answer 2": "siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Congreso, el Senado, por mayoría de tres quintos, podrá aprobar la reforma",
+      "Answer 3": "siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de tres quintos, podrá aprobar la reforma",
+      "Answer 4": "siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Congreso, el Senado, por mayoría de dos tercios, podrá aprobar la reforma",
+      "Answer": 1
+    },
+    {
+      "Title": "Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores, que presentará un texto que será:",
+      "Answer 1": "votado por el Gobierno",
+      "Answer 2": "ratificado por el Rey",
+      "Answer 3": "votado por el Congreso y el Senado",
+      "Answer 4": "refrendado por el Presidente del Gobierno",
+      "Answer": 3
+    },
+    {
+      "Title": "Aprobada la reforma constitucional por las Cortes Generales, será sometida a referéndum para su ratificación:",
+      "Answer 1": "cuando así lo soliciten, dentro de los 15 días siguientes a su aprobación, una quinta parte de los miembros de cualquiera de las Cámaras",
+      "Answer 2": "cuando así lo soliciten, dentro de los 10 días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras",
+      "Answer 3": "cuando así lo soliciten, dentro de los 10 días siguientes a su aprobación, una quinta parte de los miembros de cualquiera de las Cámaras",
+      "Answer 4": "cuando así lo soliciten, dentro de los 15 días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras",
+      "Answer": 4
+    },
+    {
+      "Title": "Cuando se propusiere la revisión total de la Constitución o de una parcial que afecte al Título Preliminar, al Capítulo Segundo, Sección 1ª del Titulo I, o al Título II, se procederá a la aprobación del principio por:",
+      "Answer 1": "mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes",
+      "Answer 2": "mayoría de tres quintos de cada Cámara, y a la creación de una Comisión de composición paritaria de Diputados y Senadores",
+      "Answer 3": "mayoría de dos tercios de cada Cámara, y a la creación de una Comisión de composición paritaria de Diputados y Senadores",
+      "Answer 4": "mayoría de tres quintos de cada Cámara, y a la disolución inmediata de las Cortes",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por:",
+      "Answer 1": "mayoría de tres quintos del Congreso y dos tercios del Senado",
+      "Answer 2": "mayoría de tres quintos de ambas Cámaras",
+      "Answer 3": "mayoría de dos tercios del Congreso y tres quintos del Senado",
+      "Answer 4": "mayoría de dos tercios de ambas Cámaras",
+      "Answer": 4
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "aprobada la reforma por las Cortes Generales, será remitida al Rey para su ratificación",
+      "Answer 2": "aprobada la reforma por el Gobierno, será sometida a referéndum para su ratificación",
+      "Answer 3": "aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación",
+      "Answer 4": "aprobada la reforma por el Gobierno, será remitida al Rey para su ratificación",
+      "Answer": 3
+    },
+    {
+      "Title": "No podrá iniciarse la reforma constitucional:",
+      "Answer 1": "en tiempo de guerra",
+      "Answer 2": "en tiempo de vigencia del estado de sitio",
+      "Answer 3": "en tiempo de vigencia del estado de alarma, excepción o sitio",
+      "Answer 4": "a y c son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "La iniciativa de reforma constitucional se ejercerá en los términos previstos en:       ",
+      "Answer 1": "Los apartados 1 y 3 del artículo 86.",
+      "Answer 2": "Los apartados 1 y 2 del artículo 87.",
+      "Answer 3": "Los apartados 1 y 2 del artículo 85.",
+      "Answer 4": "El apartado 1 del artículo 86.",
+      "Answer": 2
+    },
+    {
+      "Title": "En relación con la iniciativa de reforma constitucional:       ",
+      "Answer 1": "Se ejercerá mediante la iniciativa popular.",
+      "Answer 2": "Se ejercerá por el Gobierno, el Congreso, el Senado o las Asambleas de las Comunidades Autónomas.",
+      "Answer 3": "Se realizará en iguales términos que la iniciativa legislativa.",
+      "Answer 4": "Se realizará en iguales términos que la iniciativa legislativa y se ejercerá por el Gobierno, el Congreso, el Senado o las Asambleas de las Comunidades Autónomas.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Por qué mayoría deberán ser aprobados los proyectos ordinarios de reforma constitucionales, recogidos en el artículo 167 de la Constitución?       ",
+      "Answer 1": "Por mayoría absoluta de cada una de las Cámaras.",
+      "Answer 2": "Por una mayoría de dos tercios de cada una de las Cámaras.",
+      "Answer 3": "Por una mayoría de tres quintos de cada una de las Cámaras.",
+      "Answer 4": "Por mayoría de tres quintos de las Cámaras reunidas en sesión conjunta.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué ocurre si no hay acuerdo entre ambas Cámaras en relación con el proyecto ordinario de reforma constitucional?       ",
+      "Answer 1": "Se volverá a votar de la misma manera siendo la mayoría necesaria, en segunda votación, de dos tercios de cada una de las Cámaras.",
+      "Answer 2": "Se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores.",
+      "Answer 3": "No se podrá presentar un nuevo proyecto en el mismo período de sesiones.",
+      "Answer 4": "No se podrá presentar un nuevo proyecto de reforma constitucional durante la legislatura.",
+      "Answer": 2
+    },
+    {
+      "Title": "Si no hubiera acuerdo entre las Cámaras para aprobar un proyecto de reforma ordinario de la constitución, se creará una Comisión paritaria de Diputados y Senadores que:       ",
+      "Answer 1": "Decidirá el plazo durante el cual no se podrá presentar un nuevo proyecto de reforma constitucional.",
+      "Answer 2": "Presentará un texto que será votado por el Congreso y el Senado.",
+      "Answer 3": "Presentará un texto que será votado por el Congreso y el Senado en sesión conjunta.",
+      "Answer 4": "Votará el proyecto en Comisión, siendo necesario una mayoría de dos tercios para aprobar el proyecto.",
+      "Answer": 2
+    },
+    {
+      "Title": "En el procedimiento de reforma constitucional ¿qué ocurre si no se aprueba el texto presentado por la Comisión de composición paritaria de Diputados y Senadores?       ",
+      "Answer 1": "Si no se logra una mayoría de tres quintos de cada una de las Cámaras, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso por mayoría de dos tercios podrá aprobar la reforma.",
+      "Answer 2": "Se devolverá el texto a la Comisión paritaria para que elaboren un nuevo texto.",
+      "Answer 3": "No se podrá presentar un nuevo proyecto en el mismo período de sesiones.",
+      "Answer 4": "Si no se logra una mayoría de tres quintos de cada una de las Cámaras, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso por mayoría de tres quintos podrá aprobar la reforma.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué ocurre una vez aprobada una reforma ordinaria de la Constitución por las Cortes Generales?       ",
+      "Answer 1": "Será sometida a referéndum para su ratificación cuando lo soliciten los dos tercios de los miembros de cualquiera de las Cámaras.",
+      "Answer 2": "Será sometida a referéndum para su ratificación en todo caso.",
+      "Answer 3": "Será sometida a referéndum para su ratificación cuando lo soliciten una décima parte de los miembros de cualquiera de las Cámaras.",
+      "Answer 4": "No será necesario someterla a referéndum en el caso de ser aprobada por una mayoría de tres quintos de cada una de las Cámaras.",
+      "Answer": 3
+    },
+    {
+      "Title": "Una vez aprobada una reforma ordinaria de la Constitución por las Cortes Generales, será sometida a referéndum, para su ratificación, cuando lo soliciten una décima parte de los miembros de cualquiera de las Cámaras:       ",
+      "Answer 1": "Dentro de los quince días siguientes a su publicación.",
+      "Answer 2": "Dentro de los treinta días siguientes a su aprobación.",
+      "Answer 3": "Dentro de los quince días siguientes a su aprobación.",
+      "Answer 4": "No hay plazo establecido para solicitar la ratificación.",
+      "Answer": 3
+    },
+    {
+      "Title": "En el caso de proponerse una revisión total de la Constitución la aprobación se deberá realizar por:       ",
+      "Answer 1": "Mayoría de dos tercios de cada una de las Cámaras.",
+      "Answer 2": "Mayoría de tres quintos de cada una de las Cámaras.",
+      "Answer 3": "Mayoría de tres quintos de las Cámaras reunidas en sesión conjunta.",
+      "Answer 4": "Mayoría de dos tercios de las Cámaras reunidas en sesión conjunta.",
+      "Answer": 1
+    },
+    {
+      "Title": "La mayoría de dos tercios de cada una de las Cámaras, para aprobar una reforma constitucional que propusiere la revisión total, será aplicable también a:       ",
+      "Answer 1": "Una parcial que afecte al Título Preliminar, al Capítulo Segundo, Sección 2.ª del Título I, al Título II o al Título VIII.",
+      "Answer 2": "Una parcial que afecte al Preámbulo, al Título Preliminar, al Título I o al Título II.",
+      "Answer 3": "Una parcial que afecte al Título Preliminar, al Capítulo Segundo, Sección 1.ª del Título I, o al Título II.",
+      "Answer 4": "Únicamente será necesaria dicha mayoría en caso de una revisión total de la Constitución.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué ocurre en caso de aprobarse una revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo Segundo, Sección 1.ª del Título I, o al Título II, por la mayoría de dos tercios de cada Cámara?       ",
+      "Answer 1": "Se enviará el texto a la Comisión Constitucional del Congreso para su redacción definitiva.",
+      "Answer 2": "Se procederá a la publicación en el Boletín Oficial del Estado del nuevo texto constitucional y a su sanción por parte del Rey.",
+      "Answer 3": "Se procederá a la disolución inmediata de las Cortes.",
+      "Answer 4": "Se enviará el texto al Tribunal Constitucional para comprobar su legalidad.",
+      "Answer": 3
+    },
+    {
+      "Title": "En el caso de una reforma total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo Segundo, Sección 1.ª del Título I, o al Título II ¿qué sucede tras la disolución inmediata de las Cortes?       ",
+      "Answer 1": "*Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional.",
+      "Answer 2": "*El nuevo texto deberá ser aprobado por mayoría de tres quintos de ambas Cámaras.",
+      "Answer 3": "Las Cámaras elegidas deberán ratificar la decisión, entendiéndose en tal caso aprobado el nuevo texto constitucional.",
+      "Answer 4": "Las dos respuestas marcadas (*) son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "En el caso de una reforma total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo Segundo, Sección 1.ª del Título I, o al Título II ¿por qué mayoría deberá ser aprobado el nuevo texto constitucional por las Cámaras elegidas tras la disolución de las Cortes?       ",
+      "Answer 1": "Por una mayoría de dos tercios de ambas Cámaras.",
+      "Answer 2": "Por una mayoría de tres quintos de cada una de las Cámaras.",
+      "Answer 3": "Por mayoría absoluta de cada una de las Cámaras.",
+      "Answer 4": "Por mayoría de tres quintos de las Cámaras reunidas en sesión conjunta.",
+      "Answer": 1
+    },
+    {
+      "Title": "En el caso de una reforma total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo Segundo, Sección 1.ª del Título I, o al Título II ¿Cuál es el procedimiento a seguir tras ser aprobado el nuevo texto constitucional por las Cámaras elegidas tras la disolución de las Cortes?       ",
+      "Answer 1": "La (I), si lo solicitan la mayoría de los miembros de cualquiera de las Cámaras.",
+      "Answer 2": "La (I), si lo solicitan una décima parte de los miembros de cualquiera de las Cámaras.",
+      "Answer 3": "(I) Se someterá a referéndum para su ratificación.",
+      "Answer 4": "No será necesario someterlo a referéndum.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con la reforma constitucional:       ",
+      "Answer 1": "No se podrá iniciar, exclusivamente, en tiempo de guerra, o de vigencia de los estados de excepción o de sitio.",
+      "Answer 2": "No se podrá iniciar en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+      "Answer 3": "No se podrá iniciar únicamente en tiempo de guerra.",
+      "Answer 4": "Se podrá iniciar en caso de estar vigente el estado de alarma si se declaró con motivo de catástrofes naturales.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuántas reformas ha sufrido la Constitución Española de 1978?       ",
+      "Answer 1": "Dos.",
+      "Answer 2": "Una.",
+      "Answer 3": "Ninguna.",
+      "Answer 4": "Tres.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuándo se sancionó y promulgó la primera reforma de la Constitución Española de 1978?       ",
+      "Answer 1": "El 27 de diciembre de 1998.",
+      "Answer 2": "El 27 de agosto de 1992.",
+      "Answer 3": "El 29 de diciembre de 1992.",
+      "Answer 4": "Las otras respuestas son incorrectas.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿A qué artículo afectó la primera reforma de la Constitución Española?       ",
+      "Answer 1": "Al artículo 13.1.",
+      "Answer 2": "Al artículo 13.3.",
+      "Answer 3": "Al artículo 13.2.",
+      "Answer 4": "Al artículo 13 completo.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuándo se sancionó y promulgó la segunda reforma de la Constitución Española de 1978?       ",
+      "Answer 1": "El 27 de diciembre de 2011.",
+      "Answer 2": "El 27 de agosto de 2010.",
+      "Answer 3": "El 27 de septiembre de 2011.",
+      "Answer 4": "El 28 de octubre de 2012.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿A qué artículo afectó la segunda reforma de la Constitución Española?       ",
+      "Answer 1": "Al artículo 135 de manera íntegra.",
+      "Answer 2": "Al artículo 134 de manera íntegra.",
+      "Answer 3": "Al artículo 133 de manera íntegra.",
+      "Answer 4": "Al artículo 134.1.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos artículos tiene el Título X de la Constitución Española?       ",
+      "Answer 1": "Tres.",
+      "Answer 2": "Cinco.",
+      "Answer 3": "Seis.",
+      "Answer 4": "Cuatro.",
+      "Answer": 4
+    },
+    {
+      "Title": "En el procedimiento ordinario de reforma constitucional, el referéndum es:",
+      "Answer 1": "Preceptivo cuando se solicite por una décima parte de los Diputados o Senadores, dentro de los quince días siguientes a la aprobación de la reforma.",
+      "Answer 2": "Obligatorio en todo caso.",
+      "Answer 3": "Improcedente.",
+      "Answer 4": "Voluntario en cualquier caso.",
+      "Answer": 1
+    },
+    {
+      "Title": "La reforma constitucional podrá iniciarse:",
+      "Answer 1": "No en tiempo de guerra.",
+      "Answer 2": "Todas las otras respuestas son correctas.",
+      "Answer 3": "En cualquier momento.",
+      "Answer 4": "No cuando no se encuentren reunidas las Cámaras.",
+      "Answer": 1
+    },
+    {
+      "Title": "La misma mayoría exigida para dar principio a una reforma o revisión total de la Constitución se exige para la reforma o revisión:",
+      "Answer 1": "Cuando afecte a dos o más de sus Títulos.",
+      "Answer 2": "Cuando verse sobre el Título Preliminar, Título Primero o Título Segundo.",
+      "Answer 3": "De todos y cada uno de sus Títulos.",
+      "Answer 4": "Cuando se refiera al Título Preliminar, al Título Segundo, o a la Sección Primera del Capítulo Segundo del Título Primero.",
+      "Answer": 4
+    },
+    {
+      "Title": "El nuevo texto analizado por las Cámaras recién elegidas, deberá ser aprobado:",
+      "Answer 1": "Por mayoría de tres quintos de ambas Cámaras.",
+      "Answer 2": "Por mayoría de dos tercios de ambas Cámaras.",
+      "Answer 3": "Por mayoría absoluta de ambas Cámaras.",
+      "Answer 4": "Todas las otras respuestas son falsas.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Título Décimo de la Constitución Española tiene:",
+      "Answer 1": "Cinco artículos.",
+      "Answer 2": "Siete artículos.",
+      "Answer 3": "Seis artículos.",
+      "Answer 4": "Cuatro artículos.",
+      "Answer": 4
+    },
+    {
+      "Title": "Cuando se propusiere la revisión total de la Constitución, se procederá a la aprobación del principio:",
+      "Answer 1": "Por mayoría absoluta de cada Cámara.",
+      "Answer 2": "Por mayoría de dos tercios de ambas Cámaras reunidas en sesión conjunta.",
+      "Answer 3": "Por mayoría de tres quintos de cada Cámara.",
+      "Answer 4": "Por mayoría de dos tercios de cada Cámara.",
+      "Answer": 4
+    },
+    {
+      "Title": "En caso de reforma ordinaria, de no lograrse la aprobación del proyecto de reforma constitucional por falta de acuerdo entre las Cámaras, culminados que sean los trámites marcados constitucionalmente:",
+      "Answer 1": "Sólo se podrá aprobar el texto, si hubiere obtenido al menos el voto favorable de la mayoría absoluta del Congreso.",
+      "Answer 2": "Cada Cámara, por mayoría absoluta, podrá aprobar la reforma.",
+      "Answer 3": "En ningún caso podrá considerarse aprobada la reforma constitucional.",
+      "Answer 4": "El Congreso, por mayoría de dos tercios, podrá aprobar la reforma, si el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado.",
+      "Answer": 4
+    },
+    {
+      "Title": "La iniciativa de reforma constitucional:",
+      "Answer 1": "Sólo corresponderá al Congreso y al Senado.",
+      "Answer 2": "No podrá corresponder en ningún caso, ni directa ni indirectamente, a las Comunidades Autónomas.",
+      "Answer 3": "No puede proceder de la iniciativa popular.",
+      "Answer 4": "Sólo corresponderá al Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "En cualquier caso, las Cámaras elegidas:",
+      "Answer 1": "Deberán dar por terminado el proceso de reforma constitucional si la fuerza política que la promovió ha perdido más de la tercera parte de los votos en las elecciones celebradas.",
+      "Answer 2": "Deberán ratificar la decisión de reforma constitucional, y proceder al estudio del nuevo texto constitucional.",
+      "Answer 3": "Deberán convocar nuevo referéndum para la ratificación de la reforma constitucional.",
+      "Answer 4": "Convocarán de inmediato sesión conjunta.",
+      "Answer": 2
+    },
+    {
+      "Title": "La solicitud de referéndum respecto a la reforma constitucional deberá efectuarse:",
+      "Answer 1": "Dentro de los quince días siguientes a partir de la sanción y promulgación real de la reforma.",
+      "Answer 2": "Dentro de los quince días siguientes a la aprobación de la reforma por las Cortes Generales.",
+      "Answer 3": "Siempre se celebrará referéndum en caso de reforma, por lo que no es preciso solicitarlo.",
+      "Answer 4": "Dentro de los diez días siguientes a la publicación de la reforma en el Boletín Oficial del Estado.",
+      "Answer": 2
+    },
+    {
+      "Title": "La aprobación de la iniciativa para la reforma total de la Constitución, del Título Preliminar, del Título Segundo, o de la Sección Primera del Capítulo Segundo del Título Primero:",
+      "Answer 1": "Llevará aparejada la abdicación del titular de la corona.",
+      "Answer 2": "Llevará aparejada la entrada en vigor del estado de excepción.",
+      "Answer 3": "Llevará aparejada la disolución inmediata de las Cortes.",
+      "Answer 4": "Llevará aparejada la convocatoria de elecciones generales.",
+      "Answer": 3
+    },
+    {
+      "Title": "No puede iniciarse la reforma constitucional en:",
+      "Answer 1": "Un período extraordinario de sesiones de las Cámaras.",
+      "Answer 2": "Se puede efectuar en los otros tres supuestos.",
+      "Answer 3": "El supuesto de que el Rey no lo estime oportuno.",
+      "Answer 4": "Tiempo de guerra.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los proyectos de reforma constitucional deberán ser aprobados:",
+      "Answer 1": "Por mayoría de tres quintos de cada una de las Cámaras.",
+      "Answer 2": "Por mayoría absoluta de cada una de las Cámaras.",
+      "Answer 3": "Por mayoría de tres quintos de los Cámaras reunidas en sesión conjunta.",
+      "Answer 4": "Por mayoría absoluta de las Cámaras reunidas en sesión conjunta.",
+      "Answer": 1
+    },
+    {
+      "Title": "La reforma de la Constitución española durante la vigencia de un estado de excepción declarado de acuerdo con la Constitución:",
+      "Answer 1": "Se iniciará solo a propuesta de las Cortes en Pleno.",
+      "Answer 2": "No podrá iniciarse en ningún caso.",
+      "Answer 3": "Deberá iniciarse según el artículo 87 de la Constitución.",
+      "Answer 4": "Podrá iniciarse por el Rey, previo referéndum.",
+      "Answer": 2
+    },
+    {
+      "Title": "Aprobada la reforma por las Cortes Generales:",
+      "Answer 1": "Será sometida a referéndum para su ratificación, en su caso.",
+      "Answer 2": "El Rey la sancionará, promulgándose a continuación.",
+      "Answer 3": "Será sometida a control previo de constitucionalidad del Tribunal Constitucional.",
+      "Answer 4": "Será sometida a dictamen del Consejo de Estado.",
+      "Answer": 1
+    }
+  ]

@@ -1,0 +1,1090 @@
+[
+    {
+      "Title": "La capital del Estado es:",
+      "Answer 1": "La ciudad de Madrid.",
+      "Answer 2": "El Madrid metropolitano.",
+      "Answer 3": "La villa de Madrid.",
+      "Answer 4": "La localidad de Madrid.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde a los poderes públicos:",
+      "Answer 1": "Garantizar la conservación del patrimonio histórico.",
+      "Answer 2": "Afianzar los obstáculos que impidan o dificulten la plenitud de la libertad e igualdad del individuo y los grupos.",
+      "Answer 3": "Regular la economía de mercado de acuerdo con las exigencias de la planificación general.",
+      "Answer 4": "Fomentar el derecho de los padres a que sus hijos reciban una formación religiosa y moral conforme a sus propias convicciones.",
+      "Answer": 1
+    },
+    {
+      "Title": "Todos los españoles, con respecto al idioma oficial del Estado:",
+      "Answer 1": "Tienen el deber y el derecho de conocerlo.",
+      "Answer 2": "Tienen el deber de conocerlo y el derecho de usarlo.",
+      "Answer 3": "Tienen el deber y el derecho de usarlo.",
+      "Answer 4": "Tienen el deber de usarlo.",
+      "Answer": 2
+    },
+    {
+      "Title": "La bandera de España está formada por tres franjas, roja, amarilla y roja:",
+      "Answer 1": "Horizontalmente colocadas, siendo la roja de doble anchura que cada una de las amarillas.",
+      "Answer 2": "Verticalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "Answer 3": "Horizontalmente colocadas, siendo las tres franjas de igual anchura.",
+      "Answer 4": "Horizontalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "Answer": 4
+    },
+    {
+      "Title": "La lengua oficial del Estado es:",
+      "Answer 1": "El idioma autóctono en aquellas comunidades que gocen de lengua propia.",
+      "Answer 2": "El castellano.",
+      "Answer 3": "El español.",
+      "Answer 4": "El castellano en aquellas comunidades autónomas que no sean bilingües.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los partidos políticos:",
+      "Answer 1": "Son instrumento fundamental para la participación política.",
+      "Answer 2": "Expresan el pluralismo ideológico en todos los campos.",
+      "Answer 3": "Concurren a la formación de la voluntad institucional.",
+      "Answer 4": "Participan en la manifestación de la voluntad de las agrupaciones políticas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones relativa a los sindicatos y asociaciones empresariales no es correcta:",
+      "Answer 1": "El ejercicio de su actividad será libre dentro del respeto a la Constitución y a la Ley.",
+      "Answer 2": "Su estructura interna deberá ser jerárquica.",
+      "Answer 3": "Su funcionamiento interno deberá ser democrático.",
+      "Answer 4": "Su creación será libre dentro del respecto a la Constitución y a la Ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las bases de la organización militar conforme a los principios constitucionales:",
+      "Answer 1": "Se regulan por Ley Ordinaria, conforme al mandato constitucional.",
+      "Answer 2": "Se regulan por Ley Orgánica, conforme al mandato constitucional.",
+      "Answer 3": "Se regulan en la propia Constitución, en el Título Octavo.",
+      "Answer 4": "Se regulan en la propia Constitución, en el Título Preliminar.",
+      "Answer": 2
+    },
+    {
+      "Title": "La riqueza de las distintas modalidades lingüísticas de España:",
+      "Answer 1": "Es un patrimonio histórico que deberá ser desarrollado exclusivamente por las Comunidades Autónomas afectadas.",
+      "Answer 2": "Es un patrimonio cultural cuya gestión corresponderá al Estado.",
+      "Answer 3": "Es un patrimonio cultural que será objeto de especial respeto y protección.",
+      "Answer 4": "Es un patrimonio histórico que precisa de la coordinación entre las administraciones públicas.",
+      "Answer": 3
+    },
+    {
+      "Title": "La soberanía nacional:",
+      "Answer 1": "Reside en los ciudadanos mayores de edad.",
+      "Answer 2": "Reside en el pueblo español",
+      "Answer 3": "Reside en el Rey.",
+      "Answer 4": "Reside en el Congreso y en el Senado.",
+      "Answer": 2
+    },
+    {
+      "Title": "La estructura interna y el funcionamiento de los Partidos Políticos deberá ser:",
+      "Answer 1": "Estructurada.",
+      "Answer 2": "Jerárquica.",
+      "Answer 3": "Democrática.",
+      "Answer 4": "Transparente.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra:",
+      "Answer 1": "Sean reales y efectivas.",
+      "Answer 2": "Alcancen el nivel más alto posible.",
+      "Answer 3": "Se empleen por los ciudadanos dentro del respeto a la Constitución y las leyes.",
+      "Answer 4": "Sean comunes a todos los miembros de la sociedad.",
+      "Answer": 1
+    },
+    {
+      "Title": "Una de estas afirmaciones es cierta:",
+      "Answer 1": "Es posible la retroactividad de normas restrictivas de derechos desfavorables.",
+      "Answer 2": "Es posible la retroactividad de normas restrictivas de derechos favorables.",
+      "Answer 3": "Es imposible la retroactividad de normas restrictivas de derechos favorables.",
+      "Answer 4": "Es imposible la retroactividad de normas sancionadoras desfavorables.",
+      "Answer": 2
+    },
+    {
+      "Title": "El principio de irretroactividad garantizado en la Constitución abarca:",
+      "Answer 1": "A todas las normas de carácter penal.",
+      "Answer 2": "A todas las disposiciones legales de cualquier orden.",
+      "Answer 3": "A las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+      "Answer 4": "A las disposiciones sancionadoras, más aquellas que impongan penas privativas de libertad no superior a los seis años, o de multa cualquiera que fuese su cuantía.",
+      "Answer": 3
+    },
+    {
+      "Title": "La Constitución se fundamenta:",
+      "Answer 1": "En la pluralidad de pueblos integrantes de la Nación Española.",
+      "Answer 2": "En el compromiso de unidad de todos los pueblos y nacionalidades integrantes de la Nación Española.",
+      "Answer 3": "En la unidad de la Nación Española.",
+      "Answer 4": "En la indisoluble unidad de la Nación Española.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los poderes del Estado emanan:",
+      "Answer 1": "De las Cortes Generales.",
+      "Answer 2": "Del pueblo.",
+      "Answer 3": "Del Rey.",
+      "Answer 4": "Del Gobierno de la Nación elegido mediante sufragio universal.",
+      "Answer": 2
+    },
+    {
+      "Title": "La creación y el ejercicio de la actividad de los Partidos Políticos:",
+      "Answer 1": "Es libre, dentro del respeto a la dignidad de las personas y de las instituciones públicas.",
+      "Answer 2": "Es libre, dentro del respeto a la Constitución y a la Ley.",
+      "Answer 3": "Es libre, dentro del respeto a las reglas del juego democrático establecidas en la Ley reguladora de los Partidos Políticos.",
+      "Answer 4": "Es libre, sin limitación de clase alguna.",
+      "Answer": 2
+    },
+    {
+      "Title": "A la Constitución y al resto del ordenamiento jurídico:",
+      "Answer 1": "Están sujetos exclusivamente los ciudadanos.",
+      "Answer 2": "Los ciudadanos y los poderes públicos están sometidos exclusivamente al imperio de la Ley.",
+      "Answer 3": "Están sujetos sólo los poderes públicos.",
+      "Answer 4": "Están sujetos tanto los ciudadanos como los poderes públicos.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las demás lenguas de las respectivas Comunidades Autónomas:",
+      "Answer 1": "Serán también oficiales en las respectivas comunidades autónomas, de acuerdo con sus Estatutos.",
+      "Answer 2": "Son oficiales también en el resto del Estado.",
+      "Answer 3": "Deben ser conocidas y empleadas por todos los españoles que residan o visiten la comunidad autónoma afectada.",
+      "Answer 4": "Serán las únicas lenguas oficiales en las respectivas comunidades autónomas, de acuerdo con sus Estatutos.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Constitución Española, nuestro país se ha constituido:",
+      "Answer 1": "En una Monarquía democrática de Derecho.",
+      "Answer 2": "En un Estado social y democrático de Derecho.",
+      "Answer 3": "En una Nación socialdemocrática de Derecho.",
+      "Answer 4": "En un Estado respetuoso del Derecho y de la Democracia.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los valores superiores del ordenamiento jurídico propugnados desde nuestra Constitución son:",
+      "Answer 1": "La libertad, la justicia y la libre competencia.",
+      "Answer 2": "La libertad, la igualdad y el pluralismo político y sindical.",
+      "Answer 3": "La libertad, la igualdad y la fraternidad.",
+      "Answer 4": "La libertad, la justicia, la igualdad y el pluralismo político.a.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿A qué edad se alcanza la mayoría de edad a tenor del contenido del artículo 10 de la Constitución?",
+      "Answer 1": "A los dieciocho años.",
+      "Answer 2": "A los dieciocho años, pero se establece en el artículo 15.",
+      "Answer 3": "A los dieciocho años, pero no se regula en el artículo 10.",
+      "Answer 4": "A los dieciocho años pero se regula en el artículo 18.",
+      "Answer": 3
+    },
+    {
+      "Title": "Respecto a las nacionalidades y regiones que integran a la Nación Española, la Constitución reconoce y garantiza:",
+      "Answer 1": "El Derecho a su libre federación o confederación.",
+      "Answer 2": "El derecho a la solidaridad entre ellas, pero no el derecho a la autonomía políticamente entendida.",
+      "Answer 3": "El Derecho a la libre autodeterminación.",
+      "Answer 4": "El derecho a la autonomía.",
+      "Answer": 4
+    },
+    {
+      "Title": "Uno de los siguientes principios no está garantizado por la constitución:",
+      "Answer 1": "La publicidad de las normas.",
+      "Answer 2": "La jerarquía reglamentaria.",
+      "Answer 3": "La legalidad.",
+      "Answer 4": "La irretroactividad.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Banderas y enseñas propias de las Comunidades Autónomas, reconocidas en sus Estatutos:",
+      "Answer 1": "Se utilizarán junto con la española sólo en los actos oficiales de carácter estatal.",
+      "Answer 2": "Se utilizarán en sustitución de la española en los edificios públicos oficiales propios de cada Comunidad.",
+      "Answer 3": "Se utilizarán junto a la española en sus edificios públicos y en sus actos oficiales.",
+      "Answer 4": "La utilización conjunta de la bandera de España y la de cada Comunidad Autónoma es potestad de las autoridades de la administración autonómica.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los sindicatos de trabajadores:",
+      "Answer 1": "Contribuyen en solitario a la promoción de los intereses sociales.",
+      "Answer 2": "Contribuyen a la defensa de los intereses sociales, pero no de naturaleza propia, sino general.",
+      "Answer 3": "Contribuyen a la defensa de sus exclusivos intereses económicos.",
+      "Answer 4": "Contribuyen a la defensa y promoción de los intereses económicos y sociales que le son propios.",
+      "Answer": 4
+    },
+    {
+      "Title": "La bandera de España está formada por tres franjas, roja, amarilla y roja:",
+      "Answer 1": "Horizontalmente colocadas, siendo la roja de doble anchura que cada una de las amarillas.",
+      "Answer 2": "Verticalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "Answer 3": "Horizontalmente colocadas, siendo las tres franjas de igual anchura.",
+      "Answer 4": "Horizontalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "Answer": 4
+    },
+    {
+      "Title": "Sólo uno de los siguientes principios está garantizado constitucionalmente:",
+      "Answer 1": "La interdicción de la arbitrariedad del poder judicial.",
+      "Answer 2": "La responsabilidad de la Administración Pública.",
+      "Answer 3": "La responsabilidad e interdicción de la arbitrariedad de la Administración Pública, tanto nacional, como autonómica o local.",
+      "Answer 4": "La responsabilidad e interdicción de la arbitrariedad de los poderes públicos.",
+      "Answer": 4
+    },
+    {
+      "Title": "Una de las siguientes materias no es regulada en el Título Preliminar de la Constitución Española:",
+      "Answer 1": "Las Asociaciones de Empresarios.",
+      "Answer 2": "Los Partidos Políticos.",
+      "Answer 3": "Las Cortes Generales.",
+      "Answer 4": "Las Fuerzas Armadas.",
+      "Answer": 3
+    },
+    {
+      "Title": "La forma política del Estado Español es:",
+      "Answer 1": "La Monarquía Parlamentaria.",
+      "Answer 2": "El Parlamentarismo Democrático.",
+      "Answer 3": "El Parlamentarismo Bicameral.",
+      "Answer 4": "La Monarquía Institucional.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Fuerzas Armadas están constituidas por:",
+      "Answer 1": "El Ejército de Tierra, la Armada y el Ejército del Aire.",
+      "Answer 2": "La Junta de Jefes de Estado Mayor.",
+      "Answer 3": "El conjunto de unidades autorizadas al uso de armas de guerra.",
+      "Answer 4": "El Ejército de Tierra, la Armada, el Ejército del Aire, y el conjunto de cuerpos y fuerzas de Seguridad del Estado.",
+      "Answer": 1
+    },
+    {
+      "Title": "La Constitución se fundamenta:",
+      "Answer 1": "En la pluralidad de pueblos integrantes de la Nación Española.",
+      "Answer 2": "En el compromiso de unidad de todos los pueblos y nacionalidades integrantes de la Nación Española.",
+      "Answer 3": "En la unidad de la Nación Española.",
+      "Answer 4": "En la indisoluble unidad de la Nación Española.",
+      "Answer": 4
+    },
+    {
+      "Title": "La lengua oficial del Estado es:",
+      "Answer 1": "El idioma autóctono en aquellas comunidades que gocen de lengua propia.",
+      "Answer 2": "El castellano.",
+      "Answer 3": "El español.",
+      "Answer 4": "El castellano en aquellas comunidades autónomas que no sean bilingües.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las demás lenguas de las respectivas Comunidades Autónomas:",
+      "Answer 1": "Serán también oficiales en las respectivas comunidades autónomas, de acuerdo con sus Estatutos.",
+      "Answer 2": "Son oficiales también en el resto del Estado.",
+      "Answer 3": "Deben ser conocidas y empleadas por todos los españoles que residan o visiten la comunidad autónoma afectada.",
+      "Answer 4": "Serán las únicas lenguas oficiales en las respectivas comunidades autónomas, de acuerdo con sus Estatutos.",
+      "Answer": 1
+    },
+    {
+      "Title": "Señala cuál de los siguientes principios está garantizado constitucionalmente:",
+      "Answer 1": "La seguridad ciudadana.",
+      "Answer 2": "La seguridad del tráfico.",
+      "Answer 3": "La seguridad jurídica.",
+      "Answer 4": "La seguridad mercantil.",
+      "Answer": 3
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones relativa a los sindicatos y asociaciones empresariales no es correcta:",
+      "Answer 1": "El ejercicio de su actividad será libre dentro del respeto a la Constitución y a la Ley.",
+      "Answer 2": "Su estructura interna deberá ser jerárquica.",
+      "Answer 3": "Su funcionamiento interno deberá ser democrático.",
+      "Answer 4": "Su creación será libre dentro del respecto a la Constitución y a la Ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "La creación y el ejercicio de la actividad de los Partidos Políticos:",
+      "Answer 1": "Es libre, dentro del respeto a la dignidad de las personas y de las instituciones públicas.",
+      "Answer 2": "Es libre, dentro del respeto a la Constitución y a la Ley.",
+      "Answer 3": "Es libre, dentro del respeto a las reglas del juego democrático establecidas en la Ley reguladora de los Partidos Políticos.",
+      "Answer 4": "Es libre, sin limitación de clase alguna.",
+      "Answer": 2
+    },
+    {
+      "Title": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra:",
+      "Answer 1": "Sean reales y efectivas.",
+      "Answer 2": "Alcancen el nivel más alto posible.",
+      "Answer 3": "Se empleen por los ciudadanos dentro del respeto a la Constitución y las leyes.",
+      "Answer 4": "Sean comunes a todos los miembros de la sociedad.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los sindicatos de trabajadores:",
+      "Answer 1": "Contribuyen en solitario a la promoción de los intereses sociales.",
+      "Answer 2": "Contribuyen a la defensa de los intereses sociales, pero no de naturaleza propia, sino general.",
+      "Answer 3": "Contribuyen a la defensa de sus exclusivos intereses económicos.",
+      "Answer 4": "Contribuyen a la defensa y promoción de los intereses económicos y sociales que le son propios.",
+      "Answer": 4
+    },
+    {
+      "Title": "Todos los españoles, con respecto al idioma oficial del Estado:",
+      "Answer 1": "Tienen el deber y el derecho de conocerlo.",
+      "Answer 2": "Tienen el deber de conocerlo y el derecho de usarlo.",
+      "Answer 3": "Tienen el deber y el derecho de usarlo.",
+      "Answer 4": "Tienen el deber de usarlo.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los partidos políticos:",
+      "Answer 1": "Son instrumento fundamental para la participación política.",
+      "Answer 2": "Expresan el pluralismo ideológico en todos los campos.",
+      "Answer 3": "Concurren a la formación de la voluntad institucional.",
+      "Answer 4": "Participan en la manifestación de la voluntad de las agrupaciones políticas.",
+      "Answer": 1
+    },
+    {
+      "Title": "La estructura interna y el funcionamiento de los Partidos Políticos deberá ser:",
+      "Answer 1": "Estructurada.",
+      "Answer 2": "Jerárquica.",
+      "Answer 3": "Democrática.",
+      "Answer 4": "Transparente.",
+      "Answer": 3
+    },
+    {
+      "Title": "El principio de irretroactividad garantizado en la Constitución abarca:",
+      "Answer 1": "A todas las normas de carácter penal.",
+      "Answer 2": "A todas las disposiciones legales de cualquier orden.",
+      "Answer 3": "A las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+      "Answer 4": "A las disposiciones sancionadoras, más aquellas que impongan penas privativas de libertad no superior a los seis años, o de multa cualquiera que fuese su cuantía.",
+      "Answer": 3
+    },
+    {
+      "Title": "La bandera de España está formada por:",
+      "Answer 1": "tres franjas verticales, roja, amarilla y roja, siendo la amarilla la mitad que cada una de las rojas",
+      "Answer 2": "tres franjas horizontales, amarilla, roja y amarilla, siendo la roja de doble anchura que cada una de las amarillas",
+      "Answer 3": "tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
+      "Answer 4": "tres franjas verticales, amarilla, roja y amarilla, siendo la roja la mitad que cada una de las amarillas",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas:",
+      "Answer 1": "estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales",
+      "Answer 2": "estas se utilizarán junto a la bandera de España en sus edificios públicos pero no en sus actos oficiales",
+      "Answer 3": "estas se utilizarán junto a la bandera de España en sus actos oficiales pero no en sus edificios públicos",
+      "Answer 4": "estas no podrán utilizarse junto a la bandera de España en sus edificios públicos ni en sus actos oficiales",
+      "Answer": 1
+    },
+    {
+      "Title": "El artículo 5 de la Constitución Española dice que la capital del Estado es:",
+      "Answer 1": "el municipio de Madrid",
+      "Answer 2": "la villa de Madrid",
+      "Answer 3": "la localidad de Madrid",
+      "Answer 4": "el Reino de Madrid",
+      "Answer": 2
+    },
+    {
+      "Title": "Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política:",
+      "Answer 1": "los sindicatos de trabajadores y las asociaciones empresariales",
+      "Answer 2": "los poderes públicos",
+      "Answer 3": "los partidos políticos",
+      "Answer 4": "las Fuerzas Armadas",
+      "Answer": 3
+    },
+    {
+      "Title": "La creación y el ejercicio de la actividad de los partidos políticos:",
+      "Answer 1": "son libres independientemente de lo que diga la Constitución o la ley",
+      "Answer 2": "están supeditados a lo que establezca el Gobierno",
+      "Answer 3": "están supeditados a su aprobación por el Jefe del Estado",
+      "Answer 4": "son libres dentro del respeto a la Constitución y a la ley",
+      "Answer": 4
+    },
+    {
+      "Title": "La estructura interna y funcionamiento de los partidos políticos deberán ser:",
+      "Answer 1": "democráticos",
+      "Answer 2": "dinámicos",
+      "Answer 3": "modélicos",
+      "Answer 4": "soberanos",
+      "Answer": 1
+    },
+    {
+      "Title": "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios:",
+      "Answer 1": "los sindicatos de trabajadores y las asociaciones empresariales",
+      "Answer 2": "los partidos políticos",
+      "Answer 3": "las Fuerzas Armadas",
+      "Answer 4": "los ciudadanos",
+      "Answer": 1
+    },
+    {
+      "Title": "La creación y el ejercicio de la actividad de los sindicatos de trabajadores y las asociaciones empresariales:",
+      "Answer 1": "son libres independientemente de lo que diga la Constitución o la ley",
+      "Answer 2": "están supeditados a lo que establezca el Gobierno",
+      "Answer 3": "están supeditados a su aprobación por el Jefe del Estado",
+      "Answer 4": "son libres dentro del respeto a la Constitución y a la ley",
+      "Answer": 4
+    },
+    {
+      "Title": "La estructura interna y funcionamiento de los sindicatos de trabajadores y las asociaciones empresariales deberán ser:",
+      "Answer 1": "paritarios",
+      "Answer 2": "independientes",
+      "Answer 3": "democráticos",
+      "Answer 4": "autónomos",
+      "Answer": 3
+    },
+    {
+      "Title": "Tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional:",
+      "Answer 1": "los sindicatos de trabajadores",
+      "Answer 2": "las asociaciones empresariales",
+      "Answer 3": "los partidos políticos",
+      "Answer 4": "las Fuerzas Armadas",
+      "Answer": 4
+    },
+    {
+      "Title": "El artículo 8 de la Constitución Española señala que las Fuerzas Armadas están constituidas por: (señala la incorrecta)",
+      "Answer 1": "el Ejército de Tierra",
+      "Answer 2": "la Armada",
+      "Answer 3": "el Ejército del Aire",
+      "Answer 4": "el Ejército del Agua",
+      "Answer": 4
+    },
+    {
+      "Title": "Regulará las bases de la organización militar conforme a los principios de la presente Constitución:",
+      "Answer 1": "una ley ordinaria",
+      "Answer 2": "una ley orgánica",
+      "Answer 3": "un Decreto Ley",
+      "Answer 4": "un Real Decreto",
+      "Answer": 2
+    },
+    {
+      "Title": "Los ciudadanos y los poderes públicos están sujetos:",
+      "Answer 1": "únicamente a la Constitución",
+      "Answer 2": "a la Constitución y a las leyes orgánicas",
+      "Answer 3": "a la Constitución y al Estatuto de Autonomía del lugar en el que resida",
+      "Answer 4": "a la Constitución y al resto del ordenamiento jurídico",
+      "Answer": 4
+    },
+    {
+      "Title": "Corresponde promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social a:",
+      "Answer 1": "los sindicatos de trabajadores y las asociaciones empresariales",
+      "Answer 2": "los poderes públicos",
+      "Answer 3": "los partidos políticos",
+      "Answer 4": "las Fuerzas Armadas",
+      "Answer": 2
+    },
+    {
+      "Title": "La forma política del Estado español es:",
+      "Answer 1": "el Estado federal",
+      "Answer 2": "la República democrática",
+      "Answer 3": "la Monarquía parlamentaria",
+      "Answer 4": "el Estado Unitario",
+      "Answer": 3
+    },
+    {
+      "Title": "La Constitución garantiza:",
+      "Answer 1": "la retroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+      "Answer 2": "la retroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales",
+      "Answer 3": "la irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales",
+      "Answer 4": "la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+      "Answer": 4
+    },
+    {
+      "Title": "La Constitución garantiza:",
+      "Answer 1": "la seguridad jurídica",
+      "Answer 2": "la responsabilidad",
+      "Answer 3": "la interdicción de la arbitrariedad de los poderes públicos",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El Título preliminar de la Constitución comprende:",
+      "Answer 1": "los articulos 1 a 6",
+      "Answer 2": "los articulos 1 a 8",
+      "Answer 3": "los articulos 1 a 9",
+      "Answer 4": "los articulos 1 a 12",
+      "Answer": 3
+    },
+    {
+      "Title": "Regulará las bases de la organización militar conforme a los principios de la presente Constitución:",
+      "Answer 1": "una ley orgánica",
+      "Answer 2": "un decreto ley",
+      "Answer 3": "una norma con rango de ley",
+      "Answer 4": "una ley de bases",
+      "Answer": 1
+    },
+    {
+      "Title": "La bandera de España está formada por:",
+      "Answer 1": "tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas",
+      "Answer 2": "tres franjas horizontales, amarilla, roja y amarilla, siendo la roja la mitad de anchura que cada una de las amarillas",
+      "Answer 3": "tres franjas horizontales, roja, amarilla y roja, siendo la amarilla la mitad de anchura que cada una de las rojas",
+      "Answer 4": "tres franjas horizontales, amarilla, roja y amarilla, siendo la roja de doble anchura que cada una de las amarillas",
+      "Answer": 1
+    },
+    {
+      "Title": "Tiene/n como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional:",
+      "Answer 1": "el Gobierno",
+      "Answer 2": "el Jefe de Estado",
+      "Answer 3": "los tribunales",
+      "Answer 4": "las Fuerzas Armadas",
+      "Answer": 4
+    },
+    {
+      "Title": "La forma política del Estado español es:",
+      "Answer 1": "la Monarquía parlamentaria",
+      "Answer 2": "la soberanía nacional",
+      "Answer 3": "el pluralismo político",
+      "Answer 4": "la sociedad democrática",
+      "Answer": 1
+    },
+    {
+      "Title": "Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política:",
+      "Answer 1": "los sindicatos de trabajadores y las asociaciones empresariales",
+      "Answer 2": "los partidos políticos",
+      "Answer 3": "las Fuerzas Armadas",
+      "Answer 4": "todas son correctas",
+      "Answer": 2
+    },
+    {
+      "Title": "España se constituye en un Estado:",
+      "Answer 1": "político y democrático de Derecho",
+      "Answer 2": "social y democrático de Derecho",
+      "Answer 3": "político y totalitario de Derecho",
+      "Answer 4": "social y totalitario de Derecho",
+      "Answer": 2
+    },
+    {
+      "Title": "España propugna como valores superiores de su ordenamiento jurídico:",
+      "Answer 1": "la libertad, la imparcialidad, la equidad y el pluralismo social",
+      "Answer 2": "la autonomía, la justicia, la equidad y el pluralismo social",
+      "Answer 3": "la autonomía, la imparcialidad, la igualdad y el pluralismo político",
+      "Answer 4": "la libertad, la justicia, la igualdad y el pluralismo político",
+      "Answer": 4
+    },
+    {
+      "Title": "La soberanía nacional reside en:",
+      "Answer 1": "el pueblo español",
+      "Answer 2": "la Nación",
+      "Answer 3": "el Jefe de Estado",
+      "Answer 4": "el Gobierno",
+      "Answer": 1
+    },
+    {
+      "Title": "Los poderes del Estado emanan de:",
+      "Answer 1": "la Nación",
+      "Answer 2": "el pueblo español",
+      "Answer 3": "el Gobierno",
+      "Answer 4": "el Jefe de Estado",
+      "Answer": 2
+    },
+    {
+      "Title": "La Constitución garantiza:",
+      "Answer 1": "el principio de legalidad",
+      "Answer 2": "la jerarquía normativa",
+      "Answer 3": "la publicidad de las normas",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "La Constitución se fundamenta en la:",
+      "Answer 1": "disoluble unidad de la Nación española, patria común y divisible de todos los españoles",
+      "Answer 2": "indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles",
+      "Answer 3": "pluralidad de la Nación española, patria común y particular de todos los españoles",
+      "Answer 4": "pluralidad de la Nación española, patria común e indivisible de todos los españoles",
+      "Answer": 2
+    },
+    {
+      "Title": "La Constitución:",
+      "Answer 1": "no reconoce el derecho a la autonomía de las nacionalidades y regiones que la integran",
+      "Answer 2": "reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran",
+      "Answer 3": "reconoce y garantiza el derecho a la autonomía de las comunidades y regiones que la integran",
+      "Answer 4": "reconoce y garantiza el derecho a la autonomía de las comunidades y municipios que la integran",
+      "Answer": 2
+    },
+    {
+      "Title": "La lengua española oficial del Estado:",
+      "Answer 1": "es el castellano",
+      "Answer 2": "es el castellano y las demás lenguas españolas",
+      "Answer 3": "el castellano salvo en aquellas regiones con lengua propia",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 1
+    },
+    {
+      "Title": "Todos los españoles tienen:",
+      "Answer 1": "el deber de conocer el castellano",
+      "Answer 2": "el derecho a usar el castellano",
+      "Answer 3": "el deber de conocer y el derecho a usar el castellano",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 3
+    },
+    {
+      "Title": "Las demás lenguas españolas:",
+      "Answer 1": "serán también oficiales en todo el Estado",
+      "Answer 2": "serán también oficiales en las respectivas Comunidades Autónomas",
+      "Answer 3": "no son oficiales en las respectivas Comunidades Autónomas",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "La riqueza de las distintas modalidades lingüísticas de España es un:",
+      "Answer 1": "patrimonio nacional que será objeto de especial respeto y protección",
+      "Answer 2": "patrimonio cultural que será objeto de especial respeto y protección",
+      "Answer 3": "patrimonio nacional que no será objeto de especial respeto y protección",
+      "Answer 4": "patrimonio cultural que no será objeto de especial respeto y protección",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el Preámbulo de la Constitución, la Nación Española deseaba:       ",
+      "Answer 1": "Establecer la justicia, la libertad y la seguridad.",
+      "Answer 2": "Promover la justicia y la libertad.",
+      "Answer 3": "Establecer la seguridad ideológica.",
+      "Answer 4": "Fomentar la libertad, la justicia, y la igualdad.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el Preámbulo de la Constitución de 1978, la Nación española deseaba promover:       ",
+      "Answer 1": "Su soberanía.",
+      "Answer 2": "El bien universal.",
+      "Answer 3": "El bien de cuantos la integran.",
+      "Answer 4": "El acceso a la participación política de cuantos la integran.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el Preámbulo de la Constitución de 1978, la Nación española proclamó su voluntad de garantizar la convivencia:       ",
+      "Answer 1": "Democrática dentro del único marco de la propia Constitución.",
+      "Answer 2": "General en el marco de la Constitución y de las leyes conforme a un orden social y representativo justo.",
+      "Answer 3": "Democrática dentro de la Constitución y de las leyes conforme a un orden económico y social justo.",
+      "Answer 4": "Todas las respuestas son incorrectas.",
+      "Answer": 3
+    },
+    {
+      "Title": "En el Preámbulo de la Constitución se proclama la voluntad de:       ",
+      "Answer 1": "Proteger a todos los españoles y pueblos de España en el ejercicio de los derechos humanos, sus culturas y tradiciones, lenguas e instituciones.",
+      "Answer 2": "Todas las respuestas son correctas.",
+      "Answer 3": "Promover el progreso de la cultura y de la economía para asegurar a todos una digna calidad de vida.",
+      "Answer 4": "Consolidar un Estado de Derecho que asegure el imperio de la ley como expresión de la voluntad popular.",
+      "Answer": 2
+    },
+    {
+      "Title": "En el Preámbulo de la Constitución se proclama la voluntad de establecer una sociedad democrática:       ",
+      "Answer 1": "Integrada.",
+      "Answer 2": "Afianzada.",
+      "Answer 3": "Generalizada.",
+      "Answer 4": "Avanzada.",
+      "Answer": 4
+    },
+    {
+      "Title": "En el Preámbulo de la Constitución se proclama la voluntad de colaborar en el fortalecimiento de una relaciones:       ",
+      "Answer 1": "Pacíficas y de eficaz cooperación entre todas las Comunidades Autónomas.",
+      "Answer 2": "Igualitarias y de eficaz cooperación entre todos los habitantes de España.",
+      "Answer 3": "Pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra.",
+      "Answer 4": "El resto de respuestas son incorrectas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién aprueba y ratifica la Constitución Española de 1978?       ",
+      "Answer 1": "El pueblo español.",
+      "Answer 2": "Las Cortes aprueban y el pueblo español ratifica.",
+      "Answer 3": "El Rey aprueba y el pueblo español ratifica.",
+      "Answer 4": "El Gobierno aprueba y el pueblo español ratifica.",
+      "Answer": 2
+    },
+    {
+      "Title": "En el Preámbulo de la Constitución se proclama la voluntad de colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre:       ",
+      "Answer 1": "Todos las Comunidades Autónomas.",
+      "Answer 2": "Todo el pueblo español.",
+      "Answer 3": "Todos los pueblos de la Tierra.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "En el Preámbulo de la Constitución se proclama la voluntad de proteger a todos los españoles y pueblos de España en el ejercicio de:       ",
+      "Answer 1": "Los derechos fundamentales, sus culturas, tradiciones, lenguas y particularidades.",
+      "Answer 2": "Los derechos humanos, sus culturas y tradiciones, lenguas e instituciones.",
+      "Answer 3": "Los derechos principales, sus culturas, tradiciones y lenguas.",
+      "Answer 4": "Los derechos humanos, sus culturas y tradiciones, lenguas e instituciones e idiosincrasia.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el Preámbulo de la Constitución Española, para asegurar el imperio de la ley como expresión de la voluntad popular:       ",
+      "Answer 1": "Se debe consolidar un Estado de Derecho.",
+      "Answer 2": "Se debe reforzar el cumplimiento de lo establecido en la Constitución.",
+      "Answer 3": "Se deben promover las acciones dirigidas a tal fin por las Administraciones Públicas.",
+      "Answer 4": "En el Preámbulo de la Constitución no se hace referencia al imperio de la ley como expresión de la voluntad popular.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué Título de la Constitución Española se regulan los principios básicos o generales del Estado Español?       ",
+      "Answer 1": "En el Título II.",
+      "Answer 2": "En el Título I.",
+      "Answer 3": "En el Título Preliminar.",
+      "Answer 4": "Todas son incorrectas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuántos artículos tiene el Título Preliminar de la Constitución Española?       ",
+      "Answer 1": "Once.",
+      "Answer 2": "Ocho.",
+      "Answer 3": "Diez.",
+      "Answer 4": "Nueve.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el artículo 1 de la Constitución Española, España se constituye en:       ",
+      "Answer 1": "En un Estado integral y unitario de derecho.",
+      "Answer 2": "En un Estado social y democrático de derecho.",
+      "Answer 3": "En una Nación de derecho democrática.",
+      "Answer 4": "En un Estado del bienestar, social y democrático.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuáles son los valores superiores del ordenamiento jurídico que se propugnan en la Constitución?       ",
+      "Answer 1": "La libertad, la democracia, la igualdad y la justicia.",
+      "Answer 2": "La democracia, la justicia, la igualdad y el pluralismo político.",
+      "Answer 3": "La libertad, la justicia, la igualdad y el pluralismo político.",
+      "Answer 4": "La democracia, la justicia, la igualdad, la libertad y la participación política.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En quién reside la soberanía nacional según la Constitución?       ",
+      "Answer 1": "En las Cortes Generales.",
+      "Answer 2": "En el Rey.",
+      "Answer 3": "En el pueblo español.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución Española, los poderes del Estado emanan:       ",
+      "Answer 1": "De las Cortes Generales.",
+      "Answer 2": "Del Rey.",
+      "Answer 3": "Del pueblo español.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál es la forma política del Estado español?       ",
+      "Answer 1": "La Monarquía parlamentaria.",
+      "Answer 2": "La Monarquía constitucional.",
+      "Answer 3": "La Monarquía hereditaria.",
+      "Answer 4": "El estado social y democrático de derecho.",
+      "Answer": 1
+    },
+    {
+      "Title": "La Constitución se fundamenta en:       ",
+      "Answer 1": "La convivencia democrática dentro de la Constitución.",
+      "Answer 2": "La indisoluble unidad de la Nación española.",
+      "Answer 3": "La unidad inherente al pueblo español.",
+      "Answer 4": "El respeto a los valores democráticos de la Nación española.",
+      "Answer": 2
+    },
+    {
+      "Title": "La Constitución Española de 1978 se fundamenta en:       ",
+      "Answer 1": "Un estado democrático de voluntad popular.",
+      "Answer 2": "La indisoluble unidad de la Nación española.",
+      "Answer 3": "La representación popular a través de las Cortes Generales.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución, esta se fundamenta en la indisoluble unidad de la nación española:       ",
+      "Answer 1": "Patria común y divisible en las distintas Comunidades Autónomas.",
+      "Answer 2": "Atendiendo a la particularidad de las distintas naciones en que se compone.",
+      "Answer 3": "Patria común e indivisible de todos los españoles.",
+      "Answer 4": "Atendiendo a la particularidad de las distintas regiones que la componen.",
+      "Answer": 3
+    },
+    {
+      "Title": "La Constitución reconoce y garantiza el derecho:       ",
+      "Answer 1": "A la autonomía de las nacionalidades y regiones que integran la Nación española, no quedando recogida expresamente la solidaridad entre todas ellas.",
+      "Answer 2": "A la autodeterminación de las nacionalidades que integran la Nación española y la solidaridad entre todas ellas.",
+      "Answer 3": "A la separación de las distintas regiones que integran la Nación española, manteniendo la solidaridad entre todas ellas.",
+      "Answer 4": "A la autonomía de las nacionalidades y regiones que integran la Nación española y la solidaridad entre todas ellas.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál es la lengua española oficial del Estado, según el artículo 3 de la Constitución Española?       ",
+      "Answer 1": "El castellano y las demás lenguas de las respectivas Comunidades Autónomas.",
+      "Answer 2": "El español.",
+      "Answer 3": "El castellano.",
+      "Answer 4": "Todas las lenguas que integran la cultura de la Nación española y que se deberán recoger en los respectivos Estatutos de Autonomía.",
+      "Answer": 3
+    },
+    {
+      "Title": "Respecto al castellano:       ",
+      "Answer 1": "Todos los españoles tienen el deber de conocerla y el derecho a usarla.",
+      "Answer 2": "Todos los españoles tienen el deber de conocerla y de usarla.",
+      "Answer 3": "Todos los españoles sin lengua oficial en su respectiva Comunidad Autónoma tienen el derecho a usarla.",
+      "Answer 4": "Será obligado su uso en todas las regiones de la Nación española.",
+      "Answer": 1
+    },
+    {
+      "Title": "De acuerdo con el artículo 3.1 de la Constitución Española, es un deber de conocer y un derecho a usar la lengua oficial del Estado por:       ",
+      "Answer 1": "Todos los residentes en España.",
+      "Answer 2": "Todos los españoles.",
+      "Answer 3": "Los españoles que carezcan de lengua oficial en su Comunidad Autónoma.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 2
+    },
+    {
+      "Title": "El castellano es la lengua española oficial del Estado y las demás lenguas españolas:       ",
+      "Answer 1": "Serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con una ley ordinaria.",
+      "Answer 2": "Al igual que el castellano todos tienen el deber de conocerlas y el derecho a usarlas en las respectivas Comunidades Autónomas.",
+      "Answer 3": "Serán también oficiales en todo el territorio nacional, de acuerdo con sus Estatutos.",
+      "Answer 4": "Serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.",
+      "Answer": 4
+    },
+    {
+      "Title": "La riqueza de las distintas modalidades lingüísticas de España:       ",
+      "Answer 1": "Es un patrimonio cultural que será objeto de especial respeto y difusión.",
+      "Answer 2": "Es un patrimonio cultural que será objeto de especial respeto y protección.",
+      "Answer 3": "Es un patrimonio intangible que acrecentará el patrimonio cultural de España.",
+      "Answer 4": "Es un patrimonio lingüístico que será objeto de un ordinario respeto y difusión.",
+      "Answer": 2
+    },
+    {
+      "Title": "La bandera de España está formada por:       ",
+      "Answer 1": "Tres franjas verticales.",
+      "Answer 2": "Tres franjas rojas.",
+      "Answer 3": "Tres franjas horizontales.",
+      "Answer 4": "Dos franjas horizontales.",
+      "Answer": 3
+    },
+    {
+      "Title": "La bandera de España tendrá tres franjas horizontales:       ",
+      "Answer 1": "Roja, amarilla y roja, siendo las rojas de doble anchura que la amarilla.",
+      "Answer 2": "Roja, amarilla y roja, siendo la roja de doble anchura que cada una de las rojas.",
+      "Answer 3": "Amarilla, roja y amarilla, siendo la roja de doble anchura que cada una de las rojas.",
+      "Answer 4": "Roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Dónde se podrán reconocer banderas y enseñas propias de las Comunidades Autónomas, según la Constitución?       ",
+      "Answer 1": "En los respectivos Estatutos.",
+      "Answer 2": "En una ley ordinaria.",
+      "Answer 3": "En un Reglamento Autonómico.",
+      "Answer 4": "En los respectivos Estatutos, pero únicamente respecto a banderas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las banderas y enseñas propias de las Comunidades Autónomas:       ",
+      "Answer 1": "Se podrán utilizar en sus edificios públicos y en sus actos oficiales, en sustitución de la bandera de España, si así se recoge en los respectivos Estatutos.",
+      "Answer 2": "Se podrán utilizar en sustitución de la bandera de España únicamente en sus edificios públicos.",
+      "Answer 3": "Se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.",
+      "Answer 4": "Se podrán utilizar en sus edificios públicos y en sus actos oficiales, en sustitución de la bandera de España",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 4 de la Constitución Española y en relación con las banderas y enseñas propias de las Comunidades Autónomas:       ",
+      "Answer 1": "Los Estatutos deberán reconocerlas.",
+      "Answer 2": "Los Estatutos podrán reconocerlas.",
+      "Answer 3": "Una ley ordinaria deberá reconocerlas.",
+      "Answer 4": "Una ley ordinaria podrá reconocerlas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según se recoge en la Constitución ¿cuál es la capital del Estado?       ",
+      "Answer 1": "La Comunidad de Madrid.",
+      "Answer 2": "La villa de Madrid.",
+      "Answer 3": "La ciudad de Madrid.",
+      "Answer 4": "El pueblo de Madrid.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución, los partidos políticos:       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "Concurren a la formación y manifestación de la voluntad popular.",
+      "Answer 3": "Son instrumento fundamental de la participación política.",
+      "Answer 4": "Expresan el pluralismo político.",
+      "Answer": 1
+    },
+    {
+      "Title": "En relación con los partidos políticos ¿cuáles de las siguientes se recoge en la Constitución?       ",
+      "Answer 1": "Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley.",
+      "Answer 2": "Su creación y el ejercicio de su actividad vendrán limitados por la Constitución y la ley.",
+      "Answer 3": "Su creación y participación son libres dentro del respeto a la Constitución y a la ley.",
+      "Answer 4": "Su creación y afiliación son libres dentro del respeto a la ley.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Constitución Española, la estructura interna y funcionamiento de los partidos políticos:       ",
+      "Answer 1": "Deberán ser consensuados.",
+      "Answer 2": "Deberán ser democráticos.",
+      "Answer 3": "Deberán ser voluntarios.",
+      "Answer 4": "Deberán ser jerárquicos.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución Española ¿quién/es contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios?       ",
+      "Answer 1": "Las asociaciones empresariales.",
+      "Answer 2": "Los sindicatos de trabajadores.",
+      "Answer 3": "Los sindicatos de trabajadores y las asociaciones empresariales.",
+      "Answer 4": "Los partidos políticos.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Fuerzas Armadas están constituidas por:       ",
+      "Answer 1": "El Ejército de Tierra, la Marina y las Fuerzas Aéreas.",
+      "Answer 2": "Los Ejércitos de Tierra, Agua y Aire y los Cuerpos y Fuerzas de Seguridad.",
+      "Answer 3": "El Ejército de Tierra, la Armada y el Ejército del Aire.",
+      "Answer 4": "El Ejército de Tierra, la Marina, el Ejército del Aire y el Rey como Jefe Supremo.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál es la misión de las Fuerzas Armadas, conforme a la Constitución Española?       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "Defender su unidad.",
+      "Answer 3": "Defender el ordenamiento regional.",
+      "Answer 4": "Garantizar la soberanía e independencia de España.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de las siguientes es misión de las Fuerzas Armadas, según la Constitución?       ",
+      "Answer 1": "Defender su integridad territorial y el ordenamiento constitucional.",
+      "Answer 2": "Garantizar la soberanía y dependencia de España.",
+      "Answer 3": "Defender la integridad regional.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las bases de la organización militar, conforme a los principios de la Constitución, se regulará mediante:       ",
+      "Answer 1": "La propia Constitución.",
+      "Answer 2": "Una ley orgánica.",
+      "Answer 3": "Una ley ordinaria.",
+      "Answer 4": "Un Decreto Legislativo.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quiénes están sujetos a la Constitución y al resto del ordenamiento jurídico?       ",
+      "Answer 1": "Únicamente los ciudadanos.",
+      "Answer 2": "Únicamente los poderes públicos.",
+      "Answer 3": "Los ciudadanos y los poderes públicos.",
+      "Answer 4": "Los ciudadanos y los poderes públicos están sujetos únicamente al ordenamiento jurídico.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas:       ",
+      "Answer 1": "Corresponde a los poderes públicos regular dichas condiciones.",
+      "Answer 2": "Corresponde a los poderes públicos y a los ciudadanos promover dichas condiciones.",
+      "Answer 3": "Corresponde a los poderes públicos promover dichas condiciones.",
+      "Answer 4": "Ninguna de las anteriores es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas y:       ",
+      "Answer 1": "Facilitar los obstáculos que impidan o dificulten los ataque al ordenamiento jurídico.",
+      "Answer 2": "Remover los obstáculos que impidan o dificulten su plenitud.",
+      "Answer 3": "Facilitar la participación de los ciudadanos en la vida comunitaria y general.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución Española los poderes públicos:       ",
+      "Answer 1": "Facilitaran la participación de todos los ciudadanos en la vida política, regional, económica y personal.",
+      "Answer 2": "Facilitarán la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+      "Answer 3": "Restringirán la participación de los ciudadanos en la vida política, económica y cultural, únicamente por una ley orgánica.",
+      "Answer 4": "Regularán la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de los siguientes principios no está garantizado en la Constitución?       ",
+      "Answer 1": "Jerarquía normativa.",
+      "Answer 2": "Retroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+      "Answer 3": "Publicidad de las normas.",
+      "Answer 4": "Legalidad.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de los siguientes principios está garantizado en la Constitución?       ",
+      "Answer 1": "La retroactividad de las disposiciones sancionadores no favorables o restrictivas de derechos colectivos.",
+      "Answer 2": "La irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos colectivos.",
+      "Answer 3": "La irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+      "Answer 4": "Irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales o colectivos.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de los siguientes principios está garantizado en la Constitución?       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "La responsabilidad.",
+      "Answer 3": "La interdicción de la arbitrariedad de los poderes públicos.",
+      "Answer 4": "La seguridad jurídica.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución Española se recoge que el castellano es la lengua oficial del Estado?       ",
+      "Answer 1": "En el 3.1.",
+      "Answer 2": "En el 8.1.",
+      "Answer 3": "En el 4.2.",
+      "Answer 4": "En el 5.2.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución Española se recoge la capital del Estado?       ",
+      "Answer 1": "En el 4.1.",
+      "Answer 2": "En el 4.",
+      "Answer 3": "En el 3.",
+      "Answer 4": "En el 5.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución se recoge que España se constituye en un Estado social y democrático de derecho?       ",
+      "Answer 1": "En el 1.1.",
+      "Answer 2": "En el 1.2.",
+      "Answer 3": "En el 2.1.",
+      "Answer 4": "En el 3.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución se recoge que ésta se fundamenta en la indisoluble unidad de la Nación española?       ",
+      "Answer 1": "En el 3.",
+      "Answer 2": "En el 1.",
+      "Answer 3": "En el 2.",
+      "Answer 4": "En el 4.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución se hace referencia a la bandera de España?       ",
+      "Answer 1": "En el 3.",
+      "Answer 2": "En el 4.",
+      "Answer 3": "En el 5.",
+      "Answer 4": "En el 6.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué artículo de la Constitución recoge que la capital del Estado es la villa de Madrid?       ",
+      "Answer 1": "El artículo 8.",
+      "Answer 2": "El artículo 6.",
+      "Answer 3": "El artículo 7.",
+      "Answer 4": "El artículo 5.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de los siguientes artículos de la Constitución hace referencia a los partidos políticos?       ",
+      "Answer 1": "El artículo 6.",
+      "Answer 2": "El artículo 5.",
+      "Answer 3": "El artículo 7.",
+      "Answer 4": "El artículo 8.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los sindicatos de trabajadores y las asociaciones empresariales se recogen en el:       ",
+      "Answer 1": "Artículo 9 de la Constitución.",
+      "Answer 2": "Artículo 6 de la Constitución.",
+      "Answer 3": "Artículo 8 de la Constitución.",
+      "Answer 4": "Artículo 7 de la Constitución.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de los siguientes artículos de la Constitución hace referencia a las Fuerzas Armadas?       ",
+      "Answer 1": "El artículo 7.",
+      "Answer 2": "El artículo 9.",
+      "Answer 3": "El artículo 8.",
+      "Answer 4": "El artículo 6.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué artículo de la Constitución recoge que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico?       ",
+      "Answer 1": "El artículo 10.",
+      "Answer 2": "El artículo 9.1.",
+      "Answer 3": "El artículo 8.2.",
+      "Answer 4": "El artículo 9.2.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué artículo de la Constitución recoge que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado?       ",
+      "Answer 1": "El artículo 1.2.",
+      "Answer 2": "El artículo 1.1.",
+      "Answer 3": "El artículo 1.3.",
+      "Answer 4": "Ninguna de las respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué artículo de la Constitución hace referencia a las banderas y enseñas propias de las Comunidades Autónomas?       ",
+      "Answer 1": "El artículo 3.1.",
+      "Answer 2": "El artículo 4.2.",
+      "Answer 3": "El artículo 5.2.",
+      "Answer 4": "En la Constitución no se hace ninguna referencia a las banderas y enseñas de las Comunidades Autónomas.",
+      "Answer": 2
+    }
+  ]

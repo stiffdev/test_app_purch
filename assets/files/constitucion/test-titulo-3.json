@@ -1,0 +1,2002 @@
+[
+    {
+      "Title": "¿Quién representa al pueblo español?       ",
+      "Answer 1": "Las Cortes Generales.",
+      "Answer 2": "El Gobierno.",
+      "Answer 3": "El Defensor del Pueblo.",
+      "Answer 4": "El Rey.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cortes Generales están formadas por:       ",
+      "Answer 1": "Por los Diputados elegidos mediante elecciones periódicas.",
+      "Answer 2": "El Congreso de los Diputados, el Senado y la Junta Electoral Central.",
+      "Answer 3": "El Congreso de los Diputados y el Senado.",
+      "Answer 4": "El Congreso de los Diputados, el Senado y la Junta Regional Central.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién ejerce la potestad legislativa del Estado?       ",
+      "Answer 1": "Las Cortes Generales y el Gobierno.",
+      "Answer 2": "El Gobierno.",
+      "Answer 3": "Las Cortes Generales.",
+      "Answer 4": "Las Cortes Generales, el Gobierno y las Comunidades Autónomas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Cortes Generales:       ",
+      "Answer 1": "Ejercen la potestad legislativa del Estado.",
+      "Answer 2": "Todas son correctas.",
+      "Answer 3": "Aprueban los Presupuestos.",
+      "Answer 4": "Controlan la acción del Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Cortes Generales son:       ",
+      "Answer 1": "Inmutables.",
+      "Answer 2": "Impenetrables.",
+      "Answer 3": "Incuestionables.",
+      "Answer 4": "Inviolables.",
+      "Answer": 4
+    },
+    {
+      "Title": "En relación con los miembros de las Cortes Generales.       ",
+      "Answer 1": "Los Senadores elegidos por las Comunidades Autónomas podrán ser miembros de las dos Cámaras simultáneamente.",
+      "Answer 2": "Únicamente los miembros del Gobierno podrán ser miembros de las dos Cámaras simultáneamente.",
+      "Answer 3": "Nadie podrá ser miembro de las dos Cámaras simultáneamente.",
+      "Answer 4": "Únicamente los portavoces de los Grupos Parlamentarios podrán ser miembros de las dos Cámaras simultáneamente.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es correcta?       ",
+      "Answer 1": "No es posible acumular el acta de una Asamblea de Comunidad Autónoma con la de Senador.",
+      "Answer 2": "No es posible acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso.",
+      "Answer 3": "No es posible acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso o Senador.",
+      "Answer 4": "Es posible acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso o Senador.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros de las Cortes Generales.       ",
+      "Answer 1": "Estarán ligados por mandato imperativo durante el ejercicio de sus cargos.",
+      "Answer 2": "Estarán ligados por mandato imperativo.",
+      "Answer 3": "No están ligados por mandato imperativo.",
+      "Answer 4": "No estarán ligados por mandato irretroactivo.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria:       ",
+      "Answer 1": "No vincularán a las Cámaras, y no podrán ejercer sus funciones, pero seguirán ostentando sus privilegios.",
+      "Answer 2": "No vincularán a las Cámaras, y no podrán ejercer sus funciones ni ostentar sus privilegios.",
+      "Answer 3": "Vincularán a las Cámaras siempre que asistan una mayoría de Parlamentarios de cualquiera de las Cámaras, en ese caso podrán ejercer sus funciones y ostentar sus privilegios.",
+      "Answer 4": "Serán ilegales, estando prohibidas por la Constitución.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución, el Congreso de los Diputados se compone de:       ",
+      "Answer 1": "Un mínimo de 300 y un máximo de 400 Diputados.",
+      "Answer 2": "350 Diputados.",
+      "Answer 3": "400 Diputados.",
+      "Answer 4": "Un mínimos de 250 y un máximo de 400 Diputados.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los Diputados serán elegidos:       ",
+      "Answer 1": "Por sufragio universal, libre, igual, directo o indirecto y secreto, en los términos que establezca la ley.",
+      "Answer 2": "Por sufragio nacional, libre, igual, directo y secreto, en los términos que establezca la ley.",
+      "Answer 3": "Por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley.",
+      "Answer 4": "Por sufragio general, libre, igual, directo y secreto, en los términos que establezca la ley.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál es la circunscripción electoral en las elecciones al Congreso?       ",
+      "Answer 1": "El Estado.",
+      "Answer 2": "Las Comunidades Autónomas.",
+      "Answer 3": "Los municipios.",
+      "Answer 4": "La provincia.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Por cuántos Diputados estarán representadas las poblaciones de Ceuta y Melilla?       ",
+      "Answer 1": "Por dos Diputados cada una de ellas.",
+      "Answer 2": "Por un Diputado cada una de ellas.",
+      "Answer 3": "Por tres Diputados cada una de ellas.",
+      "Answer 4": "Por un Diputado entre las dos.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se distribuirá el número total de Diputados en las elecciones al Congreso?       ",
+      "Answer 1": "Mediante un acuerdo.",
+      "Answer 2": "Mediante un reglamento.",
+      "Answer 3": "Mediante una ley.",
+      "Answer 4": "De la forma que, detalladamente, se recoge en el artículo 67 de la Constitución.",
+      "Answer": 3
+    },
+    {
+      "Title": "En las elecciones al Congreso, la ley distribuirá el número total de Diputados:       ",
+      "Answer 1": "Asignando una representación máxima inicial a cada circunscripción y distribuyéndolos en proporción a la población.   ",
+      "Answer 2": "Asignando una fija a cada circunscripción y distribuyendo los demás en proporción a la población.   ",
+      "Answer 3": "Asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.   ",
+      "Answer 4": "Se distribuirá en el mismo número para cada provincia como circunscripción electoral.",
+      "Answer": 3
+    },
+    {
+      "Title": "En las elecciones al Congreso, dicha elección se verificará:       ",
+      "Answer 1": "En cada circunscripción atendiendo a criterios de representación cualificada.",
+      "Answer 2": "En cada Comunidad Autónoma atendiendo a criterios de representación proporcional.",
+      "Answer 3": "En cada circunscripción atendiendo a criterios de representación proporcional.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Por cuántos años es elegido el Congreso de los Diputados?       ",
+      "Answer 1": "Por cuatro años.",
+      "Answer 2": "Por cinco años.",
+      "Answer 3": "Por seis años.",
+      "Answer 4": "Por los que se recoja en la convocatoria de las elecciones.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuándo termina el mandato de los Diputados?       ",
+      "Answer 1": "De manera irrenunciable cuatro años después de su elección.",
+      "Answer 2": "Cuatro años después de su elección o el día de la disolución de la Cámara.",
+      "Answer 3": "Improrrogablemente a los ocho años de su primera elección como Diputados.",
+      "Answer 4": "Cuatro años después de su elección o el día de la convocatoria de la nueva Cámara.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quiénes son electores y elegibles al Congreso de los Diputados?       ",
+      "Answer 1": "Todos las personas que estén en pleno uso de sus derechos políticos.",
+      "Answer 2": "Todos los españoles que estén en pleno uso de sus derechos políticos.",
+      "Answer 3": "Serán electores todos los ciudadanos españoles y elegibles todos los ciudadanos españoles que estén en pleno uso de sus derechos políticos.",
+      "Answer 4": "Todos los españoles que estén en pleno uso de sus derechos administrativos.",
+      "Answer": 2
+    },
+    {
+      "Title": "En relación con el derecho de sufragio a los españoles que se encuentren fuera del territorio de España a las elecciones al Congreso:       ",
+      "Answer 1": "La ley recomendara y el Estado facilitara su conocimiento.",
+      "Answer 2": "La Constitución recogerá y el Estado facilitará su ejercicio.",
+      "Answer 3": "La ley reconocerá y el Estado facilitará su ejercicio.",
+      "Answer 4": "La ley reconocerá y el Estado obligará a su ejercicio.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuándo tendrán lugar las elecciones al Congreso de los Diputados?       ",
+      "Answer 1": "Entre los treinta días y cuarenta y cinco días desde la terminación del mandato.",
+      "Answer 2": "En el plazo de los treinta días desde la terminación del mandato.",
+      "Answer 3": "En el plazo de los sesenta días posteriores a la terminación del mandato.",
+      "Answer 4": "Entre los treinta días y sesenta días desde la terminación del mandato.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuándo será convocado el Congreso de los Diputados electo?       ",
+      "Answer 1": "Dentro de los treinta días siguientes a la celebración de las elecciones.",
+      "Answer 2": "Entre los treinta y sesenta días desde la celebración de las elecciones.",
+      "Answer 3": "Dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+      "Answer 4": "El día que venga recogido en el Real Decreto de la convocatoria.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál es la Cámara de representación territorial?       ",
+      "Answer 1": "El Senado.",
+      "Answer 2": "El Congreso.",
+      "Answer 3": "El Senado y el Congreso.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos Senadores se elegirán en cada provincia?       ",
+      "Answer 1": "Dos.",
+      "Answer 2": "Cuatro.",
+      "Answer 3": "Se asignará una representación mínima inicial a cada circunscripción y se distribuirán los demás en proporción a la población.   ",
+      "Answer 4": "Uno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Senadores se elegirán en cada Provincia:       ",
+      "Answer 1": "Por sufragio general, libre, igual, directo y secreto, en los términos que establezca la ley.",
+      "Answer 2": "Por sufragio nacional, libre, igual, directo y secreto, en los términos que establezca la ley.",
+      "Answer 3": "Por sufragio universal, libre, igual, directo o indirecto y secreto, en los términos que establezca la ley.",
+      "Answer 4": "Por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.",
+      "Answer": 4
+    },
+    {
+      "Title": "En las elecciones al Senado:       ",
+      "Answer 1": "En las provincias insulares, cada isla  constituirá una circunscripción a efectos de elección de Senadores.",
+      "Answer 2": "En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores.",
+      "Answer 3": "En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, eligiendo cada una de ellas tres Senadores.",
+      "Answer 4": "Los territorios insulares constituirán una circunscripción a efectos de elección de Senadores.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de las siguientes islas o agrupaciones elegirán tres Senadores?       ",
+      "Answer 1": "Tenerife y La Palma",
+      "Answer 2": "Tenerife, Hierro y Lanzarote.",
+      "Answer 3": "Gran Canaria y Mallorca.",
+      "Answer 4": "Ibiza-Formentera, Menorca y Fuerteventura.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes islas o agrupaciones elegirán tres Senadores?       ",
+      "Answer 1": "Gran Canaria, Mallorca, La Palma y Tenerife.",
+      "Answer 2": "Gran Canaria, Mallorca y Formentera.",
+      "Answer 3": "Gran Canaria, Mallorca y La Palma",
+      "Answer 4": "Gran Canaria, Mallorca y Tenerife.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de las siguientes islas o agrupaciones elegirán un Senador?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Ibiza-Formentera y Menorca.",
+      "Answer 3": "Fuerteventura, Gomera.",
+      "Answer 4": "Hierro, Lanzarote y La Palma.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos Senadores elegirán las poblaciones de Ceuta y melilla?       ",
+      "Answer 1": "Cuatro cada una de ellas.",
+      "Answer 2": "Uno cada una de ellas.",
+      "Answer 3": "Dos cada una de ellas.",
+      "Answer 4": "Tres entre las dos.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con la elección de Senadores:       ",
+      "Answer 1": "Las Comunidades Autónomas designarán los cuatros Senadores y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Answer 2": "Las Comunidades Autónomas designarán un Senador y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Answer 3": "Cada Provincia designará, además, un Senador y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Answer 4": "Las Comunidades Autónomas designarán dos Senadores y otro más por cada millón de habitantes de su respectivo territorio.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién elegirá a los Senadores designados por las Comunidades Autónomas?       ",
+      "Answer 1": "Exclusivamente la Asamblea Legislativa, de acuerdo con lo que establezcan los Estatutos.",
+      "Answer 2": "La Asamblea Legislativa o, en su defecto, el órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezcan los Estatutos.",
+      "Answer 3": "La Asamblea Legislativa o, en su defecto, el órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezca una ley ordinaria.",
+      "Answer 4": "Los Delegados del Gobierno de las respectivas Comunidades Autónomas.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Asambleas Legislativas o, en su defecto, el órgano colegiado superior de las Comunidades Autónomas, designarán un Senador y otro más por cada millón de habitantes, de acuerdo con lo que establezcan los Estatutos:       ",
+      "Answer 1": "Qué asegurarán, en todo caso, la adecuada representación proporcional.",
+      "Answer 2": "Qué asegurarán, en todo caso, la adecuada representación territorial.",
+      "Answer 3": "Qué asegurarán, de manera recomendada, la adecuada representación territorial.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Por cuántos años es elegido el Senado?       ",
+      "Answer 1": "Por cuatro años.",
+      "Answer 2": "Por cinco años.",
+      "Answer 3": "Por tres años.",
+      "Answer 4": "Por seis años.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuándo termina el mandato de los Senadores?       ",
+      "Answer 1": "De manera irrenunciable cuatro años después de su elección.",
+      "Answer 2": "Cuatro años después de su elección o el día de la disolución de la Cámara.",
+      "Answer 3": "Improrrogablemente a los ocho años de su primera elección como Diputados.",
+      "Answer 4": "Cuatro años después de su elección o el día de la convocatoria de la nueva Cámara.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Dónde se determinará las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores según la Constitución?       ",
+      "Answer 1": "En la convocatoria de elecciones.",
+      "Answer 2": "En el Reglamento de las Cortes Generales.",
+      "Answer 3": "En la ley electoral.",
+      "Answer 4": "En la Ley de Incompatibilidades de los miembros de las Cámaras.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes es causa de inelegibilidad e incompatibilidad de los Diputados y de los Senadores?       ",
+      "Answer 1": "Altos cargos de la Administración del Estado que determine la ley, con la excepción de los miembros del Gobierno.",
+      "Answer 2": "Componentes del Tribunal Constitucional.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": "Defensor del Pueblo.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes no es correcta en relación con las causas de inelegibilidad e incompatibilidad de los Diputados y de los Senadores?       ",
+      "Answer 1": "Miembros de las Juntas Electorales.",
+      "Answer 2": "Magistrados, Jueces y Fiscales en activo.",
+      "Answer 3": "Militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo.",
+      "Answer 4": "Altos cargos de la Administración del Estado que determine la ley, incluyendo a los miembros del Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "La validez de las actas y credenciales de los miembros de ambas Cámaras:       ",
+      "Answer 1": "Estará sometida al control judicial, en los términos que establezca la ley electoral.",
+      "Answer 2": "Estará sometida al control de las Cámaras, en los términos que establezca la ley electoral.",
+      "Answer 3": "Estará sometida al control policial, en los términos que establezca la ley electoral.",
+      "Answer 4": "Estará sometida al control judicial y policial, en los términos que establezca la ley electoral.",
+      "Answer": 1
+    },
+    {
+      "Title": "Estará sometida al control judicial, en los términos que establezca la ley electoral, la validez de:       ",
+      "Answer 1": "Las actas, credenciales y referencias de los miembros de ambas Cámaras.",
+      "Answer 2": "Las actas y credenciales de los miembros de ambas Cámaras.",
+      "Answer 3": "Las actas y credenciales de los miembros del Congreso, no incluyéndose en este control a los miembros del Senado.",
+      "Answer 4": "Únicamente las credenciales de los miembros de ambas Cámaras.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Diputados y Senadores:       ",
+      "Answer 1": "No gozarán de inviolabilidad por opiniones manifestadas en el ejercicio de sus funciones y que sean contrarias al interés general.",
+      "Answer 2": "Gozarán de inviolabilidad por las opiniones manifestadas durante los cuatro años de su elección.",
+      "Answer 3": "Gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+      "Answer 4": "No gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Diputados y Senadores gozarán:       ",
+      "Answer 1": "De inmunidad y no podrán ser detenidos en caso de flagrante delito.",
+      "Answer 2": "De inmunidad, incluso terminado el mandato.",
+      "Answer 3": "De inmunidad durante el período de su mandato.",
+      "Answer 4": "De inviolabilidad por cualquier opinión realizada durante y tras el mandato.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En qué caso podrán ser detenidos los Diputados y Senadores durante su mandato?       ",
+      "Answer 1": "El régimen de detenciones de los miembros de las Cámaras es igual que el del resto de los ciudadanos.",
+      "Answer 2": "Sólo en caso de flagrante delito.",
+      "Answer 3": "En caso de flagrante delito y de acciones que levanten alarma social.",
+      "Answer 4": "En caso de flagrante delito o de decisión policial.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Diputados y Senadores, sin la previa autorización de la Cámara respectiva:       ",
+      "Answer 1": "No podrán ser inculpados, aunque sí procesados.",
+      "Answer 2": "No podrán ser inculpados ni procesados.",
+      "Answer 3": "No podrán ser procesados, aunque sí inculpados.",
+      "Answer 4": "Únicamente podrán ser inculpados.",
+      "Answer": 2
+    },
+    {
+      "Title": "En las causas contra Diputados y Senadores será competente:       ",
+      "Answer 1": "El Juzgado de lo Penal que corresponda.",
+      "Answer 2": "La Sala de lo Penal del Tribunal Supremo.",
+      "Answer 3": "El Juzgado que corresponda dependiendo del tipo de infracción.",
+      "Answer 4": "La Sala de lo Penal de la Audiencia Nacional",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Diputados y Senadores percibirán una asignación:       ",
+      "Answer 1": "Que será fijada por el Presidente de la respectiva Cámara.",
+      "Answer 2": "Que será fijada por las Cámaras en sesión conjunta.",
+      "Answer 3": "Que será fijada por la respectiva Cámara.",
+      "Answer 4": "Que será fijada por el Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes frases es correcta en relación con las Cámaras?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Establecen sus propios Reglamentos.",
+      "Answer 3": "Aprueban autónomamente sus presupuestos.",
+      "Answer 4": "De común acuerdo, regulan el Estatuto de Personal de las Cortes Generales.",
+      "Answer": 1
+    },
+    {
+      "Title": "En relación con el Congreso de los Diputados y el Senado:       ",
+      "Answer 1": "Establecen sus propios Reglamentos.",
+      "Answer 2": "Aprueban conjuntamente sus presupuestos.",
+      "Answer 3": "Regulan el Estatuto del Personal de cada Cámara.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los Reglamentos del Congreso de los Diputados y del Senado y su reforma:       ",
+      "Answer 1": "Se votarán en sesión conjunta.",
+      "Answer 2": "Serán sometidos a votaciones parciales sobre el mismo tema, que requerirá la mayoría absoluta.",
+      "Answer 3": "Serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría de los miembros presentes en la votación.",
+      "Answer 4": "Serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quiénes eligen a los Presidentes y los miembros de las Mesas del Congreso de los Diputados y del Senado?       ",
+      "Answer 1": "Cada Cámara respectiva.",
+      "Answer 2": "Las Cámaras reunidas en sesión conjunta.",
+      "Answer 3": "El Gobierno.",
+      "Answer 4": "La Comisión de Personal de cada una de las Cámaras.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién ejercerá todos los poderes administrativos y facultades de policía en el  interior de las Cámaras?       ",
+      "Answer 1": "El Letrado Mayor de las Cortes Generales.",
+      "Answer 2": "El Presidente del Congreso, tanto en la sede del Congreso de los Diputados, como en la del Senado.",
+      "Answer 3": "El Presidente de cada Cámara y en nombre de la misma.",
+      "Answer 4": "El Presidente de cada Cámara y en su nombre propio.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las sesiones conjuntas de las Cámaras:       ",
+      "Answer 1": "Se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de ambas Cámaras.",
+      "Answer 2": "Se regirán por el Reglamento del Congreso.",
+      "Answer 3": "Se regirán por un Reglamento de las Cortes Generales aprobado por mayoría simple de cada Cámara.",
+      "Answer 4": "Se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién presidirá las sesiones conjuntas de las Cámaras?       ",
+      "Answer 1": "El Presidente del Senado.",
+      "Answer 2": "El Presidente del Congreso.",
+      "Answer 3": "Alternativamente el Presidente del Congreso de los Diputados y el Presidente del Senado.",
+      "Answer 4": "El Rey.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Presidentes de las Cámaras ejercen:       ",
+      "Answer 1": "En nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.",
+      "Answer 2": "En su propio nombre todos los poderes administrativos y facultades de justicia en el interior de sus respectivas sedes.",
+      "Answer 3": "En nombre de las mismas todos los poderes administrativos y judiciales en el interior de sus respectivas sedes.",
+      "Answer 4": "Ejercerán, únicamente, todos los poderes administrativos en el interior de sus respectivas sedes.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cámaras se reunirán anualmente:       ",
+      "Answer 1": "En tres períodos extraordinarios de sesiones.",
+      "Answer 2": "En dos períodos conjuntos de sesiones.",
+      "Answer 3": "En dos períodos extraordinarios de sesiones.",
+      "Answer 4": "En dos períodos ordinarios de sesiones.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los períodos ordinarios de sesiones de las Cámaras serán, según la Constitución:       ",
+      "Answer 1": "El primero, de septiembre a enero, y el segundo, de febrero a mayo.",
+      "Answer 2": "El primero, de octubre a diciembre, y el segundo de, febrero a junio.",
+      "Answer 3": "El primero, de septiembre a diciembre, y el segundo, de febrero a junio.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Cámaras podrán reunirse en sesiones extraordinarias a petición:       ",
+      "Answer 1": "Del Gobierno, de la Diputación Permanente o de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+      "Answer 2": "Del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+      "Answer 3": "Del Gobierno, de la Diputación Permanente, de la Mesa o de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+      "Answer 4": "Del Gobierno, de la Diputación Permanente, de sus respectivos Presidentes o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las sesiones extraordinarias de las Cámaras:       ",
+      "Answer 1": "Deberán convocarse sobre un orden del día determinado.",
+      "Answer 2": "Podrán convocarse sobre un orden del día determinado.",
+      "Answer 3": "Deberán convocarse sobre un orden del día determinado, con la única excepción de las sesiones secretas.",
+      "Answer 4": "Deberán convocarse sobre un orden del día determinado, con la única excepción de las relativas a las incompatibilidades de los miembros de las mismas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cámaras se reunirán en sesión conjunta:       ",
+      "Answer 1": "Para ejercer las competencias legislativas que el Título II atribuye expresamente a las Cortes Generales.",
+      "Answer 2": "Para ejercer las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales.",
+      "Answer 3": "Para aprobar las Leyes Orgánicas.",
+      "Answer 4": "Para nombrar a los miembros del Tribunal Constitucional.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución, ¿Qué decisiones de las Cortes Generales se adoptarán por mayoría de cada una de las Cámaras?       ",
+      "Answer 1": "Las de las competencias legislativas que el Título II atribuye expresamente a las Cortes Generales.",
+      "Answer 2": "Las previstas en el Título I de la Constitución.",
+      "Answer 3": "Las previstas en los artículos 94.1, 145.2 y 158.2 de la Constitución.",
+      "Answer 4": "Las previstas en los artículos 95.1, 144.2 y 155.2 de la Constitución.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes decisiones de las Cortes Generales se adoptarán por mayoría de cada una de las Cámaras según el artículo 74 de la Constitución Española?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "La prestación del consentimiento del Estado para obligarse por medio de tratados o convenios en los casos previstos en el artículo 94.1 de la Constitución.",
+      "Answer 3": "La autorización de acuerdos de cooperación entre las Comunidades Autónomas en los casos no previstos en los Estatutos de Autonomía.",
+      "Answer 4": "La distribución de los recursos del Fondo de Compensación, con destino a gastos de inversión, entre las Comunidades Autónomas y provincias, en su caso.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 74 de la Constitución, ciertas decisiones de las Cortes Generales se adoptarán por mayoría de cada una de las Cámaras. En este caso:       ",
+      "Answer 1": "El procedimiento comenzará en el Senado en el caso previsto en los artículos 145.2 y 158.2 y comenzará en el Congreso en el caso previsto en el artículo 94.1.",
+      "Answer 2": "El procedimiento comenzará en el Congreso en el caso previsto en los artículos 142.2 y 158.2 y comenzará en el Senado en el caso previsto en el artículo 94.1.",
+      "Answer 3": "El procedimiento siempre se iniciará en el Senado como Cámara de representación territorial.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "En el caso de las decisiones de las Cortes Generales que, según el artículo 74 de la Constitución, se deben adoptar por mayoría de cada una de las Cámaras:       ",
+      "Answer 1": "Si no hubiera acuerdo entre Senado y Congreso, bastará con la mayoría absoluta el Senado.",
+      "Answer 2": "Si no hubiera acuerdo entre Senado y Congreso, se intentará obtener por una Comisión Mixta compuesta por igual número de Diputados y Senadores.",
+      "Answer 3": "Si no hubiera acuerdo entre Senado y Congreso decidirá el Congreso por mayoría absoluta, en todo caso.",
+      "Answer 4": "Si no hubiera acuerdo entre Senado y Congreso, se intentará obtener por mediante acuerdo de sus respectivos Presidentes.",
+      "Answer": 2
+    },
+    {
+      "Title": "En las decisiones de las Cortes Generales que según el artículo 74 de la Constitución se adoptarán por mayoría de cada una de las Cámaras. Si no hubiera acuerdo entre Senado y Congreso, se creará una Comisión Mixta que:       ",
+      "Answer 1": "Presentará un texto que será votado por ambas Cámaras y si no se aprueba en la forma establecida, decidirá el Congreso por mayoría absoluta.",
+      "Answer 2": "Presentará un texto que será votado por las Cámaras en sesión conjunta y si no se aprueba en la forma establecida, quedará denegada la propuesta.",
+      "Answer 3": "Presentará un texto que será votado por ambas Cámaras y si no se aprueba en la forma establecida, decidirá el Congreso por mayoría simple.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cámaras funcionan:       ",
+      "Answer 1": "Únicamente en Pleno.",
+      "Answer 2": "En Pleno, en Comisiones y en Subcomisiones.",
+      "Answer 3": "En Pleno, en Comisiones y en Reuniones.",
+      "Answer 4": "En Pleno y por Comisiones.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las Cámaras podrán delegar la aprobación de proyectos y proposiciones de ley en:       ",
+      "Answer 1": "Cualquier Comisión.",
+      "Answer 2": "Las Comisiones Legislativas Permanentes.",
+      "Answer 3": "Las Comisiones Legislativas Permanentes y No Permanentes.",
+      "Answer 4": "No se podrá delegar la aprobación de proyectos y proposiciones de ley en las Comisiones.",
+      "Answer": 2
+    },
+    {
+      "Title": "En caso de que las Cámaras  deleguen en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley:       ",
+      "Answer 1": "El Pleno podrá recabar en cualquier momento el debate y votación de cualquier proyecto o proposición de ley que haya sido objeto de esta delegación.",
+      "Answer 2": "El Pleno no podrá recabar el debate y votación de proyectos o proposiciones de ley que haya sido objeto de delegación.",
+      "Answer 3": "El Pleno no podrá recabar el debate y votación de proyectos o proposiciones de ley que haya sido objeto de delegación, excepto cuando esta delegación se haya realizado a una Comisión Legislativa Permanente.",
+      "Answer 4": "Las Cámaras no podrán delegar la aprobación de proyectos o proposiciones de ley en ninguna Comisión.",
+      "Answer": 1
+    },
+    {
+      "Title": "No será posible delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley sobre:       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "La reforma constitucional y las leyes orgánicas.",
+      "Answer 3": "Las cuestiones internacionales.",
+      "Answer 4": "Las leyes de bases y los Presupuestos Generales del Estado.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Comisiones de investigación sobre asuntos de interés público:       ",
+      "Answer 1": "Podrán ser nombradas por el Congreso, el Senado y, en su caso, ambas Cámaras conjuntamente.",
+      "Answer 2": "Únicamente podrán ser nombradas por el Congreso.",
+      "Answer 3": "Únicamente podrán ser nombradas por el Congreso y el Senado de manera independiente.",
+      "Answer 4": "Únicamente podrán ser nombradas por el Senado.",
+      "Answer": 1
+    },
+    {
+      "Title": "En relación con las Comisiones de investigación:       ",
+      "Answer 1": "Sus conclusiones tomarán la forma de resoluciones judiciales.",
+      "Answer 2": "Sus conclusiones serán vinculantes para los Tribunales.",
+      "Answer 3": "Sus conclusiones deberán ser tenidas en cuenta por los Tribunales.",
+      "Answer 4": "Sus conclusiones no serán vinculantes para los Tribunales.",
+      "Answer": 4
+    },
+    {
+      "Title": "En relación con las Comisiones de investigación:       ",
+      "Answer 1": "Sus conclusiones deberán vincular a las resoluciones judiciales.",
+      "Answer 2": "Sus conclusiones afectarán a las resoluciones judiciales.",
+      "Answer 3": "Sus conclusiones tomarán la forma de resoluciones judiciales.",
+      "Answer 4": "Sus conclusiones no afectarán a las resoluciones judiciales.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las conclusiones de las Comisiones de investigación no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales:       ",
+      "Answer 1": "Sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.",
+      "Answer 2": "Sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, en todo caso, de las acciones oportunas.",
+      "Answer 3": "Sin perjuicio de que el resultado de la investigación sea comunicado al Ministro de Justicia para el ejercicio, si procede, de las acciones oportunas.",
+      "Answer 4": "Sin perjuicio de que el resultado de la investigación sea comunicado al Consejo General del Poder Judicial para el ejercicio, cuando proceda, de las acciones oportunas.",
+      "Answer": 1
+    },
+    {
+      "Title": "A requerimiento de las Cámaras:       ",
+      "Answer 1": "Será obligatorio comparecer.",
+      "Answer 2": "Será recomendable comparecer.",
+      "Answer 3": "No será obligatorio comparecer, a excepción de una resolución judicial.",
+      "Answer 4": "Será obligatorio comparecer con asistencia de un Letrado.",
+      "Answer": 1
+    },
+    {
+      "Title": "En el caso de incomparecencia a requerimiento de las Cámaras:       ",
+      "Answer 1": "Los Reglamentos de las Cámaras regularán las sanciones que puedan imponerse.",
+      "Answer 2": "La ley regulará las sanciones que puedan imponerse.",
+      "Answer 3": "Los Jueces regularán las sanciones que puedan imponerse.",
+      "Answer 4": "Los Presidentes de las Cámaras regularán las sanciones que puedan imponerse.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Cámaras pueden:       ",
+      "Answer 1": "Recibir peticiones individuales y colectivas.",
+      "Answer 2": "Recibir, exclusivamente, peticiones individuales.",
+      "Answer 3": "Recibir, exclusivamente, peticiones colectivas.",
+      "Answer 4": "Recibir peticiones individuales, colectivas y mixtas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cámaras pueden recibir peticiones individuales y colectivas:       ",
+      "Answer 1": "Siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "Answer 2": "Oralmente o por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "Answer 3": "Oralmente o por escrito, siendo posible la presentación directa por manifestaciones ciudadanas.",
+      "Answer 4": "Las Cámara únicamente pueden recibir peticiones individuales.",
+      "Answer": 1
+    },
+    {
+      "Title": "En relación con las peticiones que reciban las Cámaras:       ",
+      "Answer 1": "Deben remitirlas al Gobierno, y este está obligado a explicarse sobre su contenido en todo caso.",
+      "Answer 2": "Deben remitirlas al Gobierno, y este está obligado a explicarse sobre su contenido, siempre que las Cámaras lo exijan.",
+      "Answer 3": "Pueden remitirlas al Gobierno, y este está obligado a explicarse sobre su contenido, siempre que las Cámaras lo exijan.",
+      "Answer 4": "Pueden remitirlas al Gobierno, y este está obligado a explicarse sobre su contenido en todo caso.",
+      "Answer": 3
+    },
+    {
+      "Title": "En las Cámaras habrá una Diputación Permanente:       ",
+      "Answer 1": "Para cada una de las Cámaras.",
+      "Answer 2": "Conjunta.",
+      "Answer 3": "Secreta.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Diputaciones Permanentes de las Cámaras estarán compuestas por:       ",
+      "Answer 1": "Un máximo de veintiún miembros, que representarán a los ciudadanos.",
+      "Answer 2": "Un máximo de veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica.",
+      "Answer 3": "Un mínimo de veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica.",
+      "Answer 4": "Veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién presidirá las Diputaciones Permanentes de las Cámaras?       ",
+      "Answer 1": "Uno de los miembros, mediante elección, de la Mesa de la Cámara respectiva.",
+      "Answer 2": "El Diputado o Senador que sea elegido por la respectiva Diputación Permanente.",
+      "Answer 3": "Un miembro del Gobierno.",
+      "Answer 4": "El Presidente de la Cámara respectiva.",
+      "Answer": 4
+    },
+    {
+      "Title": "Entre las funciones de las Diputaciones Permanentes estarán:       ",
+      "Answer 1": "La prevista en el artículo 76 de la Constitución.",
+      "Answer 2": "La prevista en el artículo 74 de la Constitución.",
+      "Answer 3": "La prevista en el artículo 75 de la Constitución.",
+      "Answer 4": "La prevista en el artículo 73 de la Constitución.",
+      "Answer": 4
+    },
+    {
+      "Title": "Entre las funciones de las Diputaciones Permanentes, en el caso de que las Cámaras hubieren sido disueltas o hubiere expirado su mandato, estarán:       ",
+      "Answer 1": "La de asumir las facultades que correspondan a las Cámaras, de acuerdo con los artículo 85 y 166 de la Constitución.",
+      "Answer 2": "La de asumir las facultades que correspondan a las Cámaras, de acuerdo con los artículo 85 y 116 de la Constitución.",
+      "Answer 3": "La de asumir las facultades que correspondan a las Cámaras, de acuerdo con los artículo 86 y 116 de la Constitución.",
+      "Answer 4": "Ninguna de las otras respuestas es correcta.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes no es una función de las Diputaciones Permanentes de las Cámaras?       ",
+      "Answer 1": "Solicitar que las Cámaras se reúnan en sesión extraordinaria.",
+      "Answer 2": "Velar por los poderes de las Cámaras cuando éstas se encuentren reunidas.",
+      "Answer 3": "En caso de expiración del mandato de las Cámaras, autorizar la declaración del Estado de Excepción.",
+      "Answer 4": "En caso de que las Cámaras hubieran sido disueltas o hubiese expirado el mandato, debatir y aprobar un Decreto Ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "Entre las funciones de las Diputaciones Permanentes se encuentra:       ",
+      "Answer 1": "Velar por los poderes de las Cámaras cuando éstas no estén reunidas.",
+      "Answer 2": "Velar por los poderes de las Cámaras incluso cuando éstas se encuentren reunidas.",
+      "Answer 3": "Velar por los poderes de las Cámaras durante toda la legislatura.",
+      "Answer 4": "Velar por los poderes de la respectiva Diputación Permanente cuando éstas no estén reunidas.",
+      "Answer": 1
+    },
+    {
+      "Title": "En caso de expirado el mandato o en caso de disolución de las Cámaras ¿hasta cuándo seguirán ejerciendo sus funciones las Diputaciones Permanentes?       ",
+      "Answer 1": "Hasta la celebración de las nuevas elecciones.",
+      "Answer 2": "Hasta la constitución de las nuevas Cortes Generales.",
+      "Answer 3": "Hasta cumplir los cuatro años de la legislatura.",
+      "Answer 4": "Hasta la constitución del nuevo Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "Una vez reunida la Cámara correspondiente:       ",
+      "Answer 1": "La Diputación Permanente dará cuenta de los asuntos tratados y de sus decisiones y pidiendo la aprobación de los mismos.",
+      "Answer 2": "La Diputación Permanente dará cuenta de los asuntos tratados y de las decisiones que se deban adoptar.",
+      "Answer 3": "La Diputación Permanente dará cuenta de los asuntos tratados y de sus decisiones.",
+      "Answer 4": "La Diputación Permanente quedará disuelta de manera automática hasta una nueva disolución.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros:       ",
+      "Answer 1": "Para adoptar acuerdos.",
+      "Answer 2": "En todo caso.",
+      "Answer 3": "Para ejercer las competencias legislativas que el Título IV atribuye, expresamente, a las Cortes Generales.",
+      "Answer 4": "Salvo decisión del Presidente de la Cámara respectiva.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los acuerdos de las Cámaras, como norma general, para ser válidos deberán ser aprobados:       ",
+      "Answer 1": "Por la mayoría de los miembros de la respectiva Cámara.",
+      "Answer 2": "Por la mayoría absoluta de los miembros presentes.",
+      "Answer 3": "Por mayoría de tres quintos de sus miembros.",
+      "Answer 4": "Por la mayoría de los miembros presentes.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los acuerdos de las Cámaras para ser válidos deberán ser aprobados por la mayoría de los miembros presentes, sin perjuicio de las mayorías especiales que establezcan:       ",
+      "Answer 1": "Los Reglamentos de las Cámaras para elección de personas.",
+      "Answer 2": "Las Constitución.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": "Las leyes orgánicas.",
+      "Answer": 3
+    },
+    {
+      "Title": "El voto de Senadores y Diputados:       ",
+      "Answer 1": "Es personal y delegable, únicamente, en el Portavoz del correspondientes Grupo Parlamentario.",
+      "Answer 2": "Es personal y delegable en cualquier miembro de su mismo Grupo Parlamentario.",
+      "Answer 3": "Es personal e indelegable.",
+      "Answer 4": "Es común e indelegable.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las sesiones plenarias de las Cámaras:       ",
+      "Answer 1": "Serán a puerta cerrada, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría con arreglo al Reglamento.",
+      "Answer 2": "Serán secretas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta con arreglo al Reglamento.",
+      "Answer 3": "Serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta con arreglo al Reglamento.",
+      "Answer 4": "Serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría simple con arreglo al Reglamento.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes serán leyes orgánicas?       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "Las Que aprueben los Estatutos de Autonomía y el régimen electoral general.",
+      "Answer 3": "Las previstas en la Constitución.",
+      "Answer 4": "Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué mayoría exigirá la aprobación, modificación o derogación de las leyes orgánicas?       ",
+      "Answer 1": "Mayoría de tres quintos del Congreso, en  una votación final sobre el conjunto del proyecto.",
+      "Answer 2": "Mayoría absoluta del Congreso y del Senado, en una votación final sobre el conjunto del proyecto.",
+      "Answer 3": "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+      "Answer 4": "Mayoría absoluta del Congreso, en una votación final sobre el articulado del proyecto.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién podrá delegar en el Gobierno la potestad de dictar normas con rango de ley orgánica?       ",
+      "Answer 1": "No es posible delegar la potestad de dictar normas con rango de ley orgánica.",
+      "Answer 2": "El Congreso de los Diputados.",
+      "Answer 3": "Las Cortes Generales.",
+      "Answer 4": "El Congreso de los Diputados o el Senado.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cortes Generales podrán delegar en el Gobierno:       ",
+      "Answer 1": "La potestad de dictar normas con rango de ley sobre materias determinadas no incluidas en el artículo 81 de la Constitución Española.",
+      "Answer 2": "La potestad de dictar normas con rango de ley sobre cualquier materia.",
+      "Answer 3": "La potestad de dictar normas con rango de ley sobre materias determinadas no incluidas en el artículo 82 de la Constitución Española.",
+      "Answer 4": "La potestad de dictar normas con rango de ley mediante los correspondientes Reglamentos, siempre que no se trate de leyes ordinarias u orgánicas.",
+      "Answer": 1
+    },
+    {
+      "Title": "La delegación legislativa:       ",
+      "Answer 1": "Ninguna de las otras respuestas es correcta.",
+      "Answer 2": "Deberá otorgarse mediante una ley de bases cuando se trate de refundir varios textos legales en unos solo.",
+      "Answer 3": "Deberá otorgarse mediante una ley orgánica cuando se trate de refundir varios textos legales en uno solo.",
+      "Answer 4": "Deberá otorgarse mediante una ley orgánica en cualquier caso.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué caso la delegación legislativa se otorgará mediante una ley de bases?       ",
+      "Answer 1": "Cuando el objeto sea la formación de textos sin articular.",
+      "Answer 2": "Cuando su objeto sea la formación de textos articulados.",
+      "Answer 3": "Cuando se trate de refundir varios textos legales en uno solo.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué caso la delegación legislativa se otorgará mediante una ley ordinaria?       ",
+      "Answer 1": "Cuando su objeto sea la formación de textos articulados.",
+      "Answer 2": "*Cuando se trate de refundir varios textos legales en uno solo.",
+      "Answer 3": "La respuesta marcada *, pero se otorgará mediante una ley orgánica.",
+      "Answer 4": "Ninguna respuesta es correcta.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se otorga la delegación legislativa al Gobierno?       ",
+      "Answer 1": "De formas general para materias concretas y con o sin plazo para su ejercicio, dependiendo de la materia.",
+      "Answer 2": "De forma tácita para materias genéricas y sin fijación del plazo para su ejercicio.",
+      "Answer 3": "De forma concreta para materia genérica y con fijación del plazo para su ejercicio.",
+      "Answer 4": "De forma expresa para materia concreta y con fijación del plazo para su ejercicio.",
+      "Answer": 4
+    },
+    {
+      "Title": "Respecto a la delegación legislativa:       ",
+      "Answer 1": "*Se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente.",
+      "Answer 2": "*Se inicia por el uso que de ella haba el Gobierno mediante el comienzo de la tramitación de la norma correspondiente.",
+      "Answer 3": "Se agota por el uso que de ella haga el Gobierno mediante la votación de la norma correspondiente.",
+      "Answer 4": "Las dos respuestas marcadas \"*\" son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "La delegación legislativa:       ",
+      "Answer 1": "No podrá entenderse concedida de modo explícito o por tiempo indeterminado.",
+      "Answer 2": "Podrá entenderse concedida de modo explícito o por tiempo indeterminado en el caso de que el objeto sea refundir varios textos legales en uno solo.",
+      "Answer 3": "No podrá entenderse concedida de modo implícito o por tiempo indeterminado.",
+      "Answer 4": "No podrá entenderse concedida de modo implícito o explícito o por tiempo indeterminado.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con la delegación legislativa:       ",
+      "Answer 1": "No es posible permitir la subdelegación a autoridades distintas del propio Gobierno.",
+      "Answer 2": "Es posible permitir la subdelegación únicamente en materias que no necesiten regularse mediante una ley orgánica.",
+      "Answer 3": "La subdelegación únicamente se permitirá si así está recogido en la ley de bases o ley ordinaria que conceda la delegación legislativa en el Gobierno.",
+      "Answer 4": "La subdelegación es posible realizarse en cualquier caso.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las leyes de bases:       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "Delimitarán con precisión los principios que han de seguirse para su ejercicio.",
+      "Answer 3": "Delimitarán con precisión los criterios que han de seguirse en su ejercicio.",
+      "Answer 4": "Delimitarán con precisión el objeto y alcance de la delegación legislativa.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué determinará la autorización para refundir textos legales?       ",
+      "Answer 1": "El ámbito ejecutivo a que se refiere el contenido de la delegación.",
+      "Answer 2": "El ámbito jerárquico que se otorgará al texto legal refundido.",
+      "Answer 3": "* El ámbito normativo a que se refiere el contenido de la delegación.",
+      "Answer 4": "La respuesta marcada \"*\", delimitando con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio.",
+      "Answer": 3
+    },
+    {
+      "Title": "La autorización para refundir textos legales determinará el ámbito normativo a que se refiere el contenido de la delegación, especificando:       ",
+      "Answer 1": "Si es posible entenderse concedida de modo implícito.",
+      "Answer 2": "Qué se debe circunscribir a la formulación de un texto único.",
+      "Answer 3": "Si se circunscribe a la mera formulación de un texto único o si se incluye la de regularizar, aclara y armonizar los textos legales que han de ser refundidos.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Podrán establecer las leyes de delegación fórmulas adicionales de control?       ",
+      "Answer 1": "No podrán establecer fórmulas adicionales de control, estableciéndose dicho control a través de la competencia propia de los Tribunales.",
+      "Answer 2": "Si podrán establecer en cada caso fórmulas adicionales de control, sin perjuicio de la competencia propia de los Tribunales.",
+      "Answer 3": "* No, las fórmulas de control serán las recogidas en la Constitución.",
+      "Answer 4": "La respuesta marcada \"*\", sin perjuicio de la competencia propia de los Tribunales.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las leyes de bases:       ",
+      "Answer 1": "Podrán autorizar la modificación de la propia ley de base y facultar para dictar normas con carácter retroactivo, siempre que quede recogido en la propia ley de bases.",
+      "Answer 2": "Podrán autorizar la modificación de la propia ley de bases, pero no facultar para dictar normas con carácter retroactivo.",
+      "Answer 3": "No podrán autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo.",
+      "Answer 4": "Únicamente podrán facultar para dictar normas con carácter retroactivo en los supuestos recogidos en la propia ley de bases.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué ocurre cuando una proposición de ley o una enmienda fuera contraria a una delegación legislativa en vigor?       ",
+      "Answer 1": "Las Cortes Generales están facultadas para oponerse a su tramitación.",
+      "Answer 2": "El Gobierno está facultado para oponerse a su tramitación.",
+      "Answer 3": "La delegación legislativa se entenderá finalizada.",
+      "Answer 4": "La nueva proposición de ley o enmienda se incorporará al texto de la delegación legislativa.",
+      "Answer": 2
+    },
+    {
+      "Title": "En el caso de que una proposición de ley o una enmienda fuera contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación:       ",
+      "Answer 1": "En este supuesto podrá presentarse una nueva ley de bases para la derogación total o parcial de la ley de delegación.",
+      "Answer 2": "En este supuesto podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.",
+      "Answer 3": "En caso de que el Gobierno se oponga a su tramitación no será posible presentar una proposición de ley para la derogación total o parcial de la ley de delegación.",
+      "Answer 4": "En ningún caso ya que la proposición de ley o enmienda en contra a la delegación otorgada invalida automáticamente la delegación legislativa.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué título recibirán las disposiciones del Gobierno que contenga legislación delegada?       ",
+      "Answer 1": "Decretos legislativos.",
+      "Answer 2": "Decretos-leyes.",
+      "Answer 3": "Decretos-leyes o decretos legislativos dependiendo si se delegó mediante ley ordinaria o ley de bases respectivamente.",
+      "Answer 4": "Dependiendo el cada caso podrán ser leyes ordinarias, leyes orgánicas, decretos legislativos o decretos-leyes.",
+      "Answer": 1
+    },
+    {
+      "Title": "En caso de extraordinaria y urgente necesidad:       ",
+      "Answer 1": "El Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de Decretos-leyes.",
+      "Answer 2": "El Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de Decretos legislativos.",
+      "Answer 3": "El Gobierno podrá dictar disposiciones legislativas definitivas que tomarán la forma de Decretos legislativos.",
+      "Answer 4": "El Gobierno podrá dictar disposiciones legislativas definitivas que tomarán la forma de Decretos-leyes.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué casos podrá el Gobierno dictar disposiciones legislativas provisionales que tomarán la forma de Decretos-leyes?       ",
+      "Answer 1": "En caso de estar vigente cualquiera de los estados recogidos en el artículo 116 de la Constitución.",
+      "Answer 2": "En caso de extraordinaria y urgente necesidad.",
+      "Answer 3": "En caso de estar autorizado mediante ley ordinaria o una ley de bases.",
+      "Answer 4": "En cualquier caso.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Decretos-leyes dictados por el Gobierno:       ",
+      "Answer 1": "* No podrán afectar al ordenamiento de las instituciones generales del Estado, a los derechos y deberes y libertades de los ciudadanos regulados en la Constitución, al régimen de las Comunidades Autónomas ni al Derecho electoral general.",
+      "Answer 2": "No podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos y deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general.",
+      "Answer 3": "Podrán afectar a cualquier asunto siempre que sea un caso de extraordinaria y urgente necesidad.",
+      "Answer 4": "La respuesta marcada \"*\", pero si podrán afectar al régimen de las Comunidades Autónomas.",
+      "Answer": 2
+    },
+    {
+      "Title": "En relación con los Decretos-leyes:       ",
+      "Answer 1": "*Deben ser inmediatamente sometidos a debate y votación de la totalidad al Congreso de los Diputados.",
+      "Answer 2": "Deben ser inmediatamente sometidos a debate y votación de la totalidad al Congreso de los Diputados y Senado.",
+      "Answer 3": "La respuesta marcada \"*\", convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación.",
+      "Answer 4": "La respuesta marcada \"*\", convocado al efecto si no estuviere reunido, en el plazo de los veinte días siguientes a su promulgación.",
+      "Answer": 3
+    },
+    {
+      "Title": "En los Decretos-leyes dictados por el Gobierno:       ",
+      "Answer 1": "El Congreso habrá de pronunciarse expresamente dentro del plazo fijado sobre su convalidación o derogación.",
+      "Answer 2": "Las Cámaras habrán de pronunciarse expresamente dentro del plazo fijado sobre su convalidación o derogación.",
+      "Answer 3": "El Congreso habrá de pronunciarse tácitamente dentro del plazo fijado sobre su convalidación o derogación.",
+      "Answer 4": "Las Cámaras habrán de pronunciarse tácitamente dentro del plazo fijado sobre su convalidación o derogación.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los Decretos-leyes dictados por el Gobierno llevan consigo que el Congreso se pronuncie expresamente en el plazo fijado sobre su convalidación o derogación, para ello:       ",
+      "Answer 1": "La Ley establecerá un procedimiento general y sumario.",
+      "Answer 2": "La Ley establecerá un procedimiento especial y sumario.",
+      "Answer 3": "El Decreto-ley correspondiente establecerá un procedimiento especial y sumario.",
+      "Answer 4": "El Reglamento establecerá un procedimiento especial y sumario.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Qué ocurre con los Decretos-leyes durante el plazo en el que el Congreso se debe pronunciar sobre su convalidación o derogación?       ",
+      "Answer 1": "El Congreso podrá tramitarlos como proyectos de ley por el procedimiento de urgencia.",
+      "Answer 2": "Las Cortes podrán tramitarlos como proyectos de ley por el procedimiento de urgencia.",
+      "Answer 3": "El Congreso podrá tramitarlos como proyectos de ley por el procedimiento ordinario.",
+      "Answer 4": "El Congreso podrá tramitarlos como proposiciones de ley por el procedimiento de urgencia.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los proyectos de ley aprobados en Consejo de Ministro serán sometidos por éste, junto con una exposición de motivos, ante:       ",
+      "Answer 1": "La Cortes Generales.",
+      "Answer 2": "El Senado.",
+      "Answer 3": "El Congreso de los Diputados.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién podrá delegar en el Gobierno la potestad de dictar normas con rango de ley?       ",
+      "Answer 1": "No se pueden delegar normas con rango de ley en el Gobierno.",
+      "Answer 2": "El Senado.",
+      "Answer 3": "El Congreso de los Diputados.",
+      "Answer 4": "Las Cortes Generales.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿A quién corresponde la iniciativa legislativa?       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "A las Asambleas de las Comunidades Autónomas.",
+      "Answer 3": "A la iniciativa popular.",
+      "Answer 4": "Al Gobierno, al Congreso y al Senado.",
+      "Answer": 1
+    },
+    {
+      "Title": "La iniciativa legislativa corresponde, entre otros, al Gobierno, al Congreso y al Senado:       ",
+      "Answer 1": "De acuerdo con lo establecido en la Constitución y en el resto de Leyes Orgánicas.",
+      "Answer 2": "De acuerdo con lo establecido, únicamente, en la Constitución.",
+      "Answer 3": "De acuerdo con la Constitución y los Reglamentos de las Cámaras.",
+      "Answer 4": "De acuerdo con lo establecido en el Reglamento General de las Cortes Generales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Asambleas de las Comunidades Autónomas podrán:       ",
+      "Answer 1": "Podrán solicitar a cualquiera de las Cámaras la adopción de una proposición de ley.",
+      "Answer 2": "Podrán solicitar del Gobierno la adopción de un proyecto de ley.",
+      "Answer 3": "Podrán adoptar proyectos o proposiciones de ley.",
+      "Answer 4": "Podrán solicitar a cualquiera de las Mesas de las Cámaras la adopción de un proyecto de ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Asambleas de las Comunidades Autónomas podrán:       ",
+      "Answer 1": "Remitir a las Mesas de las Cámaras una proposición de ley.",
+      "Answer 2": "Remitir a la Mesa del Congreso una proposición de ley.",
+      "Answer 3": "Remitir a la Mesa del Congreso una proposición de ley o un proyecto de ley.",
+      "Answer 4": "Adoptar proyectos o proposiciones de ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Asambleas de las Comunidades Autónomas podrán remitir a la Mesa del Congreso una proposición de ley:       ",
+      "Answer 1": "Delegando ante dicha Cámara un máximo de tres miembros de la Asamblea encargados de su defensa.",
+      "Answer 2": "Delegando ante dicha Cámara un máximo de cinco miembros de la Asamblea encargados de su defensa.",
+      "Answer 3": "Delegando ante dicha Cámara a tres miembros de la Asamblea encargados de su defensa.",
+      "Answer 4": "Delegando ante dicha Cámara un mínimo de tres miembros de la Asamblea encargados de su defensa.",
+      "Answer": 1
+    },
+    {
+      "Title": "La iniciativa popular se regulará mediante:       ",
+      "Answer 1": "Ley orgánica.",
+      "Answer 2": "Ley ordinaria.",
+      "Answer 3": "Decretos legislativos.",
+      "Answer 4": "Las tres anteriores son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "En relación con la iniciativa popular una ley orgánica:       ",
+      "Answer 1": "Regulará únicamente los requisitos.",
+      "Answer 2": "* Regulará las formas de ejercicio y requisitos.",
+      "Answer 3": "Regulará, sin condiciones, las formas de ejercicio y requisitos.",
+      "Answer 4": "La respuesta marcada \"*\", pero se hará mediante una ley ordinaria.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución la iniciativa popular para la presentación de proposiciones de ley:       ",
+      "Answer 1": "No requiere un número mínimo de firmas para proceder a su presentación, pero serán necesarias no menos de 500.000 firmas para que la proposición sea tramitada.",
+      "Answer 2": "Necesitará no menos de 300.000 firmas acreditadas.",
+      "Answer 3": "* Necesitará no menos de 500.000 firmas acreditadas.",
+      "Answer 4": "La respuesta marcada \"*\", previo informe a la Comisión Constitucional del Congreso del texto correspondiente.",
+      "Answer": 3
+    },
+    {
+      "Title": "Sobre qué materias no procede la iniciativa popular       ",
+      "Answer 1": "Las propias de ley orgánica u ordinaria, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.",
+      "Answer 2": "Las propias de ley orgánica, tributarias o de carácter internacional, excepto en lo relativo a la prerrogativa de gracia.",
+      "Answer 3": "Las propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.",
+      "Answer 4": "Las propias de ley orgánica, tributarias o de carácter autonómico, ni en lo relativo a la prerrogativa real de gracia.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién aprobará los proyectos de ley?       ",
+      "Answer 1": "El Presidente del Gobierno.",
+      "Answer 2": "El Senado.",
+      "Answer 3": "El Congreso.",
+      "Answer 4": "El Consejo de Ministros.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los proyectos de ley aprobados en Consejo de Ministros:       ",
+      "Answer 1": "Se someterán al Congreso, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.",
+      "Answer 2": "Se enviarán a la Mesa del Congreso a efectos de su conocimiento antes de su publicación en el B.O.E.",
+      "Answer 3": "Se publicarán, automáticamente, en el B.O.E.",
+      "Answer 4": "Se someterán a las Cámaras, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Dónde se regulará la tramitación de las proposiciones de ley?       ",
+      "Answer 1": "En la Constitución Española.",
+      "Answer 2": "En los Reglamentos de las Cámaras.",
+      "Answer 3": "En el Reglamento General de las Cortes Generales.",
+      "Answer 4": "En la Ley Orgánica respectiva.",
+      "Answer": 2
+    },
+    {
+      "Title": "La tramitación de las proposiciones de ley se regulará por los Reglamentos de las Cámaras:       ",
+      "Answer 1": "Sin que la prioridad debida a dichas proposiciones impida el ejercicio de la iniciativa legislativa en los términos regulados por el artículo 87.",
+      "Answer 2": "Sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa legislativa en los términos regulados por el artículo 88 de la Constitución.",
+      "Answer 3": "Sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa legislativa en los términos regulados por el artículo 87 de la Constitución.",
+      "Answer 4": "Todas las anteriores son falsas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué ocurre con las proposiciones de ley que, de acuerdo con el artículo 87 de la Constitución, tome en consideración el Senado?       ",
+      "Answer 1": "Se remitirán al Congreso para que tomen conocimiento de que se ha iniciado el trámite de dicha proposición en el Senado.",
+      "Answer 2": "Se tramitaran en dicha Cámara en la misma forma en que se recoge en el Reglamento para las tomadas en consideración por el Congreso.",
+      "Answer 3": "Se remitirán al Congreso para su trámite en éste como tal proposición.",
+      "Answer 4": "Se remitirán al Presidente del Congreso para que tome conocimiento de que se está tramitando dicha proposición en el Senado.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué ocurre una vez aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados?       ",
+      "Answer 1": "El Presidente del Congreso lo remitirá de manera inmediata al Rey para su sanción.",
+      "Answer 2": "Su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste.",
+      "Answer 3": "La Mesa del Congreso dará inmediata cuenta del mismo a la Mesa del Senado, la cual lo someterá a la deliberación de éste.",
+      "Answer 4": "El Presidente del Congreso lo remitirá de manera inmediata al Presidente del Gobierno para su ratificación y sanción por el Rey.",
+      "Answer": 2
+    },
+    {
+      "Title": "Una vez aprobado por el Congreso un proyecto de ley ordinaria u orgánica y remitido al Senado, éste dispone de un plazo para oponer su veto o introducir enmiendas de:       ",
+      "Answer 1": "Un mes, a partir del día siguiente de la recepción del texto.",
+      "Answer 2": "Dos meses, a partir del día de la recepción del texto.",
+      "Answer 3": "Dos meses, a partir del día siguiente de la recepción del texto.",
+      "Answer 4": "Un mes, a partir del día de la recepción del texto.",
+      "Answer": 2
+    },
+    {
+      "Title": "Para que el Senado pueda oponer su veto a un proyecto de ley ordinaria u orgánica:       ",
+      "Answer 1": "Deberá aprobarlo por mayoría simple.",
+      "Answer 2": "Deberá aprobarlo por mayoría absoluta.",
+      "Answer 3": "Deberá aprobarlo por mayoría de tres quintos.",
+      "Answer 4": "Deberá aprobarlo por mayoría de dos tercios.",
+      "Answer": 2
+    },
+    {
+      "Title": "En el caso de que el Senado oponga su veto o introduzca enmiendas a un proyecto de ley ordinaria u orgánica el proyecto no podrá ser sometido al Rey para su sanción sin que el Congreso:       ",
+      "Answer 1": "Ratifique por mayoría simple, una vez trascurridos dos meses desde la interposición del mismo.",
+      "Answer 2": "Ratifique por mayoría absoluta, en caso de veto, el texto inicial.",
+      "Answer 3": "Se pronuncie sobre las enmienda, aceptándolas o no por mayoría simple.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Senado dispone de un plazo de dos meses para vetar o enmendar un proyecto de ley ordinaria u orgánica:       ",
+      "Answer 1": "Que no podrá reducirse en ningún caso.",
+      "Answer 2": "Que se reducirá al de veinte días hábiles en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.",
+      "Answer 3": "* Que se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.",
+      "Answer 4": "La respuesta marcada \"*\" y que se podrá ampliar a tres meses en los proyectos de especial transcendencia o complejidad técnica.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Senado dispone de dos meses para vetar o enmendar un proyecto, pero este plazo podrá reducirse en los proyectos declarados urgentes por:       ",
+      "Answer 1": "El Congreso de los Diputados o por el Gobierno.",
+      "Answer 2": "Únicamente por el Congreso de los Diputados.",
+      "Answer 3": "Únicamente por el Senado.",
+      "Answer 4": "Por el Gobierno o por cualquiera de la Cámaras.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿De qué plazo dispone el Rey para sancionar las leyes aprobadas por las Cortes Generales?       ",
+      "Answer 1": "No hay plazo expresamente fijado, haciendo referencia a que se realizará de manera inmediata.",
+      "Answer 2": "Quince días.",
+      "Answer 3": "Veinte días.",
+      "Answer 4": "Diez días.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién promulgará y ordenará la inmediata publicación de las leyes aprobadas por las Cortes Generales?       ",
+      "Answer 1": "El Rey.",
+      "Answer 2": "El Presidente del Congreso.",
+      "Answer 3": "El Presidente del Gobierno.",
+      "Answer 4": "Los Presidentes de ambas Cámaras de manera conjunta.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Rey sancionara las leyes aprobadas por las Cortes Generales y:       ",
+      "Answer 1": "Ordenará su publicación en el B.O.E. más próximo a publicarse.",
+      "Answer 2": "Ordenara su publicación en el plazo de diez días.",
+      "Answer 3": "Ordenará su publicación en el plazo de quince días.",
+      "Answer 4": "Ordenará su inmediata publicación.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Qué decisiones podrán ser sometidas a referéndum consultivo de todos los ciudadanos?       ",
+      "Answer 1": "Las decisiones políticas de especial transcendencia.",
+      "Answer 2": "Cualquier decisión política o administrativa siempre que lo decida la mayoría simple de ambas Cámaras.",
+      "Answer 3": "Las decisiones políticas o administrativas de especial transcendencia.",
+      "Answer 4": "Únicamente las referidas a reformas totales o parciales del texto constitucional.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién convocara el referéndum de las decisiones políticas de especial transcendencia que se sometan a dicho referéndum?       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "El Presidente del Gobierno.",
+      "Answer 3": "El Rey.",
+      "Answer 4": "El Presidente del Congreso.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién propone al Rey que convoque un referéndum sobre decisiones políticas de especial trascendencia?       ",
+      "Answer 1": "El Presidente del Congreso.",
+      "Answer 2": "El Presidente del Gobierno.",
+      "Answer 3": "El Presidente del Congreso o el Presidente del Senado, en su caso.",
+      "Answer 4": "Las Cortes Generales.",
+      "Answer": 2
+    },
+    {
+      "Title": "El referéndum sobre decisiones políticas de especial trascendencia será convocado por el Rey, mediante propuesta del Presidente del Gobierno…       ",
+      "Answer 1": "Previamente autorizada por los Presidentes de ambas Cámaras.",
+      "Answer 2": "Previamente autorizada por el Congreso de los Diputados.",
+      "Answer 3": "Previamente autorizada por las Cortes Generales.",
+      "Answer 4": "Sin ningún requisito añadido.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo se regularán las condiciones y el procedimiento de las distinta modalidades de referéndum previstas en la Constitución?       ",
+      "Answer 1": "Mediante una ley orgánica o una ley ordinaria, dependiendo de las materias que trate la correspondiente decisión política sometida a referéndum.",
+      "Answer 2": "Mediante una ley de bases.",
+      "Answer 3": "Mediante una ley orgánica.",
+      "Answer 4": "Mediante decreto legislativo.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con el referéndum sobre decisiones políticas de especial trascendencia, una ley orgánica:       ",
+      "Answer 1": "Regulará exclusivamente las condiciones.",
+      "Answer 2": "*Regulará las condiciones y el procedimiento.",
+      "Answer 3": "Regulará el procedimiento,  en la Constitución se regulan las condiciones.",
+      "Answer 4": "La respuesta marcada *, pero se hará mediante una ley ordinaria.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 92 de la Constitución las decisiones políticas de especial trascendencia:       ",
+      "Answer 1": "*Deberán ser sometidas a referéndum consultivo.",
+      "Answer 2": "Podrán ser sometidas a referéndum consultivo.",
+      "Answer 3": "La respuesta marcada *, pero viene recogido en el artículo 91 de la Constitución.",
+      "Answer 4": "La respuesta marcada *, en el plazo máximo de tres meses desde su aprobación por las Cortes Generales.",
+      "Answer": 2
+    },
+    {
+      "Title": "La celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución:       ",
+      "Answer 1": "Se hará mediante ley orgánica.",
+      "Answer 2": "Se hará mediante ley orgánica u ordinaria dependiendo de las competencias atribuidas.",
+      "Answer 3": "No es posible atribuir a organizaciones o instituciones internacionales el ejercicio de competencias derivadas de la Constitución, únicamente las derivadas de leyes ordinarias.",
+      "Answer 4": "Se hará mediante un Decreto-ley o un Decreto legislativo dependiendo de la materia.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿A quién corresponde la garantía del cumplimiento de los tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución?       ",
+      "Answer 1": "En todo caso al Congreso de los Diputados.",
+      "Answer 2": "En todo caso al Gobierno.",
+      "Answer 3": "En todo caso a las Cortes Generales.",
+      "Answer 4": "A las Cortes Generales o al Gobierno, según los casos.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En qué casos la prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales?       ",
+      "Answer 1": "Tratados o convenios que afecten a la integridad territorial del Estado.",
+      "Answer 2": "Tratados o convenios de carácter miliar.",
+      "Answer 3": "Tratados de carácter político.",
+      "Answer 4": "Todas las respuestas son correctas.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En qué casos la prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales?       ",
+      "Answer 1": "Tratados o convenios que afecten a los derechos y deberes fundamentales establecidos en la Constitución.",
+      "Answer 2": "Tratados o convenios que afecten a los derechos y deberes fundamentales establecidos en el Título I de la Constitución.",
+      "Answer 3": "Únicamente a tratados o convenios que afecten a los derechos y deberes fundamentales establecidos en el Capítulo II del Título I de la Constitución.",
+      "Answer 4": "A cualquier tratado o convenio que afecte a los derechos y deberes establecidos en las Constitución y en la leyes.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué casos la prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales?       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "Tratados o convenios qué supongan obligaciones financieras para los ciudadanos españoles.",
+      "Answer 3": "Tratados o convenios qué suponga obligaciones financieras para las empresas.",
+      "Answer 4": "Tratados o convenios que impliquen obligaciones financieras para la Hacienda Pública.",
+      "Answer": 4
+    },
+    {
+      "Title": "En el caso de tratados o convenios internacionales que no requiera la previa autorización de las Cortes Generales:       ",
+      "Answer 1": "Deberán ser remitidos a las Cámaras para su ratificación y votación.",
+      "Answer 2": "Únicamente existe obligación de información de la iniciación de los mismos al Congreso de los Diputados.",
+      "Answer 3": "El Congreso y el Senado serán inmediatamente informados de la iniciación de los mismos.",
+      "Answer 4": "El Congreso y el Senado serán inmediatamente informados de la conclusión de los mismos.",
+      "Answer": 4
+    },
+    {
+      "Title": "La celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución:       ",
+      "Answer 1": "Exigirá la previa revisión constitucional.",
+      "Answer 2": "Conllevará la automática suspensión del correspondiente tratado.",
+      "Answer 3": "Exigirá la posterior revisión constitucional.",
+      "Answer 4": "Podrá exigir la revisión constitucional si así se establece en el correspondiente tratado.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién puede requerir que se declare si existe o no contradicción entre un tratado internacional y la Constitución Española?       ",
+      "Answer 1": "Únicamente el Gobierno y el Congreso de los Diputados.",
+      "Answer 2": "Únicamente el Gobierno.",
+      "Answer 3": "El Gobierno o cualquiera de las Cámaras.",
+      "Answer 4": "El Gobierno, el Congreso de los Diputados, el Senado o el Tribunal Constitucional.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Ante que órgano se podrá requerir que declare si existen o no estipulaciones contrarias a la Constitución en un tratado internacional?       ",
+      "Answer 1": "Ante el Tribunal Constitucional.",
+      "Answer 2": "Ante el Consejo General del Poder Judicial.",
+      "Answer 3": "Ante la Comisión Constitucional del Congreso de los Diputados.",
+      "Answer 4": "Ante cualquiera de las anteriores.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué tratados internacionales formarán parte del ordenamiento interno?       ",
+      "Answer 1": " Los válidamente celebrados, desde el momento de su firma.",
+      "Answer 2": "Los válidamente celebrados, una vez publicados oficialmente en España.",
+      "Answer 3": "Los válidamente celebrados, una vez publicados oficialmente en las instituciones europeas.",
+      "Answer 4": "Como tratados internacionales no formarán parte del ordenamiento jurídico interno, pero si del ordenamiento jurídico internacional.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En qué forma se podrán derogar, modificar o suspender las disposiciones de los tratados internacionales válidamente celebrados?       ",
+      "Answer 1": "Se podrá realizar de cualquier forma en que quede constancia para los organismos internacionales firmantes del tratado.",
+      "Answer 2": "Sólo se podrá realizar en la forma prevista en los propios tratados o de acuerdo con las normas especiales del Derecho Internacional.",
+      "Answer 3": "Sólo se podrá realizar en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho Internacional.",
+      "Answer 4": "No es posible derogar, modificar o suspender las disposiciones de los tratados internacionales válidamente celebrados durante el tiempo de su vigencia.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué procedimiento se utilizará para la denuncia de los tratados y convenios internacionales?       ",
+      "Answer 1": "El específico previsto en la Constitución en el artículo 93.",
+      "Answer 2": "El mismo previsto para su aprobación en el artículo 94 de la Constitución.",
+      "Answer 3": "El mismo previsto para su aprobación en el artículo 95 de la Constitución.",
+      "Answer 4": "No es posible iniciar un procedimiento para la denuncia de los tratados y convenios internacionales, pero es posible su derogación.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Congreso y el Senado, y, en su caso, ambas Cámaras conjuntamente, podrán nombrar Comisiones de investigación sobre cualquier asunto de interés público. Sus conclusiones:",
+      "Answer 1": "serán vinculantes para los Tribunales, y afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas",
+      "Answer 2": "serán vinculantes para los Tribunales, pero no afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para su conocimiento",
+      "Answer 3": "no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas",
+      "Answer 4": "no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para su conocimiento",
+      "Answer": 3
+    },
+    {
+      "Title": "Será obligatorio comparecer a requerimiento de las Cámaras:",
+      "Answer 1": "la ley regulará las sanciones que puedan imponerse por incumplimiento de esta obligación",
+      "Answer 2": "el Presidente de cada cámara establecerá las sanciones que puedan imponerse por incumplimiento de esta obligación",
+      "Answer 3": "el reglamento de cada cámara establecerá las sanciones que puedan imponerse por incumplimiento de esta obligación",
+      "Answer 4": "mediante Real Decreto se establecerán las sanciones que puedan imponerse por incumplimiento de esta obligación",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Cámaras podrán reunirse en sesiones extraordinarias a petición de (señala la incorrecta):",
+      "Answer 1": "el Gobierno",
+      "Answer 2": "la Diputación Permanente",
+      "Answer 3": "la mayoría absoluta de los miembros de cualquiera de las Cámaras",
+      "Answer 4": "el Rey",
+      "Answer": 4
+    },
+    {
+      "Title": "En las causas contra Diputados y Senadores será competente:",
+      "Answer 1": "la Audiencia Nacional",
+      "Answer 2": "el Tribunal Superior de Justicia",
+      "Answer 3": "la Sala de lo Penal del Tribunal Supremo",
+      "Answer 4": "el Tribunal Constitucional",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Reglamentos de cada cámara y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá:",
+      "Answer 1": "mayoría simple",
+      "Answer 2": "mayoría absoluta",
+      "Answer 3": "el voto favorable de dos terceras partes",
+      "Answer 4": "el voto favorable de tres quintas partes",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Cámaras:",
+      "Answer 1": "pueden recibir peticiones colectivas, por escrito o mediante la presentación directa por manifestaciones ciudadanas",
+      "Answer 2": "pueden recibir peticiones colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas",
+      "Answer 3": "pueden recibir peticiones individuales y colectivas, por escrito o mediante la presentación directa por manifestaciones ciudadanas",
+      "Answer 4": "pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas",
+      "Answer": 4
+    },
+    {
+      "Title": "Señala la correcta:",
+      "Answer 1": "en cada Cámara habrá una Diputación Permanente",
+      "Answer 2": "en el Congreso de los Diputados habrá una Diputación Permanente",
+      "Answer 3": "en las Cortes Generales habrá una Diputación Permanente conjunta para las dos Cámaras",
+      "Answer 4": "en cada Cámara habrá opcionalmente una Diputación Permanente",
+      "Answer": 1
+    },
+    {
+      "Title": "La Diputación Permanente estará compuesta por:",
+      "Answer 1": "21 miembros",
+      "Answer 2": "un mínimo de 21 miembros",
+      "Answer 3": "un máximo de 21 miembros",
+      "Answer 4": "ninguna es correcta",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros de la Diputación Permanente:",
+      "Answer 1": "representarán a los grupos parlamentarios, en proporción a su importancia numérica",
+      "Answer 2": "presentarán sus trabajos a la Mesa de la Cámara",
+      "Answer 3": "forman parte de las Comisiones Legislativas Permanentes",
+      "Answer 4": "deberán reunirse trimestralmente",
+      "Answer": 1
+    },
+    {
+      "Title": "Para adoptar acuerdos las Cámaras deben estar reunidas reglamentariamente y con asistencia de:",
+      "Answer 1": "la mayoría de sus miembros",
+      "Answer 2": "dos terceras partes de sus miembros",
+      "Answer 3": "tres quintas partes de sus miembros",
+      "Answer 4": "la totalidad de sus miembros",
+      "Answer": 1
+    },
+    {
+      "Title": "Para que los acuerdos de las Cámaras sean válidos, sin perjuicio de las mayorías especiales que establezcan la Constitución o las leyes orgánicas y las que para elección de personas establezcan los Reglamentos de las Cámaras, deberán ser aprobados por:",
+      "Answer 1": "dos terceras partes de los miembros presentes",
+      "Answer 2": "dos terceras partes de los miembros de cada cámara",
+      "Answer 3": "la mayoría de los miembros presentes",
+      "Answer 4": "la mayoría de los miembros de cada Cámara",
+      "Answer": 3
+    },
+    {
+      "Title": "Las sesiones plenarias de las Cámaras serán:",
+      "Answer 1": "privadas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría simple o con arreglo al Reglamento",
+      "Answer 2": "públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento",
+      "Answer 3": "privadas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento",
+      "Answer 4": "públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría simple o con arreglo al Reglamento",
+      "Answer": 2
+    },
+    {
+      "Title": "Son leyes orgánicas las relativas a (señala la incorrecta):",
+      "Answer 1": "el desarrollo de los derechos fundamentales y de las libertades públicas",
+      "Answer 2": "las que aprueben los Estatutos de Autonomía",
+      "Answer 3": "las que aprueben el régimen electoral general",
+      "Answer 4": "las que refundan varios textos legales en uno solo",
+      "Answer": 4
+    },
+    {
+      "Title": "La aprobación, modificación o derogación de las leyes orgánicas exigirá, en una votación final sobre el conjunto del proyecto:",
+      "Answer 1": "mayoría absoluta del Congreso",
+      "Answer 2": "mayoría absoluta de cada Cámara",
+      "Answer 3": "mayoría simple del Senado y mayoría absoluta del Congreso",
+      "Answer 4": "dos terceras partes de cada Cámara",
+      "Answer": 1
+    },
+    {
+      "Title": "La delegación legislativa:",
+      "Answer 1": "no podrá entenderse concedida de modo implícito o por tiempo indeterminado",
+      "Answer 2": "podrá entenderse concedida de modo implícito, pero no por tiempo indeterminado",
+      "Answer 3": "no podrá entenderse concedida de modo implícito, pero sí por tiempo indeterminado",
+      "Answer 4": "podrá entenderse concedida de modo implícito o por tiempo indeterminado",
+      "Answer": 1
+    },
+    {
+      "Title": "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:",
+      "Answer 1": "leyes de bases",
+      "Answer 2": "leyes marco",
+      "Answer 3": "Decretos Legislativos",
+      "Answer 4": "Decretos-leyes",
+      "Answer": 4
+    },
+    {
+      "Title": "La iniciativa legislativa corresponde a (señala la incorrecta):",
+      "Answer 1": "el Gobierno",
+      "Answer 2": "el Congreso",
+      "Answer 3": "el Consejo de Ministros",
+      "Answer 4": "el Senado",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Asambleas de las Comunidades Autónomas podrán:",
+      "Answer 1": "solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley",
+      "Answer 2": "solicitar del Gobierno la adopción de una proposición de ley o remitir a la Mesa del Congreso un proyecto de ley",
+      "Answer 3": "solicitar del Congreso la adopción de una proposición de ley o remitir a la Mesa del Congreso un proyecto de ley",
+      "Answer 4": "solicitar del Congreso la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley",
+      "Answer": 1
+    },
+    {
+      "Title": "Para la iniciativa popular se exigirá:",
+      "Answer 1": "no menos de 100.000 firmas acreditadas",
+      "Answer 2": "no menos de 250.000 firmas acreditadas",
+      "Answer 3": "no menos de 500.000 firmas acreditadas",
+      "Answer 4": "no menos de 1.000.000 firmas acreditadas",
+      "Answer": 3
+    },
+    {
+      "Title": "El mandato legal de las Cortes, salvo en caso de disolución anticipada, es de:",
+      "Answer 1": "Cuatro años.",
+      "Answer 2": "Seis años.",
+      "Answer 3": "Tres años.",
+      "Answer 4": "Cinco años.",
+      "Answer": 1
+    },
+    {
+      "Title": "La celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución:",
+      "Answer 1": "No es posible.",
+      "Answer 2": "Exigirá la previa revisión constitucional.",
+      "Answer 3": "Exigirá la disolución de las Cámaras y la celebración de elecciones generales.",
+      "Answer 4": "Exigirá la revisión del tratado para adaptarlo a las previsiones constitucionales.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Cámaras:",
+      "Answer 1": "Podrán recibir peticiones individuales mediante comparecencia.",
+      "Answer 2": "Está prohibida la presentación directa de peticiones por manifestaciones ciudadanas.",
+      "Answer 3": "Sólo podrán recibir peticiones colectivas.",
+      "Answer 4": "Pueden recibir peticiones individuales y colectivas, verbalmente o por escrito.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién ostenta la representación del Congreso de los Diputados?",
+      "Answer 1": "El Presidente del Congreso.",
+      "Answer 2": "La Diputación Permanente.",
+      "Answer 3": "Los Diputados.",
+      "Answer 4": "La Mesa del Congreso.",
+      "Answer": 1
+    },
+    {
+      "Title": "Las Comisiones de investigación:",
+      "Answer 1": "Podrán dirigir sus trabajos al esclarecimiento de asuntos de exclusivo interés parlamentario.",
+      "Answer 2": "No podrán ser nombradas conjuntamente por ambas Cámaras.",
+      "Answer 3": "Incidirán sobre asuntos de interés público.",
+      "Answer 4": "Podrán ser nombradas o por el Congreso o por el Senado.",
+      "Answer": 3
+    },
+    {
+      "Title": "La delegación se agota:",
+      "Answer 1": "Por la aprobación por el Gobierno del texto fruto de la delegación.",
+      "Answer 2": "Por el rechazo de la delegación realizado por el Gobierno.",
+      "Answer 3": "Por el transcurso del plazo concedido para ello.",
+      "Answer 4": "Por la publicación de la norma correspondiente, fruto del uso hecho por el Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "Reunida la Cámara correspondiente:",
+      "Answer 1": "Procederá la renovación de la Diputación Permanente.",
+      "Answer 2": "Procederá la disolución de la Diputación Permanente.",
+      "Answer 3": "La Diputación Permanente dará cuenta de sus decisiones solicitando la ratificación de las mismas.",
+      "Answer 4": "La Diputación Permanente dará cuenta de los asuntos tratados y de sus decisiones.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las decisiones que podrán ser sometidas a referéndum de todos los españoles:",
+      "Answer 1": "Serán decisiones políticas de especial trascendencia.",
+      "Answer 2": "Las decisiones políticas que se sometan a referéndum será decisorio.",
+      "Answer 3": "Serán, preceptivamente, las que afecten a la seguridad nacional y las decisiones políticas de especial trascendencia.",
+      "Answer 4": "Serán las autorizadas por el Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "Para que las Cámaras puedan adoptar acuerdos:",
+      "Answer 1": "La asistencia al acto deberá superar el setenta y cinco por ciento de los miembros de la Cámara respectiva.",
+      "Answer 2": "Será preciso que se cuente con la asistencia de la mayoría de sus miembros.",
+      "Answer 3": "Será imprescindible que exista representación de todos y cada uno de los grupos parlamentarios.",
+      "Answer 4": "Basta con que estén reunidas reglamentariamente.",
+      "Answer": 2
+    },
+    {
+      "Title": "No puede solicitar la celebración de una sesión extraordinaria:",
+      "Answer 1": "La Diputación Permanente.",
+      "Answer 2": "El Gobierno.",
+      "Answer 3": "La Mesa de la Cámara.",
+      "Answer 4": "La mayoría absoluta de sus miembros.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de estas funciones no corresponde a la Diputación Permanente del Congreso de los Diputados?",
+      "Answer 1": "Velar por los poderes de la Cámara cuando ésta no esté reunida.",
+      "Answer 2": "Solicitar la celebración de una sesión extraordinaria de la Cámara.",
+      "Answer 3": "Convalidación de Decretos-Leyes cuando la Cámara sea disuelta.",
+      "Answer 4": "Autorizar al Gobierno la declaración del estado de sitio.",
+      "Answer": 4
+    },
+    {
+      "Title": "Expirado el mandado o en caso de disolución, las Diputaciones permanentes:",
+      "Answer 1": "Seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes Generales.",
+      "Answer 2": "Su mandato finaliza con el de las Cámaras que le proporcionan sus miembros.",
+      "Answer 3": "Seguirán ejerciendo sus funciones hasta la constitución del nuevo Gobierno.",
+      "Answer 4": "Seguirán ejerciendo sus funciones dos meses más.",
+      "Answer": 1
+    },
+    {
+      "Title": "Todas las decisiones siguientes, menos una, se adoptarán por mayoría de cada una de las Cámaras:",
+      "Answer 1": "El otorgamiento de confianza al candidato a Presidente del Gobierno tras un proceso electoral.",
+      "Answer 2": "La autorización para que el Estado consienta y se obligue por medio de convenios o tratados militares.",
+      "Answer 3": "La autorización de determinados acuerdos de cooperación entre las comunidades Autónomas.",
+      "Answer 4": "La distribución entre las Comunidades Autónomas y provincias de los Fondos de Compensación.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos Senadores corresponden a cada una de estas islas: Mallorca, Menorca y Hierro?",
+      "Answer 1": "Tres a cada una.",
+      "Answer 2": "Uno a cada una.",
+      "Answer 3": "Tres, dos y uno, respectivamente.",
+      "Answer 4": "Tres, uno y uno, respectivamente.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las competencias de las Cortes se regulan en:",
+      "Answer 1": "Los respectivos Reglamentos de las Cámaras.",
+      "Answer 2": "La correspondiente ley orgánica Cameral.",
+      "Answer 3": "La Ley de Procedimiento Legislativo.",
+      "Answer 4": "La Constitución.",
+      "Answer": 4
+    },
+    {
+      "Title": "No puede delegarse en una Comisión Legislativa Permanente la posibilidad de aprobar una Ley:",
+      "Answer 1": "Tributaria y Orgánica.",
+      "Answer 2": "Tributaria.",
+      "Answer 3": "De Funcionarios Públicos.",
+      "Answer 4": "Orgánica.",
+      "Answer": 4
+    },
+    {
+      "Title": "Los tratados internacionales formarán parte del ordenamiento interno:",
+      "Answer 1": "En todo caso, desde su publicación oficial en España.",
+      "Answer 2": "Desde su publicación oficial en España, sólo si han sido celebrados válidamente.",
+      "Answer 3": "Desde su autorización por las Cortes Generales.",
+      "Answer 4": "Desde su sanción por el Rey.",
+      "Answer": 2
+    },
+    {
+      "Title": "Cuando el Gobierno pierde la confianza del Congreso, se procede a:",
+      "Answer 1": "Cesar el Gobierno.",
+      "Answer 2": "Designación de nuevas Cámaras.",
+      "Answer 3": "Designar nuevo Presidente del Gobierno.",
+      "Answer 4": "Disolver las Cámaras.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cuál de las siguientes características no es predicable de las Cortes Generales?",
+      "Answer 1": "Es un órgano unicameral.",
+      "Answer 2": "Es un órgano legislativo.",
+      "Answer 3": "Es un órgano representativo.",
+      "Answer 4": "Es un órgano permanente.",
+      "Answer": 1
+    },
+    {
+      "Title": "Corresponderá un Senador a:",
+      "Answer 1": "Todas las otras respuestas son ciertas.",
+      "Answer 2": "Formentera.",
+      "Answer 3": "Hierro.",
+      "Answer 4": "Ibiza.",
+      "Answer": 3
+    },
+    {
+      "Title": "Cada una de las ciudades de Ceuta y Melilla elegirá:",
+      "Answer 1": "Dos Senadores.",
+      "Answer 2": "Cuatro Senadores.",
+      "Answer 3": "Un Senador.",
+      "Answer 4": "Tres Senadores.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos Diputados componen el Congreso de los Diputados actualmente?",
+      "Answer 1": "450.",
+      "Answer 2": "400.",
+      "Answer 3": "350.",
+      "Answer 4": "300.",
+      "Answer": 3
+    },
+    {
+      "Title": "Tras la finalización del mandato del Congreso, ¿cuándo tendrán lugar las elecciones?",
+      "Answer 1": "Antes de quince días.",
+      "Answer 2": "En el plazo de entre quince y treinta días.",
+      "Answer 3": "En el plazo de entre treinta y sesenta días.",
+      "Answer 4": "En el plazo de entre sesenta y noventa días.",
+      "Answer": 3
+    },
+    {
+      "Title": "El ejercicio de competencias derivadas de la Constitución:",
+      "Answer 1": "Tal atribución se realizará mediante tratado internacional autorizado por ley ordinaria.",
+      "Answer 2": "Tal atribución se realizará mediante Ley Orgánica.",
+      "Answer 3": "Sólo puede corresponder a las instituciones del Estado.",
+      "Answer 4": "Podrá ser atribuido a una organización o institución internacional.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones no está asignada a las Cortes Generales?",
+      "Answer 1": "Autorizar los acuerdos de cooperación entre Comunidades Autónomas.",
+      "Answer 2": "Reconocer la incapacidad del Rey en caso de que se produzca.",
+      "Answer 3": "Otorgar autorización al Rey para declarar la guerra.",
+      "Answer 4": "Nombrar al Presidente del Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el nombre de:",
+      "Answer 1": "Decretos Legislativos.",
+      "Answer 2": "Leyes de Bases.",
+      "Answer 3": "Textos articulados o refundidos.",
+      "Answer 4": "Decretos Leyes.",
+      "Answer": 1
+    },
+    {
+      "Title": "Sólo una de las siguientes personas podrá ser Diputado o Senador:",
+      "Answer 1": "El Presidente de una Diputación Provincial.",
+      "Answer 2": "Los integrantes del Tribunal Constitucional.",
+      "Answer 3": "Los Fiscales en activo.",
+      "Answer 4": "El Defensor del Pueblo.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Presidente de la Diputación Permanente del Congreso es el:",
+      "Answer 1": "Presidente de la Cámara.",
+      "Answer 2": "Portavoz del partido con mayor número de escaños.",
+      "Answer 3": "Elegido por los Portavoces de los Grupos Parlamentarios.",
+      "Answer 4": "Del partido mayoritario.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuántos Senadores corresponde a cada una de las islas Gran Canaria, Mallorca y Tenerife?",
+      "Answer 1": "Cinco.",
+      "Answer 2": "Dos.",
+      "Answer 3": "Cuatro.",
+      "Answer 4": "Tres.",
+      "Answer": 4
+    },
+    {
+      "Title": "La interposición del veto, o la introducción de enmiendas en el texto remitido por el Congreso, podrá ser efectuada por el Senado en el plazo de:",
+      "Answer 1": "Cuatro meses.",
+      "Answer 2": "Cinco meses.",
+      "Answer 3": "Tres meses.",
+      "Answer 4": "Dos meses.",
+      "Answer": 4
+    },
+    {
+      "Title": "Para la denuncia de los tratados y convenios internacionales por parte del Estado:",
+      "Answer 1": "Se requiere la autorización de las Cortes Generales.",
+      "Answer 2": "Se sigue el mismo procedimiento que para firmarlos.",
+      "Answer 3": "Se requiere la autorización del Rey.",
+      "Answer 4": "Se requiere la autorización del Congreso de los Diputados.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las proposiciones de Ley:",
+      "Answer 1": "Exclusivamente podrán surgir del Congreso de los Diputados.",
+      "Answer 2": "Cuando sean tomadas en consideración por el Senado, se invertirá el trámite parlamentario, comenzando el mismo como tal proposición por el Senado.",
+      "Answer 3": "Cuando sean tomadas en consideración por el Senado se remitirán al Congreso para su trámite en este como tal proposición.",
+      "Answer 4": "Las proposiciones de ley surgen del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "Dentro del plazo de treinta días, los Decretos Leyes:",
+      "Answer 1": "Podrán ser tramitados por el Gobierno como proposiciones de Ley por el procedimiento de urgencia.",
+      "Answer 2": "Todas las otras respuestas son falsas.",
+      "Answer 3": "Podrán ser tramitados por el Congreso de los Diputados como proyectos de Ley por el procedimiento ordinario.",
+      "Answer 4": "Podrán ser tramitados por las Cortes como proyectos de Ley por el procedimiento de urgencia.",
+      "Answer": 4
+    },
+    {
+      "Title": "Ante el llamamiento efectuado por una Comisión de Investigación:",
+      "Answer 1": "La comparecencia sólo es obligatoria cuando se realiza a instancia de una Comisión formada por ambas Cámaras.",
+      "Answer 2": "Será obligatorio comparecer en todo caso.",
+      "Answer 3": "La comparecencia es potestativa si se es llamado por el Senado.",
+      "Answer 4": "La incomparecencia no podrá acarrear al afectado sanción alguna.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las sesiones conjuntas de las Cámaras:",
+      "Answer 1": "Serán presididas alternativamente por el Presidente del Congreso y por el Presidente del Senado.",
+      "Answer 2": "Serán presididas conjuntamente por el Presidente del Congreso y por el Presidente del Senado.",
+      "Answer 3": "Serán presididas por el Presidente del Congreso.",
+      "Answer 4": "Serán presididas por el Presidente del Senado.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Reglamento de las Cortes Generales será aprobado:",
+      "Answer 1": "Por mayoría absoluta de ambas Cámaras.",
+      "Answer 2": "Por mayoría absoluta de cada Cámara.",
+      "Answer 3": "Por mayoría de dos tercios de cada Cámara.",
+      "Answer 4": "Por mayoría de dos tercios de ambas Cámaras.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿De qué plazo dispone el Senado para vetar o enmendar los proyectos de ley aprobados por el Congreso cuando hayan sido declarados urgentes?",
+      "Answer 1": "Quince días hábiles.",
+      "Answer 2": "Veinte días naturales.",
+      "Answer 3": "Quince días naturales",
+      "Answer 4": "Veinte días hábiles.",
+      "Answer": 2
+    },
+    {
+      "Title": "La Ley distribuirá el número total de Diputados:",
+      "Answer 1": "Asignando un número fijo de Diputados por cada circunscripción electoral.",
+      "Answer 2": "Asignando una representación máxima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "Answer 3": "Asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "Answer 4": "Distribuyendo dicho número total en proporción a la población.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las Diputaciones Permanentes estarán presididas:",
+      "Answer 1": "Por el Presidente del Congreso.",
+      "Answer 2": "Por el Presidente de las Cortes Generales.",
+      "Answer 3": "Por el Presidente de la Cámara correspondiente.",
+      "Answer 4": "Por el Presidente del Senado.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Senado es elegido:",
+      "Answer 1": "Por tiempo diferente a aquel para el que es elegido el Congreso.",
+      "Answer 2": "Por cuatro años.",
+      "Answer 3": "Por seis años.",
+      "Answer 4": "Por ocho años.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué implica que las Cortes Generales sean inviolables?",
+      "Answer 1": "Que sólo pueden ser juzgadas por el Tribunal Supremo.",
+      "Answer 2": "Que sólo pueden ser juzgadas previa concesión del correspondiente suplicatorio.",
+      "Answer 3": "Que no pueden ser juzgadas en ningún caso.",
+      "Answer 4": "Que sus miembros no pueden ser juzgados sin la previa concesión del correspondiente suplicatorio.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los Diputados y Senadores podrán ser inculpados y procesados:",
+      "Answer 1": "Cuando lo haya autorizado la Cámara respectiva.",
+      "Answer 2": "Sin la previa autorización de la Cámara respectiva.",
+      "Answer 3": "Sólo por delitos cometidos contra el Jefe del Estado y la forma de Gobierno.",
+      "Answer 4": "En los mismos supuestos y con los mismos requisitos que cualquier otro ciudadano.",
+      "Answer": 1
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones no es válida:",
+      "Answer 1": "Las Cámaras establecen sus propios Reglamentos.",
+      "Answer 2": "Las Cámaras aprueban autónomamente sus presupuestos.",
+      "Answer 3": "Cada Cámara regula el Estatuto de Personal de las Cortes Generales.",
+      "Answer 4": "Las Cámaras reforman sus propios Reglamentos.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las elecciones tendrán lugar:",
+      "Answer 1": "Entre treinta y sesenta días después de que termine el mandato.",
+      "Answer 2": "Treinta días después de que termine el mandato.",
+      "Answer 3": "Sesenta días después de que termine el mandato.",
+      "Answer 4": "Entre treinta y noventa días después de que termine el mandato.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según la Constitución española el Senado:",
+      "Answer 1": "Es la Cámara de representación popular.",
+      "Answer 2": "Es la Cámara de representación territorial.",
+      "Answer 3": "Tanto el Congreso como el Senado son Cámaras de representación territorial.",
+      "Answer 4": "Es la Cámara de control parlamentario preferente.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los acuerdos adoptados, para ser válidos:",
+      "Answer 1": "Deberán ser aprobados por las mayorías especiales que, para cada caso, establece la Constitución.",
+      "Answer 2": "Deberán ser aprobados por las mayorías especiales que, para todo caso, establecen las Leyes Orgánicas.",
+      "Answer 3": "Deberán ser aprobados por la mayoría de los miembros reales de las Cámaras, al margen de las mayorías especiales que puedan ser establecidas.",
+      "Answer 4": "Deberán ser aprobados por la mayoría de los miembros presentes, sin perjuicio de las mayorías especiales que se puedan establecer.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las leyes de delegación, en cuanto a las fórmulas de control:",
+      "Answer 1": "Podrán establecer fórmulas arbitrales de control al margen de la competencia propia de los Tribunales.",
+      "Answer 2": "Se remitirán en cualquier caso a la competencia propia de los Tribunales.",
+      "Answer 3": "Podrán establecer fórmulas adicionales de control, al margen de la competencia propia de los Tribunales.",
+      "Answer 4": "Se remitirán, en cualquier caso, a la competencia propia de los órganos administrativos de control.",
+      "Answer": 3
+    },
+    {
+      "Title": "La iniciativa legislativa popular del artículo 87.3 de la Constitución requiere:",
+      "Answer 1": "500.000 firmas acreditadas.",
+      "Answer 2": "700.000 firmas acreditadas.",
+      "Answer 3": "400.000 firmas acreditadas.",
+      "Answer 4": "300.000 firmas acreditadas.",
+      "Answer": 1
+    },
+    {
+      "Title": "La aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+      "Answer 1": "La mayoría de dos tercios del Congreso.",
+      "Answer 2": "La mayoría absoluta del Congreso.",
+      "Answer 3": "La mayoría absoluta de Congreso y Senado.",
+      "Answer 4": "La mayoría de dos tercios de Congreso y Senado.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es el número máximo de miembros del Congreso de los Diputados, según la Constitución?",
+      "Answer 1": "500.",
+      "Answer 2": "300.",
+      "Answer 3": "350.",
+      "Answer 4": "400.",
+      "Answer": 4
+    },
+    {
+      "Title": "De cuántos Diputados se compone el Congreso:",
+      "Answer 1": "De un máximo de 1.000 y de un mínimo de 700.",
+      "Answer 2": "De un máximo de 400 y de un mínimo de 300.",
+      "Answer 3": "De un máximo de 350 y de un mínimo de 200.",
+      "Answer 4": "De un máximo de 600 y de un mínimo de 500.",
+      "Answer": 2
+    },
+    {
+      "Title": "No es incompatible para ser elegido Diputado un:",
+      "Answer 1": "Juez.",
+      "Answer 2": "Ministro.",
+      "Answer 3": "Secretario de Estado.",
+      "Answer 4": "Miembro de una Junta Electoral.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Cámaras se reunirán en sesión conjunta:",
+      "Answer 1": "Para nombrar la persona o personas que integren la Regencia en los casos previstos.",
+      "Answer 2": "Para declarar la guerra o hacer la paz.",
+      "Answer 3": "Para aprobar las Leyes Orgánicas.",
+      "Answer 4": "Para conceder el suplicatorio de los miembros del Gobierno.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuánto tiempo dura el mandato de los Diputados?",
+      "Answer 1": "Seis años.",
+      "Answer 2": "Dos años.",
+      "Answer 3": "Tres años.",
+      "Answer 4": "Cuatro años.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las poblaciones de Ceuta y Melilla estarán representadas:",
+      "Answer 1": "Por tres Diputados entre las dos.",
+      "Answer 2": "Por el número de Diputados que les asigne la Ley.",
+      "Answer 3": "Por dos Diputados cada una.",
+      "Answer 4": "Por un Diputado cada una.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de Ley sobre una de las materias siguientes:",
+      "Answer 1": "Regulación del Tribunal Constitucional.",
+      "Answer 2": "Desarrollo del Derecho al Honor.",
+      "Answer 3": "Desarrollo del derecho de reunión.",
+      "Answer 4": "Desarrollo del derecho a la vivienda.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién elabora el reglamento interno de cada Cámara?",
+      "Answer 1": "Los Presidentes de las Cámaras.",
+      "Answer 2": "La Mesa.",
+      "Answer 3": "La Diputación Permanente.",
+      "Answer 4": "Cada una de las Cámaras.",
+      "Answer": 4
+    },
+    {
+      "Title": "Cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor:",
+      "Answer 1": "Podrá presentarse en tal supuesto un proyecto de Ley para la derogación total o parcial de la Ley de delegación.",
+      "Answer 2": "Todas las otras respuestas son ciertas.",
+      "Answer 3": "El Congreso de los Diputados está facultado para oponerse a su tramitación.",
+      "Answer 4": "El Gobierno está facultado para oponerse a su tramitación.",
+      "Answer": 4
+    },
+    {
+      "Title": "El primer período de sesiones de las Cámaras concluye:",
+      "Answer 1": "En enero.",
+      "Answer 2": "En diciembre.",
+      "Answer 3": "En junio.",
+      "Answer 4": "Al finalizar su mandato.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los proyectos de ley:",
+      "Answer 1": "Serán aprobados por el pleno del Congreso de los Diputados.",
+      "Answer 2": "Serán aprobados en Consejo de Ministros.",
+      "Answer 3": "Serán sometidos al Congreso por parte del Grupo Parlamentario que lo haya promovido.",
+      "Answer 4": "Serán sometidos al Consejo de Ministros, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Pueden vincular las conclusiones de una Comisión de Investigación a los Tribunales?",
+      "Answer 1": "Sólo en caso de que se traten materias penales.",
+      "Answer 2": "En cualquier caso.",
+      "Answer 3": "En ningún caso.",
+      "Answer 4": "Sólo en caso de que no se trate de materias penales.",
+      "Answer": 3
+    },
+    {
+      "Title": "Como regla general, los acuerdos de las Cámaras deben adoptarse por el siguiente quórum:",
+      "Answer 1": "Mayoría de los miembros presentes.",
+      "Answer 2": "Mayoría absoluta del número legal de miembros.",
+      "Answer 3": "Mayoría absoluta del número de hecho.",
+      "Answer 4": "Mayoría de los votos emitidos personalmente o por representación.",
+      "Answer": 1
+    },
+    {
+      "Title": "En los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados, el plazo con el que cuenta el Senado para vetar o enmendar se reduce a:",
+      "Answer 1": "Treinta días hábiles.",
+      "Answer 2": "Veinte días naturales.",
+      "Answer 3": "Quince días hábiles.",
+      "Answer 4": "Diez días naturales.",
+      "Answer": 2
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones no es cierta. Las leyes de bases:",
+      "Answer 1": "Será necesario precisar la finalidad perseguida en su ejercicio.",
+      "Answer 2": "Delimitarán con precisión el objeto de la delegación legislativa.",
+      "Answer 3": "No habrán de delimitar los criterios que han de seguirse en su ejercicio.",
+      "Answer 4": "Delimitarán con precisión el coste de tal delegación.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Diputados y Senadores recibirán una asignación que será fijada:",
+      "Answer 1": "Por los Presupuestos Generales del Estado.",
+      "Answer 2": "Por las Cortes Generales.",
+      "Answer 3": "Por las respectivas Cámaras.",
+      "Answer 4": "Por el Congreso de los Diputados.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Senado, respecto de la votación de investidura del Presidente del Gobierno:",
+      "Answer 1": "Actúa con el Congreso, en sesión conjunta.",
+      "Answer 2": "Es informado.",
+      "Answer 3": "No tiene competencia alguna.",
+      "Answer 4": "Ante el Senado se realiza una segunda vuelta de la votación, tras el Congreso.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Dónde se regula el procedimiento para la elección de los Presidentes de las Cámaras?",
+      "Answer 1": "En la Constitución.",
+      "Answer 2": "Todas las otras respuestas son falsas.",
+      "Answer 3": "En ley orgánica emanada de las Cortes Generales.",
+      "Answer 4": "En sus respectivos Reglamentos.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál es el número máximo de miembros que componen la Diputación Permanente del Congreso?",
+      "Answer 1": "20.",
+      "Answer 2": "21.",
+      "Answer 3": "24.",
+      "Answer 4": "Ninguna es cierta.",
+      "Answer": 4
+    },
+    {
+      "Title": "Si hay en el Congreso una proposición de ley referente a materia sobre la que está vigente una delegación legislativa:",
+      "Answer 1": "No puede tramitarse hasta que finalice el plazo de la delegación realizada.",
+      "Answer 2": "El Gobierno no puede oponerse a su tramitación.",
+      "Answer 3": "Debe aceptarse por el Gobierno la revocación de la delegación para que sea tramitada.",
+      "Answer 4": "El Gobierno puede oponerse a su tramitación.",
+      "Answer": 4
+    },
+    {
+      "Title": "A Gran Canaria, Mallorca y Tenerife le corresponderán:",
+      "Answer 1": "Un Senador a cada una.",
+      "Answer 2": "Tres Senadores a cada una.",
+      "Answer 3": "Tres, dos y un Senador, respectivamente.",
+      "Answer 4": "Uno, dos y tres Senadores, respectivamente.",
+      "Answer": 2
+    }
+  ]

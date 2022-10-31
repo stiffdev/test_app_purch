@@ -1,0 +1,1050 @@
+[
+    {
+      "Title": "¿Quién dirige la política interior y exterior?       ",
+      "Answer 1": "El Gobierno.",
+      "Answer 2": "Las Cortes Generales.",
+      "Answer 3": "El Congreso de los Diputados.",
+      "Answer 4": "El Senado.",
+      "Answer": 1
+    },
+    {
+      "Title": "El Gobierno dirige:       ",
+      "Answer 1": "La Administración civil y militar.",
+      "Answer 2": "La política interior y exterior.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": "La defensa del Estado.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Gobierno ejerce:       ",
+      "Answer 1": "La función legislativa y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+      "Answer 2": "La función ejecutiva y la potestad legislativa de acuerdo con la Constitución y las leyes.",
+      "Answer 3": "La función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+      "Answer 4": "La función ejecutiva y la potestad reglamentaria y administrativa de acuerdo con la Constitución y las leyes.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Gobierno se compone:       ",
+      "Answer 1": "En todo caso, del Presidente, de los Vicepresidentes, de los Ministros y de los demás miembros que establezca la ley.",
+      "Answer 2": "Del Presidente, de los Vicepresidentes en su caso, de los Ministros y de los demás miembros que establezca la ley.",
+      "Answer 3": "Únicamente del Presidente y de los Ministros que establezca el Presidente del Gobierno.",
+      "Answer 4": "Del Presidente, de dos Vicepresidentes, de los Ministros y de los demás miembros que establezca la ley.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién dirige la acción del Gobierno?       ",
+      "Answer 1": "El Congreso de los Diputados.",
+      "Answer 2": "El Consejo de Ministros.",
+      "Answer 3": "Las Cortes Generales.",
+      "Answer 4": "El Presidente del Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién coordina las funciones de los miembros del Gobierno?       ",
+      "Answer 1": "Las Cortes Generales.",
+      "Answer 2": "El Consejo de Ministros.",
+      "Answer 3": "El Presidente del Gobierno.",
+      "Answer 4": "El Congreso de los Diputados.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Presidente del Gobierno dirige la acción del mismo y coordina las funciones de los demás miembros del mismo:       ",
+      "Answer 1": "Sin perjuicio de la competencia y responsabilidad directa de éstos en su organización.",
+      "Answer 2": "Sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión.",
+      "Answer 3": "Sin perjuicio de la competencia y responsabilidad indirecta de éstos en su organización.",
+      "Answer 4": "Con el perjuicio de la competencia y responsabilidad directa de éstos en su gestión.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros del Gobierno:       ",
+      "Answer 1": "No podrán ejercer otras funciones representativas que las propias el mandato imperativo.",
+      "Answer 2": "Podrán ejercer cualesquiera otras funciones representativas, tanto derivadas del mandato parlamentario como las que no lo sean.",
+      "Answer 3": "No podrán ejercer otras funciones representativas que las propias el mandato parlamentario.",
+      "Answer 4": "No podrán ejercer otras funciones representativas que las propias el mandato gubernativo.",
+      "Answer": 3
+    },
+    {
+      "Title": "Los miembros del Gobierno:       ",
+      "Answer 1": "Podrán ejercer otra función pública, pero no podrán ejercer actividad profesional o mercantil alguna.",
+      "Answer 2": "No podrán ejercer otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.",
+      "Answer 3": "Únicamente podrán ejercer actividades profesionales o mercantiles, no siendo posible ejercer otra función pública que no derive de su cargo.",
+      "Answer 4": "Únicamente podrán ejercer otra función pública que no derive de su cargo, o actividad profesional o mercantil alguna, cuando sean autorizados por el Consejo de Ministros.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros del Gobierno:       ",
+      "Answer 1": "Todas las respuestas son falsas.",
+      "Answer 2": "Podrán ejercer otras funciones representativas que las derivadas del mandato parlamentario.",
+      "Answer 3": "Podrán ejercer actividad profesional.",
+      "Answer 4": "Podrán ejercer actividad mercantil.",
+      "Answer": 1
+    },
+    {
+      "Title": "El estatuto e incompatibilidades de los miembros del Gobierno:       ",
+      "Answer 1": "Se regulará por ley orgánica.",
+      "Answer 2": "Se regula en la Constitución.",
+      "Answer 3": "Se regulará por ley.",
+      "Answer 4": "Se regulará mediante un Real Decreto.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién propone al candidato a la Presidencia del Gobierno?       ",
+      "Answer 1": "El Presidente del Congreso, previa consulta al Rey y a los representantes designados por los Grupos Políticos con representación parlamentaria.",
+      "Answer 2": "El Presidente del Congreso, previa consulta con los representantes designados por los Grupos Políticos con representación parlamentaria.",
+      "Answer 3": "El Rey, previa consulta con los Portavoces de los Grupos Políticos que concurrieron a las elecciones.",
+      "Answer 4": "El Rey, previa consulta con los representantes designados por los Grupos Políticos con representación parlamentaria.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Rey, en los casos fijados en la Constitución, propondrá un candidato a la Presidencia del Gobierno:       ",
+      "Answer 1": "De manera directa.",
+      "Answer 2": "A través del Presidente del Congreso.",
+      "Answer 3": "A través de la Diputación Permanente.",
+      "Answer 4": "A través del Presidente de las Cortes Generales.",
+      "Answer": 2
+    },
+    {
+      "Title": "El Rey, previa consulta con los representantes designados por los Grupos Políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno:       ",
+      "Answer 1": "Después de cada renovación de las Cortes Generales, y en los demás supuestos que la ley establezca.",
+      "Answer 2": "Únicamente después de cada renovación de las Cortes Generales.",
+      "Answer 3": "Después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda.",
+      "Answer 4": "Después de cada renovación de las Cortes Generales, en los demás supuestos constitucionales en que así proceda y cuando se presente una moción de censura.",
+      "Answer": 3
+    },
+    {
+      "Title": "El candidato a la Presidencia del Gobierno propuesto conforme a lo previsto en el artículo 99.1 de la Constitución:       ",
+      "Answer 1": "Expondrá al Rey el programa político del Gobierno que pretenda formar.",
+      "Answer 2": "Expondrá ante las Cortes Generales el programa político del Gobierno que pretenda formar.",
+      "Answer 3": "Expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar.",
+      "Answer 4": "Expondrá ante las Mesas de las Cámaras el programa político del Gobierno que pretenda formar.",
+      "Answer": 3
+    },
+    {
+      "Title": "El candidato a la Presidencia del Gobierno propuesto conforme a lo previsto en el artículo 99.1 de la Constitución:       ",
+      "Answer 1": "Solicitará la confianza del pueblo español.",
+      "Answer 2": "Solicitará la confianza de las Cortes Generales.",
+      "Answer 3": "Solicitará la confianza del Congreso de los Diputados.",
+      "Answer 4": "Solicitará la confianza de su Grupo Parlamentario.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué mayoría será necesaria para otorgar la confianza al candidato a la Presidencia del Gobierno, en primera votación, según el artículo 99 de la Constitución?       ",
+      "Answer 1": "La mayoría absoluta de los miembros del Congreso de los Diputados.",
+      "Answer 2": "La mayoría simple de los miembros del Congreso de los Diputados.",
+      "Answer 3": "La mayoría de dos tercios de los miembros del Congreso de los Diputados.",
+      "Answer 4": "La mayoría de dos tercios de los miembros de las Cortes Generales.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué ocurre si, en primera votación, el candidato a la Presidencia del Gobierno no obtiene la confianza del Congreso de los Diputados?       ",
+      "Answer 1": "Se someterá la misma propuesta a una nueva votación setenta y dos horas después de la anterior.",
+      "Answer 2": "Se someterá la misma propuesta a una nueva votación cuarenta y ocho horas después de la anterior.",
+      "Answer 3": "El Rey procederá a proponer a un nuevo candidato a la Presidencia del Gobierno.",
+      "Answer 4": "Se repetirá la votación en la misma sesión.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué mayoría será necesaria para otorgar la confianza al candidato a la Presidencia del Gobierno en segunda votación según el artículo 99 de la Constitución?       ",
+      "Answer 1": "La mayoría absoluta de los miembros del Congreso de los Diputados.",
+      "Answer 2": "La mayoría simple de los miembros del Congreso de los Diputados.",
+      "Answer 3": "La misma mayoría necesaria en primera votación.",
+      "Answer 4": "La mayoría simple de los miembros de las Cortes Generales.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué ocurre si, en segunda votación, el candidato a la Presidencia del Gobierno no obtiene la confianza del Congreso de los Diputados?       ",
+      "Answer 1": "El Rey procederá a nombrar Presidente del Gobierno al representante del Grupo Parlamentario con mayor representación en el Congreso de los Diputados.",
+      "Answer 2": "Se disolverán las Cámaras y se procederá a la convocatoria de nuevas elecciones.",
+      "Answer 3": "Se tramitarán sucesivas propuestas en la forma prevista en la Constitución.",
+      "Answer 4": "Se procederá a una tercera y última votación, entendiéndose otorgada la confianza si obtiene la mayoría de los votos de los miembros presentes del Congreso de los Diputados.",
+      "Answer": 3
+    },
+    {
+      "Title": "Si ninguno de los candidatos a la Presidencia del Gobierno obtiene la confianza del Congreso en el plazo previsto en el artículo 99.5 de la Constitución:       ",
+      "Answer 1": "En el artículo 99.5 no se recoge ningún plazo en relación a la elección del Presidente del Gobierno.",
+      "Answer 2": "El Rey disolverá el Congreso de los Diputados y convocará nuevas elecciones.",
+      "Answer 3": "El Rey nombrará Presidente del Gobierno al candidato que hubiera obtenido mayor apoyo parlamentario.",
+      "Answer 4": "El Rey disolverá ambas Cámaras y convocará nuevas elecciones.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En qué plazo disolverá el Rey ambas Cámaras y convocará nuevas elecciones si ningún candidato a la Presidencia del Gobierno hubiere obtenido la confianza del Congreso de los Diputados?       ",
+      "Answer 1": "En el plazo de tres meses, a partir de la primera votación de investidura.",
+      "Answer 2": "En el plazo de dos meses, a partir de la celebración de las elecciones generales.",
+      "Answer 3": "En el plazo de dos meses, a partir de la primera votación de investidura.",
+      "Answer 4": "En el plazo de dos meses, a partir de la proclamación de los resultados electorales.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién refrendara la disolución de ambas Cámaras por el Rey en el caso de que ningún candidato a la Presidencia del Gobierno obtiene la confianza del Congreso?       ",
+      "Answer 1": "El Presidente del Congreso.",
+      "Answer 2": "Se trata de un acto que no necesita refrendo.",
+      "Answer 3": "El Presidente del Gobierno saliente.",
+      "Answer 4": "Los Presidentes del Congreso y del Senado conjuntamente.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Quién nombrará y separará a los miembros del Gobierno distintos del Presidente del mismo?       ",
+      "Answer 1": "El Presidente del Gobierno.",
+      "Answer 2": "El Rey.",
+      "Answer 3": "El Presidente del Congreso de los Diputados.",
+      "Answer 4": "El Consejo de Ministros.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los miembros del Gobierno de la Nación distintos de su Presidente serán nombrados:       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "Por el Presidente del Gobierno.",
+      "Answer 3": "Con el refrendo del Presidente del Congreso de los Diputados.",
+      "Answer 4": "A propuesta del Presidente del gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿En cuál de los siguientes casos cesa el Gobierno según el artículo 101 de la Constitución?       ",
+      "Answer 1": "Tras la celebración de elecciones generales.",
+      "Answer 2": "Todas son correctas.",
+      "Answer 3": "En los casos de pérdida de la confianza parlamentaria previstos en la Constitución.",
+      "Answer 4": "Por dimisión o fallecimiento del Presidente del Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En cuál de los siguientes casos cesa el Gobierno según el artículo 101 de la Constitución?       ",
+      "Answer 1": "Por incapacidad de su Presidente.",
+      "Answer 2": "Tras la convocatoria de elecciones generales.",
+      "Answer 3": "Tras la celebración de elecciones generales.",
+      "Answer 4": "Tras la proclamación de los resultados electorales.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Hasta cuándo continuará en funciones el Gobierno cesante, a tenor del artículo 101.2 de la Constitución?       ",
+      "Answer 1": "Hasta la proclamación de los resultados electorales, manteniéndose en el mismo si resultan reelegidos.",
+      "Answer 2": "Hasta la celebración de las elecciones generales.",
+      "Answer 3": "Hasta la convocatoria de elecciones generales.",
+      "Answer 4": "Hasta la toma de posesión del nuevo Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál de las siguientes afirmaciones es verdadera?       ",
+      "Answer 1": "La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.",
+      "Answer 2": "La responsabilidad del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.",
+      "Answer 3": "La responsabilidad civil y criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.",
+      "Answer 4": "La responsabilidad civil y criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Civil del Tribunal Supremo.",
+      "Answer": 1
+    },
+    {
+      "Title": "La acusación por traición o por cualquier delito contra la seguridad del Estado, en el ejercicio de sus funciones, de los miembros del Gobierno:       ",
+      "Answer 1": "Solo podrá ser planteada por iniciativa de la mayoría absoluta de los miembros de las Cortes Generales en reunión conjunta.",
+      "Answer 2": "Solo podrá ser planteada por iniciativa de la mayoría absoluta de los miembros del Congreso.",
+      "Answer 3": "Solo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso.",
+      "Answer 4": "Solo podrá ser planteada por iniciativa de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+      "Answer": 3
+    },
+    {
+      "Title": "La acusación por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones de los miembros del Gobierno:       ",
+      "Answer 1": "Deberá ser aprobada por la mayoría absoluta de las Cortes Generales.",
+      "Answer 2": "Deberá ser aprobada por la mayoría absoluta del Congreso de los Diputados.",
+      "Answer 3": "Deberá ser planteada por la mayoría absoluta del Congreso de los Diputados.",
+      "Answer 4": "Implicará el cese del Gobierno.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿En cuál de los siguientes casos será aplicable la prerrogativa real de gracia?       ",
+      "Answer 1": "En caso de responsabilidad criminal de los miembros del Gobierno.",
+      "Answer 2": "En ninguno de estos casos se puede aplicar dicha prerrogativa.",
+      "Answer 3": "En el caso de acusación por traición a los miembros del Gobierno en el ejercicio de sus funciones.",
+      "Answer 4": "En el caso de acusación a los miembros del Gobierno por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cómo servirá la Administración Pública los intereses generales según el texto del artículo 103 de la Constitución?       ",
+      "Answer 1": "Con objetividad.",
+      "Answer 2": "Con tolerancia.",
+      "Answer 3": "Con eficiencia.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿De acuerdo a qué principios actúa la Administración Pública según el artículo 103 de la Constitución?       ",
+      "Answer 1": "Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+      "Answer 2": "Eficiencia, autonomía, descentralización, desconcentración y coordinación.",
+      "Answer 3": "Eficacia, autonomía, centralización, desconcentración y coordinación.",
+      "Answer 4": "Eficiencia, jerarquía, descentralización, concentración y coordinación.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el texto del artículo 103 de la Constitución la Administración Pública actúa:       ",
+      "Answer 1": "Con sometimiento pleno a la Constitución, a la ley y al Derecho.",
+      "Answer 2": "Con sometimiento pleno a la ley y al Derecho.",
+      "Answer 3": "Con sometimiento único a la ley y al Derecho.",
+      "Answer 4": "Con sometimiento pleno a la Constitución y a los tratados internacionales.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la constitución los órganos de la Administración del Estado:       ",
+      "Answer 1": "Son creados de acuerdo con la ley.",
+      "Answer 2": "Son regidos de acuerdo con la ley.",
+      "Answer 3": "Todas las respuestas son correctas.",
+      "Answer 4": "Son coordinados de acuerdo con la ley.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 103 de la Constitución, ¿cuál de los siguientes se regulará por ley?       ",
+      "Answer 1": "El sistema de compatibilidades de los funcionarios públicos.",
+      "Answer 2": "El acceso a la función público de acuerdo con los principios de mérito, capacidad y compensación de desventajas.",
+      "Answer 3": "El estatuto de los funcionarios públicos.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el texto literal del artículo 103 de la Constitución, ¿cuál de los siguientes se regulará por ley?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "El régimen de nombramientos de los funcionarios públicos.",
+      "Answer 3": "Las peculiaridades del régimen sanitario de los funcionarios públicos.",
+      "Answer 4": "El sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.",
+      "Answer": 4
+    },
+    {
+      "Title": "Según el texto literal del artículo 103 de la Constitución, ¿cuál de los siguientes se regulará por ley?       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "El acceso a la función pública de acuerdo con los principios de mérito y capacidad.",
+      "Answer 3": "Las peculiaridades del ejercicio del derecho a sindicación de los funcionarios públicos.",
+      "Answer 4": "El sistema de incompatibilidades de los funcionarios públicos.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 104 de la Constitución, las Fuerzas y Cuerpos de seguridad estarán bajo la dependencia:       ",
+      "Answer 1": "De las Cortes Generales.",
+      "Answer 2": "Del Gobierno.",
+      "Answer 3": "Del Estado.",
+      "Answer 4": "Del Rey.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Qué misión tendrán las Fuerzas y Cuerpos de seguridad según el artículo 104 de la Constitución?       ",
+      "Answer 1": "Garantizar la soberanía e independencia de España.",
+      "Answer 2": "Garantiza la seguridad de las instituciones.",
+      "Answer 3": "Proteger el libre ejercicio de los derechos y libertades.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué misión tendrán las Fuerzas y Cuerpos de seguridad según el artículo 104 de la Constitución?       ",
+      "Answer 1": "Defender el ordenamiento constitucional.",
+      "Answer 2": "Defender la integridad territorial.",
+      "Answer 3": "Garantizar la seguridad ciudadana.",
+      "Answer 4": "Todas son correctas.",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con las Fuerzas y Cuerpos de seguridad:       ",
+      "Answer 1": "Una ley orgánica determinará sus funciones.",
+      "Answer 2": "Todas son correctas.",
+      "Answer 3": "Una ley orgánica determinará los principios básicos de actuación.",
+      "Answer 4": "Una ley orgánica determinarla sus estatutos.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál de las siguientes se recoge en el artículo 105 de la Constitución, debiendo regularse por ley?       ",
+      "Answer 1": "La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.",
+      "Answer 2": "Todas son correctas.",
+      "Answer 3": "El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.",
+      "Answer 4": "El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 105 de la Constitución la ley regulará:       ",
+      "Answer 1": "El procedimiento a través del cual deben producirse los actos administrativos, garantizando en todo caso audiencia del interesado.",
+      "Answer 2": "El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.",
+      "Answer 3": "El procedimiento a través del cual deben producirse los actos legislativos, garantizando en todo caso audiencia del interesado.",
+      "Answer 4": "El procedimiento a través del cual deben producirse los actos que afecten a los ciudadanos, garantizando, cuando proceda, la audiencia del interesado.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 105 de la Constitución la ley regulará:       ",
+      "Answer 1": "La audiencia de los ciudadanos y empresarios en el procedimiento de elaboración de las disposiciones administrativa que les afecten.",
+      "Answer 2": "La audiencia de los ciudadanos en el procedimiento de elaboración de todo tipo de disposiciones que les afecten.",
+      "Answer 3": "La audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten.",
+      "Answer 4": "La audiencia de los ciudadanos, empresarios y organizaciones en el procedimiento de elaboración de las disposiciones administrativa que les afecten.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 105 de la Constitución la ley regulará la audiencia de los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten:       ",
+      "Answer 1": "Directamente o a través de las organizaciones y asociaciones reconocidas por la ley.",
+      "Answer 2": "Directamente o a través de letrados.",
+      "Answer 3": "Únicamente directamente.",
+      "Answer 4": "Únicamente a través de organizaciones legalmente constituidas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 105 de la Constitución la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos:       ",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "Salvo en lo que afecte a la seguridad y defensa del Estado.",
+      "Answer 3": "Salvo en lo que afecte a la averiguación de los delitos.",
+      "Answer 4": "Salvo en lo que afecte a la intimidad de las personas.",
+      "Answer": 1
+    },
+    {
+      "Title": "Según el artículo 105 de la Constitución la ley regulara:       ",
+      "Answer 1": "Ninguna de las otras respuestas es correcta.",
+      "Answer 2": "El procedimiento a través del cual deben producirse los actos administrativos, garantizando en todo caso la audiencia del interesado.",
+      "Answer 3": "El procedimiento a través del cual deben producirse los actos administrativos, garantizando en todo caso de las asociaciones de ciudadanos y empresarios.",
+      "Answer 4": "El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Quién controlará, según el texto literal del artículo 106 de la Constitución, la potestad reglamentaria y la legalidad de la actuación administrativa?       ",
+      "Answer 1": "Los Tribunales.",
+      "Answer 2": "Los Juzgados y Tribunales.",
+      "Answer 3": "Los Jueces.",
+      "Answer 4": "La administración de justicia.",
+      "Answer": 1
+    },
+    {
+      "Title": "En relación con la actuación administrativa los Tribunales controlan:       ",
+      "Answer 1": "La legalidad de la actuación administrativa.",
+      "Answer 2": "La potestad reglamentaria.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": "El sometimiento de la actuación administrativa a los fines que la justifican.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quiénes tendrán derecho a ser indemnizados por toda lesión que sufran como consecuencia del funcionamiento de los servicios públicos según el texto del artículo 106 de la Constitución?       ",
+      "Answer 1": "Los ciudadanos.",
+      "Answer 2": "Los particulares.",
+      "Answer 3": "Los ciudadanos y las empresas.",
+      "Answer 4": "Los funcionarios públicos.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 106 de la Constitución los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos como consecuencia del funcionamiento de los servicios públicos:       ",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "En los términos establecidos en una ley orgánica.",
+      "Answer 3": "Mediante la correspondiente reclamación.",
+      "Answer 4": "Salvo en los casos de fuerza mayor.",
+      "Answer": 4
+    },
+    {
+      "Title": "¿Cuál es el supremo órgano consultivo del Gobierno?       ",
+      "Answer 1": "El Consejo de Estado.",
+      "Answer 2": "El Consejo de Ministros.",
+      "Answer 3": "La Comisión de Secretarios y Subsecretarios de Estado.",
+      "Answer 4": "Los Gabinetes de Presidencia.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución se señala al supremo órgano consultivo del Gobierno?       ",
+      "Answer 1": "Ninguna de las otras respuestas es correcta.",
+      "Answer 2": "En el artículo 99 de la Constitución.",
+      "Answer 3": "En el artículo 106 de la Constitución.",
+      "Answer 4": "En el artículo 107 de la Constitución.",
+      "Answer": 4
+    },
+    {
+      "Title": "En relación con el Consejo de Estado:       ",
+      "Answer 1": "Una ley de bases regulará su estructura y funcionamiento",
+      "Answer 2": "Una ley ordinaria regulará su composición y funciones.",
+      "Answer 3": "Una ley orgánica regulará su composición y competencia.",
+      "Answer 4": "Su composición, competencias y funciones se regularán mediante su propio Reglamento.",
+      "Answer": 3
+    },
+    {
+      "Title": "El estatuto e incompatibilidades de los miembros del Gobierno se regulará:",
+      "Answer 1": "por ley",
+      "Answer 2": "mediante reglamento",
+      "Answer 3": "por ley orgánica",
+      "Answer 4": "por Decreto-Ley",
+      "Answer": 1
+    },
+    {
+      "Title": "Corresponde proponer un candidato a la Presidencia del Gobierno, a través del Presidente del Congreso a:",
+      "Answer 1": "el Gobierno",
+      "Answer 2": "el Rey",
+      "Answer 3": "el Ministro de Interior",
+      "Answer 4": "el Senado",
+      "Answer": 2
+    },
+    {
+      "Title": "El Gobierno se compone de:",
+      "Answer 1": "el Presidente y, en su caso, los Vicepresidentes",
+      "Answer 2": "los Ministros",
+      "Answer 3": "los miembros que establezca la ley",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El candidato a la Presidencia del Gobierno necesitará:",
+      "Answer 1": "el voto de la mayoría simple de los miembros del Congreso de los Diputados",
+      "Answer 2": "el voto de la mayoría absoluta de los miembros del Congreso de los Diputados",
+      "Answer 3": "el voto favorable de dos terceras partes de los miembros del Congreso de los Diputados",
+      "Answer 4": "el voto favorable de tres quintas partes de los miembros del Congreso de los Diputados",
+      "Answer": 2
+    },
+    {
+      "Title": "El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso, si ningún candidato hubiere obtenido la confianza del Congreso, una vez transcurrido el plazo de:",
+      "Answer 1": "1 mes",
+      "Answer 2": "2 meses",
+      "Answer 3": "20 días",
+      "Answer 4": "10 días",
+      "Answer": 2
+    },
+    {
+      "Title": "Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes:",
+      "Answer 1": "el Congreso",
+      "Answer 2": "el Rey",
+      "Answer 3": "el Gobierno",
+      "Answer 4": "el Congreso",
+      "Answer": 3
+    },
+    {
+      "Title": "El Gobierno cesa:",
+      "Answer 1": "tras la celebración de elecciones generales",
+      "Answer 2": "en los casos de pérdida de la confianza parlamentaria previstos en la Constitución",
+      "Answer 3": "por dimisión o fallecimiento de su Presidente",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal de:",
+      "Answer 1": "la Audiencia Nacional",
+      "Answer 2": "el Tribunal Supremo",
+      "Answer 3": "el Tribunal Constitucional",
+      "Answer 4": "el Tribunal Superior de Justicia",
+      "Answer": 2
+    },
+    {
+      "Title": "Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de:",
+      "Answer 1": "la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo",
+      "Answer 2": "la tercera parte de los miembros del Congreso, y con la aprobación de la mayoría simple del mismo",
+      "Answer 3": "la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría simple del mismo",
+      "Answer 4": "la tercera parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo",
+      "Answer": 1
+    },
+    {
+      "Title": "De no alcanzarse la mayoria requerida en primera votación para elegir Presidente del Gobierno, se someterá la misma propuesta a nueva votación:",
+      "Answer 1": "24 horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple",
+      "Answer 2": "48 horas después de la anterior, y la confianza se entenderá otorgada si obtuviere el voto favorable de tres quintas partes de los miembros",
+      "Answer 3": "48 horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple",
+      "Answer 4": "24 horas después de la anterior, y la confianza se entenderá otorgada si obtuviere el voto favorable de tres quintas partes de los miembros",
+      "Answer": 3
+    },
+    {
+      "Title": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+      "Answer 1": "competencia, legalidad, proporcionalidad, desconcentración y coordinación",
+      "Answer 2": "eficacia, jerarquía, descentralización, desconcentración y coordinación",
+      "Answer 3": "eficacia, legalidad, proporcionalidad, desconcentración y solidaridad",
+      "Answer 4": "competencia, jerarquía, descentralización, desconcentración y solidaridad",
+      "Answer": 2
+    },
+    {
+      "Title": "Tendrá/n como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana:",
+      "Answer 1": "las Fuerzas y Cuerpos de Seguridad",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "las Fuerzas Armadas",
+      "Answer 4": "los Tribunales",
+      "Answer": 1
+    },
+    {
+      "Title": "Controla/n la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican:",
+      "Answer 1": "las Cortes Generales",
+      "Answer 2": "el Gobierno",
+      "Answer 3": "los Tribunales",
+      "Answer 4": "las Fuerzas Armadas",
+      "Answer": 3
+    },
+    {
+      "Title": "La ley regulará:",
+      "Answer 1": "la audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten",
+      "Answer 2": "el acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas",
+      "Answer 3": "el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado",
+      "Answer 4": "todas son correctas",
+      "Answer": 4
+    },
+    {
+      "Title": "El supremo órgano consultivo del Gobierno es:",
+      "Answer 1": "el Tribunal Superior de Justicia",
+      "Answer 2": "el Consejo de Estado",
+      "Answer 3": "el Consejo de Ministros",
+      "Answer 4": "el Ministerio Fiscal",
+      "Answer": 2
+    },
+    {
+      "Title": "Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con:",
+      "Answer 1": "la Constitución",
+      "Answer 2": "su reglamento",
+      "Answer 3": "la ley",
+      "Answer 4": "una ley orgánica",
+      "Answer": 3
+    },
+    {
+      "Title": "El Título IV se titula:",
+      "Answer 1": "Del Gobierno y de la Administración",
+      "Answer 2": "De las Cortes Generales",
+      "Answer 3": "De las relaciones entre el Gobierno y las Cortes Generales",
+      "Answer 4": "Del Poder Judicial",
+      "Answer": 1
+    },
+    {
+      "Title": "El Título IV comprende los artículos:",
+      "Answer 1": "85 a 94",
+      "Answer 2": "97 a 107",
+      "Answer 3": "102 a 115",
+      "Answer 4": "110 a 119",
+      "Answer": 2
+    },
+    {
+      "Title": "En la relación entre los tribunales y la Administración:",
+      "Answer 1": "La Administración está exenta del control jurisdiccional.",
+      "Answer 2": "La Administración controla la actividad de jueces y tribunales mediante el Consejo General del Poder Judicial.",
+      "Answer 3": "Los tribunales controlan la actuación de la administración.",
+      "Answer 4": "Los tribunales regulan la actividad reglamentaria.",
+      "Answer": 3
+    },
+    {
+      "Title": "No forma parte del Gobierno:",
+      "Answer 1": "El Presidente del Gobierno.",
+      "Answer 2": "El Ministro.",
+      "Answer 3": "El Ministro.",
+      "Answer 4": "El Secretario de Estado.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Consejo de Estado:",
+      "Answer 1": "Puede vetar los proyectos del Gobierno que sean inconstitucionales o claramente ilegales.",
+      "Answer 2": "Es un órgano consultivo dependiente de las Cortes Generales.",
+      "Answer 3": "Es un órgano consultivo dependiente del Gobierno.",
+      "Answer 4": "Es un órgano consultivo dependiente del Jefe de Estado.",
+      "Answer": 4
+    },
+    {
+      "Title": "La acción del Gobierno y la coordinación de las funciones de sus miembros es realizada, sin perjuicio de la responsabilidad directa de estos en su gestión:",
+      "Answer 1": "Por el Jefe del Estado.",
+      "Answer 2": "Por el Vicepresidente Primero.",
+      "Answer 3": "Por las Cortes Generales.",
+      "Answer 4": "Por el Presidente del Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "Si un Ministro comete un delito de homicidio será juzgado por:",
+      "Answer 1": "La Sala de lo Penal de la Audiencia Nacional.",
+      "Answer 2": "La Sala de lo Penal de la Audiencia Provincial de Madrid.",
+      "Answer 3": "La Sala de lo Penal del Tribunal Supremo.",
+      "Answer 4": "La Sala Especial Penal del Tribunal Constitucional.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién elige al Presidente del Gobierno?",
+      "Answer 1": "Los ciudadanos españoles, por sufragio universal.",
+      "Answer 2": "El partido político por el que es candidato.",
+      "Answer 3": "El Congreso de los Diputados.",
+      "Answer 4": "Las Cortes Generales.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Título Cuarto de la Constitución finaliza en el artículo:",
+      "Answer 1": "106.",
+      "Answer 2": "109.",
+      "Answer 3": "107.",
+      "Answer 4": "108.",
+      "Answer": 3
+    },
+    {
+      "Title": "Las funciones, principios de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad, deben determinarse:",
+      "Answer 1": "Mediante ley orgánica.",
+      "Answer 2": "Mediante ley ordinaria.",
+      "Answer 3": "Mediante ley de bases.",
+      "Answer 4": "mediante disposiciones reglamentarias.",
+      "Answer": 1
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones no es cierta. El Gobierno:",
+      "Answer 1": "Dirige la Administración militar y la defensa del Estado.",
+      "Answer 2": "Aprueba los presupuestos.",
+      "Answer 3": "Ejerce la función ejecutiva.",
+      "Answer 4": "Dirige la política interior y exterior.",
+      "Answer": 2
+    },
+    {
+      "Title": "Las Fuerzas y Cuerpos de Seguridad del Estado:",
+      "Answer 1": "Actúan bajo la dependencia de los Subdelegados del Gobierno.",
+      "Answer 2": "Tienen como misión proteger el libre ejercicio de los derechos y libertades de los ciudadanos.",
+      "Answer 3": "Tienen como misión defender la unidad de España.",
+      "Answer 4": "Tienen como misión colaborar con las Fuerzas Armadas en la defensa de las fronteras del Estado.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuándo deja de ejercer como tal un Gobierno?",
+      "Answer 1": "Con la convocatoria de nuevas elecciones.",
+      "Answer 2": "Cuando se elige al nuevo Presidente del Gobierno.",
+      "Answer 3": "Cuando toman posesión las nuevas Cortes.",
+      "Answer 4": "Cuando toma posesión el nuevo Gobierno.",
+      "Answer": 4
+    },
+    {
+      "Title": "No es uno de los principios de actuación de la Administración Pública:",
+      "Answer 1": "Jerarquía.",
+      "Answer 2": "Coordinación.",
+      "Answer 3": "Eficiencia.",
+      "Answer 4": "Descentralización.",
+      "Answer": 3
+    },
+    {
+      "Title": "En caso de fallecimiento del Presidente del Gobierno:",
+      "Answer 1": "Asume su función el Vicepresidente Primero.",
+      "Answer 2": "Las Cortes Generales deben elegir un nuevo Presidente.",
+      "Answer 3": "El Gobierno queda en funciones.",
+      "Answer 4": "El Gobierno debe presentar un nuevo candidato.",
+      "Answer": 3
+    },
+    {
+      "Title": "En la primera votación, para ser nombrado Presidente del Gobierno, el candidato deberá contar con el voto favorable de:",
+      "Answer 1": "Por mayoría de tres quintos.",
+      "Answer 2": "Por mayoría simple.",
+      "Answer 3": "Por mayoría de dos tercios.",
+      "Answer 4": "Por mayoría absoluta.",
+      "Answer": 4
+    },
+    {
+      "Title": "Las Fuerzas y Cuerpos de Seguridad del Estado actúan bajo la dependencia de:",
+      "Answer 1": "Rey, Gobierno y Fuerzas Armadas.",
+      "Answer 2": "Gobierno.",
+      "Answer 3": "Fuerzas Armadas.",
+      "Answer 4": "Rey.",
+      "Answer": 2
+    },
+    {
+      "Title": "Respecto a la responsabilidad del Gobierno:",
+      "Answer 1": "La responsabilidad de los miembros del Gobierno es política.",
+      "Answer 2": "El Presidente es quien exige responsabilidades a los Ministros.",
+      "Answer 3": "La responsabilidad de los miembros del Gobierno es directa.",
+      "Answer 4": "No existe modo de exigir responsabilidad a los miembros del Gobierno.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Presidente nombra a los miembros del Gobierno:",
+      "Answer 1": "El Presidente no los nombra.",
+      "Answer 2": "Libremente.",
+      "Answer 3": "Los candidatos deben ser aceptados por la Mesa del Congreso.",
+      "Answer 4": "Los candidatos deben representar la pluralidad de los partidos presentes en las Cortes.",
+      "Answer": 1
+    },
+    {
+      "Title": "El candidato a Presidente del Gobierno:",
+      "Answer 1": "No está obligado a exponer su programa político de Gobierno.",
+      "Answer 2": "Solicitará la confianza del Congreso de los Diputados.",
+      "Answer 3": "Solicitará la confianza de ambas Cámaras.",
+      "Answer 4": "Expondrá ante el Congreso a los miembros del Gobierno que pretende formar.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuál es el plazo, pasado el cual, si ningún candidato alcanza la mayoría necesaria para ser nombrado Presidente del Gobierno, se debe proceder a la convocatoria de nuevas elecciones?:",
+      "Answer 1": "Un mes desde la primera votación.",
+      "Answer 2": "Dos meses desde la primera votación.",
+      "Answer 3": "Dos meses desde la segunda votación.",
+      "Answer 4": "Dos meses desde la tercera votación.",
+      "Answer": 2
+    },
+    {
+      "Title": "Según la Constitución, ¿cuál de las siguientes funciones no está atribuida al Gobierno?:",
+      "Answer 1": "Dirigir la política interior y exterior.",
+      "Answer 2": "Ejercer la función legislativa.",
+      "Answer 3": "Dirigir la defensa del Estado.",
+      "Answer 4": "Ejercer la función ejecutiva.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién manda sobre el Ejército?",
+      "Answer 1": "El Rey.",
+      "Answer 2": "El Gobierno.",
+      "Answer 3": "El Rey ostenta el mando supremo, bajo la dirección del Gobierno.",
+      "Answer 4": "El Gobierno dirige el ejército, siendo el Rey un representante simbólico.",
+      "Answer": 3
+    },
+    {
+      "Title": "Exime de responsabilidad a la Administración el hecho de causar un daño a un particular:",
+      "Answer 1": "Cuando se trate de un caso fortuito.",
+      "Answer 2": "En todos los otros tres supuestos debe indemnizar.",
+      "Answer 3": "Cuando actúe en ejercicio de sus prerrogativas y potestades.",
+      "Answer 4": "Si actúa como una persona de Derecho privado.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Cuánto tiempo debe transcurrir, en su caso, entre la primera y segunda votación de elección del Presidente?",
+      "Answer 1": "24 horas.",
+      "Answer 2": "Dos días.",
+      "Answer 3": "48 horas.",
+      "Answer 4": "72 horas.",
+      "Answer": 3
+    },
+    {
+      "Title": "Respecto a los funcionarios, ¿cuál de estas materias se regula por ley?",
+      "Answer 1": "Las garantías para la eficacia en el ejercicio de sus funciones.",
+      "Answer 2": "El estatuto de los funcionarios privados.",
+      "Answer 3": "Las peculiaridades del ejercicio de su derecho a sindicación.",
+      "Answer 4": "El sistema de prohibiciones.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Con qué artículos finaliza y comienza el Título IV?",
+      "Answer 1": "97 y 107.",
+      "Answer 2": "98 y 110.",
+      "Answer 3": "107 y 97.",
+      "Answer 4": "99 y 113.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En qué artículo de la Constitución se regula el máximo órgano consultivo del Gobierno?:",
+      "Answer 1": "En el artículo 107.",
+      "Answer 2": "En el artículo 106.",
+      "Answer 3": "En el artículo 105.",
+      "Answer 4": "En el artículo 108.",
+      "Answer": 1
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones no es correcta. La Administración Pública:",
+      "Answer 1": "Actúa de acuerdo con los principios de descentralización, desconcentración y coordinación.",
+      "Answer 2": "Sirve con objetividad a los intereses generales.",
+      "Answer 3": "Actúa con sometimiento pleno a la Ley y al Derecho.",
+      "Answer 4": "Actúa de acuerdo con los principios de eficacia, jerarquía y autoridad.",
+      "Answer": 4
+    },
+    {
+      "Title": "El estatuto e incompatibilidades de los miembros del Gobierno:",
+      "Answer 1": "No existe, por no estar sujetos sus miembros a incompatibilidad alguna.",
+      "Answer 2": "Fue prevista su regulación por medio de Ley Orgánica.",
+      "Answer 3": "Están contenidas ambas normativas en el Título Cuarto de la Constitución.",
+      "Answer 4": "Fue prevista su regulación por medio de Ley.",
+      "Answer": 4
+    },
+    {
+      "Title": "Cuando un Presidente dimite:",
+      "Answer 1": "Su Vicepresidente es investido Presidente, sucediéndole a todos los efectos.",
+      "Answer 2": "El Rey convoca una ronda de consultas con los representantes de los grupos políticos, a fin de proponer un nuevo candidato.",
+      "Answer 3": "Se disuelven las Cortes y se convocan elecciones.",
+      "Answer 4": "El nuevo presidente no puede pertenecer al mismo partido político.",
+      "Answer": 2
+    },
+    {
+      "Title": "La responsabilidad no política de los Ministros en su gestión es:",
+      "Answer 1": "Personal y directa.",
+      "Answer 2": "Mancomunada.",
+      "Answer 3": "Solidaria.",
+      "Answer 4": "Inexistente.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes funciones puede ser ejercida por un Presidente del Gobierno en funciones?:",
+      "Answer 1": "La propuesta al Rey de celebración de un referéndum consultivo.",
+      "Answer 2": "La celebración de Consejos de Ministros.",
+      "Answer 3": "El planteamiento de una cuestión de confianza.",
+      "Answer 4": "La propuesta al Rey de disolución de las Cámaras.",
+      "Answer": 2
+    },
+    {
+      "Title": "La proposición del Presidente del Gobierno se realizará a través:",
+      "Answer 1": "Del líder de la oposición.",
+      "Answer 2": "Del Presidente del Gobierno saliente.",
+      "Answer 3": "Del Rey.",
+      "Answer 4": "Del Presidente del Congreso.",
+      "Answer": 4
+    },
+    {
+      "Title": "El Título Cuarto de la Constitución:",
+      "Answer 1": "Carece de Capítulos, como el Título Tercero.",
+      "Answer 2": "Tiene tres Capítulos, como el Título Tercero.",
+      "Answer 3": "Carece de Capítulos.",
+      "Answer 4": "Tiene dos Capítulos.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Ante quien es exigible la responsabilidad penal del Presidente del Gobierno?:",
+      "Answer 1": "Ante la Sala II del Tribunal Constitucional.",
+      "Answer 2": "Ante la Sala I del Tribunal Supremo.",
+      "Answer 3": "Ante la Sala I del Tribunal Constitucional.",
+      "Answer 4": "Ante la Sala II del Tribunal Supremo.",
+      "Answer": 4
+    },
+    {
+      "Title": "Cuando los particulares sufran lesión en sus bienes y derechos a consecuencia del funcionamiento de los servicios públicos:",
+      "Answer 1": "Sólo tendrán derecho a indemnización cuando sea la Administración Civil del Estado la causante del perjuicio.",
+      "Answer 2": "Tendrán siempre derecho a una indemnización.",
+      "Answer 3": "No tendrán derecho a indemnización en los casos de fuerza mayor.",
+      "Answer 4": "No tendrán nunca derecho a indemnización.",
+      "Answer": 3
+    },
+    {
+      "Title": "La creación de órganos administrativos se rige por:",
+      "Answer 1": "Ley ordinaria.",
+      "Answer 2": "Ley marco.",
+      "Answer 3": "Ley de bases.",
+      "Answer 4": "Normas reglamentarias",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Qué artículo de la Constitución establece la composición del Gobierno?:",
+      "Answer 1": "El artículo 98.",
+      "Answer 2": "El artículo 109.",
+      "Answer 3": "El artículo 105.",
+      "Answer 4": "El artículo 87.",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de los siguientes principios no es aplicable a la organización administrativa?:",
+      "Answer 1": "Territorialidad.",
+      "Answer 2": "Jerarquía.",
+      "Answer 3": "Desconcentración.",
+      "Answer 4": "Descentralización.",
+      "Answer": 1
+    },
+    {
+      "Title": "Se regula por ley orgánica:",
+      "Answer 1": "La creación de órganos administrativos.",
+      "Answer 2": "El acceso a la función pública.",
+      "Answer 3": "La asistencia sanitaria básica.",
+      "Answer 4": "El estatuto de las Fuerzas y Cuerpos de Seguridad.",
+      "Answer": 4
+    },
+    {
+      "Title": "El candidato a la Presidencia del Gobierno, será propuesto, en los casos constitucionalmente previstos:",
+      "Answer 1": "Por el Presidente del Gobierno saliente.",
+      "Answer 2": "Por el líder de la oposición.",
+      "Answer 3": "El Rey.",
+      "Answer 4": "Los representantes de los Grupos Políticos con representación parlamentaria.",
+      "Answer": 3
+    },
+    {
+      "Title": "Según la Constitución, debe garantizarse siempre la audiencia de los ciudadanos en:",
+      "Answer 1": "El procedimiento de elaboración de las disposiciones administrativas que le afecten.",
+      "Answer 2": "El procedimiento a través del cual se produzcan los actos administrativos.",
+      "Answer 3": "Toda actuación administrativa.",
+      "Answer 4": "El procedimiento de elaboración de las disposiciones administrativas que le afecten y en el procedimiento a través del cual se produzcan los actos administrativos.",
+      "Answer": 1
+    },
+    {
+      "Title": "Caso de cometer un delito un Ministro:",
+      "Answer 1": "De ser condenado, puede resultar indultado en todo caso.",
+      "Answer 2": "De ser condenado, no puede ser indultado en ningún caso.",
+      "Answer 3": "De ser condenado, hay supuestos en que no puede ser indultado.",
+      "Answer 4": "De ser procesado, su dimisión es exigida por la Constitución.",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Quién nombra a los Ministros?:",
+      "Answer 1": "El Rey, a propuesta del Presidente del Gobierno.",
+      "Answer 2": "El Rey, a propuesta del Presidente de las Cortes.",
+      "Answer 3": "El Presidente del Gobierno.",
+      "Answer 4": "El Rey, a propuesta del Consejo de Estado.",
+      "Answer": 1
+    },
+    {
+      "Title": "Los órganos de la Administración del Estado, son creados, regidos y coordinados:",
+      "Answer 1": "De acuerdo con los principios marcados por el Ministerio para las Administraciones Públicas.",
+      "Answer 2": "De acuerdo con los exigencias del Gobierno.",
+      "Answer 3": "De acuerdo con la Ley.",
+      "Answer 4": "De acuerdo con las exigencias de los ciudadanos.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Título Cuarto de la Constitución comienza en el artículo:",
+      "Answer 1": "94.",
+      "Answer 2": "96.",
+      "Answer 3": "97.",
+      "Answer 4": "95.",
+      "Answer": 3
+    },
+    {
+      "Title": "El Consejo de Estado debe ser regulado:",
+      "Answer 1": "Mediante ley ordinaria.",
+      "Answer 2": "Puede serio mediante ley de bases.",
+      "Answer 3": "Puede ser objeto su regulación de delegación legislativa.",
+      "Answer 4": "Mediante ley orgánica.",
+      "Answer": 4
+    },
+    {
+      "Title": "Si la acusación contra el Presidente o contra los demás miembros del Gobierno fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones:",
+      "Answer 1": "Sólo podrá ser planteada por la tercera parte de los miembros del Congreso.",
+      "Answer 2": "Deberá ser aprobada por mayoría absoluta del Congreso, tras propuesta realizada por la parte de sus miembros que corresponde.",
+      "Answer 3": "Deberá ser aprobada por mayoría absoluta del Congreso, al margen del número de sus miembros que lo haya propuesto.",
+      "Answer 4": "Sólo podrá ser planteada por la cuarta parte de los miembros del Congreso y del Senado.",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Quién nombra al Presidente del Gobierno?",
+      "Answer 1": "El Rey.",
+      "Answer 2": "El Senado.",
+      "Answer 3": "Las Cortes Generales.",
+      "Answer 4": "El Congreso de los Diputados.",
+      "Answer": 1
+    },
+    {
+      "Title": "Hasta la toma de posesión del nuevo Gobierno:",
+      "Answer 1": "Continuará en funciones el Gobierno cesante.",
+      "Answer 2": "Continuará en funciones el Presidente del Gobierno cesante exclusivamente.",
+      "Answer 3": "Continuará en funciones el Gabinete de Crisis del Gobierno cesante.",
+      "Answer 4": "No continuará en funciones miembro alguno del Gobierno cesante.",
+      "Answer": 1
+    },
+    {
+      "Title": "El candidato que haya obtenido la confianza será nombrado Presidente:",
+      "Answer 1": "Por el Presidente del Congreso.",
+      "Answer 2": "Por el Presidente del Gobierno saliente, actuando en funciones.",
+      "Answer 3": "Por el Presidente del Congreso en reunión y sesión conjunta de ambas Cámaras.",
+      "Answer 4": "Por el Rey.",
+      "Answer": 4
+    },
+    {
+      "Title": "La acusación por traición contra un miembro del Gobierno:",
+      "Answer 1": "Produce su inmediato cese.",
+      "Answer 2": "Precisa la aprobación de la mayoría absoluta del Congreso.",
+      "Answer 3": "Se sustancia por el Fiscal General del Estado.",
+      "Answer 4": "Se hace a iniciativa de un tercio del Congreso.",
+      "Answer": 2
+    },
+    {
+      "Title": "Los Tribunales controlan:",
+      "Answer 1": "La potestad legislativa de las Cortes Generales.",
+      "Answer 2": "El sometimiento de la administración a sus propios fines.",
+      "Answer 3": "La legalidad de la actividad administrativa.",
+      "Answer 4": "La potestad jurisdiccional.",
+      "Answer": 3
+    },
+    {
+      "Title": "Protegen el libre ejercicio de los derechos y libertades:",
+      "Answer 1": "Las fuerzas armadas.",
+      "Answer 2": "Los jueces y tribunales.",
+      "Answer 3": "Las fuerzas y cuerpos de seguridad.",
+      "Answer 4": "Las administraciones públicas.",
+      "Answer": 3
+    },
+    {
+      "Title": "El órgano supremo consultivo del Gobierno es:",
+      "Answer 1": "El Consejo General del Poder Judicial.",
+      "Answer 2": "El Consejo de Estado.",
+      "Answer 3": "El Consejo de Ministros.",
+      "Answer 4": "Las Cortes Generales.",
+      "Answer": 2
+    },
+    {
+      "Title": "Una de las siguientes afirmaciones es falsa. El Gobierno cesa:",
+      "Answer 1": "Tras la celebración de elecciones generales.",
+      "Answer 2": "Por enfermedad grave de su Presidente.",
+      "Answer 3": "Por dimisión de su Presidente.",
+      "Answer 4": "En los casos de pérdida de confianza previstos en la Constitución.",
+      "Answer": 2
+    },
+    {
+      "Title": "Un candidato a Presidente del Gobierno que obtenga mayoría simple en la primera votación:",
+      "Answer 1": "Resulta investido Presidente del Gobierno.",
+      "Answer 2": "No resulta investido Presidente del Gobierno.",
+      "Answer 3": "Resulta investido Presidente y tiene 48 horas para elegir a los miembros de su Gobierno.",
+      "Answer 4": "No resulta investido Presidente y vuelve a comparecer ante la Cámara 48 horas después.",
+      "Answer": 4
+    },
+    {
+      "Title": "Ejerce la potestad reglamentaria:",
+      "Answer 1": "El Congreso de los Diputados.",
+      "Answer 2": "El Senado.",
+      "Answer 3": "El Gobierno.",
+      "Answer 4": "El Consejo de Estado.",
+      "Answer": 3
+    }
+  ]

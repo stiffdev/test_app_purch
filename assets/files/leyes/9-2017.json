@@ -1,0 +1,834 @@
+[
+    {
+      "Title": "Según lo establecido en la Ley 9/2017, ¿qué es un contrato de suministros?",
+      "Answer 1": "El que tiene por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con opción de compra, de productos o bienes muebles",
+      "Answer 2": "El que tiene por objeto la adquisición, o el arrendamiento sin opción de compra, de productos o bienes muebles.",
+      "Answer 3": "El que tiene por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Se entenderá por contrato mixto:",
+      "Answer 1": "Aquel cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro.",
+      "Answer 2": "Aquel que se celebre con una pluralidad de sujetos.",
+      "Answer 3": "Aquel que contenga prestaciones correspondientes a otro u otros de distinta clase.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Los interesados podrán hacer la solicitud de acceso al expediente dentro del plazo de interposición del recurso especial, debiendo el órgano de contratación facilitar el acceso",
+      "Answer 1": "En los 4 días hábiles siguientes a la recepción de la solicitud",
+      "Answer 2": "En los 2 días hábiles siguientes a la recepción de la solicitud",
+      "Answer 3": "En los 5 días hábiles siguientes a la recepción de la solicitud",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De acuerdo con el artículo 154 de la LCSP, la formalización de los contratos deberá publicarse, tras el perfeccionamiento del contrato en el perfil del contratante del órgano de contratación, en un plazo:",
+      "Answer 1": "No superior a 7 días.",
+      "Answer 2": "No superior a 15 días.",
+      "Answer 3": "No superior a 20 días.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "No se incluirá en el contenido mínimo de los contratos",
+      "Answer 1": "Los supuestos en que no procede la modificación",
+      "Answer 2": "La identificación de las partes",
+      "Answer 3": "El precio cierto.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Aquel contrato cuyo objeto es realizar prestaciones de hacer consciente en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro es:",
+      "Answer 1": "Contrato de servicios.",
+      "Answer 2": "Contrato mixto.",
+      "Answer 3": "Contrato de colaboración entre el sector público y privado.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De conformidad con el artículo 193 de la LCSP, cuando el contratista, por causas imputables al mismo, hubiere incurrido en demora respecto al cumplimiento del plazo total para la ejecución del contrato, la Administración podrá optar, atendidas las circunstancias del caso, por:",
+      "Answer 1": "La resolución del contrato o por la imposición de penalidades diarias en la proporción de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+      "Answer 2": "La resolución del contrato o por la imposición de penalidades diarias en la proporción de 0,50 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+      "Answer 3": "La resolución del contrato o por la imposición de penalidades diarias en la proporción de 0,50 euros por cada 1.000 euros del precio del contrato, IVA incluido.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De acuerdo con lo establecido en el artículo 102 Ley 9/2017, de Contratos del Sector Público, ¿en qué casos pueden celebrarse contratos con precios provisionales?",
+      "Answer 1": "Ambas son correctas",
+      "Answer 2": "Tras la tramitación de un diálogo competitivo",
+      "Answer 3": "Tras la tramitación de un procedimiento negociado.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Los empresarios que concurran agrupados en uniones temporales quedarán obligados:",
+      "Answer 1": "Solidariamente",
+      "Answer 2": "Conjuntamente.",
+      "Answer 3": "Separadamente en función del objeto del contrato",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El plazo para la presentación del escrito que iniciará el procedimiento de recurso especial en materia de contratación, comenzará a contarse, cuando se interponga contra el anuncio de licitación:",
+      "Answer 1": "A partir del día siguiente a aquel en que se haya tenido conocimiento de la posible infracción.",
+      "Answer 2": "A partir del día siguiente al de su publicación en el BOE",
+      "Answer 3": "A partir del día siguiente al de su publicación en el perfil de contratante",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En los casos en que por sentencia penal firme así se prevea, la duración de la prohibición de contratar será la prevista en la misma. En los casos en los que ésta no haya establecido plazo, esa duración no podrá exceder de:",
+      "Answer 1": "Tres años desde la fecha de la condena por sentencia firme.",
+      "Answer 2": "Cuatro años desde la fecha de la condena por sentencia firme.",
+      "Answer 3": "Cinco años desde la fecha de la condena por sentencia firme.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Cuál de los siguientes no es un medio de acreditación de la solvencia técnica o profesional en los contratos de servicios, de acuerdo al artículo 90 de la LCSP:",
+      "Answer 1": "Descripción de las instalaciones técnicas, de las medidas empleadas por el empresario para garantizar la calidad y de los medios de estudio e investigación de la empresa.",
+      "Answer 2": "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+      "Answer 3": "Certificados expedidos por los institutos o servicios oficiales encargados del control de calidad, de competencia reconocida, que acrediten la conformidad de dichos servicios",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En el contenido mínimo de un contrato administrativo no se encuentra la siguiente mención:",
+      "Answer 1": "Identificación de las partes.",
+      "Answer 2": "Precio cierto, o el modo de determinarlo.",
+      "Answer 3": "Plasmación en escritura pública.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Los contratos menores",
+      "Answer 1": "Pueden ser objeto de prórroga",
+      "Answer 2": "No pueden ser objeto de prórroga",
+      "Answer 3": "Tendrán una duración de 4 años que puede ser prorrogada",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 3.2 de la Ley 9/2017, tienen la consideración de Administración Pública:",
+      "Answer 1": "Las autoridades administrativas independientes.",
+      "Answer 2": "Las Mutuas colaboradoras con la Seguridad Social",
+      "Answer 3": "Las fundaciones públicas.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Por quién y en qué plazo deben ser instruidos y resueltos los expedientes de resolución contractual, conforme al artículo 212 de la Ley 9/2017, de 8 de noviembre, Ley de Contratos del Sector Público:",
+      "Answer 1": "Por el órgano de contratación en un plazo máximo de 8 meses.",
+      "Answer 2": "Por el órgano de contratación en un plazo máximo de 6 meses.",
+      "Answer 3": "Por la mesa de contratación en un plazo máximo de 6 meses.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cómo se computará el plazo para interponer el recurso especial en el caso del procedimiento negociado sin publicidad?",
+      "Answer 1": "Comenzará desde el día siguiente a la remisión de la invitación a los candidatos seleccionados.",
+      "Answer 2": "Comenzará desde el día siguiente de la recepción de las ofertas.",
+      "Answer 3": "Comenzará desde el día de la recepción de las ofertas",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Están sujetos a regulación armonizada:",
+      "Answer 1": "Los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 5.382.000 euros.",
+      "Answer 2": "Los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 5.350.000 euros.",
+      "Answer 3": "Los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 5.225.000 euros.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De acuerdo con el artículo 63 de la LCSP, la publicación en el perfil del contratante de la información relativa a los contratos menores deberá realizarse al menos:",
+      "Answer 1": "Trimestralmente.",
+      "Answer 2": "Mensualmente.",
+      "Answer 3": "Semestralmente.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Los órganos de contratación difundirán su perfil de contratante:",
+      "Answer 1": "A través de la prensa nacional.",
+      "Answer 2": "A través de internet, exclusivamente.",
+      "Answer 3": "A través de los Boletines Oficiales.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los órganos de contratación del sector público podrán ser:",
+      "Answer 1": "Colegiados y solidarios, siempre.",
+      "Answer 2": "Siempre colegiados",
+      "Answer 3": "Unipersonales o colegiados.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué duración tendrá el nombramiento de los miembros del Tribunal Central de Recursos Contractuales?",
+      "Answer 1": "6 años",
+      "Answer 2": "4 años",
+      "Answer 3": "5 años",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El artículo 82 de la LCSP establece que para la conservación de la clasificación de las empresas:",
+      "Answer 1": "Deberá justificarse anualmente el mantenimiento de la solvencia económica y financiera y, cada dos años, el de la solvencia técnica y profesional",
+      "Answer 2": "Deberá justificarse anualmente el mantenimiento de la solvencia económica y financiera y, cada tres años, el de la solvencia técnica y profesional.",
+      "Answer 3": "No deberá justificarse nada, la clasificación de las empresas tendrá una vigencia indefinida.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Conforme al art. 63.4 de la Ley 9/2017, la publicación en el perfil de contratante de la información relativa a los contratos menores deberá realizarse",
+      "Answer 1": "Al menos trimestralmente.",
+      "Answer 2": "Dentro de los treinta días siguientes a su perfección",
+      "Answer 3": "Al menos mensualmente.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En los contratos del sector público podrán incluirse cualesquiera pactos, cláusulas y condiciones, siempre que no sean contrarios:",
+      "Answer 1": "Al ordenamiento jurídico.",
+      "Answer 2": "Todas son correctas.",
+      "Answer 3": "Al interés público",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "De acuerdo con el artículo 64 de la Ley 9/2017, en lo relativo a la lucha contra la corrupción en la contratación pública, aquellas personas o entidades que tengan conocimiento de un posible conflicto de interés deberán ponerlo inmediatamente en conocimiento de",
+      "Answer 1": "La mesa de contratación",
+      "Answer 2": "Las Comisiones Delegadas de la Junta Consultiva de Contratación Pública",
+      "Answer 3": "El órgano de contratación.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cada cuánto tiempo ha de justificarse la solvencia técnica y profesional para conservar la clasificación?",
+      "Answer 1": "Cada dos años.",
+      "Answer 2": "Cada tres años.",
+      "Answer 3": "Cada cinco años.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Los expedientes de contratación correspondientes a los contratos cuya celebración responda a una necesidad inaplazable o cuya adjudicación sea preciso acelerar por razones de interés público:",
+      "Answer 1": "Podrán ser objeto de tramitación de emergencia",
+      "Answer 2": "Deberán ser objeto de tramitación urgente.",
+      "Answer 3": "Podrán ser objeto de tramitación urgente",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De acuerdo con el artículo 146 de la Ley 9/2017, en los casos en que se establezcan varios criterios de adjudicación de un contrato, la ponderación relativa atribuida a cada uno deberá precisarse en:",
+      "Answer 1": "El pliego de cláusulas administrativas particulares",
+      "Answer 2": "El pliego de prescripciones técnicas generales",
+      "Answer 3": "El pliego de cláusulas administrativas generales",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Cuando se trate de contratos no adjudicados por la Administración General del Estado, sus organismos autónomos o las entidades gestoras y servicios comunes de la seguridad social, están sujetos a regulación armonizada los contratos de suministro cuyo valor estimado sea igual o superior a:",
+      "Answer 1": "134.000 euros.",
+      "Answer 2": "215.000 euros.",
+      "Answer 3": "214.000 euros.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Las actuaciones de comprobación y de imposición de penalidades por el incumplimiento previstas en el artículo 217.1 Ley 9/2017, serán obligatorias para las Administraciones Públicas y demás entes públicos contratantes",
+      "Answer 1": "En los contratos de obras y en los contratos de servicios cuyo valor estimado supere los 4 millones de euros.",
+      "Answer 2": "En los contratos de obras y en los contratos de servicios cuyo valor estimado supere los 3 millones de euros.",
+      "Answer 3": "En los contratos de obras y en los contratos de servicios cuyo valor estimado supere los 5 millones de euros.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De acuerdo con el art. 151.1 Ley 9/2017, la resolución de adjudicación deberá ser motivada y se notificará a los candidatos y licitadores, debiendo ser publicada en el perfil de contratante:",
+      "Answer 1": "En el plazo de 15 días",
+      "Answer 2": "En el plazo de 10 días",
+      "Answer 3": "En el plazo de 20 días",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De acuerdo con el artículo 107 de la Ley 9/2017, en lo relativo a las garantías exigibles en la contratación del sector público, ¿es posible exigir una garantía complementaria a la garantía definitiva?",
+      "Answer 1": "Sí, de hasta un 5 por 100 del precio final ofertado por el licitador que presentó la mejor oferta, excluido el Impuesto sobre el Valor Añadido, pudiendo alcanzar la garantía total un 10 por 100 del citado precio.",
+      "Answer 2": "Sí, de hasta un 5 por 100 del presupuesto base de licitación del contrato, incluido el Impuesto sobre el Valor Añadido, pudiendo alcanzar la garantía total un 10 por 100 del citado precio.",
+      "Answer 3": "No, no es posible exigir una garantía complementaria en los contratos celebrados con las Administraciones Públicas.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Están sujetos a regulación armonizada los contratos de obras, los contratos de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a:",
+      "Answer 1": "5.350.000 euros.",
+      "Answer 2": "5.382.000 euros.",
+      "Answer 3": "3.116.000 euros.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "De acuerdo con el artículo 111 de la Ley 9/2017, en lo relativo a la exigencia de garantías en la contratación del sector público, el acuerdo de devolución de la garantía deberá adoptarse y notificarse al interesado en el plazo de",
+      "Answer 1": "1 mes",
+      "Answer 2": "2 meses.",
+      "Answer 3": "15 días.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La constatación del cumplimiento del contrato exigirá por parte de la Administración un acto formal y positivo de recepción o conformación",
+      "Answer 1": "Dentro del mes siguiente a la entrega o realización del objeto del contrato, o en el plazo que se determine en el pliego de cláusulas administrativas particulares por razón de sus características.",
+      "Answer 2": "Siempre en el plazo máximo de los seis meses siguientes a la entrega o realización del objeto del contrato.",
+      "Answer 3": "Dentro de los tres meses siguientes a la entrega o realización del objeto del contrato, o en el plazo que se determine en el pliego de cláusulas administrativas particulares por razón de sus características.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La nulidad de los actos que no sean preparatorios del contrato en un expediente de contratación:",
+      "Answer 1": "Provoca la nulidad del propio contrato.",
+      "Answer 2": "Comporta la adopción de medidas provisionales, mientras se declara.",
+      "Answer 3": "Solo afectará a éstos y sus consecuencias.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En los contratos de suministro la solvencia técnica de los empresarios deberá acreditarse por uno o varios de los siguientes medios, entre otros (indique la incorrecta):",
+      "Answer 1": "Relación de los principales suministros efectuados durante los últimos dos años.",
+      "Answer 2": "Descripción de las instalaciones técnicas, de las medidas empleadas para garantizar la calidad y de los medios de estudio e investigación de la empresa.",
+      "Answer 3": "Muestras, descripciones y fotografías de los productos a suministrar, cuya autenticidad pueda certificarse a petición de la entidad del sector público contratante.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes no es causa de nulidad de un contrato?",
+      "Answer 1": "Ambas son correctas",
+      "Answer 2": "La celebración fuera del lugar de la sede del órgano de contratación.",
+      "Answer 3": "La desviación de poder en su adjudicación.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La falta de solvencia económica debidamente acreditada del adjudicatario es causa de:",
+      "Answer 1": "Nulidad de derecho administrativo",
+      "Answer 2": "Anulabilidad o nulidad de derecho administrativo.",
+      "Answer 3": "Anulabilidad de derecho administrativo.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Los contratos que celebren los poderes adjudicadores, salvo excepciones, se perfeccionan con:",
+      "Answer 1": "Su formalización",
+      "Answer 2": "El consentimiento.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Si la financiación del contrato ha de realizarse con aportaciones de distinta procedencia, ¿cuántos expedientes de contratación se tramitarán?",
+      "Answer 1": "Se tramitará un solo expediente por el órgano de contratación al que corresponda la adjudicación del contrato.",
+      "Answer 2": "Se tramitarán tantos expedientes como órganos de los que procedan las aportaciones existan.",
+      "Answer 3": "Se tramitará un solo expediente por el órgano superior jerárquico común de los órganos de que se procedan las aportaciones",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público establece respecto a la clasificación que:",
+      "Answer 1": "Se exige al cesionario, incluso en aquellos casos en que no fue exigida al cedente.",
+      "Answer 2": "Será exigible igualmente al cesionario de un contrato en el caso en que hubiese sido requerida al cedente.",
+      "Answer 3": "No será exigible, en ningún caso, al cesionario.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "De acuerdo con el artículo 176 de la Ley 9/2017, en cuanto a la presentación y evaluación de ofertas del procedimiento de diálogo competitivo, la mesa:",
+      "Answer 1": "Podrá solicitar precisiones o aclaraciones sobre las ofertas presentadas, siempre que ello no suponga una modificación de los elementos fundamentales de la oferta o de la licitación pública.",
+      "Answer 2": "Podrá solicitar precisiones o aclaraciones sobre las ofertas presentadas, siempre que ello no suponga un riesgo para la correcta adjudicación del contrato.",
+      "Answer 3": "No podrá solicitar aclaración alguna tras la finalización de la fase de diálogo competitivo.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De conformidad con la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos del sector público pueden:",
+      "Answer 1": "Tener carácter administrativo exclusivamente.",
+      "Answer 2": "Tener carácter privado exclusivamente",
+      "Answer 3": "Tener carácter administrativo o carácter privado.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "La solvencia económica y financiera, y técnica o profesional del empresario se puede sustituir",
+      "Answer 1": "Por la clasificación.",
+      "Answer 2": "Por aval bancario.",
+      "Answer 3": "Por la garantía.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De acuerdo con el artículo 228 de la Ley 9/2017, en el ámbito de la Administración Local, las Corporaciones Locales podrán crear centrales de contratación",
+      "Answer 1": "Por resolución del Alcalde",
+      "Answer 2": "Por acuerdo de la Junta de Gobierno",
+      "Answer 3": "Por acuerdo del Pleno.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De acuerdo con el artículo 347 de la Ley 9/2017, ¿mediante qué norma se definirán las especificaciones relativas a la operación y utilización de los servicios prestados por la Plataforma de Contratación del Sector Público?",
+      "Answer 1": "Mediante Reglamento",
+      "Answer 2": "Mediante Ley Orgánica",
+      "Answer 3": "Mediante Orden",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El procedimiento de recurso especial en materia de contratación se iniciará mediante escrito que deberá presentarse en el plazo de:",
+      "Answer 1": "Veinte días hábiles.",
+      "Answer 2": "Quince días hábiles.",
+      "Answer 3": "Diez días hábiles.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Están sujetos a regulación armonizada los contratos de suministro cuyo valor estimado sea igual o superior a:",
+      "Answer 1": "237.000 euros, en todo caso.",
+      "Answer 2": "139.000 euros, cuando se trate de contratos adjudicados por la Administración General del Estado, sus organismos autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+      "Answer 3": "207.000 euros, cuando se trate de contratos adjudicados por la Administración General del Estado, sus organismos autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Según el artículo 313 Ley 9/2017, son causas de resolución de los contratos de servicios, además de las generales, las siguientes:",
+      "Answer 1": "Los contratos complementarios quedarán resueltos, en todo caso, cuando se resuelva el contrato principal.",
+      "Answer 2": "El desistimiento una vez iniciada la prestación del servicio o la suspensión del contrato por plazo superior a seis meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor.",
+      "Answer 3": "El desistimiento antes de iniciar la prestación del servicio o la suspensión por causa imputable al órgano de contratación de la iniciación del contrato por plazo superior a tres meses a partir de la fecha señalada en el mismo para su comienzo, salvo que en el pliego se señale otro menor.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En el contrato de obra, el contratista tendrá derecho a percibir abonos a cuenta sobre su importe por las operaciones preparatorias realizadas como instalaciones y acopio de materiales o equipos de maquinaria pesada adscritos a la obra, en las condiciones que se señalen:",
+      "Answer 1": "En el programa de desarrollo de los trabajos.",
+      "Answer 2": "En la memoria",
+      "Answer 3": "En el pliego de cláusulas administrativas particulares",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "El responsable del contrato a quien corresponda supervisar su ejecución y adoptar las decisiones y dictar las instrucciones necesarias con el fin de asegurar la correcta realización de la prestación pactada, podrá ser:",
+      "Answer 1": "Necesariamente ajeno al órgano contratante",
+      "Answer 2": "Necesariamente vinculado al ente contratante",
+      "Answer 3": "Persona física o jurídica.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En el supuesto de contratos en que el procedimiento de adjudicación utilizado sea el procedimiento abierto simplificado, por regla general la Junta de Contratación en todo caso se entenderá válidamente constituida cuando:",
+      "Answer 1": "Asistan el Presidente, el Secretario y el funcionario que tenga atribuido, legal o reglamentariamente y el asesoramiento jurídico del órgano de contratación",
+      "Answer 2": "Asistan el Presidente, el Secretario y el interventor.",
+      "Answer 3": "Asistan el Presidente, el Secretario, el funcionario que tenga atribuido, legal o reglamentariamente, el asesoramiento jurídico del órgano de contratación y el interventor.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Con relación al recurso especial en materia de contratación, ¿Qué plazo tiene el órgano de contratación para presentar las alegaciones que considere oportunas referidas a la adopción de las medidas cautelares solicitadas o a las propuestas por el propio órgano decisorio?",
+      "Answer 1": "Dos días hábiles.",
+      "Answer 2": "Cinco días hábiles.",
+      "Answer 3": "Tres días naturales.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En un contrato de concesión de servicios, la Administración podrá modificar las características del servicio contratado y las tarifas que han de ser abonadas por los usuarios. Cuando las modificaciones afecten al régimen financiero del contrato, se deberá",
+      "Answer 1": "Compensar a la parte correspondiente de manera que se mantenga igual la naturaleza del contrato.",
+      "Answer 2": "Compensar a la parte correspondiente de manera que se mantenga el equilibrio de los supuestos económicos que fueron considerados como básicos en la adjudicación del contrato.",
+      "Answer 3": "Suspender la ejecución del contrato, hasta que se produzca la efectiva recuperación del equilibrio económico",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "En el caso de empresas de 50 o más trabajadores, no cumplir el requisito de que al menos el 2 por ciento de sus empleados sean trabajadores con discapacidad:",
+      "Answer 1": "Es una causa de invalidez de los contratos.",
+      "Answer 2": "No es una prohibición para contratar con las Administraciones Públicas",
+      "Answer 3": "Es una prohibición para contratar con las Administraciones Públicas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿En qué momento las uniones temporales de empresarios, para contratar con el sector público, deberá formalizar dicha unión en escritura pública?",
+      "Answer 1": "A la firma del contrato.",
+      "Answer 2": "En la adjudicación.",
+      "Answer 3": "En el período establecido de licitación.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Señale la opción correcta en relación a la ejecución del contrato de suministro:",
+      "Answer 1": "El contratista estará obligado a entregar los bienes objeto de suministro en el tiempo y lugar fijados en el contrato y de conformidad con las prescripciones técnicas y cláusulas administrativas.",
+      "Answer 2": "Cualquiera que sea el tipo de suministro, el adjudicatario no tendrá derecho a indemnización por causa de pérdidas, averías o perjuicios ocasionados en los bienes antes de su entrega a la Administración, salvo que esta hubiere incurrido en mora al recibirlos",
+      "Answer 3": "Todas las anteriores son correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Al escrito de interposición del recurso especial en materia de contratación deberá acompañarse:",
+      "Answer 1": "Todas son correctas.",
+      "Answer 2": "La copia o traslado del acto expreso que se recurra, o indicación del expediente en que haya recaído o del boletín oficial o perfil de contratante en que se haya publicado.",
+      "Answer 3": "El documento o documentos que acrediten la legitimación del actor cuando la ostente por habérsela transmitido otro por herencia o por cualquier otro título.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "De acuerdo con el artículo 258 de la Ley 9/2017, serán obligaciones generales del concesionario de obras:",
+      "Answer 1": "Explotar las obras, asumiendo el riesgo operacional de su gestión con la continuidad y en los términos establecidos en el contrato u ordenados posteriormente por el órgano de contratación.",
+      "Answer 2": "Admitir la utilización de las obras por todo usuario, en las condiciones que hayan sido establecidas de acuerdo con los principios de igualdad, universalidad y no discriminación, mediante el abono, en su caso, de la correspondiente tarifa",
+      "Answer 3": "Todas son correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En relación con los contratos de los poderes adjudicadores que no tengan la condición de Administración Pública, se tendrá que acordar por el Departamento ministerial u órgano de la administración autonómica o local al que esté adscrita",
+      "Answer 1": "En los contratos de concesión de obras y concesión de servicios, el rescate de la obra o el servicio.",
+      "Answer 2": "En los contratos de concesión de obras y concesión de servicios, el secuestro o intervención de la obra o el servicio",
+      "Answer 3": "Todas las respuestas anteriores son correctas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Dónde se publicarán los informes que las Juntas Consultivas de Contratación Pública del Estado remiten a la Comisión Europea?",
+      "Answer 1": "En los correspondientes portales de transparencia y en la Plataforma de Contratación del Sector Público.",
+      "Answer 2": "En la Plataforma de Contratación del Sector Público y en el Diario Oficial de la Unión Europea.",
+      "Answer 3": "En el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "El recurso especial en materia de contratación tiene carácter:",
+      "Answer 1": "Obligatorio.",
+      "Answer 2": "Extraordinario.",
+      "Answer 3": "Potestativo.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "En los contratos del sector público se puede incluir cualquier pacto siempre que no sean contrarios a:",
+      "Answer 1": "El interés público, al ordenamiento jurídico y a los principios de buena administración",
+      "Answer 2": "El interés público, al ordenamiento jurídico y a los principios de equidad.",
+      "Answer 3": "El interés público, al ordenamiento jurídico y a los principios de la buena fe.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿En qué casos podrá exigirse a las personas jurídicas que especifiquen, en la oferta o en la solicitud de participación, los nombres y la cualificación profesional del personal responsable de ejecutar la prestación?",
+      "Answer 1": "Todas las respuestas son correctas.",
+      "Answer 2": "En los contratos de suministro que incluyan servicio o trabajos de colocación e instalación.",
+      "Answer 3": "En los contratos de obras.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Los acuerdos relativos a la clasificación de las empresas que adoptan las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado, podrán ser objeto de recurso de alzada ante:",
+      "Answer 1": "El Consejo de Ministros.",
+      "Answer 2": "El Ministro de Hacienda y Función Pública.",
+      "Answer 3": "La Subsecretaría de Hacienda y Función Pública.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Conforme al artículo 29 de la Ley 9/2017 de Contratos del Sector Público, indique el número de prórrogas que puede prever un contrato.",
+      "Answer 1": "Una",
+      "Answer 2": "Indefinidas",
+      "Answer 3": "Ninguna.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Por norma general, durante el proceso de selección de candidatos establecido en la Ley 9/2017, ¿Cuál es el número de empresarios que el órgano de contratación invitará a participar en el procedimiento?",
+      "Answer 1": "Cinco empresarios como máximo",
+      "Answer 2": "Al menos cinco empresarios",
+      "Answer 3": "No menos de tres ni más de siete empresarios",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Teniendo en cuenta la adjudicación de los contratos de las Administraciones Públicas según la Ley 9/2017, ¿qué tipo de criterios establece el órgano de contratación para evaluar la mejor relación calidad-precio cuando incluye aspectos medioambientales o sociales, vinculados al objeto del contrato?",
+      "Answer 1": "Criterios de eficacia",
+      "Answer 2": "Criterios cualitativos",
+      "Answer 3": "Criterios de eficencia.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "En el caso de un recurso especial en materia de contratación el artículo 57 de la Ley de Contratos del Sector Público establece que, una vez recibidas las alegaciones de los interesados, o transcurrido el plazo señalado para su formulación, y el de la prueba; el órgano competente debe resolver en un plazo de",
+      "Answer 1": "6 meses.",
+      "Answer 2": "10 días",
+      "Answer 3": "5 días",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Indique de entre las siguientes causas, cuál no queda recogida en el artículo 56 de la Ley de Contratos del Sector Público, como necesaria para abrir un período de pruebas en la tramitación de un recurso especial en materia de contratación",
+      "Answer 1": "Solicitud de los interesados",
+      "Answer 2": "El órgano de contratación no tenga por ciertos los hechos alegados por los interesados.",
+      "Answer 3": "El órgano encargado de la resolución del recurso no tenga por ciertos los hechos alegados por los interesados.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Si un contrato de suministros tiene por objeto la fabricación productos exclusivamente para fines de investigación, experimentación, estudio o desarrollo, ¿cómo será la adjudicación de estos contratos por parte del órgano de contratación",
+      "Answer 1": "No podrán ser objeto de modificación",
+      "Answer 2": "Podránser objeto de modificación, en el caso de que estas sean prestaciones adicionales a las que figuraban definidas en el proyecto.",
+      "Answer 3": "Podrán ser objeto de modificación en el caso de que estas sean prestaciones adicionales a las que figuraban definidas en el pliego de prescripciones técnicas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Cada cuánto tiempo ha de justificarse la solvencia económica y financiera para conservar la clasificación?",
+      "Answer 1": "Cada dos años",
+      "Answer 2": "Anualmente.",
+      "Answer 3": "Cada seis meses.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La resolución del recurso especial de contratación:",
+      "Answer 1": "Procederá contra ella la revisión de oficio.",
+      "Answer 2": "Será directamente ejecutiva",
+      "Answer 3": "Está sujeto a fiscalización por los órganos del control interno de las Administraciones Públicas.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "Contra la resolución del recurso especial en materia de contratación",
+      "Answer 1": "Cabe recurso de alzada y potestativo de reposición.",
+      "Answer 2": "Cabe recurso extraordinario de reposición",
+      "Answer 3": "Cabe solo recurso contencioso-administrativo",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Los contratos que tengan por objeto la creación e interpretación artística y literaria son contratos",
+      "Answer 1": "Privados.",
+      "Answer 2": "Mixtos.",
+      "Answer 3": "Administrativos.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de los siguientes elementos no forma parte del contenido mínimo de un contrato, salvo que ya se encuentre recogido en los pliegos?",
+      "Answer 1": "El objeto del contrato.",
+      "Answer 2": "La legislación que se le aplica al contrato",
+      "Answer 3": "La fianza.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De conformidad con el artículo 212 de la Ley 9/2017 de Contratos del Sector Público, la resolución de un contrato se acordará",
+      "Answer 1": "Por el órgano de contratación, de oficio",
+      "Answer 2": "Conjuntamente por el órgano de contratación y el contratista",
+      "Answer 3": "Por el órgano de contratación, de oficio o a instancia del contratista",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De conformidad con el artículo 156 de la Ley 9/2017 de Contratos del Sector Público, en procedimientos abiertos de adjudicación de contratos sujetos a regulación armonizada, el plazo de presentación de proposiciones , para los contratos de obras, suministros y servicios, contados desde la fecha de envío del anuncio de licitación a la Oficina de Publicaciones de la Unión Europea será:",
+      "Answer 1": "No interior a 35 días.",
+      "Answer 2": "No inferior a 25 días.",
+      "Answer 3": "No superior a 15 días.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La revisión de la clasificación será:",
+      "Answer 1": "De oficio o a petición del interesado",
+      "Answer 2": "Siempre de oficio.",
+      "Answer 3": "Anual para contratos de servicios y suministros y cada tres años para contratos de obra",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "En relación con la presentación de la documentación acreditativa del cumplimiento de los requisitos previos, de acuerdo con la adjudicación de los contratos de las Administraciones Públicas de la Ley 9/2017, se observarán las reglas establecidas a continuación",
+      "Answer 1": "Las proposiciones en el procedimiento abierto deberán ir acompañadas de una declaración responsable que se ajustará al formulario de documento europeo único de contratación",
+      "Answer 2": "Las proposiciones en el procedimiento abierto deberán ir acompañadas de una declaración responsable que se ajustará al formulario de documento europeo adicional de contratación",
+      "Answer 3": "Las proposiciones en el procedimiento abierto deberán ir acompañadas de una declaración responsable que se ajustará al formulario de documento europeo mixto de contratación",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Los contratos administrativos se regirán supletoriamente por:",
+      "Answer 1": "Normas de derecho administrativo",
+      "Answer 2": "Normas de derecho privado",
+      "Answer 3": "Normas de desarrollo de la Ley de Contratos del Sector Público.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "A tenor de los indicado a continuación escoja la respuesta o respuestas que considere correctas en base a la Ley 9/2017, artículo 158: «Cuando para la adjudicación del contrato deban tenerse en cuenta una pluralidad de criterios, o utilizándose un único criterio sea este el del menor coste del ciclo de vida, el plazo máximo para efectuar la adjudicación será de…»",
+      "Answer 1": "Será de 1 mes a contar desde la apertura de las proposiciones, que en caso de la proposición contuviera más de un sobre o archivo electrónico computará desde la apertura del último sobre vinculado a una misma propuesta.",
+      "Answer 2": "Será de 6 meses a contar desde la apertura de las proposiciones, salvo que se hubiese establecido otro en el pliego de cláusulas administrativas particulares",
+      "Answer 3": "Será de 2 meses a contar desde la apertura de las proposiciones, salvo que se hubiese establecido otro en el pliego de cláusulas administrativas particulares",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Indique, conforme al artículo 55 de la Ley de Contratos del Sector Público, en cuál de los siguientes casos debe inadmitirse un recurso especial en materia de contratación.",
+      "Answer 1": "Haberse interpuesto el recurso contra la formalización de encargos a medios propios.",
+      "Answer 2": "Haberse interpuesto el recurso contra la adjudicación de un contrato de emergencia",
+      "Answer 3": "Haberse interpuesto el recurso contra el anuncio de licitación de un contrato de obras, cuyo valor estimado sea superior a tres millones de euros.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "¿Contra qué actos no podrá interponerse el recurso especial en materia de contratación?",
+      "Answer 1": "Actos de los órganos de contratación dictados en relación con las modificaciones contractuales no previstas en el pliego, que sea preciso realizar una vez adjudicados los contratos.",
+      "Answer 2": "Acuerdos de adjudicación.",
+      "Answer 3": "Anuncios de licitación.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Cuál de las siguientes circunstancias no es considerada prohibición para contratar?",
+      "Answer 1": "Estar procesado por tráfico de influencias.",
+      "Answer 2": "Estar afectado por una prohibición de contratar impuesta en virtud de sanción administrativa firme.",
+      "Answer 3": "No hallarse al corriente de sus obligaciones con la Seguridad Social.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Tal y como se indica en el artículo 29 de la Ley 9/2017 de Contratos del Sector Público, los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de",
+      "Answer 1": "Tres años, sin incluir las posibles prórrogas",
+      "Answer 2": "Quince años, incluyendo las posibles prórrogas",
+      "Answer 3": "Cinco años, incluyendo las posibles prórrogas",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "De los siguientes aspectos que es necesario justificar adecuadamente en el expediente de contratación de un contrato del sector público, indique, conforme al artículo 116 de la Ley 9/2017 de Contratos del Sector Público, cuál corresponde exclusivamente a los contratos de servicios:",
+      "Answer 1": "Un informe de insuficiencia de medios",
+      "Answer 2": "La decisión de no dividir en lotes el objeto del contrato",
+      "Answer 3": "Las condiciones especiales de ejecución del contrato.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La declaración de nulidad de los actos preparatorios del contrato o de la adjudicación, llevará consigo la del mismo contrato",
+      "Answer 1": "Nunca.",
+      "Answer 2": "En todo caso.",
+      "Answer 3": "En todo caso, cuando sea firme",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿Qué pueden exigir los órganos de contratación que tengan la intención de adquirir obras, suministros o servicios con características específicas de tipo medioambiental, social u otro en las prescripciones técnicas, en los criterios de adjudicación o en las condiciones de ejecución del contrato como medio de prueba de que las obras, los servicios o los suministros cumplen las características exigidas? Conteste conforme a las disposiciones del artículo 127 de la Ley de Contratos del Sector Público?",
+      "Answer 1": "Una etiqueta específica que garantice el cumplimiento de los requisitos exigidos",
+      "Answer 2": "Una declaración jurada del contratista, candidato o licitador que garantice el cumplimiento de los requisitos exigidos.",
+      "Answer 3": "Un certificado emitido por el Ministerio correspondiente que garantice el cumplimiento de los requisitos exigidos.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "¿Dónde se indican los requisitos mínimos que el empresario debe reunir para acreditar la solvencia económica y financiera y profesional o técnica?",
+      "Answer 1": "Se indican y especifican en el anuncio de licitación.",
+      "Answer 2": "Se indican en el pliego y se especifican en el cuadro de características técnicas del contrato.",
+      "Answer 3": "Se indican en el anuncio de licitación y se especifican en el pliego del contrato.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Según el artículo 41 de la Ley 9/2017 de Contratos del Sector Público no es delegable la competencia de:",
+      "Answer 1": "Acordar una indemnización por perjuicios en caso de nulidad de un contrato del Sector Público.",
+      "Answer 2": "La competencia para declarar la lesividad de un contrato del Sector Público",
+      "Answer 3": "La competencia para declarar la nulidad de un contrato del Sector Público",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Son contratos del Sector Público los contratos onerosos que celebren:",
+      "Answer 1": "Las Universidades Públicas.",
+      "Answer 2": "Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.",
+      "Answer 3": "Todas son correctas.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Cuando el órgano de contratación lo estime conveniente, los procedimientos para la adjudicación de contratos de obras, suministros, servicios, concesiones de obras y concesiones de servicios no sujetos a regulación armonizada",
+      "Answer 1": "Podrán ser anunciados, además, en el perfil de contratante",
+      "Answer 2": "Deberá publicarse, además, en el «Diario Oficial de la Unión Europea», debiendo los poderes adjudicadores poder demostrar la fecha de envío del anuncio de licitación.",
+      "Answer 3": "Podrán ser anunciados, además, en el «Diario Oficial de la Unión Europea",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "¿A cuál de los siguientes contratos no se le aplica la Ley de Contratos del Sector Público?",
+      "Answer 1": "Contratos onerosos.",
+      "Answer 2": "Contratos gratuitos.",
+      "Answer 3": "Contratos subvencionados por entidades que tengan la consideración de poderes adjudicadores, en ciertos supuestos.",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "En qué casos considera que, durante la valoración de las proposiciones, el órgano competente para ello podrá solicitar los informes técnicos que considere pertinentes antes de la emisión de su propuesta.",
+      "Answer 1": "Cuando el órgano competente para la valoración de las propuestas no cuente con los conocimientos técnicos suficientes",
+      "Answer 2": "Cuando el órgano competente para la valoración lo considere oportuno",
+      "Answer 3": "Cuando se tengan en cuenta criterios que sean diferentes al del precio o necesite verificar que las ofertas cumplen con las especificaciones técnicas del pliego.",
+      "Answer 4": " ",
+      "Answer": 3
+    },
+    {
+      "Title": "Los empresarios que concurran agrupados en Uniones Temporales de Empresas:",
+      "Answer 1": "Deberán nombrar un representante o apoderado único de la unión con poderes bastantes para ejercitar los derechos y cumplir las obligaciones que del contrato se deriven hasta la extinción del mismo.",
+      "Answer 2": "La responsabilidad de los empresarios que concurran agrupados es mancomunada.",
+      "Answer 3": "Deberán formalizar la unión mediante escritura pública.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "A tenor de la sección de la adjudicación de los contratos de las Administraciones Públicas de la Ley 9/2017, el cierre de una subasta electrónica se fijará por referencia a uno o varios de los siguientes criterios:",
+      "Answer 1": "Todas las respuestas anteriores son correctas.",
+      "Answer 2": "Mediante el señalamiento de una fecha y hora concretas, que deberán ser indicadas en la invitación a participar en la subasta.",
+      "Answer 3": "Atendiendo a la falta de presentación de nuevos precios o de nuevos valores que cumplan los requisitos establecidos en relación con la formulación de mejoras mínimas.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "La falta de capacidad de obrar, debidamente acreditada, del adjudicatario es causa de:",
+      "Answer 1": "Anulabilidad o nulidad de derecho administrativo",
+      "Answer 2": "Nulidad de derecho administrativo",
+      "Answer 3": "Anulabilidad de derecho administrativo",
+      "Answer 4": " ",
+      "Answer": 2
+    },
+    {
+      "Title": "La tramitación de un procedimiento abierto simplificado de un contrato de suministros cuyo valor estimado es de 30.000 euros. ¿De acuerdo con la Ley 9/2017 cuál es la acreditación que están exentos de presentar los licitadores?",
+      "Answer 1": "La acreditación de la solvencia económica y financiera y técnica o profesional",
+      "Answer 2": "La acreditación del cumplimiento de la cuota de reserva de puestos de trabajo del 2% para personas con discapacidad.",
+      "Answer 3": "La acreditación de capacidad de los firmantes de suscribir el contrato",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Las entidades del sector público:",
+      "Answer 1": "No podrán contratar verbalmente, salvo que el contrato tenga carácter de emergencia.",
+      "Answer 2": "No podrán contratar verbalmente, salvo los contratos de obras.",
+      "Answer 3": "No podrán contratar verbalmente.",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Conforme al artículo 53 de la Ley de Contratos del Sector Público cuando se haya interpuesto un recurso especial en materia de contratación y el acto recurrido sea el de adjudicación…",
+      "Answer 1": "Quedará en suspenso la tramitación del procedimiento",
+      "Answer 2": "Se ampliarán los plazos de tramitación del procedimiento",
+      "Answer 3": "Se proseguirá con la tramitación del procedimiento",
+      "Answer 4": " ",
+      "Answer": 1
+    },
+    {
+      "Title": "Podrán contratar con el sector público las personas en quienes concurra alguna de las circunstancias siguientes:",
+      "Answer 1": "Haber solicitado concurso voluntario de acreedores.",
+      "Answer 2": "Haber sido sancionado con carácter firme por infracción leve en materia de disciplina de mercado.",
+      "Answer 3": "No hallarse al corriente en el cumplimiento de las obligaciones tributarias o de la Seguridad Social.",
+      "Answer 4": " ",
+      "Answer": 2
+    }
+  ]
