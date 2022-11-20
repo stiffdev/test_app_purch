@@ -468,9 +468,10 @@ class _CustomExamPageState extends State<CustomExamPage> {
                         )),
                     Text(
                       "Genera tu examen",
-                      style: GoogleFonts.creteRound(
+                      style: GoogleFonts.openSans(
                           color: Colors.white,
                           fontStyle: FontStyle.normal,
+                          fontWeight: FontWeight.bold,
                           fontSize: 24),
                       textAlign: TextAlign.center,
                     ),

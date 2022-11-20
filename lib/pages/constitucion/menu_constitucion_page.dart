@@ -42,7 +42,7 @@ class ConstitucionMenu extends StatelessWidget {
               ),
               GestureDetector(
                 onTap: () {
-                  Navigator.pushNamed(context, '/constvariados');
+                  Navigator.pushReplacementNamed(context, '/constvariados');
                 },
                 child: MenuCard(
                     image: 'fondo.jpeg',
@@ -53,7 +53,7 @@ class ConstitucionMenu extends StatelessWidget {
               ),
               GestureDetector(
                   onTap: () {
-                    Navigator.pushNamed(context, '/constitulos');
+                    Navigator.pushReplacementNamed(context, '/constitulos');
                   },
                   child: MenuCard(
                       image: 'fondo.jpeg',

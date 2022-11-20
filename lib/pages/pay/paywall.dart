@@ -58,17 +58,13 @@ class _PaywallPageState extends State<PaywallPage> {
                     titleText: 'Repaso de Errores',
                     subtitleText:
                         'Practica las preguntas que más te cuesten y lleva un registro de tu progreso'),
-                CustomListTile(
-                    titleText: 'Programa Offline',
-                    subtitleText:
-                        'Practica independientemente de que tengas conexión o no'),
                 SizedBox(
                   height: 10,
                 ),
                 Text(
                   'Prueba tu trial gratis!',
                   style: TextStyle(
-                    fontSize: 24,
+                    fontSize: 22,
                   ),
                 ),
                 SizedBox(
@@ -93,7 +89,7 @@ class _PaywallPageState extends State<PaywallPage> {
                         return Column(
                           children: [
                             Container(
-                              height: 60.0,
+                              //height: 60.0,
                               child: GestureDetector(
                                 onTap: () async {
                                   // _launchURL(instagramUrl);
@@ -114,9 +110,14 @@ class _PaywallPageState extends State<PaywallPage> {
                                     child: Stack(
                                       children: <Widget>[
                                         GestureDetector(
-                                          onTap: (() async =>
-                                              await PurchaseApi.purchasePackage(
-                                                  list[0])),
+                                          onTap: (() async {
+                                            var t = await PurchaseApi
+                                                .purchasePackage(list[0]);
+                                            if (t) {
+                                              Navigator.pushReplacementNamed(
+                                                  context, '/menu2');
+                                            }
+                                          }),
                                           child: Container(
                                               constraints: const BoxConstraints(
                                                   maxWidth: 300.0,
@@ -125,22 +126,39 @@ class _PaywallPageState extends State<PaywallPage> {
                                               child: Column(
                                                 mainAxisAlignment:
                                                     MainAxisAlignment.center,
-                                                children: [
-                                                  Text(
-                                                    '\€3.99 ',
-                                                    style: TextStyle(
-                                                        fontSize: 18.0,
-                                                        fontWeight:
-                                                            FontWeight.w900,
-                                                        color: Colors.white),
+                                                children: const [
+                                                  Padding(
+                                                    padding:
+                                                        EdgeInsets.fromLTRB(
+                                                            3, 8, 3, 3),
+                                                    child: Text(
+                                                      '\€4.99 ',
+                                                      style: TextStyle(
+                                                          fontSize: 18.0,
+                                                          fontWeight:
+                                                              FontWeight.w900,
+                                                          color: Colors.white),
+                                                    ),
                                                   ),
                                                   Text(
                                                     'Pago Mensual',
                                                     style: TextStyle(
-                                                        fontSize: 14.0,
+                                                        fontSize: 16.0,
                                                         fontWeight:
                                                             FontWeight.normal,
                                                         color: Colors.white),
+                                                  ),
+                                                  Padding(
+                                                    padding:
+                                                        EdgeInsets.all(3.0),
+                                                    child: Text(
+                                                      'El precio de dos cervezas en una terraza',
+                                                      style: TextStyle(
+                                                          fontSize: 14.0,
+                                                          fontWeight:
+                                                              FontWeight.bold,
+                                                          color: Colors.black),
+                                                    ),
                                                   )
                                                 ],
                                               )),
@@ -153,7 +171,7 @@ class _PaywallPageState extends State<PaywallPage> {
                               height: 10,
                             ),
                             Container(
-                              height: 60.0,
+                              // height: 60.0,
                               child: GestureDetector(
                                 onTap: () {
                                   // _launchURL(instagramUrl);
@@ -214,13 +232,18 @@ class _PaywallPageState extends State<PaywallPage> {
                                                 mainAxisAlignment:
                                                     MainAxisAlignment.center,
                                                 children: <Widget>[
-                                                  Text(
-                                                    '\€9.99 ',
-                                                    style: TextStyle(
-                                                        fontSize: 18.0,
-                                                        fontWeight:
-                                                            FontWeight.w900,
-                                                        color: Colors.white),
+                                                  Padding(
+                                                    padding:
+                                                        EdgeInsets.fromLTRB(
+                                                            3, 8, 3, 3),
+                                                    child: Text(
+                                                      '\€12.99 ',
+                                                      style: TextStyle(
+                                                          fontSize: 18.0,
+                                                          fontWeight:
+                                                              FontWeight.w900,
+                                                          color: Colors.white),
+                                                    ),
                                                   ),
                                                   Text(
                                                     'Pago Trimestral',
@@ -229,6 +252,18 @@ class _PaywallPageState extends State<PaywallPage> {
                                                         fontWeight:
                                                             FontWeight.normal,
                                                         color: Colors.white),
+                                                  ),
+                                                  Padding(
+                                                    padding:
+                                                        EdgeInsets.all(3.0),
+                                                    child: Text(
+                                                      'El precio de una entrada de cine y palomitas',
+                                                      style: TextStyle(
+                                                          fontSize: 14.0,
+                                                          fontWeight:
+                                                              FontWeight.bold,
+                                                          color: Colors.black),
+                                                    ),
                                                   )
                                                 ],
                                               )),
@@ -241,7 +276,7 @@ class _PaywallPageState extends State<PaywallPage> {
                               height: 10,
                             ),
                             Container(
-                              height: 60.0,
+                              // height: 60.0,
                               child: GestureDetector(
                                 onTap: () {
                                   // _launchURL(instagramUrl);
@@ -281,7 +316,7 @@ class _PaywallPageState extends State<PaywallPage> {
                                                   SizedBox(
                                                     height: 3,
                                                   ),
-                                                  Text('47%',
+                                                  Text('50%',
                                                       textAlign:
                                                           TextAlign.center,
                                                       style: TextStyle(
@@ -304,13 +339,18 @@ class _PaywallPageState extends State<PaywallPage> {
                                                 mainAxisAlignment:
                                                     MainAxisAlignment.center,
                                                 children: <Widget>[
-                                                  Text(
-                                                    '\€24.99',
-                                                    style: TextStyle(
-                                                        fontSize: 18.0,
-                                                        fontWeight:
-                                                            FontWeight.w900,
-                                                        color: Colors.white),
+                                                  Padding(
+                                                    padding:
+                                                        EdgeInsets.fromLTRB(
+                                                            3, 8, 3, 3),
+                                                    child: Text(
+                                                      '\€29.99',
+                                                      style: TextStyle(
+                                                          fontSize: 18.0,
+                                                          fontWeight:
+                                                              FontWeight.w900,
+                                                          color: Colors.white),
+                                                    ),
                                                   ),
                                                   Text(
                                                     'Pago Anual',
@@ -319,6 +359,18 @@ class _PaywallPageState extends State<PaywallPage> {
                                                         fontWeight:
                                                             FontWeight.normal,
                                                         color: Colors.white),
+                                                  ),
+                                                  Padding(
+                                                    padding:
+                                                        EdgeInsets.all(3.0),
+                                                    child: Text(
+                                                      'El precio de una cena en un restaurante',
+                                                      style: TextStyle(
+                                                          fontSize: 14.0,
+                                                          fontWeight:
+                                                              FontWeight.bold,
+                                                          color: Colors.black),
+                                                    ),
                                                   )
                                                 ],
                                               )),
@@ -341,6 +393,28 @@ class _PaywallPageState extends State<PaywallPage> {
                   height: 5,
                 ),
                 Text('Cancela cuando quieras *'),
+                SizedBox(
+                  height: 5,
+                ),
+                TextButton(
+                    child: Text("¿Por qué pagar por una app?",
+                        style: TextStyle(fontSize: 18)),
+                    style: ButtonStyle(
+                        padding: MaterialStateProperty.all<EdgeInsets>(
+                            EdgeInsets.all(12)),
+                        foregroundColor: MaterialStateProperty.all<Color>(
+                            Color.fromARGB(255, 102, 12, 212)),
+                        shape:
+                            MaterialStateProperty.all<RoundedRectangleBorder>(
+                                RoundedRectangleBorder(
+                                    borderRadius: BorderRadius.circular(18.0),
+                                    side: BorderSide(
+                                        color: Color.fromARGB(
+                                            255, 102, 12, 212))))),
+                    onPressed: () => Navigator.pushNamed(context, '/copy')),
+                SizedBox(
+                  height: 5,
+                ),
                 GestureDetector(
                   onTap: () {
                     PurchaseApi.restorePurchases();

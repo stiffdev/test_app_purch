@@ -47,7 +47,7 @@ class _TitleGenerateTestPageState extends State<TitleGenerateTestPage> {
                   const SizedBox(height: 10),
                   Text(
                     "",
-                    style: GoogleFonts.creteRound(
+                    style: GoogleFonts.openSans(
                         color: Colors.white,
                         fontStyle: FontStyle.normal,
                         fontSize: 20),
@@ -60,10 +60,10 @@ class _TitleGenerateTestPageState extends State<TitleGenerateTestPage> {
                         padding: const EdgeInsets.all(paddingDialog),
                         child: Text(
                           "Domina de una vez por todas el ${details[num].toString()} de la Constitución Española con los tests más completos!",
-                          style: GoogleFonts.creteRound(
+                          style: GoogleFonts.openSans(
                               color: Colors.white,
                               fontStyle: FontStyle.italic,
-                              fontSize: 18),
+                              fontSize: 20),
                           textAlign: TextAlign.center,
                         ),
                       )
@@ -146,7 +146,7 @@ Widget customAppBar(String text, String img) {
       centerTitle: true,
       title: Text(
         text,
-        style: GoogleFonts.creteRound(
+        style: GoogleFonts.openSans(
             color: Colors.white, fontStyle: FontStyle.normal, fontSize: 19),
         textAlign: TextAlign.center,
       ),

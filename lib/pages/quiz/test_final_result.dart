@@ -25,7 +25,7 @@ class TestFinalResult extends StatelessWidget {
     ExamDatabaseHelper examDatabaseHelper = ExamDatabaseHelper();
     examDatabaseHelper.initializeDatabase();
 
-    var prefs = PreferencesUser();
+    //var prefs = PreferencesUser();
     //prefs.numTest += 1;
     final checkedQuestion =
         ModalRoute.of(context)!.settings.arguments as CheckedList;
@@ -34,7 +34,7 @@ class TestFinalResult extends StatelessWidget {
           backgroundColor: primaryColor,
           title: Text(
             "RESULTADOS", //"TEST ${checkedQuestion.test + 1}",
-            style: GoogleFonts.creteRound(
+            style: GoogleFonts.openSans(
                 color: Colors.white, fontStyle: FontStyle.normal, fontSize: 30),
             textAlign: TextAlign.center,
           ),
@@ -60,31 +60,6 @@ class TestFinalResult extends StatelessWidget {
                         height: MediaQuery.of(context).size.height / 6,
                         gaplessPlayback: false),
                   ),
-                  /* Container(
-                    height: MediaQuery.of(context).size.height / 4,
-                    width: MediaQuery.of(context).size.width / 1.5,
-                    child: CircularPercentIndicator(
-                      animation: true,
-                      animationDuration: 3000,
-                      radius: MediaQuery.of(context).size.width / 2.2,
-                      lineWidth: 40,
-                      percent: 0.8,
-                      progressColor: accentColor,
-                      backgroundColor: primaryColor,
-                      circularStrokeCap: CircularStrokeCap.round,
-                      //fillColor: primaryColor,
-                      // header: Text('25 / 25'),
-                      center: Text(
-                        '25 / 25',
-                        style: GoogleFonts.lato(
-                            color: Colors.black,
-                            fontStyle: FontStyle.normal,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 30),
-                        textAlign: TextAlign.center,
-                      ),
-                    ),
-                  ),*/
                   SizedBox(height: MediaQuery.of(context).size.height / 18),
                   FutureBuilder<ExamenCorrected>(
                     future: TestService().checkExam(

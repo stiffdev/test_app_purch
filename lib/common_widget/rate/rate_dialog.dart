@@ -67,7 +67,7 @@ class _CustomDialogBoxState extends State<CustomDialogBox> {
                 children: <Widget>[
                   Text(
                     widget.title,
-                    style: GoogleFonts.creteRound(
+                    style: GoogleFonts.openSans(
                         color: Colors.black,
                         fontStyle: FontStyle.normal,
                         fontSize: 24),
@@ -78,7 +78,7 @@ class _CustomDialogBoxState extends State<CustomDialogBox> {
                   Text(
                     '',
                     //state.showOpDialog.toString(),
-                    style: GoogleFonts.creteRound(
+                    style: GoogleFonts.openSans(
                         color: Colors.black,
                         fontStyle: FontStyle.normal,
                         fontSize: 18),
@@ -120,7 +120,7 @@ class _CustomDialogBoxState extends State<CustomDialogBox> {
                 child: ClipRRect(
                     borderRadius:
                         const BorderRadius.all(Radius.circular(avatarRadius)),
-                    child: Image.asset("assets/images/logo-leyes.png")),
+                    child: Image.asset("assets/images/opodemy.png")),
               ),
             ),
           ],

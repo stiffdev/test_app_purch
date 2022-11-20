@@ -29,8 +29,12 @@ class _FirstPageState extends State<FirstPage> {
 
     Future.delayed(Duration(milliseconds: 4000), () {
       print("holiiiii");
-      //  appOpenAdManager.showAdIfAvailable();
-      Navigator.pushNamed(context, '/menu2');
+      appOpenAdManager.showAdIfAvailable();
+      if (TestService().checkFirstDay() == true) {
+        Navigator.pushReplacementNamed(context, '/onboarding');
+      } else {
+        Navigator.pushReplacementNamed(context, '/menu2');
+      }
     });
     /* Navigator.push(
         context,
@@ -54,19 +58,19 @@ class _FirstPageState extends State<FirstPage> {
             children: [
               Text(
                 "LEYESTEST",
-                style: GoogleFonts.creteRound(
+                style: GoogleFonts.openSans(
                     color: Colors.white,
                     fontStyle: FontStyle.normal,
                     fontSize: 30),
                 textAlign: TextAlign.center,
               ),
               Image(
-                image: AssetImage("assets/images/logo-leyes.png"),
+                image: AssetImage("assets/images/opodemy.png"),
                 width: MediaQuery.of(context).size.width / 1.8,
               ),
               Text(
                 "OPODEMY",
-                style: GoogleFonts.creteRound(
+                style: GoogleFonts.openSans(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
                     fontStyle: FontStyle.normal,

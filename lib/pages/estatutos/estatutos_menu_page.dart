@@ -113,7 +113,7 @@ class EstatutosMenuPage extends StatelessWidget {
                       )),
                   Text(
                     "Estatutos",
-                    style: GoogleFonts.creteRound(
+                    style: GoogleFonts.openSans(
                         color: Colors.white,
                         fontStyle: FontStyle.normal,
                         fontSize: 24),
@@ -144,7 +144,8 @@ class EstatutosMenuPage extends StatelessWidget {
                       } else {
                         prefs.ad = 0;
                       }
-                      Navigator.pushNamed(context, '/generalGen',
+
+                      Navigator.pushReplacementNamed(context, '/generalGen',
                           arguments: Ley(
                               title: data.title,
                               shortTitle: data.shortTitle,
@@ -171,7 +172,7 @@ class EstatutosMenuPage extends StatelessWidget {
                             padding: const EdgeInsets.all(8.0),
                             child: Text(
                               data.title,
-                              style: GoogleFonts.creteRound(
+                              style: GoogleFonts.openSans(
                                 textStyle: TextStyle(
                                   color: Colors.white,
                                   fontSize: 19,

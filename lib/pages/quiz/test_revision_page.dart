@@ -16,7 +16,7 @@ class RevisionPage extends StatelessWidget {
         backgroundColor: primaryColor,
         title: Text(
           "REVISION",
-          style: GoogleFonts.creteRound(
+          style: GoogleFonts.openSans(
               color: Colors.white, fontStyle: FontStyle.normal, fontSize: 30),
           textAlign: TextAlign.center,
         ),
@@ -81,7 +81,7 @@ class RevisionPage extends StatelessWidget {
                           question.correct == 1 ? Colors.green : primaryColor,
                       child: Text(
                         question.question.answer1,
-                        style: GoogleFonts.creteRound(
+                        style: GoogleFonts.openSans(
                             color: Colors.white,
                             fontStyle: FontStyle.normal,
                             fontSize: 18),
@@ -101,7 +101,7 @@ class RevisionPage extends StatelessWidget {
                           question.correct == 2 ? Colors.green : primaryColor,
                       child: Text(
                         question.question.answer2,
-                        style: GoogleFonts.creteRound(
+                        style: GoogleFonts.openSans(
                             color: Colors.white,
                             fontStyle: FontStyle.normal,
                             fontSize: 18),
@@ -125,7 +125,7 @@ class RevisionPage extends StatelessWidget {
                                     : primaryColor,
                                 child: Text(
                                   question.question.answer3,
-                                  style: GoogleFonts.creteRound(
+                                  style: GoogleFonts.openSans(
                                       color: Colors.white,
                                       fontStyle: FontStyle.normal,
                                       fontSize: 18),
@@ -152,7 +152,7 @@ class RevisionPage extends StatelessWidget {
                                     : primaryColor,
                                 child: Text(
                                   question.question.answer4,
-                                  style: GoogleFonts.creteRound(
+                                  style: GoogleFonts.openSans(
                                       color: Colors.white,
                                       fontStyle: FontStyle.normal,
                                       fontSize: 18),
@@ -180,7 +180,7 @@ class RevisionPage extends StatelessWidget {
                                     : primaryColor,
                                 child: Text(
                                   "${question.question.answer4}",
-                                  style: GoogleFonts.creteRound(
+                                  style: GoogleFonts.openSans(
                                       color: Colors.white,
                                       fontStyle: FontStyle.normal,
                                       fontSize: 18),
@@ -195,7 +195,7 @@ class RevisionPage extends StatelessWidget {
                         )
                       : Text(
                           "blablablabal  bdfkwrgb dvger",
-                          style: GoogleFonts.creteRound(
+                          style: GoogleFonts.openSans(
                               color: Colors.white,
                               fontStyle: FontStyle.normal,
                               fontSize: 18),
@@ -243,7 +243,7 @@ class RevisionPage extends StatelessWidget {
                       color: getColor(question.correct, question.answer, 1),
                       child: Text(
                         question.question.answer1,
-                        style: GoogleFonts.creteRound(
+                        style: GoogleFonts.openSans(
                             color: Colors.white,
                             fontStyle: FontStyle.normal,
                             fontSize: 18),
@@ -262,7 +262,7 @@ class RevisionPage extends StatelessWidget {
                       color: getColor(question.correct, question.answer, 2),
                       child: Text(
                         question.question.answer2,
-                        style: GoogleFonts.creteRound(
+                        style: GoogleFonts.openSans(
                             color: Colors.white,
                             fontStyle: FontStyle.normal,
                             fontSize: 18),
@@ -285,7 +285,7 @@ class RevisionPage extends StatelessWidget {
                                     question.correct, question.answer, 3),
                                 child: Text(
                                   question.question.answer3,
-                                  style: GoogleFonts.creteRound(
+                                  style: GoogleFonts.openSans(
                                       color: Colors.white,
                                       fontStyle: FontStyle.normal,
                                       fontSize: 18),
@@ -311,7 +311,7 @@ class RevisionPage extends StatelessWidget {
                                     question.correct, question.answer, 4),
                                 child: Text(
                                   question.question.answer4,
-                                  style: GoogleFonts.creteRound(
+                                  style: GoogleFonts.openSans(
                                       color: Colors.white,
                                       fontStyle: FontStyle.normal,
                                       fontSize: 18),

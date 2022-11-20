@@ -33,8 +33,27 @@ class TestService {
     if (prefs.lastDay == 0 || prefs.lastDay != day) {
       prefs.lastDay = day;
       prefs.numTest = 0;
+      prefs.numAciertos = 0;
     }
     print(day.toString());
+  }
+
+  bool checkFirstDay() {
+    DateTime dateTime = DateTime.now();
+
+    //print(dateTime.toString()); //2022-03-04 12:35:38.997
+    int day = dateTime.day;
+
+    var prefs = PreferencesUser();
+
+    if (prefs.firstDayOpen == 0) {
+      prefs.firstDayOpen = day;
+      print("holiiii");
+      return true;
+    } else {
+      print("holiiii2");
+      return false;
+    }
   }
 
   bool getNumTest() {
@@ -55,6 +74,15 @@ class TestService {
     prefs.numTest = test + 1;
 
     print("numero de test ${prefs.numTest} ");
+  }
+
+  sumQuestionsCorrects(int numAciertos) {
+    var prefs = PreferencesUser();
+    var test = prefs.numAciertos;
+
+    prefs.numAciertos = test + numAciertos;
+
+    print("numero de test ${prefs.numAciertos} ");
   }
 
   bool getIsPremium() {
@@ -292,6 +320,7 @@ class TestService {
     await examDatabaseHelper.insertNote(examen);
 
     await addNewTestDone();
+    await sumQuestionsCorrects(questionsTrue);
 
     return ExamenCorrected(
         questions: list, number: questionsTrue, percent: percent);

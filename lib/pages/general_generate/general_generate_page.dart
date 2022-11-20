@@ -36,7 +36,7 @@ class _GeneralGenerateTestPageState extends State<GeneralGenerateTestPage> {
                   const SizedBox(height: 10),
                   Text(
                     "",
-                    style: GoogleFonts.creteRound(
+                    style: GoogleFonts.openSans(
                         color: Colors.white,
                         fontStyle: FontStyle.normal,
                         fontSize: 26),
@@ -49,7 +49,7 @@ class _GeneralGenerateTestPageState extends State<GeneralGenerateTestPage> {
                         padding: const EdgeInsets.all(paddingDialog),
                         child: Text(
                           "Domina de una vez por todas tu prueba de ${num.shortTitle.toString()} con los tests más completos!",
-                          style: GoogleFonts.creteRound(
+                          style: GoogleFonts.openSans(
                               color: Colors.white,
                               fontStyle: FontStyle.italic,
                               fontSize: 18),

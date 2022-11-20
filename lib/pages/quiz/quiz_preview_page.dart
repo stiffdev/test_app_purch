@@ -75,7 +75,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                               )),
                           Text(
                             "",
-                            style: GoogleFonts.creteRound(
+                            style: GoogleFonts.openSans(
                                 color: Colors.white,
                                 fontStyle: FontStyle.normal,
                                 fontSize: 25),
@@ -120,7 +120,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                     shape: BoxShape.circle),
                                 child: Text(
                                   (i + 1).toString(),
-                                  style: GoogleFonts.creteRound(
+                                  style: GoogleFonts.openSans(
                                       color: Colors.black,
                                       fontStyle: FontStyle.normal,
                                       fontWeight: FontWeight.bold,
@@ -192,7 +192,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                           children: [
                                             Text(
                                               'Test Finalizado',
-                                              style: GoogleFonts.creteRound(
+                                              style: GoogleFonts.openSans(
                                                   color: Colors.black,
                                                   fontStyle: FontStyle.normal,
                                                   fontWeight: FontWeight.bold,
@@ -207,7 +207,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                             ),
                                             Image(
                                                 image: AssetImage(
-                                                    'assets/images/logo-leyes.png'),
+                                                    'assets/images/opodemy.png'),
                                                 height: MediaQuery.of(context)
                                                         .size
                                                         .height /
@@ -247,7 +247,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                         padding: const EdgeInsets.all(20),
                                         child: Text(
                                           'Finalizado, calculando puntuación...',
-                                          style: GoogleFonts.creteRound(
+                                          style: GoogleFonts.openSans(
                                               color: Colors.black,
                                               fontStyle: FontStyle.normal,
                                               fontSize: 26),
@@ -271,7 +271,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                     }),
                                     child: Text(
                                       'Finalizado, calculando puntuación...',
-                                      style: GoogleFonts.creteRound(
+                                      style: GoogleFonts.openSans(
                                           color: Colors.black,
                                           fontStyle: FontStyle.normal,
                                           fontSize: 26),
@@ -293,7 +293,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                     padding: const EdgeInsets.all(20),
                                     child: Text(
                                       question.title,
-                                      style: GoogleFonts.creteRound(
+                                      style: GoogleFonts.openSans(
                                           color: Colors.black,
                                           fontStyle: FontStyle.normal,
                                           fontWeight: FontWeight.normal,
@@ -324,7 +324,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                               // width: double.infinity,
                                               child: Text(
                                                 question.answer1,
-                                                style: GoogleFonts.creteRound(
+                                                style: GoogleFonts.openSans(
                                                     color: Colors.black,
                                                     fontStyle: FontStyle.normal,
                                                     fontSize: 15),
@@ -363,7 +363,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                                       myBoxDecoration(), //       <--- BoxDecoration here
                                                   child: Text(
                                                     question.answer3,
-                                                    style: GoogleFonts.creteRound(
+                                                    style: GoogleFonts.openSans(
                                                         color: Colors.black,
                                                         fontStyle: FontStyle.normal,
                                                         fontSize: 15),
@@ -423,7 +423,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                             ), //       <--- BoxDecoration here
                                             child: Text(
                                               question.answer1,
-                                              style: GoogleFonts.creteRound(
+                                              style: GoogleFonts.openSans(
                                                   color: Colors.black,
                                                   fontStyle: FontStyle.normal,
                                                   fontSize: 13),
@@ -456,7 +456,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                             child: RadioListTile<AppEnum>(
                                               title: Text(
                                                 question.answer2,
-                                                style: GoogleFonts.creteRound(
+                                                style: GoogleFonts.openSans(
                                                     color: Colors.black,
                                                     fontStyle: FontStyle.normal,
                                                     fontSize: 15),
@@ -532,7 +532,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                             ), //       <--- BoxDecoration here
                                             child: Text(
                                               question.answer2,
-                                              style: GoogleFonts.creteRound(
+                                              style: GoogleFonts.openSans(
                                                   color: Colors.black,
                                                   fontStyle: FontStyle.normal,
                                                   fontSize: 13),
@@ -593,7 +593,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                             ),
                                             child: Text(
                                               question.answer3,
-                                              style: GoogleFonts.creteRound(
+                                              style: GoogleFonts.openSans(
                                                   color: Colors.black,
                                                   fontStyle: FontStyle.normal,
                                                   fontSize: 13),
@@ -616,7 +616,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                                       title: Text(
                                                         question.answer3,
                                                         style:
-                                                            GoogleFonts.creteRound(
+                                                            GoogleFonts.openSans(
                                                                 color: Colors.black,
                                                                 fontStyle: FontStyle
                                                                     .normal,
@@ -699,7 +699,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                             ), //       <--- BoxDecoration here
                                             child: Text(
                                               question.answer4,
-                                              style: GoogleFonts.creteRound(
+                                              style: GoogleFonts.openSans(
                                                   color: Colors.black,
                                                   fontStyle: FontStyle.normal,
                                                   fontSize: 13),
@@ -719,7 +719,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                                       title: Text(
                                                         question.answer4,
                                                         style:
-                                                            GoogleFonts.creteRound(
+                                                            GoogleFonts.openSans(
                                                                 color: Colors.black,
                                                                 fontStyle: FontStyle
                                                                     .normal,

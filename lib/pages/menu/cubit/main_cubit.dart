@@ -19,6 +19,10 @@ class MainCubit extends Cubit<MainState> {
     emit(MainDial());
   }
 
+  void initBloc() {
+    emit(MainInitial());
+  }
+
   void showDialogoLimit() {
     emit(MainInitial());
     emit(MainDialLimit());

@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'package:onesignal_flutter/onesignal_flutter.dart';
+import 'package:test_de_leyes/pages/challenge/challenges_page.dart';
 import 'package:test_de_leyes/pages/constitucion/menu_constitucion_page.dart';
 import 'package:test_de_leyes/pages/constitucion/test_titulos/generate_by_title_page.dart';
 import 'package:test_de_leyes/pages/constitucion/test_titulos/test_titulos_menu.dart';
@@ -14,6 +16,9 @@ import 'package:test_de_leyes/pages/general_generate/general_generate_page.dart'
 import 'package:test_de_leyes/pages/leyes/leyes_menu.dart';
 import 'package:test_de_leyes/pages/menu/cubit/main_cubit.dart';
 import 'package:test_de_leyes/pages/menu/menu_page.dart';
+import 'package:test_de_leyes/pages/mision/copy_page.dart';
+import 'package:test_de_leyes/pages/mision/mision_page.dart';
+import 'package:test_de_leyes/pages/onboarding/onboarding_page.dart';
 import 'package:test_de_leyes/pages/pay/paywall.dart';
 import 'package:test_de_leyes/pages/progress/progress_page_stats.dart';
 import 'package:test_de_leyes/pages/quiz/quiz_preview_page.dart';
@@ -31,6 +36,14 @@ Future<void> main() async {
   await MobileAds.instance.initialize();
   PurchaseApi purchaseApi = PurchaseApi();
   await purchaseApi.init();
+  OneSignal.shared.setLogLevel(OSLogLevel.verbose, OSLogLevel.none);
+
+  OneSignal.shared.setAppId("d5c46be4-fa65-40c3-bee1-bf7bd59f449d");
+
+  // The promptForPushNotificationsWithUserResponse function will show the iOS or Android push notification prompt. We recommend removing the following code and instead using an In-App Message to prompt for notification permission
+  OneSignal.shared.promptUserForPushNotificationPermission().then((accepted) {
+    print("Accepted permission: $accepted");
+  });
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
     DeviceOrientation.portraitDown,
@@ -79,6 +92,10 @@ class MyApp extends StatelessWidget {
             '/stat': (BuildContext context) => HomeScreen(),
             '/custom': (BuildContext context) => CustomExamPage(),
             '/errors': (BuildContext context) => ErrorTestGenerationPage(),
+            '/mision': (BuildContext context) => MisionPage(),
+            '/copy': (BuildContext context) => CopyPage(),
+            '/onboarding': (BuildContext context) => OnboardingScreen(),
+            '/challenge': (BuildContext context) => ChallengeDailyPage(),
 
             //'/home': (BuildContext context) => const HomePage(),
           }),

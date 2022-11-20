@@ -70,6 +70,16 @@ class PreferencesUser {
     _prefs.setInt('ad', value).then((value) => print('cambia menu a $value'));
   }
 
+  int get firstDayOpen {
+    return _prefs.getInt('firstDayOpen') ?? 0;
+  }
+
+  set firstDayOpen(int value) {
+    _prefs
+        .setInt('firstDayOpen', value)
+        .then((value) => print('cambia firstDayOpen a $value'));
+  }
+
   int get premium {
     return _prefs.getInt('premium') ?? 0;
   }
@@ -98,5 +108,15 @@ class PreferencesUser {
     _prefs
         .setInt('numTest', value)
         .then((value) => print('cambia numTest a $value'));
+  }
+
+  int get numAciertos {
+    return _prefs.getInt('numAciertos') ?? 0;
+  }
+
+  set numAciertos(int value) {
+    _prefs
+        .setInt('numAciertos', value)
+        .then((value) => print('cambia numAciertos a $value'));
   }
 }

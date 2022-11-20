@@ -105,7 +105,7 @@ class TestConstitucionVariadosPage extends StatelessWidget {
                                             ),
                                         child: Text(
                                           "Test Constitución Variado ${index + 1}",
-                                          style: GoogleFonts.creteRound(
+                                          style: GoogleFonts.openSans(
                                               color: Colors.white,
                                               fontStyle: FontStyle.normal,
                                               fontSize: 20),
@@ -191,7 +191,7 @@ class TestConstitucionVariadosPage extends StatelessWidget {
                                     ),
                                 child: Text(
                                   "Test Constitución Variado ${index + 1}",
-                                  style: GoogleFonts.creteRound(
+                                  style: GoogleFonts.openSans(
                                       color: Colors.white,
                                       fontStyle: FontStyle.normal,
                                       fontSize: 28),

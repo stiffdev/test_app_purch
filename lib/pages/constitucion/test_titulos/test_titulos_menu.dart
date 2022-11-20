@@ -33,7 +33,7 @@ class TestTitulosPage extends StatelessWidget {
           backgroundColor: primaryColor,
           title: Text(
             "Por Títulos",
-            style: GoogleFonts.creteRound(
+            style: GoogleFonts.openSans(
                 color: Colors.white,
                 fontStyle: FontStyle.normal,
                 fontSize: 30,
@@ -72,7 +72,7 @@ class TestTitulosPage extends StatelessWidget {
                           } else {
                             prefs.ad = 0;
                           }
-                          Navigator.pushNamed(context, '/generate',
+                          Navigator.pushReplacementNamed(context, '/generate',
                               arguments: index);
                         }),
                         child: Container(
@@ -95,7 +95,7 @@ class TestTitulosPage extends StatelessWidget {
                               ),
                           child: Text(
                             titulos[index],
-                            style: GoogleFonts.creteRound(
+                            style: GoogleFonts.openSans(
                                 color: Colors.white,
                                 fontStyle: FontStyle.normal,
                                 fontSize: 28),

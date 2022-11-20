@@ -14,6 +14,21 @@ class PurchaseApi {
     configuration = PurchasesConfiguration(apiKey)..appUserID = app_user_id;
     Purchases.configure(configuration);
     results = await Purchases.logIn(app_user_id);
+
+    CustomerInfo customerInfo = await Purchases.getCustomerInfo();
+
+    var prefs = PreferencesUser();
+    if (customerInfo.entitlements.active.isEmpty) {
+      //user has access to some entitlement
+      print("user noooooooooo have  active suscriptions");
+      print("is premium");
+      prefs.premium = 0;
+    } else {
+      print("user have  active suscriptions");
+      print("is premium");
+      prefs.premium = 1;
+    }
+    // PurchaserInfo purchaserInfo = await Purchases.getPurchaserInfo();
     /*print('id informing');
     print(results!.customerInfo.originalAppUserId);
     Purchases.purchaseProduct('coins_100');*/
@@ -21,16 +36,27 @@ class PurchaseApi {
 
     var suscriptions = results!.customerInfo.activeSubscriptions.length;
 
-    print("user have ${suscriptions} active suscriptions");
-
-    var prefs = PreferencesUser();
-    if (suscriptions > 0) {
+    /* if (suscriptions > 0) {
       print("is premium");
       prefs.premium = 1;
     } else {
       print("is not premium");
       prefs.premium = 0;
     }
+
+    if (results!
+            .customerInfo.entitlements.all["leyes_suscription_1"]!.isActive ||
+        results!
+            .customerInfo.entitlements.all["leyes_suscription_2"]!.isActive ||
+        results!
+            .customerInfo.entitlements.all["leyes_suscription_3"]!.isActive) {
+      print("is premium");
+      prefs.premium = 1;
+      // Grant user "pro" access
+    } else {
+      print("is not premium");
+      prefs.premium = 0;
+    }*/
   }
 
   static Future<List<Offering>> fetchOffers() async {
@@ -96,14 +122,17 @@ class PurchaseApi {
     try {
       await Purchases.purchasePackage(package);
       print("comprando?");
+      prefs.premium = 1;
       return true;
+      //return true;
     } catch (e) {
       print(e.toString());
       print("no quiere comprar...");
-      prefs.premium = 1;
-      print("premium       ${prefs.premium}");
+      prefs.premium = 0;
       return false;
+      // return false;
     }
+    print("premium       ${prefs.premium}");
   }
 
   static restorePurchases() async {
