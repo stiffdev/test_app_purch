@@ -39,16 +39,17 @@ dependencies:
   shared_preferences: ^2.0.8
   change_app_package_name: ^1.0.0 
   html: ^0.15.0 
-  in_app_review: ^2.0.3
+  in_app_review: ^2.0.2
   image: ^3.1.0
   http: ^0.13.4
   percent_indicator: ^4.2.2
   store_redirect: ^2.0.1
   uuid: ^3.0.6
   sqflite: ^2.0.3
-  purchases_flutter: ^4.3.0
   google_mobile_ads: ^2.1.0 
-  onesignal_flutter: ^3.0.0
+  flutter_html: ^2.2.1
+  url_launcher: ^6.1.9
+  purchases_flutter: ^4.3.0
 
 dev_dependencies:
   flutter_test:

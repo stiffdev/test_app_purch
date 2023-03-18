@@ -5,6 +5,7 @@ import 'dart:async';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:test_de_leyes/model/question.dart';
+import 'package:path/path.dart' as p;
 
 class DatabaseHelper {
   static DatabaseHelper? _databaseHelper; // Singleton DatabaseHelper
@@ -23,10 +24,7 @@ class DatabaseHelper {
   DatabaseHelper._createInstance(); // Named constructor to create instance of DatabaseHelper
 
   factory DatabaseHelper() {
-    if (_databaseHelper == null) {
-      _databaseHelper = DatabaseHelper
-          ._createInstance(); // This is executed only once, singleton object
-    }
+    _databaseHelper ??= DatabaseHelper._createInstance();
     return _databaseHelper!;
   }
 
@@ -40,7 +38,14 @@ class DatabaseHelper {
   Future<Database> initializeDatabase() async {
     // Get the directory path for both Android and iOS to store database.
     Directory directory = await getApplicationDocumentsDirectory();
-    String path = directory.path + 'questions.db';
+    //   String path = Platform.isIOS ? p.join('questions.db') : directory.path + 'questions.db';
+
+    // String path = directory.path + 'questions.db';
+
+    var databasesPath = await getDatabasesPath();
+    String path = Platform.isIOS
+        ? p.join(databasesPath, 'questions.db')
+        : directory.path + 'questions.db';
 
     // Open/create the database at a given path
     var notesDatabase =

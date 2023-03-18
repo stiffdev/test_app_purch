@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:purchases_flutter/models/package_wrapper.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../purchases/purchases.dart';
 
@@ -61,10 +62,35 @@ class _PaywallPageState extends State<PaywallPage> {
                 SizedBox(
                   height: 10,
                 ),
-                Text(
-                  'Prueba tu trial gratis!',
-                  style: TextStyle(
-                    fontSize: 22,
+                GestureDetector(
+                  onTap: () => launchUrl(
+                    Uri.parse('https://sites.google.com/view/iosleyes/home'),
+                    mode: LaunchMode.externalApplication,
+                  ),
+                  child: Text.rich(
+                    TextSpan(
+                      text: 'Política de privacidad',
+                      style: TextStyle(
+                        color: Colors.blue,
+                        decoration: TextDecoration.underline,
+                      ),
+                    ),
+                  ),
+                ),
+                GestureDetector(
+                  onTap: () => launchUrl(
+                    Uri.parse(
+                        'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/'),
+                    mode: LaunchMode.externalApplication,
+                  ),
+                  child: Text.rich(
+                    TextSpan(
+                      text: 'Link a EULA',
+                      style: TextStyle(
+                        color: Colors.blue,
+                        decoration: TextDecoration.underline,
+                      ),
+                    ),
                   ),
                 ),
                 SizedBox(
@@ -152,7 +178,7 @@ class _PaywallPageState extends State<PaywallPage> {
                                                     padding:
                                                         EdgeInsets.all(3.0),
                                                     child: Text(
-                                                      'El precio de dos cervezas en una terraza',
+                                                      'El precio de dos refrescos en una terraza',
                                                       style: TextStyle(
                                                           fontSize: 14.0,
                                                           fontWeight:
@@ -417,7 +443,7 @@ class _PaywallPageState extends State<PaywallPage> {
                 ),
                 GestureDetector(
                   onTap: () {
-                    PurchaseApi.restorePurchases();
+                    // PurchaseApi.restorePurchases();
                   },
                   child: Text(
                     'Restaurar compras',

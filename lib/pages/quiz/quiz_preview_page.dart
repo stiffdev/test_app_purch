@@ -305,77 +305,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                     height:
                                         MediaQuery.of(context).size.height / 18,
                                   ), //10
-                                  /* Container(
-                                      decoration: BoxDecoration(
-                                        // color: primaryColor,
-                                        // color: Colors.red,
-                                        //boxShadow: [BoxShadow(blurRadius: 40.0)],
-                                        borderRadius: BorderRadius.all(
-                                          Radius.circular(
-                                              MediaQuery.of(context).size.height /
-                                                  25),
-                                        ),
-                                      ),
-                                      child: Column(
-                                        children: [*/
-                                  /* RadioListTile<AppEnum>(
-                                            title: Container(
-                                              // color: Colors.blue,
-                                              // width: double.infinity,
-                                              child: Text(
-                                                question.answer1,
-                                                style: GoogleFonts.openSans(
-                                                    color: Colors.black,
-                                                    fontStyle: FontStyle.normal,
-                                                    fontSize: 15),
-                                                textAlign: TextAlign.center,
-                                              ),
-                                            ),
-                                            value: AppEnum.a,
-                                            groupValue: _character,
-                                            onChanged: (value) {
-                                              setState(() {
-                                                _character = value!;
-                                                //   answer = _character.index + 1;
-                                                print("holi 1fjsfdrghtrejkhn ");
-                                                /* context
-                                                        .read<TestBloc>()
-                                                        .current += 1;*/
-                                                context
-                                                    .read<TestBloc>()
-                                                    .saveAnswer(1);
-                                                // answer = -1;
-                                
-                                                print(_character);
-                                                _character = AppEnum.NON;
-                                              });
-                                            },
-                                          ),
-                                          question.answer3.isNotEmpty
-                                              ? Container(
-                                                  width: MediaQuery.of(context)
-                                                          .size
-                                                          .width /
-                                                      1.3,
-                                                  padding:
-                                                      const EdgeInsets.all(10.0),
-                                                  decoration:
-                                                      myBoxDecoration(), //       <--- BoxDecoration here
-                                                  child: Text(
-                                                    question.answer3,
-                                                    style: GoogleFonts.openSans(
-                                                        color: Colors.black,
-                                                        fontStyle: FontStyle.normal,
-                                                        fontSize: 15),
-                                                    textAlign: TextAlign.center,
-                                                  ),
-                                                )
-                                              : SizedBox(),
-                                          SizedBox(
-                                            height:
-                                                MediaQuery.of(context).size.height /
-                                                    25,
-                                          ),*/
+
                                   question.answer1.isNotEmpty
                                       ? GestureDetector(
                                           onTap: () {
@@ -436,56 +366,7 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                     height:
                                         MediaQuery.of(context).size.height / 25,
                                   ),
-                                  /*    Divider(
-                                            color: Colors.white,
-                                          ),
-                                          Container(
-                                            width: double.infinity,
-                                            decoration: BoxDecoration(
-                                              // color: primaryColor, //Colors.blue
-                                              // color: Colors.red,
-                                
-                                              borderRadius: BorderRadius.all(
-                                                Radius.circular(
-                                                    MediaQuery.of(context)
-                                                            .size
-                                                            .height /
-                                                        25),
-                                              ),
-                                            ),
-                                            child: RadioListTile<AppEnum>(
-                                              title: Text(
-                                                question.answer2,
-                                                style: GoogleFonts.openSans(
-                                                    color: Colors.black,
-                                                    fontStyle: FontStyle.normal,
-                                                    fontSize: 15),
-                                                textAlign: TextAlign.center,
-                                              ),
-                                              value: AppEnum.b,
-                                              groupValue: _character,
-                                              onChanged: (value) {
-                                                setState(() {
-                                                  _character = value!;
-                                                  //   answer = _character.index + 1;
-                                                  print("holi 1fjsfdrghtrejkhn ");
-                                                  /* context
-                                                          .read<TestBloc>()
-                                                          .current += 1;*/
-                                                  context
-                                                      .read<TestBloc>()
-                                                      .saveAnswer(2);
-                                
-                                                  current += 1;
-                                
-                                                  // answer = -1;
-                                
-                                                  print(_character);
-                                                  _character = AppEnum.NON;
-                                                });
-                                              },
-                                            ),
-                                          ),*/
+
                                   question.answer2.isNotEmpty
                                       ? GestureDetector(
                                           onTap: () {
@@ -606,50 +487,6 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                     height:
                                         MediaQuery.of(context).size.height / 25,
                                   ),
-                                  /*  question.answer3.isNotEmpty
-                                              ? Column(
-                                                  children: [
-                                                    Divider(
-                                                      color: Colors.white,
-                                                    ),
-                                                    RadioListTile<AppEnum>(
-                                                      title: Text(
-                                                        question.answer3,
-                                                        style:
-                                                            GoogleFonts.openSans(
-                                                                color: Colors.black,
-                                                                fontStyle: FontStyle
-                                                                    .normal,
-                                                                fontSize: 15),
-                                                        textAlign: TextAlign.center,
-                                                      ),
-                                                      value: AppEnum.c,
-                                                      groupValue: _character,
-                                                      onChanged: (value) {
-                                                        setState(() {
-                                                          _character = value!;
-                                                          //   answer = _character.index + 1;
-                                                          print(
-                                                              "holi 1fjsfdrghtrejkhn ");
-                                                          /* context
-                                                          .read<TestBloc>()
-                                                          .current += 1;*/
-                                                          context
-                                                              .read<TestBloc>()
-                                                              .saveAnswer(3);
-                                
-                                                          current += 1;
-                                
-                                                          // answer = -1;
-                                
-                                                          print(_character);
-                                                          _character = AppEnum.NON;
-                                                        });
-                                                      },
-                                                    ),
-                                                  ],
-                                                )
-                                              : SizedBox(),*/
 
                                   question.answer4.isNotEmpty &&
                                           question.answer4 != " " &&
@@ -708,54 +545,6 @@ class _QuizPreviewPageState extends State<QuizPreviewPage> {
                                           ),
                                         )
                                       : SizedBox(),
-
-                                  /*  question.answer4.isNotEmpty
-                                              ? Column(
-                                                  children: [
-                                                    Divider(
-                                                      color: Colors.white,
-                                                    ),
-                                                    RadioListTile<AppEnum>(
-                                                      title: Text(
-                                                        question.answer4,
-                                                        style:
-                                                            GoogleFonts.openSans(
-                                                                color: Colors.black,
-                                                                fontStyle: FontStyle
-                                                                    .normal,
-                                                                fontSize: 15),
-                                                        textAlign: TextAlign.center,
-                                                      ),
-                                                      value: AppEnum.d,
-                                                      groupValue: _character,
-                                                      onChanged: (value) {
-                                                        setState(() {
-                                                          _character = value!;
-                                                          //   answer = _character.index + 1;
-                                                          print(
-                                                              "holi 1fjsfdrghtrejkhn ");
-                                                          /* context
-                                                          .read<TestBloc>()
-                                                          .current += 1;*/
-                                                          context
-                                                              .read<TestBloc>()
-                                                              .saveAnswer(4);
-                                
-                                                          current += 1;
-                                
-                                                          // answer = -1;
-                                
-                                                          print(_character);
-                                                          _character = AppEnum.NON;
-                                                        });
-                                                      },
-                                                    ),
-                                                  ],
-                                                )
-                                              : SizedBox()*/
-                                  /*  ],
-                                      ),
-                                    ),*/
 
                                   SizedBox(
                                     height:

@@ -142,7 +142,7 @@ class _GridDashboardState extends State<GridDashboard> {
                   MainBigButton(
                       onPressed: (() {
                         if (service.getIsPremium() == false) {
-                          PurchaseApi.fetchOfferts();
+                          // PurchaseApi.fetchOfferts();
                           Navigator.pushNamed(context, "/paywall");
                         }
                       }),
@@ -283,7 +283,6 @@ class _GridDashboardState extends State<GridDashboard> {
       }
 
       //  }
-
     }
   }
 }

@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 import '../helpers/prefs.dart';
@@ -14,7 +16,9 @@ class AppOpenAdManager {
     if (prefs.premium == 0) {
       print("comorl cargo open ad");
       AppOpenAd.load(
-        adUnitId: "ca-app-pub-7036608025474000/9478039468",
+        adUnitId: Platform.isAndroid
+            ? "ca-app-pub-7036608025474000/9478039468"
+            : "ca-app-pub-7036608025474000/5430327014",
         orientation: AppOpenAd.orientationPortrait,
         request: const AdRequest(),
         adLoadCallback: AppOpenAdLoadCallback(

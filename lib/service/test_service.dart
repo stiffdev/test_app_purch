@@ -163,7 +163,7 @@ class TestService {
         date: "",
         numCorrect: corrects,
         numPreg: count,
-        percent: corrects / count);
+        percent: count > 0 ? corrects / count : 1.0);
   }
 
   Future<List<Question>> readJson(int number) async {

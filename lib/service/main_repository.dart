@@ -6,24 +6,31 @@ import '../helpers/prefs.dart';
 class MainRepository {
   final prefs = PreferencesUser();
 
+  String? url;
+
   Future checkPolicyEachPlatform() async {
+    if (Platform.isAndroid) {
+      url = 'https://leyestest.com/politica-de-privacidad-app-test-de-leyes/';
+    } else if (Platform.isIOS) {
+      url = 'https://sites.google.com/view/iosleyes/home';
+    }
+
     try {
       final response = await http.Client()
-          .get(Uri.parse(
-              'https://leyestest.com/politica-de-privacidad-app-test-de-leyes/'))
+          .get(Uri.parse(url!))
           .timeout(const Duration(seconds: 10));
 
       if (response.statusCode == 200) {
         //Getting the html document from the response
         try {
-          if (response.body.toString().contains('Contacting 1')) {
+          if (response.body.toString().contains('privacidad1')) {
             print('ENCONTRADOOOOOO TRUE');
             _incrementCounter('pol1', 1);
           } else {
             print('No encontrado :(');
             _incrementCounter('pol1', 0);
           }
-          if (response.body.toString().contains('Contacting 1')) {
+          if (response.body.toString().contains('privacidad1')) {
             print('ENCONTRADOOOOOO 2 TRUE');
             _incrementCounter('pol2', 1);
           } else {

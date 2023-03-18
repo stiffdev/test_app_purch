@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import '../helpers/prefs.dart';
@@ -8,11 +10,17 @@ class AdsHandler extends ChangeNotifier {
   var prefs = PreferencesUser();
   //bool isBannerAdReady = false;
 
-  static String get interstitialAdUnitId {
+  /* static String get interstitialAdUnitId {
     return 'ca-app-pub-7036608025474000/1660109257'; //test
     //return 'ca-app-pub-7036608025474000/1660109257'; //test
 
     //ca-app-pub-
+  }*/
+
+  static String get interstitialAdUnitId {
+    return Platform.isAndroid
+        ? 'ca-app-pub-7036608025474000/1660109257'
+        : 'ca-app-pub-7036608025474000/7031452799';
   }
 
   void loadInter() {

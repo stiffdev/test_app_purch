@@ -1,11 +1,18 @@
+import 'dart:io';
+
 import 'package:flutter/services.dart';
 import 'package:purchases_flutter/purchases_flutter.dart';
 import 'package:test_de_leyes/helpers/prefs.dart';
 
 class PurchaseApi {
-  static const apiKey =
-      'goog_ZeRbeBqRylmBzEXxLAeFZtOxDOI'; //'goog_kuvShwXuCwNPinpHkLZLEDMreDr';
-  static const app_user_id = 'appf13fa1d7d0'; //'shah-12345'; //appf13fa1d7d0
+  //static const apiKey = 'goog_ZeRbeBqRylmBzEXxLAeFZtOxDOI'; //'goog_kuvShwXuCwNPinpHkLZLEDMreDr';
+  // static const app_user_id = 'appf13fa1d7d0'; //'shah-12345'; //appf13fa1d7d0
+
+  final apiKey = Platform.isIOS
+      ? 'appl_DEFdhTvdltCNtvNAsynEyCweBVn'
+      : 'goog_ZeRbeBqRylmBzEXxLAeFZtOxDOI';
+  final app_user_id = Platform.isIOS ? 'app9b49790ff2' : 'appf13fa1d7d0';
+
   static LogInResult? results;
 
   Future init() async {

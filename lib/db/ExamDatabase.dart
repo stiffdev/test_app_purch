@@ -5,7 +5,7 @@ import 'dart:async';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:test_de_leyes/model/question.dart';
-
+import 'package:path/path.dart' as p;
 import '../model/exam.dart';
 
 class ExamDatabaseHelper {
@@ -40,7 +40,13 @@ class ExamDatabaseHelper {
   Future<Database> initializeDatabase() async {
     // Get the directory path for both Android and iOS to store database.
     Directory directory = await getApplicationDocumentsDirectory();
-    String path = directory.path + 'exams.db';
+    //String path =  Platform.isIOS ? p.join('exams.db') : directory.path + 'exams.db';
+    //String path = directory.path + 'exams.db';
+
+    var databasesPath = await getDatabasesPath();
+    String path = Platform.isIOS
+        ? p.join(databasesPath, 'exams.db')
+        : directory.path + 'exams.db';
 
     // Open/create the database at a given path
     var notesDatabase =
